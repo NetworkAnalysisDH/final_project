@@ -1,0 +1,406 @@
+{
+    "members": [
+    {
+        "members_id": 1,
+        "name": "Ilaria Burattini",
+        "type": "Collaborator",
+        "position": "PhD Graduate",
+        "area": "Literary and Philological Cultures"
+    },
+    {
+        "members_id": 2,
+        "name": "Valentina Pasqual",
+        "type": "Collaborator",
+        "position": "PhD Graduate",
+        "area": "Digital Humanities"
+        },
+    {
+        "members_id": 3,
+        "name": "Beatrice Nava",
+        "type": "Collaborator",
+        "position": "PhD Graduate",
+        "area": "Literary and Philological Cultures"
+    },
+    {
+        "members_id": 4,
+        "name": "Valentina Carriero",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": ""
+    },
+    {
+        "members_id": 5,
+        "name": "Martina Dello Buono",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 6,
+        "name": "Francesca Giovannetti",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 7,
+        "name": "Delfina Sol Martinez Pandiani",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "Computer Science and Engineering"
+    },
+    {
+        "members_id": 8,
+        "name": "Roberta Priore",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "Philology"
+    },
+    {
+        "members_id": 9,
+        "name": "Ersilia Russo",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "Linguistics"
+    },
+    {
+        "members_id": 10,
+        "name": "Bruno Sartini",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "History"
+    },
+    {
+        "members_id": 11,
+        "name": "Fabio Mariani",
+        "type": "Collaborator",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 12,
+        "name": "Sebastian Barzaghi",
+        "type": "Collaborator",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 13,
+        "name": "Sara Amayeh",
+        "type": "Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 14,
+        "name": "Giulia Renda",
+        "type": "Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 15,
+        "name": "Giulia Manganelli",
+        "type": "Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 17,
+        "name": "Francesca Tomasi",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Knowledge Organization"
+    },
+    {
+        "members_id": 18,
+        "name": "Giovanni Colavizza",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Semantic Publishing"
+    },
+    {
+        "members_id": 19,
+        "name": "Marilena Daquino",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Knowledge Representation"
+    },
+    {
+        "members_id": 20,
+        "name": "Angelo Di Iorio",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Data Science"
+    },
+    {
+        "members_id": 21,
+        "name": "Aldo Gangemi",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Knowledge Representation"
+    },
+    {
+        "members_id": 22,
+        "name": "Paola Carmela Italia",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Philology"
+    },
+    {
+        "members_id": 23,
+        "name": "Monica Palmirani",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Law"
+    },
+    {
+        "members_id": 24,
+        "name": "Silvio Peroni",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Data Science"
+    },
+    {
+        "members_id": 25,
+        "name": "Fabio Tamburini",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Linguistics"
+    },
+    {
+        "members_id": 26,
+        "name": "Fabio Vitali",
+        "type": "Scientific Committee",
+        "position": "Professor",
+        "area": "Computer Science"
+    },
+        {
+        "members_id": 27,
+        "name": "Ivan Heibi",
+        "type": "Scientific Committee",
+        "position": "Research Assistant",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 28,
+        "name": "Tommaso Vitale",
+        "type": "Scientific Committee",
+        "position": "IT Staff",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 29,
+        "name": "Valentina Presutti",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 30,
+        "name": "Andrea Nuzzolese",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 31,
+        "name": "Francesca Mambelli",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Art"
+    },
+    {
+        "members_id": 32,
+        "name": "Sebastiano Giacomini",
+        "type": "Extern",
+        "position": "Research Assistant",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 33,
+        "name": "Francesco Poggi",
+        "type": "Extern",
+        "position": "Research Assistant",
+        "area": "Data Science"
+    },
+    {
+        "members_id": 34,
+        "name": "Paolo Ciancarini",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Data Science"
+    },
+    {
+        "members_id": 35,
+        "name": "Francesco Paolucci",
+        "type": "Extern",
+        "position": "Student",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 36,
+        "name": "Luigi Asprino",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science and Engineering"
+    },
+    {
+        "members_id": 37,
+        "name": "Mehwish Alam",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 38,
+        "name": "Diego Reforgiato Recupero",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Computer Science"
+    },
+    {
+        "members_id": 39,
+        "name": "Mariia Levchenko",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 40,
+        "name": "Giulia Menna",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 41,
+        "name": "Matilde Passafaro",
+        "type": "Extern",
+        "position": "Master's Student",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 42,
+        "name": "Sara Obbiso",
+        "type": "Extern",
+        "position": "PhD Student",
+        "area": "Culural Heritage"
+    },
+    {
+        "members_id": 43,
+        "name": "Enrica Bruno",
+        "type": "Extern",
+        "position": "PhD Student",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 44,
+        "name": "David Shotton",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 45,
+        "name": "Vincent Lariviere",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Data Science"
+    },
+    {
+        "members_id": 46,
+        "name": "Ludo Waltman",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Data Science"
+    },
+    {
+        "members_id": 47,
+        "name": "Claudia Bonsi,",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Philology"
+    },
+    {
+        "members_id": 48,
+        "name": "Teresa Gargano",
+        "type": "Extern",
+        "position": "PhD Student",
+        "area": "Philology"
+    },
+    {
+        "members_id": 49,
+        "name": "Mila Fumini",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 50,
+        "name": "Giulia Manganelli,",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 51,
+        "name": "Stefano De Giorgis",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Knowledge Representation"
+    },
+    {
+        "members_id": 52,
+        "name": "Sofia Pescarin",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Interaction Design Museums"
+    },
+    {
+        "members_id": 53,
+        "name": "Bruno Sartini",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 54,
+        "name": "Alessandro Capone",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Cultural Heritage"
+    },
+    {
+        "members_id": 55,
+        "name": "Dario Brancato",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 56,
+        "name": "Laurent Fintoni",
+        "type": "Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 57,
+        "name": "Marco Grasso",
+        "type": "Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities"
+    },
+    {
+        "members_id": 58,
+        "name": "Paolo Bonora",
+        "type": "Scientific Committee",
+        "position": "Technical manager",
+        "area": "Digital Humanities"
+    }
+]
+}
+
+
+
