@@ -1,0 +1,232 @@
+{
+  "references": [
+      {
+        "type": "article",
+        "author": ["Corcho, Oscar", "Ekaputra, Fajar J.", "Heibi, Ivan", "Jonquet, Clement", "Micsik, Andras", "Peroni, Silvio", "Storti, Emanuele"],
+        "title": "A maturity model for catalogues of semantic artefacts",
+        "year": 2024,
+        "journal": "SCIENTIFIC DATA",
+        "volume": 11,
+        "keywords": ["catalogues of semantic artefacts", "maturity model", "ontology", "open science", "semantic artefacts", "taxonomy", "vocabulary"],
+        "url": "https://www.nature.com/articles/s41597-024-03185-4",
+        "doi": "10.1038/s41597-024-03185-4",
+        "pages": "1--13",
+        "number": 1
+      },
+      {
+        "type": "article",
+        "author": ["Heibi, Ivan", "Peroni, Silvio"],
+        "title": "A protocol to gather, characterize and analyze incoming citations of retracted articles",
+        "year": 2022,
+        "journal": "PLOS ONE",
+        "volume": 17,
+        "keywords": ["Data Collection", "Scientific Misconduct"],
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270872",
+        "doi": "10.1371/journal.pone.0270872",
+        "pages": "1--24",
+        "number": 7
+      },
+      {
+        "type": "article",
+        "author": ["Heibi, Ivan", "Peroni, Silvio"],
+        "title": "A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield 1998 et al.'s case",
+        "year": 2021,
+        "journal": "SCIENTOMETRICS",
+        "volume": 126,
+        "keywords": ["Citation analysis", "Retraction", "Science of Science", "Topic modeling"],
+        "url": "https://link.springer.com/article/10.1007/s11192-021-04097-5",
+        "doi": "10.1007/s11192-021-04097-5",
+        "pages": "8433--8470",
+        "number": 10
+      },
+      {
+        "type": "article",
+        "author": ["Heibi, Ivan", "Peroni, Silvio"],
+        "title": "A quantitative and qualitative open citation analysis of retracted articles in the humanities",
+        "year": 2022,
+        "journal": "QUANTITATIVE SCIENCE STUDIES",
+        "volume": 2022,
+        "keywords": ["Citation analysis", "Retraction", "Topic modeling", "Humanities"],
+        "url": "https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00222/113634/A-quantitative-and-qualitative-open-citation?searchresult=1",
+        "doi": "10.1162/qss_a_00222",
+        "pages": "1--46",
+        "number": 4
+      },
+      {
+        "type": "article",
+        "author": ["Daquino, Marilena", "Heibi, Ivan", "Peroni, Silvio", "Shotton, David"],
+        "title": "Creating RESTful APIs over SPARQL endpoints using RAMOSE",
+        "year": 2022,
+        "journal": "SEMANTIC WEB",
+        "volume": 13,
+        "keywords": ["REST API", "OpenCitations", "citation data", "SPARQL endpoint", "RDF", "Linked Data", "triplestore", "RAMOSE", "data access", "query language"],
+        "url": "https://www.semantic-web-journal.net/content/creating-restful-apis-over-sparql-endpoints-ramose",
+        "doi": "10.3233/SW-210439",
+        "pages": "195--213",
+        "number": 2
+      },
+      {
+        "type": "conference",
+        "author": ["Heibi, I.", "Peroni, S.", "Shotton, D."],
+        "title": "Crowdsourcing open citations with CROCI An analysis ofthe current status of open citations, and a proposal",
+        "year": 2019,
+        "publisher": "International Society for Scientometrics and Informetrics",
+        "volume": 2,
+        "booktitle": "17th International Conference on Scientometrics and Informetrics, ISSI 2019 - Proceedings",
+        "keywords": ["open citations", "OpenCitations", "COCI", "CROCI"],
+        "pages": "1448--1454"
+      },
+      {
+        "type": "conference",
+        "author": ["Barzaghi, S.", "Collina, F.", "Fabbri, F.", "Giacomini, F.", "Bordignon, A.", "Balzani, R.", "Bitelli, G.", "Bonifazi, F.", "Cipriani, L.", "Colitti, S.", "Daquino, M.", "Fanini, B.", "Fantini, F.", "Ferdani, D.", "Fiorini, G.", "Formia, E.", "Forte, A.", "Girelli, V. A.", "Gualandi, B.", "Heibi, I.", "Iannucci, A.", "Manganelli del Fà, R.", "Massari, A.", "Moretti, A.", "Peroni, S.", "Pescarin, S.", "Renda, G.", "Ronchi, D.", "Sullini, M.", "Tini, M. A.", "Tomasi, F.", "Travaglini, L.", "Vittuari, L."],
+        "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
+        "year": 2023,
+        "booktitle": "GCH23 - Eurographics Workshop on Graphics and Cultural Heritage",
+        "keywords": ["digital cultural heritage", "digital twins", "photogrammetry", "preservation of temporary exhibitions", "structured light scanning"]
+      },
+      {
+        "type": "conference",
+        "author": ["Grieco, Giuseppe", "Heibi, Ivan", "Massari, Arcangelo", "Moretti, Arianna", "Peroni, Silvio"],
+        "title": "Enabling Portability and Reusability of Open Science Infrastructures",
+        "year": 2022,
+        "publisher": "Springer",
+        "address": "Cham",
+        "volume": 13541,
+        "booktitle": "Linking Theory and Practice of Digital Libraries",
+        "keywords": ["Open Science Infrastructures", "OpenCitations", "FAIR", "POSI"],
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-16802-4_36",
+        "doi": "10.1007/978-3-031-16802-4_36",
+        "isbn": ["978-3-031-16801-7", "978-3-031-16802-4"],
+        "pages": "379--385"
+      },
+      {
+        "type": "article",
+        "author": ["Heibi, Ivan", "Peroni, Silvio", "Shotton, David"],
+        "title": "Enabling text search on SPARQL endpoints through OSCAR",
+        "year": 2019,
+        "journal": "DATA SCIENCE",
+        "volume": 2,
+        "keywords": ["OSCAR", "OpenCitations", "OCC", "COCI", "SPARQL", "free-text search", "scholarly data", "advanced search"],
+        "doi": "10.3233/DS-190016",
+        "pages": "205--227",
+        "number": "1-2"
+      },
+      {
+        "type": "conference",
+        "author": ["Massari, Arcangelo", "Heibi, Ivan"],
+        "title": "How to structure citations data and bibliographic metadata in the OpenCitations accepted",
+        "year": 2022,
+        "publisher": "CEUR Workshop Proceedings",
+        "volume": 3220,
+        "booktitle": "Proceedings of the Workshop on Understanding Literature references in academic full Text co-located with ACM/IEEE Joint Conference on Digital Libraries 2022 (Cologne, Germany and Online)",
+        "keywords": ["OpenCitations", "Bibliographic metadata", "open citations", "CSV"],
+        "url": "http://ceur-ws.org/Vol-3220/",
+        "pages": "49--53"
+      },    
+    {
+      "type": "misc",
+      "id": "11585_960101",
+      "author": [
+        "Carriero, V. A.", "Asprino, L.", "Biswas, R.", "d’Amato, C.", "Celino, I.", "Domingue, J.", "Dumontier, M.", "van Erp, M.", "Paulheim, H.", "Polleres, A.", "Presutti, V.", "Rudolph, S.", "Sack, H.", "Abbas, N.", "Alghamdi, K.", "Alinam, M.", "Alloatti, F.", "Amaral, G.", "Beno, M.", "Bensmann, F.", "Cai, L.", "Capshaw, R.", "Dadoun, A.", "de Giorgis, S.", "Delva, H.", "Emonet, V.", "Arias, P. E.", "Fallatah, O.", "Ferrada, S.", "Georgiou, M.", "Gesese, G. A.", "Gillis-Webber, F.", "Giovannetti, F.", "Buey, M. G.", "Harrando, I.", "Heibi, I.", "Horta, V.", "Huber, L.", "Igne, F.", "Jaradeh, M. Y.", "Keshan, N.", "Koleva, A.", "Koteich, B.", "Kurniawan, K.", "Liu, M.", "Ma, C.", "Maas, L.", "Mansfield, M.", "Mariani, F.", "Marzi, E.", "Mesbah, S.", "Mistry, M.", "Tirado, A. C. M.", "Nguyen, A.", "Nguyen, V. B.", "Oelen, A.", "Pasqual, V.", "Porena, M.", "Portisch, J.", "Pustu-Iren, K.", "Mendez, A. R.", "Roshankish, S.", "Sakor, A.", "Salas, J.", "Schleider, T.", "Shi, M.", "Spinaci, G.", "Sun, C.", "Tietz, T.", "Dhouib, M. T.", "Umbrico, A.", "van den Berg, W.", "Xu, W."
+      ],
+      "title": "Knowledge graphs evolution and preservation",
+      "year": 2020,
+      "keywords": ["semantic web", "ISWS", "knowledge preservation", "knowledge graph"]
+    },
+    {
+      "type": "conference",
+      "id": "11585_809880",
+      "author": ["Heibi, Ivan", "Peroni, Silvio", "Pareschi, Luca", "Ferri, Paolo"],
+      "title": "MITAO: a tool for enabling scholars in the Humanities to use Topic Modelling in their studies",
+      "year": 2021,
+      "publisher": "Associazione per l’Informatica Umanistica e la Cultura Digitale",
+      "address": "Firenze",
+      "booktitle": "AIUCD 2021 - DHs for society: e-quality, participation, rights and values in the Digital Age. Book of extended abstracts of the 10th national conference",
+      "keywords": ["topic modelling", "MITAO", "tool"],
+      "url": ["http://arxiv.org/abs/2011.13886", "https://aiucd2021.labcd.unipi.it/en/home-english/"],
+      "isbn": "978-88-942535-5-9",
+      "pages": "175--182"
+    },
+    {
+      "type": "article",
+      "id": "11585_778658",
+      "author": ["Ferri, Paolo", "Heibi, Ivan", "Pareschi, Luca", "Peroni, Silvio"],
+      "title": "MITAO: A User Friendly and Modular Software for Topic Modelling",
+      "year": 2020,
+      "journal": "PUNTOORG",
+      "volume": 5,
+      "keywords": ["text analysis", "discourse analysis", "topics", "frames", "discourse", "themes", "topic modelling", "visualization", "MITAO", "Python"],
+      "url": "https://www.puntoorginternationaljournal.org/index.php/PIJ/article/view/95",
+      "doi": "10.19245/25.05.pij.5.2.3",
+      "pages": "135--149",
+      "number": 2
+    },
+    {
+      "type": "article",
+      "id": "11585_966455",
+      "author": ["Malínek, Vojtěch", "Umerle, Tomasz", "Gray, Edward", "Heibi, Ivan", "Király, Péter", "Klaes, Christiane", "Korytkowski, Przemysław", "Lindemann, David", "Moretti, Arianna", "Panušková, Charlotte", "Péter, Róbert", "Tolonen, Mikko", "Tomczyńska, Aldona", "Vimr, Ondřej"],
+      "title": "Open Bibliographical Data Workflows and the Multilinguality Challenge",
+      "year": 2024,
+      "journal": "JOURNAL OF OPEN HUMANITIES DATA",
+      "volume": 10,
+      "keywords": ["bibliographic data", "workflows", "multilingualism", "data analysis", "data driven research"],
+      "url": "https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.190",
+      "doi": "10.5334/johd.190",
+      "pages": "1--14"
+    },
+      {
+        "type": "article",
+        "author": ["Heibi, Ivan", "Peroni, Silvio", "Shotton, David"],
+        "title": "Software review: COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations",
+        "year": 2019,
+        "journal": "SCIENTOMETRICS",
+        "volume": 121,
+        "keywords": ["Crossref citation data", "Open citation data", "Open citations", "RDF", "Reproducible bibliometrics"],
+        "url": "https://link.springer.com/article/10.1007/s11192-019-03217-6",
+        "doi": "10.1007/s11192-019-03217-6",
+        "pages": "1213--1228",
+        "number": 2
+      },
+      {
+        "type": "article",
+        "author": ["Moretti, Arianna", "Soricetti, Marta", "Heibi, Ivan", "Massari, Arcangelo", "Peroni, Silvio", "Rizzetto, Elia"],
+        "title": "The Integration of the Japan Link Center’s Bibliographic Data into OpenCitations: The production of bibliographic and citation data structured according to the OpenCitations Data Model, originating from an Anglo-Japanese dataset",
+        "year": 2024,
+        "journal": "JOURNAL OF OPEN HUMANITIES DATA",
+        "volume": 10,
+        "keywords": ["Japan Link Center", "OpenCitations", "bibliographic data", "citations", "workflow", "multilingualism"],
+        "url": "https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.178",
+        "doi": "10.5334/johd.178",
+        "pages": "1--16"
+      },
+      {
+        "type": "conference",
+        "author": ["Daquino, Marilena", "Peroni, Silvio", "Shotton, David", "Colavizza, Giovanni", "Ghavimi, Behnam", "Lauscher, Anne", "Mayr, Philipp", "Romanello, Matteo", "Zumstein, Philipp"],
+        "title": "The OpenCitations Data Model",
+        "year": 2020,
+        "publisher": "Springer",
+        "address": "Cham",
+        "volume": 12507,
+        "booktitle": "The Semantic Web – ISWC 2020",
+        "keywords": ["Open citations", "Scholarly data", "Data model"],
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-62466-8_28",
+        "doi": "10.1007/978-3-030-62466-8_28",
+        "isbn": ["978-3-030-62465-1", "978-3-030-62466-8"],
+        "pages": "447--463"
+      },
+      {
+        "type": "conference",
+        "author": ["Heibi, Ivan", "Peroni, Silvio"],
+        "title": "Why arts and humanities publications get retracted: a topic modeling analysis of the retraction notices",
+        "year": 2022,
+        "booktitle": "DH2022 Conference Abstracts",
+        "keywords": ["Humanities", "Topic Modeling", "Retraction"],
+        "pages": "484--486"
+      }
+    ]
+}
+
+
+
+
+
