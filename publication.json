@@ -229,4 +229,199 @@
 
 
 
+{ "references 52-77" : [
+    {"type": "conference",
+    "id": "11585/959618",
+    "author": ["Sartini Bruno, Baroncini Sofia"],
+    "title": "A Comparative Study of Simple and Complex Art Interpretations in Linked Open Data Using ICON Ontology",
+    "year": "2023",
+    "publisher": "CEUR-WS.org",
+    "volume": "3540",
+    "booktitle": "Proceedings of the International Workshop on Semantic Web and Ontology Design for Cultural Heritage co-located with the International Semantic Web Conference 2023 (ISWC 2023)",
+    "keywords": ["Iconographical and iconological interpretations", "Artworks", "Semantic Web", "Ontology"],
+    "url": "http://ceur-ws.org/Vol-3540/paper1.pdf",
+    "pages": "1--12"
+    },
+
+    {"type": "conference",
+    "id": "11585/925542",
+    "author": ["Bruno Sartini", "Valentin Vogelmann", "Marieke van Erp", "Aldo Gangemi"],
+    "title":"Comparing Symbolism Across Asian Cultural Contexts Using Graph Similarity Measures",
+    "year": "2022",
+    "publisher": "DH2022 Local Organizing Committee",
+    "address": "Tokyo",
+    "booktitle": "Digital Humanities 2022 Conference Abstracts",
+    "keywords":["Symbolism", "Similarity Metric", "Quantitative Cultural Analysis"],
+    "url": "https://dh2022.dhii.asia/abstracts/567",
+    "pages":"358--361"
+    },
+
+    {"type": "monograph",
+    "id": "11585/970020",
+    "author": ["Bruno Sartini"],
+    "title": "Connecting works of art within the semantic web of symbolic meanings",
+    "year": "2023",
+    "publisher": "Alma Mater Studiorum - Università di Bologna",
+    "keywords": ["Symbolism", "Linked Open Data", "Semantic Web", "Cultural Heritage", "Knowledge Graph", "Ontology Engineering"],
+    "url": "http://amsdottorato.unibo.it/id/eprint/11020",
+    "doi": "10.48676/unibo/amsdottorato/11020",
+    "pages": "1--236"
+    },
+
+    {"type": "article",
+    "id": "11585/925537",
+    "author":["Sartini, Bruno", "Baroncini, Sofia", "van Erp, Marieke", "Tomasi, Francesca", "Gangemi, Aldo"],
+    "title": "ICON: an Ontology for Comprehensive Artistic Interpretations",
+    "year": "2023",
+    "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
+    "volume": "16",
+    "keywords": ["iconology", "iconography", "art interpretation", "ontology", "cultural heritage", "semantic web"],
+    "url": "https://dl.acm.org/doi/10.1145/35947240",
+    "doi": "10.1145/3594724",
+    "pages": "1--38"
+    },
+
+    {"type": "article",
+    "id": "11585/922641",
+    "author":["Baroncini, Sofia", "Sartini, Bruno", "van Erp, Marieke", "Tomasi, Francesca", "Gangemi, Aldo"],
+    "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in the semantic web",
+    "year": "2023",
+    "journal": "JOURNAL OF DOCUMENTATION",
+    "volume": "79",
+    "keywords": ["Knowledge graph evaluation", "Iconology", "Iconography", "Visual works"],
+    "url": "https://www.emerald.com/insight/content/doi/10.1108/JD-09-2022-0207/full/html",
+    "doi": "10.1108/JD-09-2022-0207",
+    "pages": "115--136"
+    },
+
+    {"type": "conference",
+    "id": "11585/899029",
+    "author": ["Sartini, B", "van Erp, M", "Gangemi, A"],
+    "title": "Marriage is a Peach and a Chalice: Modelling Cultural Symbolism on the Semantic Web",
+    "year": "2021",
+    "publisher": "Association for Computing Machinery, Inc",
+    "address": "US",
+    "booktitle": "K-CAP 2021 - Proceedings of the 11th Knowledge Capture Conference",
+    "keywords":["knowledge graph", "linked data", "ontology", "semantic web", "symbolism"],
+    "url": "https://dl.acm.org/doi/10.1145/3460210.3493552",
+    "doi": "10.1145/3460210.3493552",
+    "isbn": "9781450384575",
+    "pages":"201--208"
+    },
+
+    {"type": "poster",
+    "id": "11585/925544",
+    "author": ["Sartini Bruno", "Nesterov Andrei", "Libbi Claudia", "Brate Ryan", "Shoilee Sarah Binta Alam", "Daniil Savvina"],
+    "title": "Multivocal Exhibition: a user-centric application to explore symbolic interpretations of artefacts from different cultural perspectives",
+    "year": "2023",
+    "address": "Bologna",
+    "booktitle": "ExICE - Extended Intelligence for Cultural Engagement Conference",
+    "keywords":["Linked Open Data", "Symbolism", "Virtual Reality", "Cultural Heritage"],
+    "url": "https://spice-h2020.eu/conference/papers/posters/ExICE23_paper_7072.pdf"
+    },
+    
+    {"type": "poster",
+    "id": "11585/925539",
+    "author": ["Bruno Sartini", "Aldo Gangemi"],
+    "title": "Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures",
+    "year": "2021",
+    "address": "Pisa",
+    "booktitle": "Book of extended abstracts of the 10th national AIUCD conference. AIUCD, Pisa",
+    "keywords":["Symbolism", "Knowledge Graphs", "Cultural Heritage", "Semantic Web"],
+    "pages": "576--580"
+    },
+    
+    {"type": "article",
+    "id": "11585/933320",
+    "author": ["J. Elias", "F. Martignon", "A. Capone", "G. Pujolle"],
+    "title": "A new approach to dynamic bandwidth allocation in Quality of Service networks: Performance and bounds",
+    "year": "2007",
+    "journal": "COMPUTER NETWORKS",
+    "volume": "51",
+    "keywords": ["dynamic bandwidth allocation", "mathematical models", "service model", "utility function"],
+    "doi": "10.1016/j.comnet.2006.12.003",
+    "pages": "2833--2853"
+    },
+
+    {"type": "essay",
+    "id": "11585/959009",
+    "author": ["Ventura Iolanda", "Dario Brancato"],
+    "title": "The Reception of Dioscorides’ De materia medica in a 16th century Latin-Italian glossary: Benedetto Varchi’s Inventario d’herbe (ca. 1540)—Text and Translation",
+    "year": "",
+    "publisher": "Amsterdam University Press",
+    "booktitle": "Shapes of Botanical Knowledge: Plant Identification, Experimentation, and Classification in a Growing Field",
+    "keywords": ["Dioscoride", "De materia medica", "Botanica", "Farmacopea", "Storia della scienza", "Storia della lingua italiana"],
+    "pages": "1--67"
+    },
+
+    {"type": "article",
+    "id": "1585/834976",
+    "author": ["Brancato, Dario", "Corbellini, Milena", "Italia, Paola", "Pasqual, Valentina", "Priore, Roberta"],
+    "title": "VaSto: un’edizione digitale interdisciplinare",
+    "year": "2021",
+    "journal": "MAGAZÈN",
+    "volume": "2",
+    "keywords": ["Digital scholarly editing", "Authorial philology", "Censorship", "Benedetto Varchi", "Renaissance history", "Italian Renaissance literature"],
+    "url": "https://edizionicafoscari.unive.it/it/edizioni4/riviste/magazen/2021/1/vasto-unedizione-digitale-interdisciplinare/",
+    "doi": "10.30687/mag/2724-3923/2021/03/006",
+    "pages": "139--169"
+    },
+
+    {"type": "essay",
+    "id": "11585/947326",
+    "author": ["Fiammetta Sabba", "Francesca Tomasi", "Silvia Tripodi", "Laurent Antoine Fintoni"],
+    "title": "L’Università di Bologna a supporto dell’ecosistema digitale della cultura presso il Ministero della Cultura",
+    "year": "2023",
+    "publisher": "Editrice Bibliografica",
+    "booktitle": "Convegno delle Stelline 2023. VISIONI FUTURE. Next Generation Library. Relazioni di giovedì 30 marzo",
+    "keywords": ["Digital Library", "Ministero della Cultura", "Patrimonio digitale", "Digitalizzazione", "Infrastruttura digitale", "Ecosistema digitale", "Digital Library", "Ministry of Culture", "Digital heritage", "Digitization", "Digital infrastructure", "Digital ecosystem"],
+    "url": "https://www.editricebibliografica.it/scheda-libro/autori-vari/visioni-future-next-generation-library-vol1-9788893575324-580728.html",
+    "doi": "10.53134/9788893575324-045",
+    "isbn": "978-88-9357-532-4",
+    "pages": "45--50"
+    },
+
+    {"type": "essay",
+    "id": "11585/996145",
+    "author": ["Lucia Giagnolini", "Paolo Bonora", "Francesca Tomasi"],
+    "title": "Affinare il contesto: estrazione di informazioni strutturate per l’arricchimento dei contesti archivistici",
+    "year": "2024",
+    "publisher": "Associazione per l’Informatica Umanistica e la Cultura Digitale",
+    "address": "Venezia",
+    "booktitle": "Me.Te. Digitali. Mediterraneo in rete tra testi e contesti",
+    "keywords": ["Linked Open Data", "archivi", "information retrieval", "supervised annotation", "contesti"],
+    "url": "https://amsacta.unibo.it/id/eprint/7927/1/AIUCD2024-proceedings.pdf",
+    "isbn": "978-88-942535-8-0",
+    "pages": "411--416"
+    },
+
+    {"type": "article",
+    "id": "11585/916050",
+    "author": ["Zhang, Shibingfeng", "Fernicola, Francesco", "Garcea, Federico", "Bonora, Paolo", "Barron Cedeno, Alberto"],
+    "title": "AriEmozione 2.0: Identifying Emotions in Opera Verses and Arias",
+    "year": "2022",
+    "journal": "IJCOL",
+    "volume": "8",
+    "keywords": ["opera arias", "emotions extraction", "machine learning"],
+    "url": "https://journals.openedition.org/ijcol/pdf/1039",
+    "doi": "10.4000/ijcol.1039",
+    "pages": "7--26"
+    },
+
+    {"type": "conference",
+    "id": "11585/812794",
+    "author": ["Francesco Fernicola", "Shibingfeng Zhang", "Federico Garcea", "Paolo Bonora", "Alberto Barron-Cedeno"],
+    "title": "AriEmozione: identifying emotions in opera verses",
+    "year": "2020",
+    "publisher": "ACEUR Workshop Proceedings",
+    "address": "Bologna",
+    "booktitle": "CLiC-it 2020 Proceedings of the Seventh Italian Conference on Computational Linguistics",
+    "keywords": ["automatic emotions identification", "opera lyrics"],
+    "url": "https://ceur-ws.org/Vol-2769/paper_58.pdf",
+    "pages": "58--63"
+    }
+]}
+
+
+
 
