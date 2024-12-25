@@ -577,7 +577,7 @@ graph [
   ]
   node [
     id 144
-    label "article_31"
+    label "article_30"
   ]
   node [
     id 145
@@ -601,7 +601,7 @@ graph [
   ]
   node [
     id 150
-    label "article_33"
+    label "article_32"
   ]
   node [
     id 151
@@ -637,7 +637,7 @@ graph [
   ]
   node [
     id 159
-    label "article_38"
+    label "article_37"
   ]
   node [
     id 160
@@ -773,7 +773,7 @@ graph [
   ]
   node [
     id 193
-    label "article_49"
+    label "article_48"
   ]
   node [
     id 194
@@ -857,7 +857,7 @@ graph [
   ]
   node [
     id 214
-    label "article_54"
+    label "article_53"
   ]
   node [
     id 215
@@ -1089,7 +1089,7 @@ graph [
   ]
   node [
     id 272
-    label "article_69"
+    label "article_68"
   ]
   node [
     id 273
@@ -1241,15 +1241,15 @@ graph [
   ]
   node [
     id 310
-    label "article_83"
+    label "article_82"
   ]
   node [
     id 311
-    label "article_84"
+    label "article_83"
   ]
   node [
     id 312
-    label "article_85"
+    label "article_84"
   ]
   node [
     id 313
@@ -1257,7 +1257,7 @@ graph [
   ]
   node [
     id 314
-    label "article_86"
+    label "article_85"
   ]
   node [
     id 315
@@ -1289,7 +1289,7 @@ graph [
   ]
   node [
     id 322
-    label "article_95"
+    label "article_94"
   ]
   node [
     id 323
@@ -1337,7 +1337,7 @@ graph [
   ]
   node [
     id 334
-    label "article_105"
+    label "article_104"
   ]
   node [
     id 335
@@ -1361,7 +1361,7 @@ graph [
   ]
   node [
     id 340
-    label "article_107"
+    label "article_106"
   ]
   node [
     id 341
@@ -1393,7 +1393,7 @@ graph [
   ]
   node [
     id 348
-    label "article_111"
+    label "article_110"
   ]
   node [
     id 349
@@ -1417,7 +1417,7 @@ graph [
   ]
   node [
     id 354
-    label "article_115"
+    label "article_114"
   ]
   node [
     id 355
@@ -1457,11 +1457,11 @@ graph [
   ]
   node [
     id 364
-    label "article_120"
+    label "article_119"
   ]
   node [
     id 365
-    label "article_121"
+    label "article_120"
   ]
   node [
     id 366
@@ -1577,7 +1577,7 @@ graph [
   ]
   node [
     id 394
-    label "article_135"
+    label "article_134"
   ]
   node [
     id 395
@@ -1661,7 +1661,7 @@ graph [
   ]
   node [
     id 415
-    label "article_145"
+    label "article_144"
   ]
   node [
     id 416
@@ -1801,7 +1801,7 @@ graph [
   ]
   node [
     id 450
-    label "article_157"
+    label "article_156"
   ]
   node [
     id 451
@@ -1889,11 +1889,11 @@ graph [
   ]
   node [
     id 472
-    label "article_169"
+    label "article_168"
   ]
   node [
     id 473
-    label "article_171"
+    label "article_170"
   ]
   node [
     id 474
@@ -1921,7 +1921,7 @@ graph [
   ]
   node [
     id 480
-    label "article_178"
+    label "article_177"
   ]
   node [
     id 481
@@ -1969,7 +1969,7 @@ graph [
   ]
   node [
     id 492
-    label "article_189"
+    label "article_188"
   ]
   node [
     id 493
@@ -2001,15 +2001,15 @@ graph [
   ]
   node [
     id 500
-    label "article_201"
+    label "article_200"
   ]
   node [
     id 501
-    label "article_202"
+    label "article_201"
   ]
   node [
     id 502
-    label "article_203"
+    label "article_202"
   ]
   node [
     id 503
@@ -2025,7 +2025,7 @@ graph [
   ]
   node [
     id 506
-    label "article_204"
+    label "article_203"
   ]
   node [
     id 507
@@ -2237,7 +2237,7 @@ graph [
   ]
   node [
     id 559
-    label "article_219"
+    label "article_218"
   ]
   node [
     id 560
@@ -2397,11 +2397,11 @@ graph [
   ]
   node [
     id 599
-    label "article_236"
+    label "article_235"
   ]
   node [
     id 600
-    label "article_237"
+    label "article_236"
   ]
   node [
     id 601
@@ -2445,7 +2445,7 @@ graph [
   ]
   node [
     id 611
-    label "article_257"
+    label "article_256"
   ]
   node [
     id 612
@@ -2617,7 +2617,7 @@ graph [
   ]
   node [
     id 654
-    label "article_276"
+    label "article_275"
   ]
   node [
     id 655
@@ -2677,15 +2677,15 @@ graph [
   ]
   node [
     id 669
-    label "article_282"
+    label "article_281"
   ]
   node [
     id 670
-    label "article_283"
+    label "article_282"
   ]
   node [
     id 671
-    label "article_286"
+    label "article_285"
   ]
   node [
     id 672
@@ -2733,7 +2733,7 @@ graph [
   ]
   node [
     id 683
-    label "article_289"
+    label "article_288"
   ]
   node [
     id 684
@@ -2845,7 +2845,7 @@ graph [
   ]
   node [
     id 711
-    label "article_301"
+    label "article_300"
   ]
   node [
     id 712
@@ -2893,11 +2893,11 @@ graph [
   ]
   node [
     id 723
-    label "article_306"
+    label "article_305"
   ]
   node [
     id 724
-    label "article_307"
+    label "article_306"
   ]
   node [
     id 725
@@ -2949,7 +2949,7 @@ graph [
   ]
   node [
     id 737
-    label "article_310"
+    label "article_309"
   ]
   node [
     id 738
@@ -3045,7 +3045,7 @@ graph [
   ]
   node [
     id 761
-    label "article_319"
+    label "article_318"
   ]
   node [
     id 762
@@ -3121,7 +3121,7 @@ graph [
   ]
   node [
     id 780
-    label "article_325"
+    label "article_324"
   ]
   node [
     id 781
@@ -3177,11 +3177,11 @@ graph [
   ]
   node [
     id 794
-    label "article_332"
+    label "article_331"
   ]
   node [
     id 795
-    label "article_333"
+    label "article_332"
   ]
   node [
     id 796
@@ -3285,7 +3285,7 @@ graph [
   ]
   node [
     id 821
-    label "article_347"
+    label "article_346"
   ]
   node [
     id 822
@@ -3297,7 +3297,7 @@ graph [
   ]
   node [
     id 824
-    label "article_349"
+    label "article_348"
   ]
   node [
     id 825
@@ -3333,11 +3333,11 @@ graph [
   ]
   node [
     id 833
-    label "article_354"
+    label "article_353"
   ]
   node [
     id 834
-    label "article_356"
+    label "article_355"
   ]
   node [
     id 835
@@ -3349,7 +3349,7 @@ graph [
   ]
   node [
     id 837
-    label "article_359"
+    label "article_358"
   ]
   node [
     id 838
@@ -3377,7 +3377,7 @@ graph [
   ]
   node [
     id 844
-    label "article_363"
+    label "article_362"
   ]
   node [
     id 845
@@ -3405,7 +3405,7 @@ graph [
   ]
   node [
     id 851
-    label "article_365"
+    label "article_364"
   ]
   node [
     id 852
@@ -3669,11 +3669,11 @@ graph [
   ]
   node [
     id 917
-    label "article_400"
+    label "article_399"
   ]
   node [
     id 918
-    label "article_401"
+    label "article_400"
   ]
   node [
     id 919
@@ -3737,7 +3737,7 @@ graph [
   ]
   node [
     id 934
-    label "article_404"
+    label "article_403"
   ]
   node [
     id 935
@@ -3793,7 +3793,7 @@ graph [
   ]
   node [
     id 948
-    label "article_423"
+    label "article_422"
   ]
   node [
     id 949
@@ -3805,7 +3805,7 @@ graph [
   ]
   node [
     id 951
-    label "article_426"
+    label "article_425"
   ]
   node [
     id 952
@@ -3825,11 +3825,11 @@ graph [
   ]
   node [
     id 956
-    label "article_429"
+    label "article_428"
   ]
   node [
     id 957
-    label "article_430"
+    label "article_429"
   ]
   node [
     id 958
@@ -3845,7 +3845,7 @@ graph [
   ]
   node [
     id 961
-    label "article_433"
+    label "article_432"
   ]
   node [
     id 962
@@ -3853,7 +3853,7 @@ graph [
   ]
   node [
     id 963
-    label "article_434"
+    label "article_433"
   ]
   node [
     id 964
@@ -3889,7 +3889,7 @@ graph [
   ]
   node [
     id 972
-    label "article_442"
+    label "article_441"
   ]
   node [
     id 973
@@ -3925,7 +3925,7 @@ graph [
   ]
   node [
     id 981
-    label "article_455"
+    label "article_454"
   ]
   node [
     id 982
@@ -3949,7 +3949,7 @@ graph [
   ]
   node [
     id 987
-    label "article_465"
+    label "article_464"
   ]
   node [
     id 988
@@ -3993,11 +3993,11 @@ graph [
   ]
   node [
     id 998
-    label "article_470"
+    label "article_469"
   ]
   node [
     id 999
-    label "article_471"
+    label "article_470"
   ]
   node [
     id 1000
@@ -4105,7 +4105,7 @@ graph [
   ]
   node [
     id 1026
-    label "article_484"
+    label "article_483"
   ]
   node [
     id 1027
@@ -4137,7 +4137,7 @@ graph [
   ]
   node [
     id 1034
-    label "article_494"
+    label "article_493"
   ]
   node [
     id 1035
@@ -4177,7 +4177,7 @@ graph [
   ]
   node [
     id 1044
-    label "article_500"
+    label "article_499"
   ]
   node [
     id 1045
@@ -4213,7 +4213,7 @@ graph [
   ]
   node [
     id 1053
-    label "article_503"
+    label "article_502"
   ]
   node [
     id 1054
@@ -4221,7 +4221,7 @@ graph [
   ]
   node [
     id 1055
-    label "article_504"
+    label "article_503"
   ]
   node [
     id 1056
@@ -4237,7 +4237,7 @@ graph [
   ]
   node [
     id 1059
-    label "article_505"
+    label "article_504"
   ]
   node [
     id 1060
@@ -4297,7 +4297,7 @@ graph [
   ]
   node [
     id 1074
-    label "article_511"
+    label "article_510"
   ]
   node [
     id 1075
@@ -4429,7 +4429,7 @@ graph [
   ]
   node [
     id 1107
-    label "article_519"
+    label "article_518"
   ]
   node [
     id 1108
@@ -8491,6 +8491,7946 @@ graph [
     id 2122
     label "10.1016/j.ecosta.2022.07.002"
   ]
+  node [
+    id 2123
+    label "Epistolari"
+  ]
+  node [
+    id 2124
+    label "Rinascimento"
+  ]
+  node [
+    id 2125
+    label "Tasso"
+  ]
+  node [
+    id 2126
+    label "article_773"
+  ]
+  node [
+    id 2127
+    label "Filologia"
+  ]
+  node [
+    id 2128
+    label "Metodo"
+  ]
+  node [
+    id 2129
+    label "D'Annunzio"
+  ]
+  node [
+    id 2130
+    label "article_774"
+  ]
+  node [
+    id 2131
+    label "Matteo Palumbo"
+  ]
+  node [
+    id 2132
+    label "article_775"
+  ]
+  node [
+    id 2133
+    label "Poesia"
+  ]
+  node [
+    id 2134
+    label "Leopardi"
+  ]
+  node [
+    id 2135
+    label "Canti"
+  ]
+  node [
+    id 2136
+    label "https://www.rivisteweb.it/issn/0391-2493/issues"
+  ]
+  node [
+    id 2137
+    label "Disegni Letterari"
+  ]
+  node [
+    id 2138
+    label "Abbozzi"
+  ]
+  node [
+    id 2139
+    label "Napoli"
+  ]
+  node [
+    id 2140
+    label "Aretino"
+  ]
+  node [
+    id 2141
+    label "https://www.lelettere.it/libro/24010-21-2"
+  ]
+  node [
+    id 2142
+    label "Ecdotica"
+  ]
+  node [
+    id 2143
+    label "Critica"
+  ]
+  node [
+    id 2144
+    label "10.14434/tc.v15i2.35558"
+  ]
+  node [
+    id 2145
+    label "Machiavelli"
+  ]
+  node [
+    id 2146
+    label "article_780"
+  ]
+  node [
+    id 2147
+    label "Leonardo Da Vinci - Scrittura - Letteratura Italiana"
+  ]
+  node [
+    id 2148
+    label "https://www.lelettere.it/catalogo/rivista/5971"
+  ]
+  node [
+    id 2149
+    label "Lirica"
+  ]
+  node [
+    id 2150
+    label "Canone"
+  ]
+  node [
+    id 2151
+    label "article_782"
+  ]
+  node [
+    id 2152
+    label "Traduzione"
+  ]
+  node [
+    id 2153
+    label "article_783"
+  ]
+  node [
+    id 2154
+    label "Leonardo"
+  ]
+  node [
+    id 2155
+    label "Paleografia"
+  ]
+  node [
+    id 2156
+    label "Guicciardini - Oroscopo"
+  ]
+  node [
+    id 2157
+    label "https://www.lelettere.it/libro/24010-20-1"
+  ]
+  node [
+    id 2158
+    label "Guerre D'Italia"
+  ]
+  node [
+    id 2159
+    label "article_786"
+  ]
+  node [
+    id 2160
+    label "Digitale"
+  ]
+  node [
+    id 2161
+    label "article_787"
+  ]
+  node [
+    id 2162
+    label "Romanzo Storico"
+  ]
+  node [
+    id 2163
+    label "Nievo"
+  ]
+  node [
+    id 2164
+    label "https://www.edizionistudium.it/riviste/studium-ricerca-n-1-2023"
+  ]
+  node [
+    id 2165
+    label "Utopie"
+  ]
+  node [
+    id 2166
+    label "Cinquecento"
+  ]
+  node [
+    id 2167
+    label "article_789"
+  ]
+  node [
+    id 2168
+    label "https://www.lelettere.it/libro/24010-20-2"
+  ]
+  node [
+    id 2169
+    label "article_791"
+  ]
+  node [
+    id 2170
+    label "Lettere"
+  ]
+  node [
+    id 2171
+    label "Libri Di Lettere"
+  ]
+  node [
+    id 2172
+    label "Criteri Di Edizione"
+  ]
+  node [
+    id 2173
+    label "article_792"
+  ]
+  node [
+    id 2174
+    label "https://www.bulzoni.it/it/catalogo/volti-e-voci-em-di-em-e-em-per-em-lucrezia.html"
+  ]
+  node [
+    id 2175
+    label "Annibal Caro"
+  ]
+  node [
+    id 2176
+    label "Editoria"
+  ]
+  node [
+    id 2177
+    label "10.13130/2499-6637/13152"
+  ]
+  node [
+    id 2178
+    label "Traduzioni"
+  ]
+  node [
+    id 2179
+    label "https://www.newitalianbooks.it/it/pietro-bembo-in-traduzione/"
+  ]
+  node [
+    id 2180
+    label "Guicciardini"
+  ]
+  node [
+    id 2181
+    label "http://www.archilet.it/Pubblicazione.aspx?IdPubblicazione=19"
+  ]
+  node [
+    id 2182
+    label "https://www.lerma.it/libro/9788891319395/toc/191"
+  ]
+  node [
+    id 2183
+    label "Diplomazia"
+  ]
+  node [
+    id 2184
+    label "Crisi"
+  ]
+  node [
+    id 2185
+    label "article_798"
+  ]
+  node [
+    id 2186
+    label "Storiografia"
+  ]
+  node [
+    id 2187
+    label "10.6092/issn.2532-8816/14807"
+  ]
+  node [
+    id 2188
+    label "Guicciardini- Sacco Di Roma - Autobiografia"
+  ]
+  node [
+    id 2189
+    label "article_800"
+  ]
+  node [
+    id 2190
+    label "10.13140/RG.2.2.25162.18885"
+  ]
+  node [
+    id 2191
+    label "Semantic Collection"
+  ]
+  node [
+    id 2192
+    label "Mythologiae"
+  ]
+  node [
+    id 2193
+    label "10.5281/zenodo.8107673"
+  ]
+  node [
+    id 2194
+    label "Conjectures"
+  ]
+  node [
+    id 2195
+    label "Glam"
+  ]
+  node [
+    id 2196
+    label "http://ceur-ws.org/Vol-3160/"
+  ]
+  node [
+    id 2197
+    label "Archival Linked Data; Data Model; Digital Hermeneutics; Library Linked Data; Semantic Web"
+  ]
+  node [
+    id 2198
+    label "10.4403/jlis.it-12642"
+  ]
+  node [
+    id 2199
+    label "Collezione Semantica"
+  ]
+  node [
+    id 2200
+    label "Citazioni Canoniche"
+  ]
+  node [
+    id 2201
+    label "Ermeneutica Digitale"
+  ]
+  node [
+    id 2202
+    label "10.2426/aibstudi-13301"
+  ]
+  node [
+    id 2203
+    label "Manuscript"
+  ]
+  node [
+    id 2204
+    label "Data Modelling"
+  ]
+  node [
+    id 2205
+    label "Contestability"
+  ]
+  node [
+    id 2206
+    label "article_806"
+  ]
+  node [
+    id 2207
+    label "Chinese Calligraphy"
+  ]
+  node [
+    id 2208
+    label "Write"
+  ]
+  node [
+    id 2209
+    label "Contemporary Art"
+  ]
+  node [
+    id 2210
+    label "https://dh-abstracts.library.cmu.edu/works/11704"
+  ]
+  node [
+    id 2211
+    label "Canonical Citations"
+  ]
+  node [
+    id 2212
+    label "10.5281/zenodo.4639821"
+  ]
+  node [
+    id 2213
+    label "Data Visualisation"
+  ]
+  node [
+    id 2214
+    label "Higraphs"
+  ]
+  node [
+    id 2215
+    label "Modeling And Visualization"
+  ]
+  node [
+    id 2216
+    label "Critical Design"
+  ]
+  node [
+    id 2217
+    label "10.5281/zenodo.7961821"
+  ]
+  node [
+    id 2218
+    label "Reification"
+  ]
+  node [
+    id 2219
+    label "10.5281/zenodo.8107887"
+  ]
+  node [
+    id 2220
+    label "Digital Scholarly Editing. Authorial Philology. Censorship. Benedetto Varchi. Renaissance History. Italian Renaissance Literature."
+  ]
+  node [
+    id 2221
+    label "Archilochus"
+  ]
+  node [
+    id 2222
+    label "Elegy"
+  ]
+  node [
+    id 2223
+    label "Digital Philology"
+  ]
+  node [
+    id 2224
+    label "Xml/Tei"
+  ]
+  node [
+    id 2225
+    label "http://hdl.handle.net/11381/2891638"
+  ]
+  node [
+    id 2226
+    label "Digital Edition"
+  ]
+  node [
+    id 2227
+    label "Ancient Greek"
+  ]
+  node [
+    id 2228
+    label "Research Infrastructures"
+  ]
+  node [
+    id 2229
+    label "Digital Classics"
+  ]
+  node [
+    id 2230
+    label "10.3384/ecp2020172011"
+  ]
+  node [
+    id 2231
+    label "Filologia D'Autore; Dse; Leopardi"
+  ]
+  node [
+    id 2232
+    label "https://www.aiucd.it/atti-convegno-aiucd-2023/"
+  ]
+  node [
+    id 2233
+    label "Edizione Critica Digitale"
+  ]
+  node [
+    id 2234
+    label "Il Conte Di Carmagnola"
+  ]
+  node [
+    id 2235
+    label "Filologia D&#226;&#8364;&#8482;Autore"
+  ]
+  node [
+    id 2236
+    label "Codifica Di Apparati Complessi"
+  ]
+  node [
+    id 2237
+    label "Xml Tei"
+  ]
+  node [
+    id 2238
+    label "Overlapping"
+  ]
+  node [
+    id 2239
+    label "article_816"
+  ]
+  node [
+    id 2240
+    label "Edizione Critica"
+  ]
+  node [
+    id 2241
+    label "http://annali.casadelmanzoni.it/index.php/annali"
+  ]
+  node [
+    id 2242
+    label "Digital Editions"
+  ]
+  node [
+    id 2243
+    label "10.14434/textual.v13i2.31607"
+  ]
+  node [
+    id 2244
+    label "Codifica Di Testi Moderni"
+  ]
+  node [
+    id 2245
+    label "Laboratorio Didattico"
+  ]
+  node [
+    id 2246
+    label "Integrazione Didattica- Ricerca"
+  ]
+  node [
+    id 2247
+    label "Marcatura Xml/Tei"
+  ]
+  node [
+    id 2248
+    label "10.6092/unibo/amsacta/6361"
+  ]
+  node [
+    id 2249
+    label "Censura"
+  ]
+  node [
+    id 2250
+    label "Politica"
+  ]
+  node [
+    id 2251
+    label "article_820"
+  ]
+  node [
+    id 2252
+    label "Analisi Digitale Testi Letterari"
+  ]
+  node [
+    id 2253
+    label "Filologia Digitale"
+  ]
+  node [
+    id 2254
+    label "Linguistica Computazionale"
+  ]
+  node [
+    id 2255
+    label "10.6092/issn.2532-8816/8185"
+  ]
+  node [
+    id 2256
+    label "Critical Editions"
+  ]
+  node [
+    id 2257
+    label "10.14434/tc.v14i2.33673"
+  ]
+  node [
+    id 2258
+    label "Varianti Politiche"
+  ]
+  node [
+    id 2259
+    label "Alfieri"
+  ]
+  node [
+    id 2260
+    label "Verri"
+  ]
+  node [
+    id 2261
+    label "Monti"
+  ]
+  node [
+    id 2262
+    label "article_823"
+  ]
+  node [
+    id 2263
+    label "Philology"
+  ]
+  node [
+    id 2264
+    label "Digital Texts"
+  ]
+  node [
+    id 2265
+    label "American  Philological  Tradition"
+  ]
+  node [
+    id 2266
+    label "10.14434/textual.v13i2.31606"
+  ]
+  node [
+    id 2267
+    label "Collection; Cultural Heritage; Ontology Design Patterns; Recurrent Events"
+  ]
+  node [
+    id 2268
+    label "Recurrent Situations&#10;Ontology Design Patterns&#10;Arco&#10;Ontology Networks"
+  ]
+  node [
+    id 2269
+    label "10.3233/SSW210013"
+  ]
+  node [
+    id 2270
+    label "article_828"
+  ]
+  node [
+    id 2271
+    label "Knowledge Graphs; Cultural Heritage; Ontology Design; Linked Data"
+  ]
+  node [
+    id 2272
+    label "10.1007/978-3-030-30796-7_3"
+  ]
+  node [
+    id 2273
+    label "Atlas Of Paths; Cultural Heritage; Formal Ontology"
+  ]
+  node [
+    id 2274
+    label "Ontology Modelling; Cultural Heritage; Archival Science; Semantic Relationship."
+  ]
+  node [
+    id 2275
+    label "10.4403/jlis.it-12499"
+  ]
+  node [
+    id 2276
+    label "Ontology Design Patterns; Conceptual Components; Empirical Knowledge Engineering; Knowledge Extraction; Ontology Usability"
+  ]
+  node [
+    id 2277
+    label "10.1145/3460210.3493542"
+  ]
+  node [
+    id 2278
+    label "Conceptual Components; Linked Data Visualization; Ontology Design Patterns; Pattern Instances; Patterns Annotation"
+  ]
+  node [
+    id 2279
+    label "https://ceur-ws.org/Vol-3011/"
+  ]
+  node [
+    id 2280
+    label "10.3233/SW-200422"
+  ]
+  node [
+    id 2281
+    label "10.3233/SSW200033"
+  ]
+  node [
+    id 2282
+    label "article_837"
+  ]
+  node [
+    id 2283
+    label "10.1007/978-3-031-47243-5_17"
+  ]
+  node [
+    id 2284
+    label "https://ceur-ws.org/Vol-3262/paper2.pdf"
+  ]
+  node [
+    id 2285
+    label "Contemporary Literature"
+  ]
+  node [
+    id 2286
+    label "Knowledge Organization"
+  ]
+  node [
+    id 2287
+    label "Intertextuality"
+  ]
+  node [
+    id 2288
+    label "Intratextuality"
+  ]
+  node [
+    id 2289
+    label "Text Encoding"
+  ]
+  node [
+    id 2290
+    label "Semantic Digital Edition"
+  ]
+  node [
+    id 2291
+    label "10.6092/unibo/amsacta/6415"
+  ]
+  node [
+    id 2292
+    label "Semantic Alignment"
+  ]
+  node [
+    id 2293
+    label "Annotation User Interface"
+  ]
+  node [
+    id 2294
+    label "10.5281/zenodo.7961822"
+  ]
+  node [
+    id 2295
+    label "Digital Scholarly Editing; Text Encoding; Html; Graph Database; Cms"
+  ]
+  node [
+    id 2296
+    label "article_842"
+  ]
+  node [
+    id 2297
+    label "Omeka"
+  ]
+  node [
+    id 2298
+    label "Iiif"
+  ]
+  node [
+    id 2299
+    label "Mirador"
+  ]
+  node [
+    id 2300
+    label "Cultural Heritage Ontologies"
+  ]
+  node [
+    id 2301
+    label "Metadata"
+  ]
+  node [
+    id 2302
+    label "Archival Founds And Collections"
+  ]
+  node [
+    id 2303
+    label "https://dl.ficlit.unibo.it/s/lib/page/home"
+  ]
+  node [
+    id 2304
+    label "Tei"
+  ]
+  node [
+    id 2305
+    label "https://projects.dharc.unibo.it/lift/"
+  ]
+  node [
+    id 2306
+    label "Scholarly Tools"
+  ]
+  node [
+    id 2307
+    label "http://www.digitalhumanities.org/dhq/vol/16/2/000605/000605.html"
+  ]
+  node [
+    id 2308
+    label "Tei; Linked Open Data; Ontologies; Digital Scholarly Editions; Semantic Publishing"
+  ]
+  node [
+    id 2309
+    label "10.6092/issn.2532-8816/9091"
+  ]
+  node [
+    id 2310
+    label "Critical Apparatus"
+  ]
+  node [
+    id 2311
+    label "Digital Scholarly Edition"
+  ]
+  node [
+    id 2312
+    label "Modelling"
+  ]
+  node [
+    id 2313
+    label "https://kups.ub.uni-koeln.de/55230/"
+  ]
+  node [
+    id 2314
+    label "Digital Finding Aid"
+  ]
+  node [
+    id 2315
+    label "Writers, Archives"
+  ]
+  node [
+    id 2316
+    label "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf"
+  ]
+  node [
+    id 2317
+    label "Civic Education; Color Heritage; Cultural Artifacts; Digital Hermeneutics; Interactive Design"
+  ]
+  node [
+    id 2318
+    label "https://ijcs.ro/volume-13-2022/#Specialissue1"
+  ]
+  node [
+    id 2319
+    label "Computer Vision, Explainability, Hermeneutics, Stable Diffusion, Cultural Heritage, Computational Visual Studies"
+  ]
+  node [
+    id 2320
+    label "10.1007/s42803-023-00077-8"
+  ]
+  node [
+    id 2321
+    label "10.1145/3477599"
+  ]
+  node [
+    id 2322
+    label "Vr; Serious Games; Meaningfulness; Concentration; Abstract Concepts; Game Design"
+  ]
+  node [
+    id 2323
+    label "10.3390/info13120567"
+  ]
+  node [
+    id 2324
+    label "Leopardi; Zibaldone; Edizioni"
+  ]
+  node [
+    id 2325
+    label "https://wydawnictwo.uksw.edu.pl/ksiegarnia/1190-leopardi-oltre-la-letteratura-lo-zibaldone-nella-cultura-contemporanea.html"
+  ]
+  node [
+    id 2326
+    label "Leopardi. Filologia D'Autore. Zibaldone. Datazione."
+  ]
+  node [
+    id 2327
+    label "10.48255/J.LELLIS.15.II.2020.04"
+  ]
+  node [
+    id 2328
+    label "Idilli"
+  ]
+  node [
+    id 2329
+    label "Reflectance Transformation Imaging (Rti)"
+  ]
+  node [
+    id 2330
+    label "10.6092/issn.1721-4777/12420"
+  ]
+  node [
+    id 2331
+    label "Digital Humanities; Designing And Theorizing; Mapprojecy; Hogart Press"
+  ]
+  node [
+    id 2332
+    label "article_860"
+  ]
+  node [
+    id 2333
+    label "Digital Humanities; Scholar Editions; Digital Archive"
+  ]
+  node [
+    id 2334
+    label "https://ceur-ws.org/Vol-3540/"
+  ]
+  node [
+    id 2335
+    label "Symbolism; Linked Open Data; Semantic Web; Cultural Heritage; Knowledge Graph; Ontology Engineering"
+  ]
+  node [
+    id 2336
+    label "Knowledge Graph; Linked Data; Ontology; Semantic Web; Symbolism"
+  ]
+  node [
+    id 2337
+    label "Linked Open Data; Symbolism; Virtual Reality; Cultural Heritage"
+  ]
+  node [
+    id 2338
+    label "Symbolism; Knowledge Graphs; Cultural Heritage; Semantic Web"
+  ]
+  node [
+    id 2339
+    label "article_870"
+  ]
+  node [
+    id 2340
+    label "Scholarly Metadata"
+  ]
+  node [
+    id 2341
+    label "https://github.com/opencitations/oc_meta"
+  ]
+  node [
+    id 2342
+    label "Chatbots"
+  ]
+  node [
+    id 2343
+    label "Museum"
+  ]
+  node [
+    id 2344
+    label "article_874"
+  ]
+  node [
+    id 2345
+    label "Medieval Manuscripts Ontology"
+  ]
+  node [
+    id 2346
+    label "Memo"
+  ]
+  node [
+    id 2347
+    label "Medieval Manuscripts"
+  ]
+  node [
+    id 2348
+    label "Progetto Irnerio"
+  ]
+  node [
+    id 2349
+    label "10.6092/issn.2532-8816/11187"
+  ]
+  node [
+    id 2350
+    label "article_876"
+  ]
+  node [
+    id 2351
+    label "Critical Digital Edition"
+  ]
+  node [
+    id 2352
+    label "10.6092/unibo/aldomoro"
+  ]
+  node [
+    id 2353
+    label "article_878"
+  ]
+  node [
+    id 2354
+    label "Computer Science - Human-Computer Interaction; Computer Science - Human-Computer Interaction; Computer Science - Information Theory; Mathematics - Information Theory"
+  ]
+  node [
+    id 2355
+    label "10.48550/arXiv.2306.12973"
+  ]
+  node [
+    id 2356
+    label "https://github.com/polifonia-project/dashboard"
+  ]
+  node [
+    id 2357
+    label "Data Visualization&#10;Linked Open Data&#10;Storytelling&#10;Design Thinking&#10;Ontology Design"
+  ]
+  node [
+    id 2358
+    label "10.1145/3603163.3609035"
+  ]
+  node [
+    id 2359
+    label "Digital Pedagogy"
+  ]
+  node [
+    id 2360
+    label "Distance Learning"
+  ]
+  node [
+    id 2361
+    label "University Of Bologna"
+  ]
+  node [
+    id 2362
+    label "10.6092/issn.2532-8816/11829"
+  ]
+  node [
+    id 2363
+    label "Aiucd"
+  ]
+  node [
+    id 2364
+    label "Digital Scholarly Research"
+  ]
+  node [
+    id 2365
+    label "Project-Oriented Method"
+  ]
+  node [
+    id 2366
+    label "10.6092/issn.1721-4777/12375"
+  ]
+  node [
+    id 2367
+    label "Formal Models"
+  ]
+  node [
+    id 2368
+    label "Earmark"
+  ]
+  node [
+    id 2369
+    label "http://dh2016.adho.org/abstracts/149"
+  ]
+  node [
+    id 2370
+    label "Text Retrieval"
+  ]
+  node [
+    id 2371
+    label "article_885"
+  ]
+  node [
+    id 2372
+    label "Ontologies; Open Annotation Collaboration; Linked Data; Semlib; Tei"
+  ]
+  node [
+    id 2373
+    label "10.1007/978-3-642-35834-0_7"
+  ]
+  node [
+    id 2374
+    label "Ontologies; Annotation; Geolat"
+  ]
+  node [
+    id 2375
+    label "http://dharchive.org/sessions.php?c=DH2014"
+  ]
+  node [
+    id 2376
+    label "Master Degree"
+  ]
+  node [
+    id 2377
+    label "Phd Degree"
+  ]
+  node [
+    id 2378
+    label "10.1108/JD-05-2016-0065"
+  ]
+  node [
+    id 2379
+    label "Semantic Web; Digital Hermeneutics; Interpretation; Trustworthiness; Digital Humanities"
+  ]
+  node [
+    id 2380
+    label "10.36253/jlis.it-557"
+  ]
+  node [
+    id 2381
+    label "Personal Archives"
+  ]
+  node [
+    id 2382
+    label "Heterogeneity"
+  ]
+  node [
+    id 2383
+    label "10.2426/aibstudi-11647"
+  ]
+  node [
+    id 2384
+    label "Erwin Panofsky"
+  ]
+  node [
+    id 2385
+    label "10.5281/zenodo.8321994"
+  ]
+  node [
+    id 2386
+    label "Linked Open Data &#183; Art History &#183; Archives"
+  ]
+  node [
+    id 2387
+    label "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_10.pdf"
+  ]
+  node [
+    id 2388
+    label "10.1145/3594721"
+  ]
+  node [
+    id 2389
+    label "Digital Humanities; Metadata; Ontologies; Vocabulary; Annotation Tools; Collaboration Environment"
+  ]
+  node [
+    id 2390
+    label "10.1145/2494266.2494323"
+  ]
+  node [
+    id 2391
+    label "Digital Humanities; Digital Philology; Digital Cultural Heritage"
+  ]
+  node [
+    id 2392
+    label "article_895"
+  ]
+  node [
+    id 2393
+    label "Cronologia"
+  ]
+  node [
+    id 2394
+    label "article_897"
+  ]
+  node [
+    id 2395
+    label "Open Annotation Collaboration; Digital Editions; Linked Data; Ontologies; Markup Languages; Tei - Text Encoding Initiative"
+  ]
+  node [
+    id 2396
+    label "article_899"
+  ]
+  node [
+    id 2397
+    label "Eac - Encoded Archival Description; Semantic Models - Ontologies; Tei - Text Encoding Initiative; Geographic Ontology; Semantic Publishing"
+  ]
+  node [
+    id 2398
+    label "article_900"
+  ]
+  node [
+    id 2399
+    label "Authority Data; Digital Editions; Linked Data; Semantic Indexing"
+  ]
+  node [
+    id 2400
+    label "10.4403/jlis.it-8808"
+  ]
+  node [
+    id 2401
+    label "Learning Areas ; Programme Catalogue ; Professional Figures ; Digital Humanities ; Stakeholders And Partnerships"
+  ]
+  node [
+    id 2402
+    label "10.6092/issn.2532-8816/7862"
+  ]
+  node [
+    id 2403
+    label "Organizzazione Della Conoscenza"
+  ]
+  node [
+    id 2404
+    label "Ermeneutica"
+  ]
+  node [
+    id 2405
+    label "Metodologia"
+  ]
+  node [
+    id 2406
+    label "Classificazione"
+  ]
+  node [
+    id 2407
+    label "10.6092/issn.2283-9364/6109"
+  ]
+  node [
+    id 2408
+    label "Linked Open Data; Lam; Knowledge Organization; Dhdk"
+  ]
+  node [
+    id 2409
+    label "10.2426/aibstudi-12068"
+  ]
+  node [
+    id 2410
+    label "Biblioteche Universitarie"
+  ]
+  node [
+    id 2411
+    label "Digital Curation"
+  ]
+  node [
+    id 2412
+    label "Mostre Virtuali"
+  ]
+  node [
+    id 2413
+    label "10.6092/issn.2283-9364/18712"
+  ]
+  node [
+    id 2414
+    label "article_907"
+  ]
+  node [
+    id 2415
+    label "Digital Humanities; Social; Web Skills Profiles; Cross Disciplinary"
+  ]
+  node [
+    id 2416
+    label "10.6092/issn.2421-2695/5009"
+  ]
+  node [
+    id 2417
+    label "Objects' Lifecycle"
+  ]
+  node [
+    id 2418
+    label "Letteratura Greca / Greek Literature; Letteratura Latina; Bibbia; Fortuna Dei Classici; Esodo"
+  ]
+  node [
+    id 2419
+    label "http://www.permanenza.unibo.it/eventi/esodi.-i-classici-xiii-edizione"
+  ]
+  node [
+    id 2420
+    label "Facets"
+  ]
+  node [
+    id 2421
+    label "Context"
+  ]
+  node [
+    id 2422
+    label "Authoritativeness"
+  ]
+  node [
+    id 2423
+    label "10.4399/97888548899278"
+  ]
+  node [
+    id 2424
+    label "Digital Libraries And Archives; Digital Cultural Heritage; Digital Humanities; Computer Science; Archival Studies"
+  ]
+  node [
+    id 2425
+    label "10.1007/978-3-642-54347-0_2"
+  ]
+  node [
+    id 2426
+    label "Data Exploration"
+  ]
+  node [
+    id 2427
+    label "Dynamic Digital Collections"
+  ]
+  node [
+    id 2428
+    label "10.6092/unibo/amsacta/7721"
+  ]
+  node [
+    id 2429
+    label "Digital Scholarly Infrastructure; Web Environment; Bibliographic Codes; Ambienti Collaborativi; Filologia D'Autore"
+  ]
+  node [
+    id 2430
+    label "article_918"
+  ]
+  node [
+    id 2431
+    label "Letteratura Greca"
+  ]
+  node [
+    id 2432
+    label "Letteratura Latina"
+  ]
+  node [
+    id 2433
+    label "Letteratura Biblica"
+  ]
+  node [
+    id 2434
+    label "Follia"
+  ]
+  node [
+    id 2435
+    label "www.permanenza.unibo.it/eventi/folli.-i-classici-xv-edizione"
+  ]
+  node [
+    id 2436
+    label "Xml Semantics"
+  ]
+  node [
+    id 2437
+    label "Modeling"
+  ]
+  node [
+    id 2438
+    label "Text Encoding Theory"
+  ]
+  node [
+    id 2439
+    label "10.4000/jtei.1480"
+  ]
+  node [
+    id 2440
+    label "Dike"
+  ]
+  node [
+    id 2441
+    label "Esiodo"
+  ]
+  node [
+    id 2442
+    label "Pindaro"
+  ]
+  node [
+    id 2443
+    label "Platone"
+  ]
+  node [
+    id 2444
+    label "Eschilo"
+  ]
+  node [
+    id 2445
+    label "Cicerone"
+  ]
+  node [
+    id 2446
+    label "Aulo Gellio"
+  ]
+  node [
+    id 2447
+    label "Pelagio"
+  ]
+  node [
+    id 2448
+    label "Leibniz"
+  ]
+  node [
+    id 2449
+    label "Ecclesiaste"
+  ]
+  node [
+    id 2450
+    label "Vangelo Di Luca"
+  ]
+  node [
+    id 2451
+    label "Apocalisse"
+  ]
+  node [
+    id 2452
+    label "https://sol.unibo.it/SebinaOpac/resource/giustizia/UBO7820249"
+  ]
+  node [
+    id 2453
+    label "Graph Data Model"
+  ]
+  node [
+    id 2454
+    label "https://www.i-d-e.de/publikationen/schriften/bd-15-graph-data-models/"
+  ]
+  node [
+    id 2455
+    label "Ontology Documentation; Cultural Heritage"
+  ]
+  node [
+    id 2456
+    label "http://purl.org/emmedi/hico"
+  ]
+  node [
+    id 2457
+    label "Frbr"
+  ]
+  node [
+    id 2458
+    label "10.1007/978-3-319-24129-6_37"
+  ]
+  node [
+    id 2459
+    label "Letteratura Greca; Letteratura Latina; Fortuna Dei Classici"
+  ]
+  node [
+    id 2460
+    label "http://www.permanenza.unibo.it/eventi/nuovo-evento-test"
+  ]
+  node [
+    id 2461
+    label "http://dl.acm.org/citation.cfm?id=2802612"
+  ]
+  node [
+    id 2462
+    label "Cronologia Ragionata"
+  ]
+  node [
+    id 2463
+    label "Autori"
+  ]
+  node [
+    id 2464
+    label "Generi"
+  ]
+  node [
+    id 2465
+    label "Opere"
+  ]
+  node [
+    id 2466
+    label "https://www.patroneditore.com/volumi/9788855535236/i-passaggi-e-la-cronologia-ragionata-della-letteratura-italiana"
+  ]
+  node [
+    id 2467
+    label "10.53134/9788893574365-15"
+  ]
+  node [
+    id 2468
+    label "Letteratura Inglese"
+  ]
+  node [
+    id 2469
+    label "Classici"
+  ]
+  node [
+    id 2470
+    label "Fortuna."
+  ]
+  node [
+    id 2471
+    label "cf. http://www.permanenza.unibo.it/eventi/il-potere.-i-classici-xvii-edizione"
+  ]
+  node [
+    id 2472
+    label "Lucrezio"
+  ]
+  node [
+    id 2473
+    label "De Rerum Natura"
+  ]
+  node [
+    id 2474
+    label "Antico Testamento"
+  ]
+  node [
+    id 2475
+    label "Commedia"
+  ]
+  node [
+    id 2476
+    label "Omero"
+  ]
+  node [
+    id 2477
+    label "Iliade"
+  ]
+  node [
+    id 2478
+    label "https://centri.unibo.it/permanenza/it/iniziative-editoriali/libri-di-sala"
+  ]
+  node [
+    id 2479
+    label "Informatica Umanistica"
+  ]
+  node [
+    id 2480
+    label "article_932"
+  ]
+  node [
+    id 2481
+    label "Edizione Digitale"
+  ]
+  node [
+    id 2482
+    label "Digitale Nativo"
+  ]
+  node [
+    id 2483
+    label "Archivi Di Persona"
+  ]
+  node [
+    id 2484
+    label "10.3302/2421-3810-202101-081-1"
+  ]
+  node [
+    id 2485
+    label "52.42 Emozioni. Piacere"
+  ]
+  node [
+    id 2486
+    label "Divertimento"
+  ]
+  node [
+    id 2487
+    label "Felicit&#224;"
+  ]
+  node [
+    id 2488
+    label "Gioia"
+  ]
+  node [
+    id 2489
+    label "Estasi"
+  ]
+  node [
+    id 2490
+    label "www.permanenza.unibo.it/eventi/folli.-i-classici-xvi-edizione"
+  ]
+  node [
+    id 2491
+    label "Photo Archive"
+  ]
+  node [
+    id 2492
+    label "http://aibstudi.aib.it/article/view/11569"
+  ]
+  node [
+    id 2493
+    label "article_938"
+  ]
+  node [
+    id 2494
+    label "Preservazione"
+  ]
+  node [
+    id 2495
+    label "Provenienza"
+  ]
+  node [
+    id 2496
+    label "Atto Interpretativo"
+  ]
+  node [
+    id 2497
+    label "10.6092/issn.2283-9364/7531"
+  ]
+  node [
+    id 2498
+    label "Cidoc-Crm"
+  ]
+  node [
+    id 2499
+    label "Fotografia"
+  ]
+  node [
+    id 2500
+    label "10.6092/issn.2532-8816/7195"
+  ]
+  node [
+    id 2501
+    label "Lucrezia Borgia- Rinascimento- Ferrara- Modena- Epistolografia"
+  ]
+  node [
+    id 2502
+    label "https://www.asmo.beniculturali.it/mostre/lucretia-estensis-de-borgia-tra-biografia-e-narrazione-nelle-carte-dellarchivio-di-stato-di-modena"
+  ]
+  node [
+    id 2503
+    label "Lucrezia Borgia"
+  ]
+  node [
+    id 2504
+    label "Mostra Virtuale"
+  ]
+  node [
+    id 2505
+    label "Documenti Inediti"
+  ]
+  node [
+    id 2506
+    label "https://exhibits.ficlit.unibo.it/s/lucretia-borgia/page/introduzione-alla-mostra"
+  ]
+  node [
+    id 2507
+    label "Edizione Semantica"
+  ]
+  node [
+    id 2508
+    label "Ipermedialit&#224;"
+  ]
+  node [
+    id 2509
+    label "Affidabilit&#224;"
+  ]
+  node [
+    id 2510
+    label "Relazioni"
+  ]
+  node [
+    id 2511
+    label "Seneca"
+  ]
+  node [
+    id 2512
+    label "https://patroneditore.com/volumi/9788855535472/lucrezio-seneca-e-noi"
+  ]
+  node [
+    id 2513
+    label "Phantoms; Web Environment; Digital Editions; Digital Tools"
+  ]
+  node [
+    id 2514
+    label "10.5565/rev/anuariolopedevega.84"
+  ]
+  node [
+    id 2515
+    label "Digital Editions; Web Semantico; Linked Data; Ontologies"
+  ]
+  node [
+    id 2516
+    label "article_950"
+  ]
+  node [
+    id 2517
+    label "Rappresentazione Dati"
+  ]
+  node [
+    id 2518
+    label "Web Semantico"
+  ]
+  node [
+    id 2519
+    label "Vespasiano Da Bisticci."
+  ]
+  node [
+    id 2520
+    label "article_951"
+  ]
+  node [
+    id 2521
+    label "Digital Library - Ministero Della Cultura - Patrimonio Digitale - Digitalizzazione - Infrastruttura Digitale - Ecosistema Digitale - Digital Library - Ministry Of Culture - Digital Heritage - Digitization - Digital Infrastructure - Digital Ecosystem"
+  ]
+  node [
+    id 2522
+    label "Digital Cultural Heritage; Linked Open Data; Digital Editions; Digital Libraries; Digital Archives; Ontologies; Relational Databases"
+  ]
+  node [
+    id 2523
+    label "http://www.w3c.it/events/2014/lod2014/"
+  ]
+  node [
+    id 2524
+    label "article_954"
+  ]
+  node [
+    id 2525
+    label "Disagreement"
+  ]
+  node [
+    id 2526
+    label "Trustworthiness"
+  ]
+  node [
+    id 2527
+    label "Contexts"
+  ]
+  node [
+    id 2528
+    label "10.1515/9783110430295-041"
+  ]
+  node [
+    id 2529
+    label "Data Structures"
+  ]
+  node [
+    id 2530
+    label "Controlled Vocabularies."
+  ]
+  node [
+    id 2531
+    label "10.12759/hsr.suppl.31.2018.170-179"
+  ]
+  node [
+    id 2532
+    label "Ontologies; Proles; Document Centric; Data Centric; Eac-Cpf; Tei; Roles; Creators"
+  ]
+  node [
+    id 2533
+    label "10.4403/jlis.it-11133"
+  ]
+  node [
+    id 2534
+    label "10.4399/979-12599448493"
+  ]
+  node [
+    id 2535
+    label "Diario Postumo"
+  ]
+  node [
+    id 2536
+    label "Eugenio Montale"
+  ]
+  node [
+    id 2537
+    label "Forgery"
+  ]
+  node [
+    id 2538
+    label "Authorship Attribution"
+  ]
+  node [
+    id 2539
+    label "Interdisciplinarit&#224;"
+  ]
+  node [
+    id 2540
+    label "Falsi"
+  ]
+  node [
+    id 2541
+    label "Falsari"
+  ]
+  node [
+    id 2542
+    label "Poesia Italiana Del Novecento"
+  ]
+  node [
+    id 2543
+    label "article_960"
+  ]
+  node [
+    id 2544
+    label "Hico"
+  ]
+  node [
+    id 2545
+    label "Proles"
+  ]
+  node [
+    id 2546
+    label "Prov-O"
+  ]
+  node [
+    id 2547
+    label "Frbr Model"
+  ]
+  node [
+    id 2548
+    label "Text Encoding Initiative (Tei)"
+  ]
+  node [
+    id 2549
+    label "Digital History"
+  ]
+  node [
+    id 2550
+    label "Digital Editions."
+  ]
+  node [
+    id 2551
+    label "10.1145/2802612.2802633"
+  ]
+  node [
+    id 2552
+    label "Contesto"
+  ]
+  node [
+    id 2553
+    label "Livelli"
+  ]
+  node [
+    id 2554
+    label "Descrizione"
+  ]
+  node [
+    id 2555
+    label "Interpretazione"
+  ]
+  node [
+    id 2556
+    label "10.53134/9788893573573"
+  ]
+  node [
+    id 2557
+    label "Patria"
+  ]
+  node [
+    id 2558
+    label "Sofocle"
+  ]
+  node [
+    id 2559
+    label "Virgilio"
+  ]
+  node [
+    id 2560
+    label "article_967"
+  ]
+  node [
+    id 2561
+    label "Diff"
+  ]
+  node [
+    id 2562
+    label "Promessi Sposi"
+  ]
+  node [
+    id 2563
+    label "Laboratorio"
+  ]
+  node [
+    id 2564
+    label "https://github.com/dharc-org/philoeditor"
+  ]
+  node [
+    id 2565
+    label "Eac(Cpf); Ontology; Isdf; Pro; Political Role"
+  ]
+  node [
+    id 2566
+    label "10.1016/j.procs.2014.10.012"
+  ]
+  node [
+    id 2567
+    label "http://patroneditore.it/volumi/9788855535472/lucrezio-seneca-e-noi"
+  ]
+  node [
+    id 2568
+    label "Europeana Data Model; Rdf; Ontologies; Frbr; Linked Data"
+  ]
+  node [
+    id 2569
+    label "10.1007/978-3-642-35834-0_23"
+  ]
+  node [
+    id 2570
+    label "Xml; Frbr; Semantic Web; Metadata"
+  ]
+  node [
+    id 2571
+    label "article_973"
+  ]
+  node [
+    id 2572
+    label "Provenance&#10;Change-Tracking&#10;Rdf&#10;Digital Humanities"
+  ]
+  node [
+    id 2573
+    label "10.48550/arxiv.2305.08477"
+  ]
+  node [
+    id 2574
+    label "Letteratura Greca; Letteratura Latina; Rivoluzione; Traduzioni; Filologia Classica"
+  ]
+  node [
+    id 2575
+    label "article_975"
+  ]
+  node [
+    id 2576
+    label "Filologia Classica; Letteratura Greca; Letteratura Latina; Fortuna Dei Classici"
+  ]
+  node [
+    id 2577
+    label "http://www.permanenza.unibo.it/iniziative-editoriali"
+  ]
+  node [
+    id 2578
+    label "Semantic Publishing; Document Semantics; Context And Content; Ontologies"
+  ]
+  node [
+    id 2579
+    label "10.1007/978-3-642-54347-0_13"
+  ]
+  node [
+    id 2580
+    label "Beni Culturali"
+  ]
+  node [
+    id 2581
+    label "Zeri &#38; Lode"
+  ]
+  node [
+    id 2582
+    label "Standard"
+  ]
+  node [
+    id 2583
+    label "https://www.carocci.it/prodotto/digital-humanities"
+  ]
+  node [
+    id 2584
+    label "Multiple Points Of View"
+  ]
+  node [
+    id 2585
+    label "Contrasting Assertions"
+  ]
+  node [
+    id 2586
+    label "Rdf Serialization"
+  ]
+  node [
+    id 2587
+    label "Scholarly Conjectures"
+  ]
+  node [
+    id 2588
+    label "http://ceur-ws.org/Vol-2810/"
+  ]
+  node [
+    id 2589
+    label "Geography; Ontology; Open Annotation Collaboration; Controlled Vocabularies"
+  ]
+  node [
+    id 2590
+    label "10.4000/jtei.1365"
+  ]
+  node [
+    id 2591
+    label "Ontology Tei Xml Interoperability Lod Digital Libraries"
+  ]
+  node [
+    id 2592
+    label "10.1007/978-3-319-41938-1_5"
+  ]
+  node [
+    id 2593
+    label "Europeana Data Model; Digital Libraries; Dublin Core; Linked Data; Ontologies"
+  ]
+  node [
+    id 2594
+    label "10.1504/IJWET.2013.059107"
+  ]
+  node [
+    id 2595
+    label "Technology And The Humanities"
+  ]
+  node [
+    id 2596
+    label "Internet Or The Humanistic Machine"
+  ]
+  node [
+    id 2597
+    label "Writing And Content Production"
+  ]
+  node [
+    id 2598
+    label "Representing And Archiving"
+  ]
+  node [
+    id 2599
+    label "Searching And Organizing"
+  ]
+  node [
+    id 2600
+    label "Dh In A Global Perspective"
+  ]
+  node [
+    id 2601
+    label "https://punctumbooks.com/titles/the-digital-humanist/"
+  ]
+  node [
+    id 2602
+    label "Digital Finding Aid &#183; Linked Open Data &#183; Writers&#8217; Archives"
+  ]
+  node [
+    id 2603
+    label "Authorship"
+  ]
+  node [
+    id 2604
+    label "article_987"
+  ]
+  node [
+    id 2605
+    label "Forgery; Quantitative Linguistics; Image Analysis; Mathematics; Philology; Annotation; Data Model"
+  ]
+  node [
+    id 2606
+    label "10.1145/2517978.2517989"
+  ]
+  node [
+    id 2607
+    label "Testo Digitale"
+  ]
+  node [
+    id 2608
+    label "Accesso Aperto"
+  ]
+  node [
+    id 2609
+    label "article_989"
+  ]
+  node [
+    id 2610
+    label "Humanities Computing"
+  ]
+  node [
+    id 2611
+    label "http://ceur-ws.org/Vol-1509/"
+  ]
+  node [
+    id 2612
+    label "Edizione Digitale; Ambienti Collaborativi; Markup Xml/Tei; Vespasiano Da Bisticci; Firenze - Xv Secolo; Lettere"
+  ]
+  node [
+    id 2613
+    label "10.6092/unibo/vespasianodabisticciletters"
+  ]
+  node [
+    id 2614
+    label "Riproducibilit&#224;"
+  ]
+  node [
+    id 2615
+    label "10.6092/unibo/amsacta/6852"
+  ]
+  node [
+    id 2616
+    label "Ead"
+  ]
+  node [
+    id 2617
+    label "Dc"
+  ]
+  node [
+    id 2618
+    label "Edm"
+  ]
+  node [
+    id 2619
+    label "Eac-Cpf"
+  ]
+  node [
+    id 2620
+    label "Lod Workflow"
+  ]
+  node [
+    id 2621
+    label "article_994"
+  ]
+  node [
+    id 2622
+    label "Frbr - Functional Requirements For Bibliographic Records; Scheda F; Cidoc-Crm; Rdf; Owl; Fabio; Prov-O"
+  ]
+  node [
+    id 2623
+    label "10.1109/JCDL.2014.6970182"
+  ]
+  node [
+    id 2624
+    label "Federico Zeri ; Photography ; Rdf"
+  ]
+  node [
+    id 2625
+    label "10.6092/unibo/amsacta/5157"
+  ]
+  node [
+    id 2626
+    label "article_997"
+  ]
+  node [
+    id 2627
+    label "Bibliographic Coupling; History; Humanities; Intellectual Organization; Network Connectivity; Text Similarity"
+  ]
+  node [
+    id 2628
+    label "10.1007/s11192-018-2934-0"
+  ]
+  node [
+    id 2629
+    label "Epidemics; Plague; Venice"
+  ]
+  node [
+    id 2630
+    label "10.1038/s41598-020-74775-6"
+  ]
+  node [
+    id 2631
+    label "Bibliographic Databases"
+  ]
+  node [
+    id 2632
+    label "Citation Indexes"
+  ]
+  node [
+    id 2633
+    label "Humanities Research"
+  ]
+  node [
+    id 2634
+    label "10.1093/llc/fqac016"
+  ]
+  node [
+    id 2635
+    label "Altmetrics; Bibliometrics; Citation Networks; Network Analysis; Wikipedia"
+  ]
+  node [
+    id 2636
+    label "10.1145/3487553.3524925"
+  ]
+  node [
+    id 2637
+    label "Accuracy; Citation Relation; Clustering; Relatedness Measure; Textual Similarity"
+  ]
+  node [
+    id 2638
+    label "10.1162/qss_a_00035"
+  ]
+  node [
+    id 2639
+    label "Citation And Co-Citation Analysis; Methods And Techniques"
+  ]
+  node [
+    id 2640
+    label "article_1003"
+  ]
+  node [
+    id 2641
+    label "Covid-19; Cord-19; Scientometrics; Data Analysis"
+  ]
+  node [
+    id 2642
+    label "10.1371/journal.pone.0244839"
+  ]
+  node [
+    id 2643
+    label "Bibliometrics; Bibliodata"
+  ]
+  node [
+    id 2644
+    label "10.5281/zenodo.6559857"
+  ]
+  node [
+    id 2645
+    label "Machine Learning; Natural Language Processing; Bibliometrics"
+  ]
+  node [
+    id 2646
+    label "https://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2021/"
+  ]
+  node [
+    id 2647
+    label "Machine Learning; Language Models; Optical Character Recognition (Ocr)"
+  ]
+  node [
+    id 2648
+    label "10.5220/0010945100003116"
+  ]
+  node [
+    id 2649
+    label "Bibliographic Coupling Networks; Citation Networks; Humanities; Sociology Of Science; Tribes And Territories"
+  ]
+  node [
+    id 2650
+    label "10.1016/j.joi.2018.11.006"
+  ]
+  node [
+    id 2651
+    label "Digital Humanities; Open Education; Data Analysis; Python"
+  ]
+  node [
+    id 2652
+    label "10.3233/EFI-230020"
+  ]
+  node [
+    id 2653
+    label "Apprenticeship; Venice; Digital Humanities; Economic History"
+  ]
+  node [
+    id 2654
+    label "10.1017/9781108690188.005"
+  ]
+  node [
+    id 2655
+    label "Archives; Artificial Intelligence; Machine Learning; Recordkeeping"
+  ]
+  node [
+    id 2656
+    label "10.1145/3479010"
+  ]
+  node [
+    id 2657
+    label "Methods; Humanities; Theory; Historiography; Reference Analysis"
+  ]
+  node [
+    id 2658
+    label "10.22148/001c.11828"
+  ]
+  node [
+    id 2659
+    label "Simulation; Imperial Dynamics; Ancient History"
+  ]
+  node [
+    id 2660
+    label "10.21237/C7clio10245282"
+  ]
+  node [
+    id 2661
+    label "Digital Humanities; Information Retrieval; Natural Language Processing; Nlp; Ocr; Optical Character Recognition"
+  ]
+  node [
+    id 2662
+    label "article_1014"
+  ]
+  node [
+    id 2663
+    label "Citation Counts; Citation Position Analysis; Field-Level Analysis; In-Text Citations; Reference Age"
+  ]
+  node [
+    id 2664
+    label "10.1016/j.joi.2017.11.005"
+  ]
+  node [
+    id 2665
+    label "Citation Histories; Clustering; Physical Review; Regression Analysis"
+  ]
+  node [
+    id 2666
+    label "10.1016/j.joi.2016.07.009"
+  ]
+  node [
+    id 2667
+    label "Bibliometrics; Cord-19; Coronavirus; Covid-19; Scientometrics; Wikipedia"
+  ]
+  node [
+    id 2668
+    label "10.1162/qss_a_00080"
+  ]
+  node [
+    id 2669
+    label "Nfts; Digital Art; Nft Art; Blockchains"
+  ]
+  node [
+    id 2670
+    label "10.1162/leon_a_02003"
+  ]
+  node [
+    id 2671
+    label "Datasheets; Datasets; Digital Cultural Heritage; Model Cards; Machine Learning; Glam Institutions"
+  ]
+  node [
+    id 2672
+    label "10.5334/johd.124"
+  ]
+  node [
+    id 2673
+    label "Arts And Humanities; Bibliometrics; Conditional Random Fields; Deep Learning; History; Natural Language Processing; Recurrent Neural Networks; Reference Mining"
+  ]
+  node [
+    id 2674
+    label "10.3389/frma.2018.00021"
+  ]
+  node [
+    id 2675
+    label "Apache Spark; Digital Tools; Distributed Queries; High-Performance Computing; Historical Sources; Humanities Research; Text Mining; Xml Schemas"
+  ]
+  node [
+    id 2676
+    label "10.1109/eScience.2019.00033"
+  ]
+  node [
+    id 2677
+    label "Text Recognition"
+  ]
+  node [
+    id 2678
+    label "article_1022"
+  ]
+  node [
+    id 2679
+    label "Epidemics; Small-World Networks; Venice"
+  ]
+  node [
+    id 2680
+    label "10.1007/978-3-319-46224-0_4"
+  ]
+  node [
+    id 2681
+    label "Citation And Co-Citation Analysis; Natural Language Processing"
+  ]
+  node [
+    id 2682
+    label "article_1024"
+  ]
+  node [
+    id 2683
+    label "Citation Mining; Reference Mining; Bibliometrics; Knowledge Graphs"
+  ]
+  node [
+    id 2684
+    label "10.46298/jdmdh.9380"
+  ]
+  node [
+    id 2685
+    label "Distributed Training; Group Synchronization; Scalable Graph Embedding"
+  ]
+  node [
+    id 2686
+    label "10.1007/s10994-022-06285-7"
+  ]
+  node [
+    id 2687
+    label "Early Modern Newssheets; Ext Reuse; Gazettes; Information Exchange; Media History; News Flows; Ocr"
+  ]
+  node [
+    id 2688
+    label "10.1007/978-3-319-15168-7_31"
+  ]
+  node [
+    id 2689
+    label "Wikipedia; Web Science; Data Analysis"
+  ]
+  node [
+    id 2690
+    label "10.1145/3442381.3450136"
+  ]
+  node [
+    id 2691
+    label "https://convegni.unicatt.it/aiucd-Spinaci_et_al.pdf"
+  ]
+  node [
+    id 2692
+    label "Ancient Inks And Papers; Early Printed Books; Logistic Regression; Non-Invasive Analysis; Principal Component Analysis (Pca); X-Ray Fluorescence (Xrf)"
+  ]
+  node [
+    id 2693
+    label "10.1016/j.microc.2017.12.010"
+  ]
+  node [
+    id 2694
+    label "Wikipedia; Citations; User Engagement"
+  ]
+  node [
+    id 2695
+    label "10.1145/3366423.3380300"
+  ]
+  node [
+    id 2696
+    label "Citation Impact; Citation Influence; Citation Networks; Impact; Influence; Interdisciplinarity"
+  ]
+  node [
+    id 2697
+    label "10.1007/s11192-020-03580-9"
+  ]
+  node [
+    id 2698
+    label "Bibliometrics; Citation Analysis; Citation Impact"
+  ]
+  node [
+    id 2699
+    label "article_1034"
+  ]
+  node [
+    id 2700
+    label "Archives; Artificial Intelligence"
+  ]
+  node [
+    id 2701
+    label "10.3828/coma.2022.22"
+  ]
+  node [
+    id 2702
+    label "Analysis Of Full Text; Databases And Electronic Publications; Journals"
+  ]
+  node [
+    id 2703
+    label "article_1036"
+  ]
+  node [
+    id 2704
+    label "Art; Nft Art; Network Analysis; Nfts; Social Networks (Online)"
+  ]
+  node [
+    id 2705
+    label "10.3389/fbloc.2022.1073499"
+  ]
+  node [
+    id 2706
+    label "Citation Indexing; Open Citations; Bibliographic Information Retrieval; Open Research Infrastructure"
+  ]
+  node [
+    id 2707
+    label "10.1007/s00799-022-00327-0"
+  ]
+  node [
+    id 2708
+    label "Citation Analysis; Bibliometrics; Open Access; Open Science"
+  ]
+  node [
+    id 2709
+    label "10.1371/journal.pone.0230416"
+  ]
+  node [
+    id 2710
+    label "Bibliometrics; Citation Analysis; Text Analysis; Text Mining"
+  ]
+  node [
+    id 2711
+    label "10.1002/asi.23981"
+  ]
+  node [
+    id 2712
+    label "Controlled Vocabularies; Digital Humanities; Linked Open Data; Ontologies; Semantic Web; Skos"
+  ]
+  node [
+    id 2713
+    label "10.1145/2657480.2657482"
+  ]
+  node [
+    id 2714
+    label "Bibliometrics; Citation Extraction; Digital Libraries; History Of Venice; Information Retrieval"
+  ]
+  node [
+    id 2715
+    label "10.1007/s00799-017-0210-1"
+  ]
+  node [
+    id 2716
+    label "Bibliometrics; Citation Extraction; History Of Venice; Information Retrieval"
+  ]
+  node [
+    id 2717
+    label "article_1044"
+  ]
+  node [
+    id 2718
+    label "Covid-19; Altmetrics; Blogs; Knowledge Transfer; News Sites; Scholarly Information; Science And Society; Science Communication"
+  ]
+  node [
+    id 2719
+    label "10.3389/frma.2022.824538"
+  ]
+  node [
+    id 2720
+    label "Bibliographic Coupling; Core Literature; History; Humanities; Intellectual Landscapes; Network Connectivity"
+  ]
+  node [
+    id 2721
+    label "10.1007/s11192-017-2550-4"
+  ]
+  node [
+    id 2722
+    label "Bibliometric Indicators; Citation Timing; Dynamic Networks; Elo System; Ranking Of Scholars"
+  ]
+  node [
+    id 2723
+    label "10.1016/j.joi.2017.09.003"
+  ]
+  node [
+    id 2724
+    label "Bert; Digital Cultural Heritage; Multi-Task Learning; Named Entity Recognition (Ner); Post-Ocr Correction; Transfer Learning"
+  ]
+  node [
+    id 2725
+    label "https://ceur-ws.org/Vol-2723/"
+  ]
+  node [
+    id 2726
+    label "Venice; Historiography; Bibliometrics; Citation Analysis"
+  ]
+  node [
+    id 2727
+    label "10.1086/699300"
+  ]
+  node [
+    id 2728
+    label "Citations; Data; Data Set; Wikipedia"
+  ]
+  node [
+    id 2729
+    label "10.1162/qss_a_00105"
+  ]
+  node [
+    id 2730
+    label "10.1002/asi.24301"
+  ]
+  node [
+    id 2731
+    label "Opencitations; Python; Rdf; Rdflib; Citation Data; Bibliographic Metadata; Spar Ontologies"
+  ]
+  node [
+    id 2732
+    label "10.1007/978-3-031-06981-9_18"
+  ]
+  node [
+    id 2733
+    label "Art History; Hermeneutics; Photo Archives; Semantic Web"
+  ]
+  node [
+    id 2734
+    label "10.4403/jlis.it-12533"
+  ]
+  node [
+    id 2735
+    label "Art Historians' Personal Archives"
+  ]
+  node [
+    id 2736
+    label "http://artchives.fondazionezeri.unibo.it/"
+  ]
+  node [
+    id 2737
+    label "Linked Open Data; Library Linked Data; Semantic Web; Crowdsourcing"
+  ]
+  node [
+    id 2738
+    label "10.4403/jlis.it-12703"
+  ]
+  node [
+    id 2739
+    label "Online Catalogue"
+  ]
+  node [
+    id 2740
+    label "Music Data"
+  ]
+  node [
+    id 2741
+    label "article_1058"
+  ]
+  node [
+    id 2742
+    label "Open Citation Data; Opencitations; Citation Data Curation; Open Science; Semantic Publishing"
+  ]
+  node [
+    id 2743
+    label "article_1066"
+  ]
+  node [
+    id 2744
+    label "10.14361/dcs-2020-0213"
+  ]
+  node [
+    id 2745
+    label "Data Analysis; Cinema Studies; Literary Studies; Wikidata; Imdb"
+  ]
+  node [
+    id 2746
+    label "10.6092/issn.2532-8816/14514"
+  ]
+  node [
+    id 2747
+    label "Data Analysis&#10;Cinema Studies&#10;Literary Studies&#10;Wikidata&#10;Imdb"
+  ]
+  node [
+    id 2748
+    label "10.6084/m9.figshare.16782781.v3"
+  ]
+  node [
+    id 2749
+    label "Lavoro Digitale"
+  ]
+  node [
+    id 2750
+    label "Digital Skills"
+  ]
+  node [
+    id 2751
+    label "article_1081"
+  ]
+  node [
+    id 2752
+    label "Semantic Web; Edizioni Digitali; Rinascimento; Vespasiano Da Bisticci"
+  ]
+  node [
+    id 2753
+    label "10.6092/issn.1721-4777/12325"
+  ]
+  node [
+    id 2754
+    label "article_1087"
+  ]
+  node [
+    id 2755
+    label "Archives"
+  ]
+  node [
+    id 2756
+    label "10.3233/SSW190006"
+  ]
+  node [
+    id 2757
+    label "https://www.iospress.com/catalog/books/mining-authoritativeness-in-art-historical-photo-archives"
+  ]
+  node [
+    id 2758
+    label "Data Preservation"
+  ]
+  node [
+    id 2759
+    label "Catalogue"
+  ]
+  node [
+    id 2760
+    label "http://projects.dharc.unibo.it/musow/"
+  ]
+  node [
+    id 2761
+    label "Linked Open Data; Ontology Development; Photo Archives; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 2762
+    label "10.1007/978-3-319-58694-6_34"
+  ]
+  node [
+    id 2763
+    label "Music Heritage"
+  ]
+  node [
+    id 2764
+    label "https://polifonia-project.eu"
+  ]
+  node [
+    id 2765
+    label "article_1101"
+  ]
+  node [
+    id 2766
+    label "https://umanisticadigitale.unibo.it"
+  ]
+  node [
+    id 2767
+    label "Computer Science (All); Mathematics (All)"
+  ]
+  node [
+    id 2768
+    label "10.1007/978-3-319-68130-6_1"
+  ]
+  node [
+    id 2769
+    label "Annotations; Earmark; Embedded Markup; Linked Open Data; Stand-Off Markup"
+  ]
+  node [
+    id 2770
+    label "10.1145/2517978.2517990"
+  ]
+  node [
+    id 2771
+    label "Change Detection; Change-Tracking; Diff Algorithms; Edit Operations; High-Level Changes; Xml Diff; Software"
+  ]
+  node [
+    id 2772
+    label "10.1002/spe.2305"
+  ]
+  node [
+    id 2773
+    label "Knowledge Management; Semantic Web; Tacit Knowledge; Wikis; Software; Control And Systems Engineering; Theoretical Computer Science; Computer Science Applications1707 Computer Vision And Pattern Recognition; Information Systems And Management; Artificial Intelligence"
+  ]
+  node [
+    id 2774
+    label "10.1016/j.ins.2017.12.009"
+  ]
+  node [
+    id 2775
+    label "Challenge; Linked Data; Linked Data Publishing; Semantic Publishing; Semantic Web; Survey; Computer Science (All)"
+  ]
+  node [
+    id 2776
+    label "10.7717/peerj-cs.105"
+  ]
+  node [
+    id 2777
+    label "article_1111"
+  ]
+  node [
+    id 2778
+    label "Semantic Publishing; Citalo; Citation Function"
+  ]
+  node [
+    id 2779
+    label "10.1007/978-3-642-41242-4_6"
+  ]
+  node [
+    id 2780
+    label "Entrepreneurship; Data Science; University-Industry Collaborations; Technology Innovation Management; Scientometrics; Strategy; Business Performance Analytics"
+  ]
+  node [
+    id 2781
+    label "10.1007/978-3-319-90548-8_7"
+  ]
+  node [
+    id 2782
+    label "Computational Journalism; Churnalism; News Churn; News Analysis; News Diffusion; Online News Publication"
+  ]
+  node [
+    id 2783
+    label "10.1145/3603163.3609062"
+  ]
+  node [
+    id 2784
+    label "Psychology"
+  ]
+  node [
+    id 2785
+    label "Psychiatry"
+  ]
+  node [
+    id 2786
+    label "https://www.sciencedirect.com/journal/computers-in-human-behavior"
+  ]
+  node [
+    id 2787
+    label "Linked Open Data Visualisation; Rdf; Semantic Web; Sparql; Computer Science (All)"
+  ]
+  node [
+    id 2788
+    label "Linked Open Data Visualisation; Rdf; Semantic Web; Sparql; Software"
+  ]
+  node [
+    id 2789
+    label "10.1145/3167132.3167367"
+  ]
+  node [
+    id 2790
+    label "Xml; Document Schemas; Ontologies"
+  ]
+  node [
+    id 2791
+    label "10.1002/asi.23088"
+  ]
+  node [
+    id 2792
+    label "Bibliographic References; Biro; C4O; Citation Network; Renhancer; Semantic Publishing; Spar; Computer Science (All)"
+  ]
+  node [
+    id 2793
+    label "http://ceur-ws.org/Vol-1155/paper-05.pdf"
+  ]
+  node [
+    id 2794
+    label "10.1007/s11192-022-04581-6"
+  ]
+  node [
+    id 2795
+    label "Applications; Change Analysis And Interpretation; Change Detection; Change Tracking; Merging Changes;"
+  ]
+  node [
+    id 2796
+    label "10.1145/2644866.2644896"
+  ]
+  node [
+    id 2797
+    label "Human-Computer Interaction; Computer Networks And Communications; 1707; Software"
+  ]
+  node [
+    id 2798
+    label "10.1145/2723147.2723148"
+  ]
+  node [
+    id 2799
+    label "Document Changes; Versioning; Diff; Change Management;"
+  ]
+  node [
+    id 2800
+    label "10.1145/2881631.2881632"
+  ]
+  node [
+    id 2801
+    label "Applications; Change Analysis And Interpretation; Change Detection; Change Tracking; Information Systems; Software"
+  ]
+  node [
+    id 2802
+    label "10.1145/2682571.2801032"
+  ]
+  node [
+    id 2803
+    label "Applications; Change Analysis And Interpretation; Change Detection; Change Tracking; Computer Science Applications"
+  ]
+  node [
+    id 2804
+    label "10.1145/2960811.2967169"
+  ]
+  node [
+    id 2805
+    label "Change Analysis And Interpretation; Change Detection; Change Tracking; Applications"
+  ]
+  node [
+    id 2806
+    label "10.1145/3209280.3232792"
+  ]
+  node [
+    id 2807
+    label "Applications; Change Analysis And Interpretation; Change Detection; Change Tracking; Merging Changes"
+  ]
+  node [
+    id 2808
+    label "10.1145/2494266.2494322"
+  ]
+  node [
+    id 2809
+    label "Web Technologies; Computer Networks And Communications; Information Systems; Software"
+  ]
+  node [
+    id 2810
+    label "http://www.rintonpress.com/xjwe14/jwe-14-12/001-002.pdf"
+  ]
+  node [
+    id 2811
+    label "article_1129"
+  ]
+  node [
+    id 2812
+    label "article_1130"
+  ]
+  node [
+    id 2813
+    label "article_1131"
+  ]
+  node [
+    id 2814
+    label "Index Terms&#8212;Document Visualization; Information Interfaces And Presentation; Scholarly Articles; Structural Patterns; Sunburst"
+  ]
+  node [
+    id 2815
+    label "10.18293/DMSVIVA2019-021"
+  ]
+  node [
+    id 2816
+    label "Collaborative Editing; Html; Technical Documentation; Templating; Computer Science Applications"
+  ]
+  node [
+    id 2817
+    label "10.1145/3209280.3209537"
+  ]
+  node [
+    id 2818
+    label "Web Sites Inference Mechanisms"
+  ]
+  node [
+    id 2819
+    label "10.1109/WETICE.2014.8"
+  ]
+  node [
+    id 2820
+    label "Descriptive Markup; Document Visualisation; Pattern Recognition; Structural Patterns; Xml; Computer Networks And Communications; Software"
+  ]
+  node [
+    id 2821
+    label "10.1145/2740908.2742018"
+  ]
+  node [
+    id 2822
+    label "Citations; Information Interfaces And Presentation; Scholarly Data Visualization; Semantic Publishing; Information Systems; Software"
+  ]
+  node [
+    id 2823
+    label "10.1145/2682571.2797065"
+  ]
+  node [
+    id 2824
+    label "10.1002/spe.2169"
+  ]
+  node [
+    id 2825
+    label "Contesti Citazionali; Citazioni;"
+  ]
+  node [
+    id 2826
+    label "http://ceur-ws.org/Vol-2253/"
+  ]
+  node [
+    id 2827
+    label "Semantic Publishing; Citation Function"
+  ]
+  node [
+    id 2828
+    label "10.1007/978-3-642-41242-4_30"
+  ]
+  node [
+    id 2829
+    label "Allot; Entity Description; Knowledge Base Query; Legal Ontology; Linked Data; Ontology Alignment"
+  ]
+  node [
+    id 2830
+    label "10.1145/2539150.2539180"
+  ]
+  node [
+    id 2831
+    label "Citation Functions; Citations; Semantic Publishing; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 2832
+    label "10.1007/978-3-030-01379-0_11"
+  ]
+  node [
+    id 2833
+    label "Html-Based Format"
+  ]
+  node [
+    id 2834
+    label "Scholarly Html"
+  ]
+  node [
+    id 2835
+    label "article_1142"
+  ]
+  node [
+    id 2836
+    label "article_1143"
+  ]
+  node [
+    id 2837
+    label "article_1145"
+  ]
+  node [
+    id 2838
+    label "Delta Model; Diff Algorithms; Metrics; Output Quality; Xml Diff; Software; Hardware And Architecture; Law"
+  ]
+  node [
+    id 2839
+    label "10.1016/j.csi.2015.12.005"
+  ]
+  node [
+    id 2840
+    label "Change Detection; Diff; Interpretation Of Changes; Textual Differences; Versioning"
+  ]
+  node [
+    id 2841
+    label "10.1145/3342558.3345406"
+  ]
+  node [
+    id 2842
+    label "10.1162/qss_a_00203"
+  ]
+  node [
+    id 2843
+    label "Asn; Research Evaluation; Open Citations; Open Data"
+  ]
+  node [
+    id 2844
+    label "https://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2019/"
+  ]
+  node [
+    id 2845
+    label "Web Automation; Semantic Wikis; Organizational Best Practices"
+  ]
+  node [
+    id 2846
+    label "10.5220/0004371403750380"
+  ]
+  node [
+    id 2847
+    label "Doco; Document Components; Xml"
+  ]
+  node [
+    id 2848
+    label "10.1145/2494266.2494319"
+  ]
+  node [
+    id 2849
+    label "Digital Publishing; Document Conversion; Rash; Semantic Publishing; Semantic Web; Xslt; Computer Science (All)"
+  ]
+  node [
+    id 2850
+    label "10.7717/peerj-cs.132"
+  ]
+  node [
+    id 2851
+    label "Collaborative Editing"
+  ]
+  node [
+    id 2852
+    label "Real-Time"
+  ]
+  node [
+    id 2853
+    label "User Behavior"
+  ]
+  node [
+    id 2854
+    label "Conflict Resolution"
+  ]
+  node [
+    id 2855
+    label "Simultaneous Editing"
+  ]
+  node [
+    id 2856
+    label "Etherpad"
+  ]
+  node [
+    id 2857
+    label "https://github.com/gdazero/RTCE/"
+  ]
+  node [
+    id 2858
+    label "10.1007/978-3-319-03524-6_29"
+  ]
+  node [
+    id 2859
+    label "Document Semantics; Semantic Publishing; Web Interface;"
+  ]
+  node [
+    id 2860
+    label "http://ceur-ws.org/Vol-1282/lisc2014_submission_6.pdf"
+  ]
+  node [
+    id 2861
+    label "10.1007/978-3-319-12024-9_8"
+  ]
+  node [
+    id 2862
+    label "Information Extraction"
+  ]
+  node [
+    id 2863
+    label "10.1007/978-3-319-25518-7_6"
+  ]
+  node [
+    id 2864
+    label "Challenge; Information Extraction; Linked Data;"
+  ]
+  node [
+    id 2865
+    label "10.1007/978-3-319-46565-4_19"
+  ]
+  node [
+    id 2866
+    label "10.1145/3274310"
+  ]
+  node [
+    id 2867
+    label "article_1160"
+  ]
+  node [
+    id 2868
+    label "article_1161"
+  ]
+  node [
+    id 2869
+    label "Knowledge Management; Social Software; Web 2.0; Wikis; Information Systems; Computer Science Applications1707 Computer Vision And Pattern Recognition; Library And Information Sciences"
+  ]
+  node [
+    id 2870
+    label "10.1108/OIR-02-2017-0038"
+  ]
+  node [
+    id 2871
+    label "Html-Based Scholarly Articles; Raje; Rash; Rash Framework; Research Article In Simplified Html; Research Communication; Web-First Format; Software; Information Systems; Computer Science Applications1707 Computer Vision And Pattern Recognition"
+  ]
+  node [
+    id 2872
+    label "10.1145/3103010.3103018"
+  ]
+  node [
+    id 2873
+    label "Data Reengineering And Enhancement; Linked Open Data; Scholarly Data; Semantic Lancet Project; Semantic Publishing; Spar Ontologies; Computer Science (All); Theoretical Computer Science"
+  ]
+  node [
+    id 2874
+    label "10.1007/978-3-319-17966-7_10"
+  ]
+  node [
+    id 2875
+    label "article_1166"
+  ]
+  node [
+    id 2876
+    label "Citations; Semantic Publishing"
+  ]
+  node [
+    id 2877
+    label "article_1167"
+  ]
+  node [
+    id 2878
+    label "Diff; Philology; Textual Bibliography; Versioning; Human-Computer Interaction;"
+  ]
+  node [
+    id 2879
+    label "10.1145/2802612.2802614"
+  ]
+  node [
+    id 2880
+    label "10.1016/j.scico.2014.03.001"
+  ]
+  node [
+    id 2881
+    label "Formal Concept Analysis"
+  ]
+  node [
+    id 2882
+    label "article_1170"
+  ]
+  node [
+    id 2883
+    label "Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 2884
+    label "10.1007/978-3-642-38288-8-24"
+  ]
+  node [
+    id 2885
+    label "Author Name Disambiguation; Bibliographic Data; Citation Data; Clustering; Knowledge Graph Embeddings; Open Citations"
+  ]
+  node [
+    id 2886
+    label "10.1007/s11192-022-04426-2"
+  ]
+  node [
+    id 2887
+    label "http://ceur-ws.org/Vol-1935/paper-06.pdf"
+  ]
+  node [
+    id 2888
+    label "N-Ary Relations; Ontology Design Patterns; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 2889
+    label "10.1007/978-3-642-35843-2_8"
+  ]
+  node [
+    id 2890
+    label "Odp; Publishing Process; Pwo; Workflow Description; Computer Science (All)"
+  ]
+  node [
+    id 2891
+    label "10.3233/978-1-61499-660-6-167"
+  ]
+  node [
+    id 2892
+    label "10.1145/2464464.2464519"
+  ]
+  node [
+    id 2893
+    label "Analysis Of Linked Data; Exploratory Search; Knowledge Exploration; Knowledge Patterns; Visual Exploration; Information Systems; Computer Science Applications1707 Computer Vision And Pattern Recognition; Computer Networks And Communications"
+  ]
+  node [
+    id 2894
+    label "10.3233/SW-160222"
+  ]
+  node [
+    id 2895
+    label "Formal Ontology; Knowledge Extraction; Metaphor Semantics; Artificial Intelligence"
+  ]
+  node [
+    id 2896
+    label "10.3233/978-1-61499-910-2-159"
+  ]
+  node [
+    id 2897
+    label "10.1007/978-3-319-70407-4_9"
+  ]
+  node [
+    id 2898
+    label "Empirical Knowledge Representation; Time Representation; Owl; Semantic Web"
+  ]
+  node [
+    id 2899
+    label "10.1145/2479832.2479854"
+  ]
+  node [
+    id 2900
+    label "Association Mining"
+  ]
+  node [
+    id 2901
+    label "Incremental Learning"
+  ]
+  node [
+    id 2902
+    label "10.1007/978-3-319-49004-5_9"
+  ]
+  node [
+    id 2903
+    label "10.1007/s13132-016-0361-0"
+  ]
+  node [
+    id 2904
+    label "Foaf"
+  ]
+  node [
+    id 2905
+    label "Human Relations"
+  ]
+  node [
+    id 2906
+    label "10.3233/AO-160169"
+  ]
+  node [
+    id 2907
+    label "article_1187"
+  ]
+  node [
+    id 2908
+    label "Case-Based Legal Reasoning"
+  ]
+  node [
+    id 2909
+    label "Judicial Interpretation"
+  ]
+  node [
+    id 2910
+    label "Legal Knowledge Modeling"
+  ]
+  node [
+    id 2911
+    label "Owl2"
+  ]
+  node [
+    id 2912
+    label "10.3233/SW-140146"
+  ]
+  node [
+    id 2913
+    label "Frame Semantics; Image Schemas; Knowledge Graphs; Linguistic Linked Data; Ontology Alignment; Prepositions"
+  ]
+  node [
+    id 2914
+    label "http://ceur-ws.org/Vol-2518/paper-CAOS3.pdf"
+  ]
+  node [
+    id 2915
+    label "article_1190"
+  ]
+  node [
+    id 2916
+    label "http://ceur-ws.org/Vol-1935/paper-05.pdf"
+  ]
+  node [
+    id 2917
+    label "Commonsense Reasoning; Ethics &#38; Ai; Frame Semantics; Knowledge Representation; Moral Values"
+  ]
+  node [
+    id 2918
+    label "10.1007/978-3-031-17105-5_1"
+  ]
+  node [
+    id 2919
+    label "article_1195"
+  ]
+  node [
+    id 2920
+    label "Cognitive Semantics; Frames; Knowledge Patterns; Relations; Roles; Semantic Interoperability"
+  ]
+  node [
+    id 2921
+    label "10.3233/SW-190383"
+  ]
+  node [
+    id 2922
+    label "10.3233/978-1-61499-676-7-189"
+  ]
+  node [
+    id 2923
+    label "Virtual Reality; Cultural Heritage; User Perspectives"
+  ]
+  node [
+    id 2924
+    label "article_1199"
+  ]
+  node [
+    id 2925
+    label "Social Inclusion"
+  ]
+  node [
+    id 2926
+    label "10.1007/978-3-031-34560-9_1"
+  ]
+  node [
+    id 2927
+    label "10.1007/978-3-319-46547-0_16"
+  ]
+  node [
+    id 2928
+    label "User Reviews"
+  ]
+  node [
+    id 2929
+    label "10.1007/978-3-319-26561-2_44"
+  ]
+  node [
+    id 2930
+    label "Ontology; Creativity; Psychological Theories; Neural Patterns"
+  ]
+  node [
+    id 2931
+    label "https://dblp.org/db/conf/creai/creai2023.html"
+  ]
+  node [
+    id 2932
+    label "Compliance; Consumers; Knowledge Patterns; Nlp; Ontology; Privacy And Data Protection; Privacy Policies; Computer Science (All)"
+  ]
+  node [
+    id 2933
+    label "http://ceur-ws.org/Vol-2049/"
+  ]
+  node [
+    id 2934
+    label "Moral Foundation Theory; Text Classification; Transformers"
+  ]
+  node [
+    id 2935
+    label "10.1007/978-3-031-25599-1_1"
+  ]
+  node [
+    id 2936
+    label "Conversational Agents; Human&#8211;Robot Interaction; Natural Language Processing; Socially Assistive Robotics; Spoken Dialogue Systems"
+  ]
+  node [
+    id 2937
+    label "10.1089/rej.2018.2075"
+  ]
+  node [
+    id 2938
+    label "Diagrams"
+  ]
+  node [
+    id 2939
+    label "Altmetrics; Bibliometric Indicators; Correlation Analysis; Research Quality"
+  ]
+  node [
+    id 2940
+    label "10.1007/s11192-018-2988-z"
+  ]
+  node [
+    id 2941
+    label "10.3233/978-1-61499-676-7-81"
+  ]
+  node [
+    id 2942
+    label "Dolce; Formal Ontology; Foundational Ontology; Ontological Analysis; Use Cases"
+  ]
+  node [
+    id 2943
+    label "10.3233/AO-210259"
+  ]
+  node [
+    id 2944
+    label "10.1016/j.knosys.2017.08.014"
+  ]
+  node [
+    id 2945
+    label "Lived Experiences Extraction"
+  ]
+  node [
+    id 2946
+    label "10.1007/978-3-319-49004-5_21"
+  ]
+  node [
+    id 2947
+    label "Human Behaviour"
+  ]
+  node [
+    id 2948
+    label "Emotions"
+  ]
+  node [
+    id 2949
+    label "10.1038/s41598-023-36201-5"
+  ]
+  node [
+    id 2950
+    label "Knowledge Graph; Word Embeddings; Implicit Biases; Gender; Cognitive Semantics"
+  ]
+  node [
+    id 2951
+    label "10.1007/s00146-022-01474-3"
+  ]
+  node [
+    id 2952
+    label "10.1007/978-3-030-01379-0_4"
+  ]
+  node [
+    id 2953
+    label "Sparql&#10;Metamodel&#10;Reengineering"
+  ]
+  node [
+    id 2954
+    label "10.3233/SSW210035"
+  ]
+  node [
+    id 2955
+    label "Linked Open Data; Ontologies; Ontology Design Patterns"
+  ]
+  node [
+    id 2956
+    label "10.1007/978-3-319-46547-0_18"
+  ]
+  node [
+    id 2957
+    label "Perspectives; Perspectivisation; Frame Semantics; Ontology Design Patterns; Knowledge Extraction"
+  ]
+  node [
+    id 2958
+    label "10.1017/9781108641104.016"
+  ]
+  node [
+    id 2959
+    label "Compositionality; Frame Semantics; Knowledge Graphs; Natural Language"
+  ]
+  node [
+    id 2960
+    label "http://ceur-ws.org/Vol-2347/2-Gangemi.pdf"
+  ]
+  node [
+    id 2961
+    label "article_1222"
+  ]
+  node [
+    id 2962
+    label "article_1223"
+  ]
+  node [
+    id 2963
+    label "10.1109/MCI.2013.2291688"
+  ]
+  node [
+    id 2964
+    label "article_1225"
+  ]
+  node [
+    id 2965
+    label "10.1007/978-3-319-49004-5_16"
+  ]
+  node [
+    id 2966
+    label "Frame Semantics; Knowledge Graph; Knowledge Representation; Machine Reading; Ontology Engineering"
+  ]
+  node [
+    id 2967
+    label "article_1227"
+  ]
+  node [
+    id 2968
+    label "10.3233/SW-160221"
+  ]
+  node [
+    id 2969
+    label "Egovernment; Gis-Based Data Management; Linked Open Data Extraction And Publication; Open Data Applications; Human-Computer Interaction; Computer Networks And Communications; 1707; Software"
+  ]
+  node [
+    id 2970
+    label "10.1145/2611040.2611092"
+  ]
+  node [
+    id 2971
+    label "Foundations Of Trustworthy Ai&#10;Automated Reasoning&#10;Machine Learning&#10;Combinatorial Optimization"
+  ]
+  node [
+    id 2972
+    label "10.48550/arXiv.2109.06022"
+  ]
+  node [
+    id 2973
+    label "Claim Verification; Graph-Based Nlp; Passage Retrieval"
+  ]
+  node [
+    id 2974
+    label "10.1007/978-3-030-93413-2_41"
+  ]
+  node [
+    id 2975
+    label "10.1016/j.knosys.2016.05.023"
+  ]
+  node [
+    id 2976
+    label "10.3233/sw-223084"
+  ]
+  node [
+    id 2977
+    label "Fuzzy Logic&#10;Wordnet Synsets"
+  ]
+  node [
+    id 2978
+    label "https://arxiv.org/pdf/2104.10660"
+  ]
+  node [
+    id 2979
+    label "10.1109/ACCESS.2023.3240089"
+  ]
+  node [
+    id 2980
+    label "Personal Data Classification"
+  ]
+  node [
+    id 2981
+    label "Privacy Protection"
+  ]
+  node [
+    id 2982
+    label "Sensitive Data Corpus"
+  ]
+  node [
+    id 2983
+    label "Sensitive Information Detection"
+  ]
+  node [
+    id 2984
+    label "Sensitive Personal Data"
+  ]
+  node [
+    id 2985
+    label "Transformer Models."
+  ]
+  node [
+    id 2986
+    label "Sparql&#10;Meta-Model&#10;Re-Engineering&#10;Rdf"
+  ]
+  node [
+    id 2987
+    label "10.1145/3555312"
+  ]
+  node [
+    id 2988
+    label "http://ceur-ws.org/Vol-1935/paper-07.pdf"
+  ]
+  node [
+    id 2989
+    label "article_1242"
+  ]
+  node [
+    id 2990
+    label "10.1007/978-3-319-58694-6_9"
+  ]
+  node [
+    id 2991
+    label "10.1016/j.knosys.2016.05.014"
+  ]
+  node [
+    id 2992
+    label "Ditto; Graffoo; Graphical Notation; Owl; Yed"
+  ]
+  node [
+    id 2993
+    label "10.3233/978-1-61499-676-7-105"
+  ]
+  node [
+    id 2994
+    label "Ontology Refinement"
+  ]
+  node [
+    id 2995
+    label "article_1249"
+  ]
+  node [
+    id 2996
+    label "article_1250"
+  ]
+  node [
+    id 2997
+    label "10.1007/978-3-030-05249-2_6"
+  ]
+  node [
+    id 2998
+    label "10.1007/978-3-319-25518-7_1"
+  ]
+  node [
+    id 2999
+    label "Academic Assessment; Asn; Data Processing; Informetrics; Machine Learning; National Scientific Habilitation; Predictive Models; Research Evaluation; Science Of Science; Scientometrics"
+  ]
+  node [
+    id 3000
+    label "10.7717/peerj-cs.199"
+  ]
+  node [
+    id 3001
+    label "Graph-Based Ai; Privacy Knowledge Graph; Privacy Protection; Semantic Models; Sensitive Personal Data"
+  ]
+  node [
+    id 3002
+    label "10.3390/bdcc6030090"
+  ]
+  node [
+    id 3003
+    label "Data Modeling; Interoperability; Linked Open Data For Smart Cities; Rdf Data Processing; Semantics And Egovernment; Management Information Systems; Information Systems; Computer Science Applications1707 Computer Vision And Pattern Recognition; Information Systems And Management"
+  ]
+  node [
+    id 3004
+    label "10.1016/j.bdr.2016.10.001"
+  ]
+  node [
+    id 3005
+    label "Datanode"
+  ]
+  node [
+    id 3006
+    label "Rdf Licenses"
+  ]
+  node [
+    id 3007
+    label "10.1145/2815833.2815839"
+  ]
+  node [
+    id 3008
+    label "Data Flows"
+  ]
+  node [
+    id 3009
+    label "Policies"
+  ]
+  node [
+    id 3010
+    label "Policy Propagation"
+  ]
+  node [
+    id 3011
+    label "10.3233/SW-170266"
+  ]
+  node [
+    id 3012
+    label "Robot Experience Stories"
+  ]
+  node [
+    id 3013
+    label "Sitlog"
+  ]
+  node [
+    id 3014
+    label "Service Robot"
+  ]
+  node [
+    id 3015
+    label "Narrative Generation"
+  ]
+  node [
+    id 3016
+    label "10.3233/JIFS-169511"
+  ]
+  node [
+    id 3017
+    label "10.1145/2815833.2816945"
+  ]
+  node [
+    id 3018
+    label "Dependency Parsing; Frame Semantics; Framester; Role Oriented Knowledge Graphs; Semantic Role Labeling"
+  ]
+  node [
+    id 3019
+    label "10.1007/s13748-021-00241-7"
+  ]
+  node [
+    id 3020
+    label "10.1007/978-3-030-00072-1"
+  ]
+  node [
+    id 3021
+    label "10.1007/978-3-319-54499-1_1"
+  ]
+  node [
+    id 3022
+    label "10.3233/SW-160240"
+  ]
+  node [
+    id 3023
+    label "Natural Language Processing; Health Data; Systematic Reviews; Guidelines; Evidence-Based&#10;Medicine; Covid-19; Sars-Cov-2; Machine Reading; Machine Learning; Artificial Intelligence"
+  ]
+  node [
+    id 3024
+    label "10.3390/info13030117"
+  ]
+  node [
+    id 3025
+    label "Computational Linguistics; Language Resources; Common Sense; Collaborative Environment"
+  ]
+  node [
+    id 3026
+    label "10.1007/978-3-642-35085-6_2"
+  ]
+  node [
+    id 3027
+    label "10.1007/s12559-014-9302-z"
+  ]
+  node [
+    id 3028
+    label "Anti-Pattern"
+  ]
+  node [
+    id 3029
+    label "Data Quality"
+  ]
+  node [
+    id 3030
+    label "Formal Ontologies"
+  ]
+  node [
+    id 3031
+    label "10.1007/978-3-319-25007-6_11"
+  ]
+  node [
+    id 3032
+    label "Emergency Vehicle Routing; Geo-Linked Open Data Applications; Linked Egovernment Data Extraction And Publication; Sustainable Mobility; Computer Science (All); Theoretical Computer Science"
+  ]
+  node [
+    id 3033
+    label "10.1007/978-3-319-11955-7_4"
+  ]
+  node [
+    id 3034
+    label "Spatial Reference Systems"
+  ]
+  node [
+    id 3035
+    label "Embodiment"
+  ]
+  node [
+    id 3036
+    label "Spatial Cognition"
+  ]
+  node [
+    id 3037
+    label "10.4230/DagRep.4.3.181"
+  ]
+  node [
+    id 3038
+    label "10.1145/2506182.2506189"
+  ]
+  node [
+    id 3039
+    label "http://ceur-ws.org/Vol-3064/mdk5.pdf"
+  ]
+  node [
+    id 3040
+    label "Computational Musicology; Music Information Retrieval; Ontology; Owl; Rdf; Semantic Web"
+  ]
+  node [
+    id 3041
+    label "10.4230/OASIcs.MDK.2021.5"
+  ]
+  node [
+    id 3042
+    label "Information Realization"
+  ]
+  node [
+    id 3043
+    label "Information Entities"
+  ]
+  node [
+    id 3044
+    label "Information Objects"
+  ]
+  node [
+    id 3045
+    label "article_1274"
+  ]
+  node [
+    id 3046
+    label "Midi"
+  ]
+  node [
+    id 3047
+    label "Music Interoperability"
+  ]
+  node [
+    id 3048
+    label "10.1007/978-3-319-68204-4_16"
+  ]
+  node [
+    id 3049
+    label "Computer Music"
+  ]
+  node [
+    id 3050
+    label "http://ceur-ws.org/Vol-3011/pattern2.pdf"
+  ]
+  node [
+    id 3051
+    label "10.1007/s11192-020-03397-6"
+  ]
+  node [
+    id 3052
+    label "Odp; Publishing Process; Pwo; Workflow Description; Information Systems; Computer Science Applications1707 Computer Vision And Pattern Recognition; Computer Networks And Communications"
+  ]
+  node [
+    id 3053
+    label "10.3233/SW-160230"
+  ]
+  node [
+    id 3054
+    label "Cognitive Semantics; Embodied Cognition; Frame Semantics; Image Schemas; Knowledge Reprentation"
+  ]
+  node [
+    id 3055
+    label "https://ceur-ws.org/Vol-3140/"
+  ]
+  node [
+    id 3056
+    label "10.1007/978-3-319-46397-1_9"
+  ]
+  node [
+    id 3057
+    label "10.1007/978-3-319-46565-4_1"
+  ]
+  node [
+    id 3058
+    label "10.1007/978-3-319-93417-4"
+  ]
+  node [
+    id 3059
+    label "10.1007/978-3-319-98192-5"
+  ]
+  node [
+    id 3060
+    label "10.1007/978-3-642-41242-4_34"
+  ]
+  node [
+    id 3061
+    label "Citizen Curation; Interpretation; Museum Information System; Reflection; User Engagement"
+  ]
+  node [
+    id 3062
+    label "http://ceur-ws.org/Vol-2687/paper7.pdf"
+  ]
+  node [
+    id 3063
+    label "Emotion Detection"
+  ]
+  node [
+    id 3064
+    label "Transformers"
+  ]
+  node [
+    id 3065
+    label "Out-Of-Distribution"
+  ]
+  node [
+    id 3066
+    label "10.18653/v1/2023.findings-acl.524"
+  ]
+  node [
+    id 3067
+    label "Emergency Vehicle Routing; Geo-Linked Open Data Applications; Linked Egovernment Data Extraction And Publication; Sustainable Mobility; Computer Science (All)"
+  ]
+  node [
+    id 3068
+    label "10.3233/978-1-61499-696-5-297"
+  ]
+  node [
+    id 3069
+    label "article_1291"
+  ]
+  node [
+    id 3070
+    label "article_1292"
+  ]
+  node [
+    id 3071
+    label "article_1293"
+  ]
+  node [
+    id 3072
+    label "Moral Values&#10;Frame Semantics&#10;Zero-Shot Learning&#10;Natural Language Inferenced"
+  ]
+  node [
+    id 3073
+    label "10.18653/v1/2022.deelio-1.4"
+  ]
+  node [
+    id 3074
+    label "Altmetrics&#10;Research Evaluation&#10;Bibliometric Indicators&#10;Covid-19&#10;Sars-Cov-2&#10;Ncov-2019"
+  ]
+  node [
+    id 3075
+    label "10.1007/s11192-020-03809-7"
+  ]
+  node [
+    id 3076
+    label "Embodied Experience; Interpretation-Reflection Loop; Social Cohesion; Virtual Embodiment; Virtual Reality"
+  ]
+  node [
+    id 3077
+    label "10.1016/j.chb.2023.107911"
+  ]
+  node [
+    id 3078
+    label "Fascismo"
+  ]
+  node [
+    id 3079
+    label "Eros E Priapo"
+  ]
+  node [
+    id 3080
+    label "Intertestualit&#224;"
+  ]
+  node [
+    id 3081
+    label "Interdiscorsivit&#224;."
+  ]
+  node [
+    id 3082
+    label "article_1297"
+  ]
+  node [
+    id 3083
+    label "Francesco Petrarca"
+  ]
+  node [
+    id 3084
+    label "Codice Degli Abbozzi"
+  ]
+  node [
+    id 3085
+    label "Varianti"
+  ]
+  node [
+    id 3086
+    label "Federico Ubaldini"
+  ]
+  node [
+    id 3087
+    label "Urbano Viii"
+  ]
+  node [
+    id 3088
+    label "Canzoniere."
+  ]
+  node [
+    id 3089
+    label "article_1298"
+  ]
+  node [
+    id 3090
+    label "Critica Delle Varianti"
+  ]
+  node [
+    id 3091
+    label "St&#233;phane Mallarm&#233;"
+  ]
+  node [
+    id 3092
+    label "Paul Val&#233;ry"
+  ]
+  node [
+    id 3093
+    label "Gianfranco Contini"
+  ]
+  node [
+    id 3094
+    label "Benedetto Croce"
+  ]
+  node [
+    id 3095
+    label "Lanfranco Caretti"
+  ]
+  node [
+    id 3096
+    label "Ludovico Ariosto"
+  ]
+  node [
+    id 3097
+    label "Giacomo Leopardi."
+  ]
+  node [
+    id 3098
+    label "https://www.carocci.it/prodotto/gli-scartafacci-degli-scrittori"
+  ]
+  node [
+    id 3099
+    label "Letteratura Italiana Contemporanea"
+  ]
+  node [
+    id 3100
+    label "Unpublished Notes"
+  ]
+  node [
+    id 3101
+    label "Giacomo Leopardi"
+  ]
+  node [
+    id 3102
+    label "article_1300"
+  ]
+  node [
+    id 3103
+    label "Zibaldone; Operette Morali; Giacomo Leopardi; Letteratura Contemporanea; Moral Philosophy; Letteratura Italiana; Carlo Emilio Gadda; Unpublished Notes"
+  ]
+  node [
+    id 3104
+    label "article_1301"
+  ]
+  node [
+    id 3105
+    label "Critica Genetica"
+  ]
+  node [
+    id 3106
+    label "https://journals.openedition.org/genesis/4497"
+  ]
+  node [
+    id 3107
+    label "Letteratura Moderna E Contemporanea"
+  ]
+  node [
+    id 3108
+    label "Giorgio Bassani"
+  ]
+  node [
+    id 3109
+    label "&#34;Paragone&#34;"
+  ]
+  node [
+    id 3110
+    label "Quer Pasticciaccio Brutto De Via Merulana"
+  ]
+  node [
+    id 3111
+    label "Psicoanalisi"
+  ]
+  node [
+    id 3112
+    label "&#34;Botteghe Oscure&#34;"
+  ]
+  node [
+    id 3113
+    label "article_1303"
+  ]
+  node [
+    id 3114
+    label "Poesia Dell'Ottocento"
+  ]
+  node [
+    id 3115
+    label "Romanticismo"
+  ]
+  node [
+    id 3116
+    label "Canti."
+  ]
+  node [
+    id 3117
+    label "article_1304"
+  ]
+  node [
+    id 3118
+    label "Romanzo"
+  ]
+  node [
+    id 3119
+    label "Promessi Sposi."
+  ]
+  node [
+    id 3120
+    label "article_1305"
+  ]
+  node [
+    id 3121
+    label "Autografi"
+  ]
+  node [
+    id 3122
+    label "Ariosto"
+  ]
+  node [
+    id 3123
+    label "Gadda"
+  ]
+  node [
+    id 3124
+    label "Bassani"
+  ]
+  node [
+    id 3125
+    label "article_1306"
+  ]
+  node [
+    id 3126
+    label "Filologia Della Letteratura Italiana"
+  ]
+  node [
+    id 3127
+    label "Varianti D'Autore"
+  ]
+  node [
+    id 3128
+    label "Critica Delle Varianti."
+  ]
+  node [
+    id 3129
+    label "article_1307"
+  ]
+  node [
+    id 3130
+    label "Letteratura Italiana; Archivi; Biblioteche; Manoscritti; Gadda"
+  ]
+  node [
+    id 3131
+    label "article_1308"
+  ]
+  node [
+    id 3132
+    label "Confocal Microscopy; Diffraction Limit; Ink; Paper; Schottky Diode Detector; Terahertz; Radiation; Instrumentation; Condensed Matter Physics; Electrical And Electronic Engineering"
+  ]
+  node [
+    id 3133
+    label "10.1007/s10762-016-0338-x"
+  ]
+  node [
+    id 3134
+    label "Mario Tobino"
+  ]
+  node [
+    id 3135
+    label "Medical Humanities"
+  ]
+  node [
+    id 3136
+    label "Le Libere Donne Di Magliano"
+  ]
+  node [
+    id 3137
+    label "Il Deserto Della Libia"
+  ]
+  node [
+    id 3138
+    label "Per Le Antiche Scale"
+  ]
+  node [
+    id 3139
+    label "Psichiatria E Letteratura"
+  ]
+  node [
+    id 3140
+    label "10.17457/9788866804277_TAB.PDF"
+  ]
+  node [
+    id 3141
+    label "Epistolario"
+  ]
+  node [
+    id 3142
+    label "Biografia"
+  ]
+  node [
+    id 3143
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-87-settembre-dicembre-2023/"
+  ]
+  node [
+    id 3144
+    label "Marcel Proust."
+  ]
+  node [
+    id 3145
+    label "Ecdotica Filologia Testuale"
+  ]
+  node [
+    id 3146
+    label "article_1313"
+  ]
+  node [
+    id 3147
+    label "https://site.unibo.it/ecdotica/it"
+  ]
+  node [
+    id 3148
+    label "Critica Del Testo"
+  ]
+  node [
+    id 3149
+    label "Teoria Del Testo."
+  ]
+  node [
+    id 3150
+    label "Aldo Moro"
+  ]
+  node [
+    id 3151
+    label "10.7385/101917"
+  ]
+  node [
+    id 3152
+    label "Google"
+  ]
+  node [
+    id 3153
+    label "Edizioni"
+  ]
+  node [
+    id 3154
+    label "Editing."
+  ]
+  node [
+    id 3155
+    label "article_1317"
+  ]
+  node [
+    id 3156
+    label "Testi Digitali"
+  ]
+  node [
+    id 3157
+    label "Scholarly Editions."
+  ]
+  node [
+    id 3158
+    label "https://www.salernoeditrice.it/prodotto/editing-2000/"
+  ]
+  node [
+    id 3159
+    label "Filologia Italiana; Critica Del Testo; Letteratura Ed Editoria Nel Novecento; Letteratura Italiana; Carlo Emilio Gadda; Eugenio Montale; Letteratura Del Novecento"
+  ]
+  node [
+    id 3160
+    label "http://www.salernoeditrice.it/Rassegna_stampa.asp?id=1921"
+  ]
+  node [
+    id 3161
+    label "Digital Humanities."
+  ]
+  node [
+    id 3162
+    label "article_1320"
+  ]
+  node [
+    id 3163
+    label "article_1321"
+  ]
+  node [
+    id 3164
+    label "Variants Criticism"
+  ]
+  node [
+    id 3165
+    label "Wiki Leopardi"
+  ]
+  node [
+    id 3166
+    label "Ecdosys Leopardi"
+  ]
+  node [
+    id 3167
+    label "Wiki&#10;Gadda; Filologia D&#8217;Autore"
+  ]
+  node [
+    id 3168
+    label "Scholarly Edition"
+  ]
+  node [
+    id 3169
+    label "Fotonica"
+  ]
+  node [
+    id 3170
+    label "Imaging"
+  ]
+  node [
+    id 3171
+    label "Edizioni Critiche"
+  ]
+  node [
+    id 3172
+    label "Edizioni Scientifiche"
+  ]
+  node [
+    id 3173
+    label "article_1323"
+  ]
+  node [
+    id 3174
+    label "Letteratura Francese"
+  ]
+  node [
+    id 3175
+    label "Simbolismo"
+  ]
+  node [
+    id 3176
+    label "Mallarm&#233;"
+  ]
+  node [
+    id 3177
+    label "Val&#233;ry"
+  ]
+  node [
+    id 3178
+    label "Proust."
+  ]
+  node [
+    id 3179
+    label "article_1324"
+  ]
+  node [
+    id 3180
+    label "Filologia Editoriale; Edizioni Critiche; Edizioni Critiche Digitali; Testi In Raccolta; Opere Complete"
+  ]
+  node [
+    id 3181
+    label "10.13130/2499-6637/8918"
+  ]
+  node [
+    id 3182
+    label "Filologia; Editoria; Ecdotica; Letteratura Italiana Del Novecento"
+  ]
+  node [
+    id 3183
+    label "article_1326"
+  ]
+  node [
+    id 3184
+    label "Authorship."
+  ]
+  node [
+    id 3185
+    label "article_1327"
+  ]
+  node [
+    id 3186
+    label "Scholarly Digital Editions"
+  ]
+  node [
+    id 3187
+    label "Edizioni Critiche Digitali"
+  ]
+  node [
+    id 3188
+    label "Filologia D'Autore."
+  ]
+  node [
+    id 3189
+    label "10.1093/llc/fqaa022"
+  ]
+  node [
+    id 3190
+    label "Fascismo."
+  ]
+  node [
+    id 3191
+    label "article_1329"
+  ]
+  node [
+    id 3192
+    label "Lessicografia"
+  ]
+  node [
+    id 3193
+    label "Linguistica Italiana"
+  ]
+  node [
+    id 3194
+    label "http://www.carocci.it/index.php?option=com_carocci&#38;task=schedalibro&#38;Itemid=72&#38;isbn=9788829016488"
+  ]
+  node [
+    id 3195
+    label "Grande Guerra"
+  ]
+  node [
+    id 3196
+    label "Diari"
+  ]
+  node [
+    id 3197
+    label "Caporetto"
+  ]
+  node [
+    id 3198
+    label "Memorialistica"
+  ]
+  node [
+    id 3199
+    label "https://www.adelphi.it/libro/9788845937316"
+  ]
+  node [
+    id 3200
+    label "Alessandro; I Promessi Sposi; Varianti; Ventisettana; Seconda Minuta"
+  ]
+  node [
+    id 3201
+    label "http://annali.casadelmanzoni.it/index.php/annali/article/view/17/8"
+  ]
+  node [
+    id 3202
+    label "Autografia"
+  ]
+  node [
+    id 3203
+    label "Autenticit&#224;"
+  ]
+  node [
+    id 3204
+    label "Annalisa Cima"
+  ]
+  node [
+    id 3205
+    label "article_1333"
+  ]
+  node [
+    id 3206
+    label "Letteratura Del Novecento."
+  ]
+  node [
+    id 3207
+    label "article_1334"
+  ]
+  node [
+    id 3208
+    label "Letteratura Del Novecento&#10;Editoria&#10;Filologia &#10;Editing"
+  ]
+  node [
+    id 3209
+    label "article_1335"
+  ]
+  node [
+    id 3210
+    label "Filologia Editoriale."
+  ]
+  node [
+    id 3211
+    label "article_1336"
+  ]
+  node [
+    id 3212
+    label "Google; Lettori; Wiki-Source; Edizioni Digitali; Testi In Rete; Manzoni"
+  ]
+  node [
+    id 3213
+    label "10.13130/2499-6637/6971"
+  ]
+  node [
+    id 3214
+    label "Illuminismo"
+  ]
+  node [
+    id 3215
+    label "Pietro Verri"
+  ]
+  node [
+    id 3216
+    label "Vittorio Alfieri"
+  ]
+  node [
+    id 3217
+    label "Vincenzo Monti"
+  ]
+  node [
+    id 3218
+    label "article_1338"
+  ]
+  node [
+    id 3219
+    label "Storia Della Colonna Infame"
+  ]
+  node [
+    id 3220
+    label "Silvio Pellico"
+  ]
+  node [
+    id 3221
+    label "Pietro Maroncelli"
+  ]
+  node [
+    id 3222
+    label "Erich Auerbach"
+  ]
+  node [
+    id 3223
+    label "Mimesis"
+  ]
+  node [
+    id 3224
+    label "https://www.mimesisedizioni.it/libro/9791222303956"
+  ]
+  node [
+    id 3225
+    label "Pirandello"
+  ]
+  node [
+    id 3226
+    label "10.14434/textual.v12i2.28668"
+  ]
+  node [
+    id 3227
+    label "I Promessi Sposi"
+  ]
+  node [
+    id 3228
+    label "La Storia Della Colonna Infame."
+  ]
+  node [
+    id 3229
+    label "https://www.carocci.it/prodotto/manzoni-2"
+  ]
+  node [
+    id 3230
+    label "Giovanni Boccaccio"
+  ]
+  node [
+    id 3231
+    label "Umanesimo"
+  ]
+  node [
+    id 3232
+    label "Sannazzaro"
+  ]
+  node [
+    id 3233
+    label "Niccol&#242; Machiavelli"
+  ]
+  node [
+    id 3234
+    label "Lodovico Ariosto"
+  ]
+  node [
+    id 3235
+    label "Francesco Guicciardini"
+  ]
+  node [
+    id 3236
+    label "Baldassar Castiglione"
+  ]
+  node [
+    id 3237
+    label "Pietro Bembo"
+  ]
+  node [
+    id 3238
+    label "Giovan Giorgio Trissino"
+  ]
+  node [
+    id 3239
+    label "Pietro Aretino"
+  ]
+  node [
+    id 3240
+    label "Giovanni Della Casa"
+  ]
+  node [
+    id 3241
+    label "Annibale Rucellai"
+  ]
+  node [
+    id 3242
+    label "Vincenzio Borghini"
+  ]
+  node [
+    id 3243
+    label "Torquato Tasso"
+  ]
+  node [
+    id 3244
+    label "Alessandro Tassoni"
+  ]
+  node [
+    id 3245
+    label "Galileo Galilei"
+  ]
+  node [
+    id 3246
+    label "Giovan Battista Vico"
+  ]
+  node [
+    id 3247
+    label "Pietro Metastasio"
+  ]
+  node [
+    id 3248
+    label "Giuseppe Pelli Bencivenni"
+  ]
+  node [
+    id 3249
+    label "Alessandro Manzoni."
+  ]
+  node [
+    id 3250
+    label "https://volontadarchivio.disll.unipd.it/il-volume/"
+  ]
+  node [
+    id 3251
+    label "Letteratura Italiana; Letteratura Italiana Contemporanea; Mario Tobino; Resistenza"
+  ]
+  node [
+    id 3252
+    label "article_1343"
+  ]
+  node [
+    id 3253
+    label "Wiki Edizioni"
+  ]
+  node [
+    id 3254
+    label "Scholarly Editing"
+  ]
+  node [
+    id 3255
+    label "Archivi Digitali."
+  ]
+  node [
+    id 3256
+    label "https://amsacta.unibo.it/id/eprint/6348/"
+  ]
+  node [
+    id 3257
+    label "Lingua Italiana"
+  ]
+  node [
+    id 3258
+    label "Didattica Della Lingua Italiana"
+  ]
+  node [
+    id 3259
+    label "Grammatica Italiana"
+  ]
+  node [
+    id 3260
+    label "Letteratura Moderna E Contemporanea."
+  ]
+  node [
+    id 3261
+    label "https://www.lascuolasei.it/catalogo/ss2-biennio-licei/italiano-020/la-bella-lingua"
+  ]
+  node [
+    id 3262
+    label "Dante Alighieri"
+  ]
+  node [
+    id 3263
+    label "Divina Commedia"
+  ]
+  node [
+    id 3264
+    label "Foscolo"
+  ]
+  node [
+    id 3265
+    label "Witte"
+  ]
+  node [
+    id 3266
+    label "Scartazzini"
+  ]
+  node [
+    id 3267
+    label "Cannizzaro"
+  ]
+  node [
+    id 3268
+    label "Porta"
+  ]
+  node [
+    id 3269
+    label "Tommaseo"
+  ]
+  node [
+    id 3270
+    label "Camerini"
+  ]
+  node [
+    id 3271
+    label "article_1347"
+  ]
+  node [
+    id 3272
+    label "Rossetti"
+  ]
+  node [
+    id 3273
+    label "Cannizzaro."
+  ]
+  node [
+    id 3274
+    label "article_1348"
+  ]
+  node [
+    id 3275
+    label "Dante Isella"
+  ]
+  node [
+    id 3276
+    label "Giuseppe Parini"
+  ]
+  node [
+    id 3277
+    label "Vittorio Sereni"
+  ]
+  node [
+    id 3278
+    label "Leo Spitzer"
+  ]
+  node [
+    id 3279
+    label "Carlo Dossi"
+  ]
+  node [
+    id 3280
+    label "Carlo Porta"
+  ]
+  node [
+    id 3281
+    label "Delio Tessa"
+  ]
+  node [
+    id 3282
+    label "Eugenio Montale."
+  ]
+  node [
+    id 3283
+    label "article_1349"
+  ]
+  node [
+    id 3284
+    label "Filologia D&#8217;Autore"
+  ]
+  node [
+    id 3285
+    label "Alberto Blecua"
+  ]
+  node [
+    id 3286
+    label "Lope De Vega"
+  ]
+  node [
+    id 3287
+    label "Carlo Emilio Gadda."
+  ]
+  node [
+    id 3288
+    label "10.5565/rev/anuariolopedevega.488"
+  ]
+  node [
+    id 3289
+    label "Critica Testuale"
+  ]
+  node [
+    id 3290
+    label "Archivi Digitali"
+  ]
+  node [
+    id 3291
+    label "http://amsacta.unibo.it/6348/"
+  ]
+  node [
+    id 3292
+    label "Letteratura Moderne E Contemporanea"
+  ]
+  node [
+    id 3293
+    label "Filologia Editoriale"
+  ]
+  node [
+    id 3294
+    label "Editoria."
+  ]
+  node [
+    id 3295
+    label "article_1352"
+  ]
+  node [
+    id 3296
+    label "Letteratura Dell'Ottocento"
+  ]
+  node [
+    id 3297
+    label "article_1353"
+  ]
+  node [
+    id 3298
+    label "Fauriel."
+  ]
+  node [
+    id 3299
+    label "https://www.bardiedizioni.it/product/la-ricezione-della-commedia-dai-manoscritti-ai-media/"
+  ]
+  node [
+    id 3300
+    label "Biblioteche D'Autore"
+  ]
+  node [
+    id 3301
+    label "Letteratura Italiana Moderna E Contemporanea."
+  ]
+  node [
+    id 3302
+    label "https://www.bulzoni.it/it/catalogo/catalogo-della-biblioteca-di-carlo-emilio-gadda.html"
+  ]
+  node [
+    id 3303
+    label "Bibliografia"
+  ]
+  node [
+    id 3304
+    label "https://www.patroneditore.com/volumi/9788855535632/che-cos-era-e-che-cos-un-testo-di-lingua"
+  ]
+  node [
+    id 3305
+    label "&#171;Idilli&#187;"
+  ]
+  node [
+    id 3306
+    label "Prima Guerra Mondiale"
+  ]
+  node [
+    id 3307
+    label "Giornale Di Guerra E Di Prigionia"
+  ]
+  node [
+    id 3308
+    label "Bonaventura Tecchi"
+  ]
+  node [
+    id 3309
+    label "Ugo Betti"
+  ]
+  node [
+    id 3310
+    label "Adele Gadda Lehr."
+  ]
+  node [
+    id 3311
+    label "https://www.mondadoristore.it/Il-gaddus-2023-1-na/eai978888593881/"
+  ]
+  node [
+    id 3312
+    label "Einaudi Editore"
+  ]
+  node [
+    id 3313
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-77-maggio-agosto-2020/105.html"
+  ]
+  node [
+    id 3314
+    label "Letteratura Italiana Dell'Ottocento"
+  ]
+  node [
+    id 3315
+    label "Poesia Italiana Dell'Ottocento"
+  ]
+  node [
+    id 3316
+    label "Romanticismo."
+  ]
+  node [
+    id 3317
+    label "article_1361"
+  ]
+  node [
+    id 3318
+    label "Mots-Cl&#233;s : Critique G&#233;n&#233;tique"
+  ]
+  node [
+    id 3319
+    label "Philologie D&#8217;Auteur"
+  ]
+  node [
+    id 3320
+    label "Alberto Savinio"
+  ]
+  node [
+    id 3321
+    label "Giorgio&#10;Bassani"
+  ]
+  node [
+    id 3322
+    label "10.4000/genesis.7715"
+  ]
+  node [
+    id 3323
+    label "Federico Confalonieri"
+  ]
+  node [
+    id 3324
+    label "Carboneria"
+  ]
+  node [
+    id 3325
+    label "https://buponline.com/prodotto/illuminismo-e-settecento-riformatore/"
+  ]
+  node [
+    id 3326
+    label "Linguaggio"
+  ]
+  node [
+    id 3327
+    label "Elettrotecnica"
+  ]
+  node [
+    id 3328
+    label "article_1366"
+  ]
+  node [
+    id 3329
+    label "Il Libro Delle Furie"
+  ]
+  node [
+    id 3330
+    label "Pier Paolo Pasolini"
+  ]
+  node [
+    id 3331
+    label "&#171;Officina&#187;"
+  ]
+  node [
+    id 3332
+    label "https://www.torrossa.com/en/resources/an/5158242"
+  ]
+  node [
+    id 3333
+    label "Alberto Savinio; Letteratura Italiana; Letteratura Del Novecento; Europa; Bompiani Editore"
+  ]
+  node [
+    id 3334
+    label "article_1368"
+  ]
+  node [
+    id 3335
+    label "Freud"
+  ]
+  node [
+    id 3336
+    label "Psicoanalisi."
+  ]
+  node [
+    id 3337
+    label "article_1369"
+  ]
+  node [
+    id 3338
+    label "Letteratura Italiana Moderna E Contemporanea"
+  ]
+  node [
+    id 3339
+    label "Romanzo Del Novecento"
+  ]
+  node [
+    id 3340
+    label "https://www.adelphi.it/libro/9788845934407"
+  ]
+  node [
+    id 3341
+    label "Letteratura Del Novecento"
+  ]
+  node [
+    id 3342
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-72-settembre-dicembre-2018/105.html"
+  ]
+  node [
+    id 3343
+    label "Letteratura Italiana Del Novecento"
+  ]
+  node [
+    id 3344
+    label "Metafisica"
+  ]
+  node [
+    id 3345
+    label "Valentino Bompiani"
+  ]
+  node [
+    id 3346
+    label "article_1372"
+  ]
+  node [
+    id 3347
+    label "Leonardo Sciascia"
+  ]
+  node [
+    id 3348
+    label "Letteratura Italiana."
+  ]
+  node [
+    id 3349
+    label "article_1373"
+  ]
+  node [
+    id 3350
+    label "article_1374"
+  ]
+  node [
+    id 3351
+    label "La Passeggiata Autunnale"
+  ]
+  node [
+    id 3352
+    label "Alessandro Bonsanti"
+  ]
+  node [
+    id 3353
+    label "Giornale Di Guerra E Di Prigionia."
+  ]
+  node [
+    id 3354
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-85-gennaio-aprile-2023/"
+  ]
+  node [
+    id 3355
+    label "Giacomo Leopardi; Filologia D'Autore; Poesia Dell'Ottocento"
+  ]
+  node [
+    id 3356
+    label "article_1376"
+  ]
+  node [
+    id 3357
+    label "http://www.fedoabooks.unina.it/index.php/fedoapress/catalog/view/527/553/2669"
+  ]
+  node [
+    id 3358
+    label "Carteggi"
+  ]
+  node [
+    id 3359
+    label "Ecdotica."
+  ]
+  node [
+    id 3360
+    label "article_1378"
+  ]
+  node [
+    id 3361
+    label "Catullo"
+  ]
+  node [
+    id 3362
+    label "La Cognizione Del Dolore."
+  ]
+  node [
+    id 3363
+    label "https://centri.unibo.it/archivio-umanistico-rinascimentale-bologna/it/pubblicazioni/schede-umanistiche-antichi-e-moderni"
+  ]
+  node [
+    id 3364
+    label "https://www.mimesisedizioni.it/libro/9788857575117"
+  ]
+  node [
+    id 3365
+    label "10.6092/issn.1721-4777/14011"
+  ]
+  node [
+    id 3366
+    label "Letteratura Italiana; Poesia Italiana; Giacomo Leopardi; Versi; Traduzioni"
+  ]
+  node [
+    id 3367
+    label "article_1383"
+  ]
+  node [
+    id 3368
+    label "Bibliofilia"
+  ]
+  node [
+    id 3369
+    label "Antiquaria"
+  ]
+  node [
+    id 3370
+    label "article_1384"
+  ]
+  node [
+    id 3371
+    label "Poesia Del Novecento."
+  ]
+  node [
+    id 3372
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-81-settembre-dicembre-2021/105.html"
+  ]
+  node [
+    id 3373
+    label "Giorgio Caproni"
+  ]
+  node [
+    id 3374
+    label "https://www.vieusseux.it/uploads/antologia/N83/ANT83-09-LettIt.pdf"
+  ]
+  node [
+    id 3375
+    label "Storia Del Libro"
+  ]
+  node [
+    id 3376
+    label "article_1387"
+  ]
+  node [
+    id 3377
+    label "Letteratura Italiana; Letteratura Italiana Contemporanea; Giovanni Papini; Giuseppe Prezzolini; Archivi Del Novecento."
+  ]
+  node [
+    id 3378
+    label "article_1388"
+  ]
+  node [
+    id 3379
+    label "Letteratura Italiaa"
+  ]
+  node [
+    id 3380
+    label "Napoleone"
+  ]
+  node [
+    id 3381
+    label "Ugo Foscolo"
+  ]
+  node [
+    id 3382
+    label "Poesia Italiana Dell'Ottocento."
+  ]
+  node [
+    id 3383
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-80-maggio-agosto-2021/105.html"
+  ]
+  node [
+    id 3384
+    label "Archivi Del Novecento."
+  ]
+  node [
+    id 3385
+    label "https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf"
+  ]
+  node [
+    id 3386
+    label "https://www.vieusseux.it/books/antologia-vieusseux-n-74-maggio-agosto-2019/105.html"
+  ]
+  node [
+    id 3387
+    label "Nuovi Argomenti"
+  ]
+  node [
+    id 3388
+    label "Alberto Carocci"
+  ]
+  node [
+    id 3389
+    label "Alberto Moravia."
+  ]
+  node [
+    id 3390
+    label "https://www.vieusseux.it/uploads/antologia/N85/ANT-85-10-LettIt.pdf"
+  ]
+  node [
+    id 3391
+    label "Biblioteche D'Autore."
+  ]
+  node [
+    id 3392
+    label "article_1393"
+  ]
+  node [
+    id 3393
+    label "Primo Levi"
+  ]
+  node [
+    id 3394
+    label "Bibliografie"
+  ]
+  node [
+    id 3395
+    label "https://www.vieusseux.it/attivita-culturali/pubblicazioni/antologia-vieusseux.html"
+  ]
+  node [
+    id 3396
+    label "Luigi Fallacara"
+  ]
+  node [
+    id 3397
+    label "article_1395"
+  ]
+  node [
+    id 3398
+    label "Manosacritti"
+  ]
+  node [
+    id 3399
+    label "article_1396"
+  ]
+  node [
+    id 3400
+    label "Textual Studies"
+  ]
+  node [
+    id 3401
+    label "article_1397"
+  ]
+  node [
+    id 3402
+    label "Autore"
+  ]
+  node [
+    id 3403
+    label "Scrittura"
+  ]
+  node [
+    id 3404
+    label "https://www.carocci.it/prodotto/storia-dellitaliano-scritto-vi-pratiche-di-scrittura"
+  ]
+  node [
+    id 3405
+    label "article_1399"
+  ]
+  node [
+    id 3406
+    label "Letteratura Italiana&#10;Letteratura Contemporanea&#10;Alberto Savinio&#10;Opera Lirica&#10;Libretti"
+  ]
+  node [
+    id 3407
+    label "article_1400"
+  ]
+  node [
+    id 3408
+    label "Francesco Flora"
+  ]
+  node [
+    id 3409
+    label "Universit&#224; Di Bologna."
+  ]
+  node [
+    id 3410
+    label "https://exhibits.ficlit.unibo.it/s/dante-univ-bologna/page/presentazione"
+  ]
+  node [
+    id 3411
+    label "Scrittura Contemporanea"
+  ]
+  node [
+    id 3412
+    label "https://www.mondadorieducation.it/tipo-prodotto/scritture-contemporanee/"
+  ]
+  node [
+    id 3413
+    label "Lingua Italiana&#10;Scrittura Professionale&#10;Didattica Dell'Italiano&#10;Scrittura Argomentativa"
+  ]
+  node [
+    id 3414
+    label "http://www.mondadorieducation.it/libro/paola-italia-debora-bennati-milena-giuffrida/scrivere-all-universita-/120900040642"
+  ]
+  node [
+    id 3415
+    label "Settecento"
+  ]
+  node [
+    id 3416
+    label "Letteratura"
+  ]
+  node [
+    id 3417
+    label "Legislazione"
+  ]
+  node [
+    id 3418
+    label "article_1404"
+  ]
+  node [
+    id 3419
+    label "Carlo Goldoni."
+  ]
+  node [
+    id 3420
+    label "article_1405"
+  ]
+  node [
+    id 3421
+    label "Infinito"
+  ]
+  node [
+    id 3422
+    label "Idillio"
+  ]
+  node [
+    id 3423
+    label "Luigi Blasucci"
+  ]
+  node [
+    id 3424
+    label "www.appuntileopardiani.cce.ufsc.br"
+  ]
+  node [
+    id 3425
+    label "Letteratura Italiana; Letteratura Italiana Contemporanea; Filologia Italiana; Attribuzionismo; Autorialit&#224;; Eugenio Montale; Stilometria"
+  ]
+  node [
+    id 3426
+    label "14. http://ojs.uniroma1.it/index.php/cogphil/article/view/11586/11448"
+  ]
+  node [
+    id 3427
+    label "article_1408"
+  ]
+  node [
+    id 3428
+    label "Alessandro; D&#8217;Azeglio"
+  ]
+  node [
+    id 3429
+    label "Cesare; Romanticismo;&#10;Lettera Sul Romanticismo&#10;Keywords&#10;Manzoni"
+  ]
+  node [
+    id 3430
+    label "Cesare; Romanticism;&#10;Letter On Romanticism"
+  ]
+  node [
+    id 3431
+    label "article_1409"
+  ]
+  node [
+    id 3432
+    label "10.30451/am.v0i2.34"
+  ]
+  node [
+    id 3433
+    label "Nuova Enciclopedia"
+  ]
+  node [
+    id 3434
+    label "https://mucchieditore.it/prodotto/la-vita-e-segno-gino-ruozzi/"
+  ]
+  node [
+    id 3435
+    label "Italian Philology"
+  ]
+  node [
+    id 3436
+    label "Textual Criticism"
+  ]
+  node [
+    id 3437
+    label "Genetic Criticism"
+  ]
+  node [
+    id 3438
+    label "10.11647/OBP.0224"
+  ]
+  node [
+    id 3439
+    label "Alberto Savinio; Alessandro Manzoni; Fascismo; Leonardo Sciascia; Letteratura Del Novecento; Mario Tobino; Romanzo Storico."
+  ]
+  node [
+    id 3440
+    label "article_1416"
+  ]
+  node [
+    id 3441
+    label "Cloud Computing; Autonomic Computing; Legislation Compliance Checking; Optimisation; Quality Of Service"
+  ]
+  node [
+    id 3442
+    label "10.1016/j.procs.2015.09.230"
+  ]
+  node [
+    id 3443
+    label "Legal Question Answering"
+  ]
+  node [
+    id 3444
+    label "Private International Law"
+  ]
+  node [
+    id 3445
+    label "Knowledge Graph Extraction"
+  ]
+  node [
+    id 3446
+    label "10.1145/3462757.3466094"
+  ]
+  node [
+    id 3447
+    label "Digitisation Cultural Heritage&#10;European Policy &#10;Legal Framework &#10;Research And Innovation"
+  ]
+  node [
+    id 3448
+    label "10.1007/978-3-030-93186-5_11"
+  ]
+  node [
+    id 3449
+    label "Privacy Icons"
+  ]
+  node [
+    id 3450
+    label "Gdpr"
+  ]
+  node [
+    id 3451
+    label "Informed Consent"
+  ]
+  node [
+    id 3452
+    label "Legal Design"
+  ]
+  node [
+    id 3453
+    label "Legal Visualization"
+  ]
+  node [
+    id 3454
+    label "Legal Semantic Web"
+  ]
+  node [
+    id 3455
+    label "https://jusletter-it.weblaw.ch/issues/2018/IRIS/a-methodological-fra_c2727b2f8f.html__ONCE&#38;amp;login=false"
+  ]
+  node [
+    id 3456
+    label "Digital Library; Xml Markup; Medieval Manuscript"
+  ]
+  node [
+    id 3457
+    label "10.1007/978-3-642-35834-0_10"
+  ]
+  node [
+    id 3458
+    label "Legal Theory"
+  ]
+  node [
+    id 3459
+    label "Legislation"
+  ]
+  node [
+    id 3460
+    label "Legal Language"
+  ]
+  node [
+    id 3461
+    label "10.1415/105387"
+  ]
+  node [
+    id 3462
+    label "Explainable Artificial Intelligence"
+  ]
+  node [
+    id 3463
+    label "Explainability"
+  ]
+  node [
+    id 3464
+    label "Standardisation"
+  ]
+  node [
+    id 3465
+    label "Artificial Intelligence Act"
+  ]
+  node [
+    id 3466
+    label "10.3233/FAIA210342"
+  ]
+  node [
+    id 3467
+    label "Data Protection"
+  ]
+  node [
+    id 3468
+    label "Icons"
+  ]
+  node [
+    id 3469
+    label "Transparency"
+  ]
+  node [
+    id 3470
+    label "10.1109/CeDEM.2017.23"
+  ]
+  node [
+    id 3471
+    label "Legalxml"
+  ]
+  node [
+    id 3472
+    label "Akoma Ntoso"
+  ]
+  node [
+    id 3473
+    label "10.3233/FAIA190018"
+  ]
+  node [
+    id 3474
+    label "Legal Xml Vocabulary; Markup Language; Modules; Akoma Ntoso"
+  ]
+  node [
+    id 3475
+    label "10.4242/BalisageVol24.Palmirani01"
+  ]
+  node [
+    id 3476
+    label "Nlp  Uri  Legal Xml  Modifications  Visualization"
+  ]
+  node [
+    id 3477
+    label "10.1007/978-3-030-00178-0_20"
+  ]
+  node [
+    id 3478
+    label "Anonimizzazione"
+  ]
+  node [
+    id 3479
+    label "Pseudonimizzazione"
+  ]
+  node [
+    id 3480
+    label "Sentenze Giudiziarie"
+  ]
+  node [
+    id 3481
+    label "Dati Giudiziari"
+  ]
+  node [
+    id 3482
+    label "Dati Personali"
+  ]
+  node [
+    id 3483
+    label "https://shop.giuffre.it/024218743-la-trasformazione-digitale-della-giustizia-nel-dialogo-tra-discipline"
+  ]
+  node [
+    id 3484
+    label "Argumentation Schemes"
+  ]
+  node [
+    id 3485
+    label "Argument Mining"
+  ]
+  node [
+    id 3486
+    label "http://ceur-ws.org/Vol-2669/paper6.pdf"
+  ]
+  node [
+    id 3487
+    label "Personal Data"
+  ]
+  node [
+    id 3488
+    label "Explicability"
+  ]
+  node [
+    id 3489
+    label "Automated"
+  ]
+  node [
+    id 3490
+    label "Decision-Making System."
+  ]
+  node [
+    id 3491
+    label "10.4477/97021"
+  ]
+  node [
+    id 3492
+    label "Intelligenza Artificiale"
+  ]
+  node [
+    id 3493
+    label "Automated Decision-Making"
+  ]
+  node [
+    id 3494
+    label "https://www.giappichelli.it/vulnerabilita-di-fronte-alle-istituzioni-e-vulnerabilita-delle-istituzioni"
+  ]
+  node [
+    id 3495
+    label "Big Data &#8211; Artificial Intelligence &#8211; Explicability &#8211; Explanations &#8211; Knowability"
+  ]
+  node [
+    id 3496
+    label "10.1415/102318"
+  ]
+  node [
+    id 3497
+    label "Data Governance"
+  ]
+  node [
+    id 3498
+    label "Datafication"
+  ]
+  node [
+    id 3499
+    label "Digital Identity"
+  ]
+  node [
+    id 3500
+    label "article_1433"
+  ]
+  node [
+    id 3501
+    label "Blockchain"
+  ]
+  node [
+    id 3502
+    label "Smart Contract"
+  ]
+  node [
+    id 3503
+    label "article_1434"
+  ]
+  node [
+    id 3504
+    label "Legal Design&#10;Interpretation Theory&#10;Data Protection&#10;Gdpr"
+  ]
+  node [
+    id 3505
+    label "10.1162/desi_a_00605"
+  ]
+  node [
+    id 3506
+    label "Tree Kernels"
+  ]
+  node [
+    id 3507
+    label "Argument Schemes"
+  ]
+  node [
+    id 3508
+    label "10.1145/3377713.3377717"
+  ]
+  node [
+    id 3509
+    label "Digital Governance Act"
+  ]
+  node [
+    id 3510
+    label "General Data Protection Regulation"
+  ]
+  node [
+    id 3511
+    label "Digital Service Act"
+  ]
+  node [
+    id 3512
+    label "Data Act"
+  ]
+  node [
+    id 3513
+    label "10.38023/f17f1598-a9ca-47ef-be7d-e79e2afae036"
+  ]
+  node [
+    id 3514
+    label "Data Scarcity;&#10;Deep Learning;&#10;Tf-Idf;&#10;Syntagmatic Relations;&#10;Law"
+  ]
+  node [
+    id 3515
+    label "10.1016/j.giq.2022.101715"
+  ]
+  node [
+    id 3516
+    label "Tree Kernel"
+  ]
+  node [
+    id 3517
+    label "Argumentative Stance"
+  ]
+  node [
+    id 3518
+    label "http://ceur-ws.org/Vol-2722/ai4legal2020-paper-2.pdf"
+  ]
+  node [
+    id 3519
+    label "Semantic Technologies"
+  ]
+  node [
+    id 3520
+    label "10.3233/FAIA190020"
+  ]
+  node [
+    id 3521
+    label "Multi-Label Text Classification"
+  ]
+  node [
+    id 3522
+    label "United Nations Resolutions"
+  ]
+  node [
+    id 3523
+    label "Sustainable Development Goals"
+  ]
+  node [
+    id 3524
+    label "10.1145/3428502.3428604"
+  ]
+  node [
+    id 3525
+    label "Hybrid Ai &#10;Akoma Ntoso &#10;Visualization"
+  ]
+  node [
+    id 3526
+    label "10.1007/978-3-031-12673-4_9"
+  ]
+  node [
+    id 3527
+    label "10.1007/978-3-030-31095-0_13"
+  ]
+  node [
+    id 3528
+    label "Big Data; Data Governance; Emerging Issues; Food Safety; Risk Assessment; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 3529
+    label "10.1007/978-3-319-98349-3_17"
+  ]
+  node [
+    id 3530
+    label "Deontic Logic; Legal Informatics; Reification"
+  ]
+  node [
+    id 3531
+    label "10.1007/s10849-019-09309-z"
+  ]
+  node [
+    id 3532
+    label "Privacy; Legal Design; Visualization; Legal Xml; Legal Semantic Web; Interpretation; Interaction Design; Human-Centered Design"
+  ]
+  node [
+    id 3533
+    label "10.1007/978-3-030-00178-0_5"
+  ]
+  node [
+    id 3534
+    label "Standard Documentali Xml"
+  ]
+  node [
+    id 3535
+    label "Meta-Regola Del Diritto"
+  ]
+  node [
+    id 3536
+    label "10.4399/97888255152132"
+  ]
+  node [
+    id 3537
+    label "Classification Ai"
+  ]
+  node [
+    id 3538
+    label "Legal Drafting Techniques."
+  ]
+  node [
+    id 3539
+    label "10.3233/FAIA210319"
+  ]
+  node [
+    id 3540
+    label "Hybrid Ai&#10;Akoma Ntoso &#10;Visualization &#10;Implementation Of European Directive"
+  ]
+  node [
+    id 3541
+    label "10.1007/978-3-031-12673-4_8"
+  ]
+  node [
+    id 3542
+    label "Hybrid Ai"
+  ]
+  node [
+    id 3543
+    label "Unsupervised Classification"
+  ]
+  node [
+    id 3544
+    label "Temporal Tracking"
+  ]
+  node [
+    id 3545
+    label "article_1451"
+  ]
+  node [
+    id 3546
+    label "Legal Ontology"
+  ]
+  node [
+    id 3547
+    label "Oke"
+  ]
+  node [
+    id 3548
+    label "Refinement"
+  ]
+  node [
+    id 3549
+    label "10.1007/978-3-030-58957-8_1"
+  ]
+  node [
+    id 3550
+    label "Informatica Giuridica E Diritto Dell'Infoprmatica; Nuove Tecnologie"
+  ]
+  node [
+    id 3551
+    label "article_1453"
+  ]
+  node [
+    id 3552
+    label "Intelligenza Artificiale; Digitalizzazione Della Giustizia; Giustizia Algoritmica; Hybrid Artificial Intelligence"
+  ]
+  node [
+    id 3553
+    label "Non-Personal Data"
+  ]
+  node [
+    id 3554
+    label "Anonymization"
+  ]
+  node [
+    id 3555
+    label "Pseudonymization"
+  ]
+  node [
+    id 3556
+    label "10.1007/978-3-030-89811-3_19"
+  ]
+  node [
+    id 3557
+    label "Informatica Giuridica"
+  ]
+  node [
+    id 3558
+    label "Informatica Forense"
+  ]
+  node [
+    id 3559
+    label "Egoverment"
+  ]
+  node [
+    id 3560
+    label "article_1456"
+  ]
+  node [
+    id 3561
+    label "Identita' Digitale"
+  ]
+  node [
+    id 3562
+    label "Identit&#224; Giuridica"
+  ]
+  node [
+    id 3563
+    label "Autenticazione"
+  ]
+  node [
+    id 3564
+    label "Identificazione Elettronica"
+  ]
+  node [
+    id 3565
+    label "10.4399/97888548901691"
+  ]
+  node [
+    id 3566
+    label "Intelligenza Artificiale&#10;Big Data&#10;Spiegabilit&#224; Dell&#8217;Intelligenza Artificiale&#10;Art. 22 Del Gdpr"
+  ]
+  node [
+    id 3567
+    label "https://www.giappichelli.it/xxvi-lezioni-di-diritto-dell-intelligenza-artificiale-9788892138957?srsltid=AfmBOoqR7xxi249zW1j-O7kuawcmgXWzhwH9XJoUPt6zpOUsYJ3ddvML"
+  ]
+  node [
+    id 3568
+    label "Artificial Intelligence And Law &#10;Semantic Web &#10;Legalxml &#10;Web Of Linked Data &#10;Internet Of Things &#10;Ethics &#10;Human Rights Privacy &#10;Rule Of Law"
+  ]
+  node [
+    id 3569
+    label "10.1007/978-3-030-89811-3_1"
+  ]
+  node [
+    id 3570
+    label "Ai &#38; Law"
+  ]
+  node [
+    id 3571
+    label "Legal Ontologies"
+  ]
+  node [
+    id 3572
+    label "Legal Semantic Web Services"
+  ]
+  node [
+    id 3573
+    label "Argumentation"
+  ]
+  node [
+    id 3574
+    label "10.1007/978-3-030-00178-0_1"
+  ]
+  node [
+    id 3575
+    label "Big Data; E-Government; Open Data; Public Sector Information"
+  ]
+  node [
+    id 3576
+    label "Government Data Processing; Information Systems&#10;&#10;E-Governments; Government Services; Key Elements; Knowledge Creations; Open Datum; Public Sector Information; Social Consequences; Social Trend"
+  ]
+  node [
+    id 3577
+    label "10.1007/978-3-319-44159-7_8"
+  ]
+  node [
+    id 3578
+    label "Ai"
+  ]
+  node [
+    id 3579
+    label "Discriminazione"
+  ]
+  node [
+    id 3580
+    label "Trasparenza"
+  ]
+  node [
+    id 3581
+    label "Spiegabilit&#224;"
+  ]
+  node [
+    id 3582
+    label "https://buponline.com/prodotto/la-mediazione-interculturale/?v=c860970b6ab6"
+  ]
+  node [
+    id 3583
+    label "Digital Citizenship Mediation"
+  ]
+  node [
+    id 3584
+    label "Vulnerability"
+  ]
+  node [
+    id 3585
+    label "Discrimination"
+  ]
+  node [
+    id 3586
+    label "Data Governance."
+  ]
+  node [
+    id 3587
+    label "article_1463"
+  ]
+  node [
+    id 3588
+    label "Giustizia; Intelligenza Artificiale; Trasformazione Digitale"
+  ]
+  node [
+    id 3589
+    label "article_1464"
+  ]
+  node [
+    id 3590
+    label "Conoscibilit&#224; Del Diritto"
+  ]
+  node [
+    id 3591
+    label "Accesso All'Informazione Giuridica"
+  ]
+  node [
+    id 3592
+    label "Dematerializzazione Delle Fonti Cognitive Del Diritto"
+  ]
+  node [
+    id 3593
+    label "Legal Xml"
+  ]
+  node [
+    id 3594
+    label "http://www.aracneeditrice.it/aracneweb/index.php/pubblicazione.html?item=9788854890169"
+  ]
+  node [
+    id 3595
+    label "Open Data; Psi Directive; Licenze Creative Commons; Analisi Comparata; Informatica Giuridica"
+  ]
+  node [
+    id 3596
+    label "http://www.dimt.it/images/pdf/dimt14nov18.pdf"
+  ]
+  node [
+    id 3597
+    label "Communication Design"
+  ]
+  node [
+    id 3598
+    label "Design Patterns"
+  ]
+  node [
+    id 3599
+    label "Pattern Library"
+  ]
+  node [
+    id 3600
+    label "Privacy Communication"
+  ]
+  node [
+    id 3601
+    label "Privacy Videos"
+  ]
+  node [
+    id 3602
+    label "article_1467"
+  ]
+  node [
+    id 3603
+    label "Contract Design"
+  ]
+  node [
+    id 3604
+    label "Information Design"
+  ]
+  node [
+    id 3605
+    label "Pattern Language"
+  ]
+  node [
+    id 3606
+    label "Data Protection Law"
+  ]
+  node [
+    id 3607
+    label "Consumer Protection Law"
+  ]
+  node [
+    id 3608
+    label "10.38023/0e6db18b-6aeb-4b36-ac60-0e5edb215fd2"
+  ]
+  node [
+    id 3609
+    label "Legal Reasoning; Legal Xml; Legal Rule Modelling"
+  ]
+  node [
+    id 3610
+    label "http://ceur-ws.org/Vol-1296/paper2.pdf"
+  ]
+  node [
+    id 3611
+    label "Egovernment; Open Data; Open Government"
+  ]
+  node [
+    id 3612
+    label "article_1470"
+  ]
+  node [
+    id 3613
+    label "Ai And Law"
+  ]
+  node [
+    id 3614
+    label "Nlp For Legal Document"
+  ]
+  node [
+    id 3615
+    label "Ml For Legal Document"
+  ]
+  node [
+    id 3616
+    label "http://ebooks.iospress.nl/volume/legal-knowledge-and-information-systems-jurix-2018-the-thirty-first-annual-conference"
+  ]
+  node [
+    id 3617
+    label "Legal Knowledge Extraction; Question-Answering; Ontology Design&#10;Pattern Alignment."
+  ]
+  node [
+    id 3618
+    label "10.3233/FAIA200858"
+  ]
+  node [
+    id 3619
+    label "10.3233/978-1-61499-935-5-91"
+  ]
+  node [
+    id 3620
+    label "Open Government Data Mash-Up"
+  ]
+  node [
+    id 3621
+    label "Licensing Of Open Government Data"
+  ]
+  node [
+    id 3622
+    label "http://conferences.computer.org/cedem/2017/papers/6719a113.pdf"
+  ]
+  node [
+    id 3623
+    label "Legal Xml; Akoma Ntoso; Legal Rules"
+  ]
+  node [
+    id 3624
+    label "article_1475"
+  ]
+  node [
+    id 3625
+    label "Legalruleml &#183; Ruleml &#183; Legal Rule Modelling &#183; Meta&#10;Model"
+  ]
+  node [
+    id 3626
+    label "10.1007/978-3-319-21768-0_6"
+  ]
+  node [
+    id 3627
+    label "Legal Rules; Legal Xml; Legal Reasoning"
+  ]
+  node [
+    id 3628
+    label "article_1477"
+  ]
+  node [
+    id 3629
+    label "Akoma Ntoso&#10;Elegislation &#10;Ejustice &#10;Legal Data Analytics&#10;Visualization"
+  ]
+  node [
+    id 3630
+    label "10.1007/978-3-030-89811-3_3"
+  ]
+  node [
+    id 3631
+    label "Legal References"
+  ]
+  node [
+    id 3632
+    label "Case Law Databases"
+  ]
+  node [
+    id 3633
+    label "10.3233/978-1-61499-838-9-113"
+  ]
+  node [
+    id 3634
+    label "Explanatory Ai (Yai)"
+  ]
+  node [
+    id 3635
+    label "Xai"
+  ]
+  node [
+    id 3636
+    label "Hci"
+  ]
+  node [
+    id 3637
+    label "10.1007/978-3-030-89811-3_12"
+  ]
+  node [
+    id 3638
+    label "Legal Xml; Social Network Analysis; Web-Based Visualization"
+  ]
+  node [
+    id 3639
+    label "10.1007/978-3-662-45960-7_7"
+  ]
+  node [
+    id 3640
+    label "Explainable Artificial Intelligence; &#10;Explainability; &#10;Metrics; &#10;Standardisation; &#10;Artificial Intelligence Act"
+  ]
+  node [
+    id 3641
+    label "10.3390/j5010010"
+  ]
+  node [
+    id 3642
+    label "Interactive Explanatory Tool"
+  ]
+  node [
+    id 3643
+    label "Trustworthy Artificial Intelligence"
+  ]
+  node [
+    id 3644
+    label "10.1007/978-3-030-58957-8_16"
+  ]
+  node [
+    id 3645
+    label "Akoma Ntoso; Gdpr Rule Modelling; Legal Compliance Checking; Legal Ontology; Legalruleml"
+  ]
+  node [
+    id 3646
+    label "10.3233/978-1-61499-935-5-101"
+  ]
+  node [
+    id 3647
+    label "Nlp; Legal Xml; Legal Knowledge Representation"
+  ]
+  node [
+    id 3648
+    label "article_1485"
+  ]
+  node [
+    id 3649
+    label "Hate Speech"
+  ]
+  node [
+    id 3650
+    label "Legal Concepts"
+  ]
+  node [
+    id 3651
+    label "10.3233/FAIA230981"
+  ]
+  node [
+    id 3652
+    label "Legal Rules; Legal Xml; Legal Reasoning; Defeasible Logic"
+  ]
+  node [
+    id 3653
+    label "article_1487"
+  ]
+  node [
+    id 3654
+    label "Court Cases; Court Decisions; Electronic Publishing; Data Protection; Open Data; European Union"
+  ]
+  node [
+    id 3655
+    label "10.1017/S1472669617000299"
+  ]
+  node [
+    id 3656
+    label "Openness"
+  ]
+  node [
+    id 3657
+    label "Foia"
+  ]
+  node [
+    id 3658
+    label "Open Government"
+  ]
+  node [
+    id 3659
+    label "E-Government"
+  ]
+  node [
+    id 3660
+    label "Public Sector Information"
+  ]
+  node [
+    id 3661
+    label "Open Data Format"
+  ]
+  node [
+    id 3662
+    label "Right To&#10;Access"
+  ]
+  node [
+    id 3663
+    label "Transparency Portal."
+  ]
+  node [
+    id 3664
+    label "10.1007/978-3-319-10178-1_22"
+  ]
+  node [
+    id 3665
+    label "Open Government Data  &#8211; Licensing Of Open Data  &#8211; Creative Commons License  &#8211; Copyright Of Databases  &#8211; Sui Generis Database Right  &#8211; Public Domain"
+  ]
+  node [
+    id 3666
+    label "10.1007/978-3-319-22389-6_21"
+  ]
+  node [
+    id 3667
+    label "Linked Open&#10;Data"
+  ]
+  node [
+    id 3668
+    label "Licences"
+  ]
+  node [
+    id 3669
+    label "Charging"
+  ]
+  node [
+    id 3670
+    label "Business Models"
+  ]
+  node [
+    id 3671
+    label "Formats"
+  ]
+  node [
+    id 3672
+    label "Standards"
+  ]
+  node [
+    id 3673
+    label "https://lauda.ulapland.fi/bitstream/handle/10024/62394/Lawyers%20in%20the%20Media%20Society_pdfA.pdf?sequence=2"
+  ]
+  node [
+    id 3674
+    label "Dati Personali; Ricerca Storica; Archiviazione; Pubblico Interesse;"
+  ]
+  node [
+    id 3675
+    label "https://www.civita.net/prodotto/personal-digital-memories-i-fondi-di-persona-dallanalogico-al-digitale/"
+  ]
+  node [
+    id 3676
+    label "Refinement."
+  ]
+  node [
+    id 3677
+    label "10.3233/FAIA190326"
+  ]
+  node [
+    id 3678
+    label "http://www.academic-bookshop.com/ourshop/prod_6548604-ECDG-2018-PDF-Proceedings-of-the-18th-European-Conference-on-Digital-Government.html"
+  ]
+  node [
+    id 3679
+    label "Semantic Web; Legal Reasoning; Legal Ontology; Checking Compliance"
+  ]
+  node [
+    id 3680
+    label "10.1007/978-3-319-98349-3_11"
+  ]
+  node [
+    id 3681
+    label "Metaverse"
+  ]
+  node [
+    id 3682
+    label "https://ceur-ws.org/Vol-3460/"
+  ]
+  node [
+    id 3683
+    label "Digital Signature; Egovernment; Ict Law"
+  ]
+  node [
+    id 3684
+    label "article_1497"
+  ]
+  node [
+    id 3685
+    label "Cloud Computing&#10;Autonomic Computing&#10;Legislation Compliance Checking&#10;Optimization&#10;Quality Of Service&#10;Monitoring&#10;Service Migration&#10;Service Portability"
+  ]
+  node [
+    id 3686
+    label "10.1016/j.future.2016.11.025"
+  ]
+  node [
+    id 3687
+    label "10.1007/978-3-319-49004-5_48"
+  ]
+  node [
+    id 3688
+    label "Linked Data; Ontologies; Regulations; Rights; Semantic Web And Its Applications; Semantic Web For The Legal Domain; Computer Networks And Communications; Computer Science Applications1707 Computer Vision And Pattern Recognition; Information Systems"
+  ]
+  node [
+    id 3689
+    label "10.3233/SW-160224"
+  ]
+  node [
+    id 3690
+    label "Legal Xml; Akoma Ntoso; Legal Normative Reference"
+  ]
+  node [
+    id 3691
+    label "10.3233/978-1-61499-468-8-179"
+  ]
+  node [
+    id 3692
+    label "Explanation"
+  ]
+  node [
+    id 3693
+    label "http://ceur-ws.org/Vol-2681/"
+  ]
+  node [
+    id 3694
+    label "Dlt"
+  ]
+  node [
+    id 3695
+    label "Tokenization"
+  ]
+  node [
+    id 3696
+    label "And Digital Government&#10;Decentralized Web Technologies&#10;Legal Digital Contracts&#10;Legal Informatics&#10;Ricardian Contracts&#10;Smart Contracts"
+  ]
+  node [
+    id 3697
+    label "10.24251/HICSS.2020.220"
+  ]
+  node [
+    id 3698
+    label "Transparency; Right To Know; Public Sector Information; E-Government; Open Government"
+  ]
+  node [
+    id 3699
+    label "10.1007/978-3-319-98349-3_13"
+  ]
+  node [
+    id 3700
+    label "Freedom Of Information; Open Data; Privacy; Right To Know; Transparency"
+  ]
+  node [
+    id 3701
+    label "Data Privacy; Government Data Processing; Laws And Legislation; Transparency&#10;&#10;Data Journalisms; Digital Information; Freedom Of Informations; Knowledge Society; Legal Frameworks; Open Datum; Public Sector Information; Right-To-Know&#10;&#10;International Law"
+  ]
+  node [
+    id 3702
+    label "article_1505"
+  ]
+  node [
+    id 3703
+    label "European Case Law Identifier; Legal Semantic Web; Judicial Transparency; Open Data"
+  ]
+  node [
+    id 3704
+    label "http://conferences.computer.org/cedem/2017/papers/6719a135.pdf"
+  ]
+  node [
+    id 3705
+    label "Argumentation Mining"
+  ]
+  node [
+    id 3706
+    label "Transfer Learning"
+  ]
+  node [
+    id 3707
+    label "http://ceur-ws.org/Vol-2669/"
+  ]
+  node [
+    id 3708
+    label "Right To Know"
+  ]
+  node [
+    id 3709
+    label "http://academic-bookshop.com/ourshop/cat_348617-Conference-Proceedings.html"
+  ]
+  node [
+    id 3710
+    label "Nlp; Legal Xml; Semantic Web"
+  ]
+  node [
+    id 3711
+    label "10.1007/s10506-012-9127-6"
+  ]
+  node [
+    id 3712
+    label "10.1007/978-3-030-44638-3_16"
+  ]
+  node [
+    id 3713
+    label "Akoma Ntoso; Judicial Documents; Normative Documents; Owl 2 Dl; Parliamentary Documents; Undo; United Nations; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 3714
+    label "10.1007/978-3-319-68204-4_18"
+  ]
+  node [
+    id 3715
+    label "Gdpr&#10;Icons&#10;Data Protection&#10;Legal Design&#10;Semantic Web&#10;Transparency"
+  ]
+  node [
+    id 3716
+    label "https://www.bloomsburyprofessional.com/uk/data-protection-and-privacy-9781509932740/"
+  ]
+  node [
+    id 3717
+    label "Vagueness"
+  ]
+  node [
+    id 3718
+    label "10.1007/978-3-319-13413-0_6"
+  ]
+  node [
+    id 3719
+    label "Data Collection; Scientific Misconduct"
+  ]
+  node [
+    id 3720
+    label "Citation Analysis; Retraction; Science Of Science; Topic Modeling"
+  ]
+  node [
+    id 3721
+    label "Agile Ontology Development Methodology; Conceptual Modelling; Knowledge Engineering; Ontology Engineering; Owl Ontologies; Samod; Test-Driven Development; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 3722
+    label "10.1007/978-3-319-54627-8_5"
+  ]
+  node [
+    id 3723
+    label "10.1145/2740908.2742133"
+  ]
+  node [
+    id 3724
+    label "Machine Reading; Semantic Publishing; Spar Ontologies"
+  ]
+  node [
+    id 3725
+    label "10.1007/978-3-319-46565-4_22"
+  ]
+  node [
+    id 3726
+    label "https://catarsiproject.wordpress.com/"
+  ]
+  node [
+    id 3727
+    label "Bibliographic References; In-Text Reference Pointers; Information Representation; Bibliographic Metadata; Frbr; Reference Styles"
+  ]
+  node [
+    id 3728
+    label "10.1108/JD-10-2022-0234"
+  ]
+  node [
+    id 3729
+    label "10.1007/978-3-319-11955-7_15"
+  ]
+  node [
+    id 3730
+    label "10.3233/DS-170012"
+  ]
+  node [
+    id 3731
+    label "Bibliographic Data; Data Science; Digital Libraries; Machine Learning"
+  ]
+  node [
+    id 3732
+    label "10.1145/3447548.3469482"
+  ]
+  node [
+    id 3733
+    label "Spacin"
+  ]
+  node [
+    id 3734
+    label "10.1007/978-3-319-58694-6_23"
+  ]
+  node [
+    id 3735
+    label "Virtual Technologies"
+  ]
+  node [
+    id 3736
+    label "Museums"
+  ]
+  node [
+    id 3737
+    label "Art Collections"
+  ]
+  node [
+    id 3738
+    label "Acquisition Process"
+  ]
+  node [
+    id 3739
+    label "Digitisation Process"
+  ]
+  node [
+    id 3740
+    label "article_1537"
+  ]
+  node [
+    id 3741
+    label "article_1538"
+  ]
+  node [
+    id 3742
+    label "Bibliographic Metadata; Bibliographic References; Frbr; In-Text Reference Pointers; Information Representation; Reference Styles"
+  ]
+  node [
+    id 3743
+    label "10.1108/JD-08-2020-0144"
+  ]
+  node [
+    id 3744
+    label "Bibliographic Ontology; Frbr - Functional Requirements For Bibliographic Records; Scientific Discourse; Owl"
+  ]
+  node [
+    id 3745
+    label "10.3233/SW-130098"
+  ]
+  node [
+    id 3746
+    label "Bibliometric Data; Bido; Data Mining; Expert Search; Hierarchical Clustering; Owl; Rdf; Research Data; Semantic Web; Sparql; Computer Science (All)"
+  ]
+  node [
+    id 3747
+    label "Open Citations; Opencitations; Coci; Croci"
+  ]
+  node [
+    id 3748
+    label "article_1547"
+  ]
+  node [
+    id 3749
+    label "Data Science; Semantic Publishing"
+  ]
+  node [
+    id 3750
+    label "article_1550"
+  ]
+  node [
+    id 3751
+    label "article_1554"
+  ]
+  node [
+    id 3752
+    label "article_1555"
+  ]
+  node [
+    id 3753
+    label "Semantic Publishing; Visual Analytics; Ontologies; Data Mining; Scholarly Data"
+  ]
+  node [
+    id 3754
+    label "10.3233/DS-190023"
+  ]
+  node [
+    id 3755
+    label "Oscar; Opencitations; Occ; Coci; Sparql; Free-Text Search; Scholarly Data; Advanced Search"
+  ]
+  node [
+    id 3756
+    label "article_1564"
+  ]
+  node [
+    id 3757
+    label "Linked Data; Machine Reading; Semantic Web; Computer Networks And Communications; Software"
+  ]
+  node [
+    id 3758
+    label "10.1145/2740908.2742842"
+  ]
+  node [
+    id 3759
+    label "Citation Database"
+  ]
+  node [
+    id 3760
+    label "Scholarly Communication"
+  ]
+  node [
+    id 3761
+    label "http://ceur-ws.org/Vol-1699/paper-05.pdf"
+  ]
+  node [
+    id 3762
+    label "article_1571"
+  ]
+  node [
+    id 3763
+    label "Research Assessment"
+  ]
+  node [
+    id 3764
+    label "Reform Of Research Assessment"
+  ]
+  node [
+    id 3765
+    label "https://doi.org/10.3030/101095129"
+  ]
+  node [
+    id 3766
+    label "Invalid Citations; Incorrect Doi; Open Citations; Crossref; Opencitations"
+  ]
+  node [
+    id 3767
+    label "10.1007/s11192-022-04367-w"
+  ]
+  node [
+    id 3768
+    label "Data Conversion; Data Reengineering; Data Visualisation; Fast-Fashion Design; Ontology; Owl; Semantic Web; Software; Human-Computer Interaction; Computer Networks And Communications"
+  ]
+  node [
+    id 3769
+    label "10.1016/j.websem.2017.06.001"
+  ]
+  node [
+    id 3770
+    label "article_1580"
+  ]
+  node [
+    id 3771
+    label "http://ceur-ws.org/Vol-1690/paper86.pdf"
+  ]
+  node [
+    id 3772
+    label "Library And Information Sciences"
+  ]
+  node [
+    id 3773
+    label "Physical Sciences"
+  ]
+  node [
+    id 3774
+    label "Communication And Media Studies"
+  ]
+  node [
+    id 3775
+    label "Museum Studies"
+  ]
+  node [
+    id 3776
+    label "Sociology"
+  ]
+  node [
+    id 3777
+    label "Publishing"
+  ]
+  node [
+    id 3778
+    label "article_1582"
+  ]
+  node [
+    id 3779
+    label "10.3233/SSW56"
+  ]
+  node [
+    id 3780
+    label "article_1584"
+  ]
+  node [
+    id 3781
+    label "Macja; Semantic Publishing; Spar Ontologies; Computer Science (All)"
+  ]
+  node [
+    id 3782
+    label "10.1007/978-3-319-25518-7_10"
+  ]
+  node [
+    id 3783
+    label "https://aiucd2021.labcd.unipi.it/en/home-english/"
+  ]
+  node [
+    id 3784
+    label "Book Citation; Citation Analysis; Coci; Open Citation Data; Opencitations; Scholarly Communication"
+  ]
+  node [
+    id 3785
+    label "10.1007/s11192-019-03311-9"
+  ]
+  node [
+    id 3786
+    label "Occ; Open Citation Data; Opencitations; Opencitations Corpus; Public Domain; Spar Ontologies; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 3787
+    label "10.1007/978-3-319-68204-4_19"
+  ]
+  node [
+    id 3788
+    label "https://wellcome.org/grant-funding/people-and-projects/grants-awarded/open-biomedical-citations-context-corpus"
+  ]
+  node [
+    id 3789
+    label "Openaire"
+  ]
+  node [
+    id 3790
+    label "European Open Science Cloud"
+  ]
+  node [
+    id 3791
+    label "https://cordis.europa.eu/project/id/101017452"
+  ]
+  node [
+    id 3792
+    label "Open Bibliograpic Metadata"
+  ]
+  node [
+    id 3793
+    label "Cc0"
+  ]
+  node [
+    id 3794
+    label "https://opencitations.net/index"
+  ]
+  node [
+    id 3795
+    label "https://opencitations.net/meta"
+  ]
+  node [
+    id 3796
+    label "Bibliographic Metadata; Infrastructure Service; Opencitations; Opencitations Corpus; Opencitations Data Model; Opencitations Index; Opencitations Meta; Open Citations; Open Citation Identifier; Open Scholarship; Scholarly Infrastructure Organization"
+  ]
+  node [
+    id 3797
+    label "10.1162/qss_a_00023"
+  ]
+  node [
+    id 3798
+    label "Open Bibliographic Metadata"
+  ]
+  node [
+    id 3799
+    label "http://ceur-ws.org/Vol-3220/keynote.pdf"
+  ]
+  node [
+    id 3800
+    label "Open Science Infrastructure"
+  ]
+  node [
+    id 3801
+    label "10.2218/ijdc.v17i1.818"
+  ]
+  node [
+    id 3802
+    label "Free-Text Search; Opencitations; Opencitations Corpus; Oscar; Scholarly Data; Sparql; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 3803
+    label "10.1007/978-3-030-01379-0_9"
+  ]
+  node [
+    id 3804
+    label "Markup"
+  ]
+  node [
+    id 3805
+    label "Xml"
+  ]
+  node [
+    id 3806
+    label "10.4242/BalisageVol13.Peroni01"
+  ]
+  node [
+    id 3807
+    label "article_1605"
+  ]
+  node [
+    id 3808
+    label "Semantic Web For The Legal Domain"
+  ]
+  node [
+    id 3809
+    label "Research Data Management; Cultural Heritage Data; Museums; Art Collections; Data Management Plan"
+  ]
+  node [
+    id 3810
+    label "10.5281/zenodo.7974540"
+  ]
+  node [
+    id 3811
+    label "Bibliographic References; Citations; Publication Metadata; Publication Types; Citation Behaviours"
+  ]
+  node [
+    id 3812
+    label "10.1007/s00799-023-00351-8"
+  ]
+  node [
+    id 3813
+    label "Rdf Dataset Visualization; Rslt; Templates; Computer Science (All)"
+  ]
+  node [
+    id 3814
+    label "10.1145/2872518.2890600"
+  ]
+  node [
+    id 3815
+    label "Analytics"
+  ]
+  node [
+    id 3816
+    label "10.1145/3041021.3055257"
+  ]
+  node [
+    id 3817
+    label "Scholarly Publishing"
+  ]
+  node [
+    id 3818
+    label "Semantic Publishing And Referencing Ontologies"
+  ]
+  node [
+    id 3819
+    label "Kc-Viz"
+  ]
+  node [
+    id 3820
+    label "Gaffe"
+  ]
+  node [
+    id 3821
+    label "Scholarly Communications"
+  ]
+  node [
+    id 3822
+    label "10.1007/978-3-319-04777-5"
+  ]
+  node [
+    id 3823
+    label "Scholarly Dissemination"
+  ]
+  node [
+    id 3824
+    label "10.1007/978-3-030-01379-0"
+  ]
+  node [
+    id 3825
+    label "Save-Sd"
+  ]
+  node [
+    id 3826
+    label "10.1007/978-3-319-53637-8"
+  ]
+  node [
+    id 3827
+    label "Citations; Open Access; Open Citation Corpus; References; Semantic Publishing; Spar Ontologies; Information Systems; Library And Information Sciences"
+  ]
+  node [
+    id 3828
+    label "10.1108/JD-12-2013-0166"
+  ]
+  node [
+    id 3829
+    label "https://spice-h2020.eu/"
+  ]
+  node [
+    id 3830
+    label "Crossref Citation Data; Open Citation Data; Open Citations; Rdf; Reproducible Bibliometrics"
+  ]
+  node [
+    id 3831
+    label "References Extraction; References Parsing; Structured Citation Data"
+  ]
+  node [
+    id 3832
+    label "10.1007/978-3-031-16802-4_42"
+  ]
+  node [
+    id 3833
+    label "Rdf Dataset Visualisation; Rslt; Templates; Computer Science (All); Theoretical Computer Science"
+  ]
+  node [
+    id 3834
+    label "10.1007/978-3-319-25639-9_35"
+  ]
+  node [
+    id 3835
+    label "Bag; Collection; List; Owl; Set; Computer Networks And Communications; Computer Science Applications1707 Computer Vision And Pattern Recognition; Information Systems"
+  ]
+  node [
+    id 3836
+    label "10.3233/SW-130121"
+  ]
+  node [
+    id 3837
+    label "Deo; Doco; Document Components; Pdfx; Rhetoric; Spar Ontologies; Structural Patterns; Utopia Documents; Computer Networks And Communications; Computer Science Applications1707 Computer Vision And Pattern Recognition; Information Systems"
+  ]
+  node [
+    id 3838
+    label "10.3233/SW-150177"
+  ]
+  node [
+    id 3839
+    label "article_1637"
+  ]
+  node [
+    id 3840
+    label "Opencitations Indexes"
+  ]
+  node [
+    id 3841
+    label "https://sloan.org/grant-detail/8017"
+  ]
+  node [
+    id 3842
+    label "article_1642"
+  ]
+  node [
+    id 3843
+    label "Owl Ontologies; Scholarly Communication; Scholarly Publishing; Semantic Publishing; Spar; Theoretical Computer Science; Computer Science (All)"
+  ]
+  node [
+    id 3844
+    label "10.1007/978-3-030-00668-6_8"
+  ]
+  node [
+    id 3845
+    label "10.1007/978-3-031-16802-4_10"
+  ]
+  node [
+    id 3846
+    label "Time-Traversal Query"
+  ]
+  node [
+    id 3847
+    label "https://github.com/opencitations/time-agnostic-library"
+  ]
+  node [
+    id 3848
+    label "Ontology Browser; Ontology Engineering Tools; Ontology Documentation"
+  ]
+  node [
+    id 3849
+    label "10.4018/jswis.2013010102"
+  ]
+  node [
+    id 3850
+    label "10.4018/978-1-4666-6042-7.ch041"
+  ]
+  node [
+    id 3851
+    label "Delicious; Folksonomy; Latent Semantic Analysis; Topicality And Non-Topicality Of Tags; Umbrella Tags; User Testing Session; Information Systems; Library And Information Sciences"
+  ]
+  node [
+    id 3852
+    label "10.1177/0165551515585283"
+  ]
+  node [
+    id 3853
+    label "Accessibility In Education; Accessibility In Scientific Documents; Accessible Graphs; Rash; Computer Networks And Communications; Computer Science Applications1707 Computer Vision And Pattern Recognition; Hardware And Architecture; Communication"
+  ]
+  node [
+    id 3854
+    label "10.1109/CCNC.2017.7983287"
+  ]
+  node [
+    id 3855
+    label "article_1658"
+  ]
+  node [
+    id 3856
+    label "Change Tracking; Earmark; Frbr; Over-Lapping Markup; Owl Ontologies; Provenance Data; Computer Science (All)"
+  ]
+  node [
+    id 3857
+    label "http://ceur-ws.org/Vol-1008/paper6.pdf"
+  ]
+  node [
+    id 3858
+    label "Research Data Management"
+  ]
+  node [
+    id 3859
+    label "Fair Principles"
+  ]
+  node [
+    id 3860
+    label "Grounded Theory Approach"
+  ]
+  node [
+    id 3861
+    label "10.1108/JD-07-2022-0146"
+  ]
+  node [
+    id 3862
+    label "Humanities&#10;Topic Modeling&#10;Retraction"
+  ]
+  node [
+    id 3863
+    label "article_1662"
+  ]
+  node [
+    id 3864
+    label "Wikicite"
+  ]
+  node [
+    id 3865
+    label "Opencitations Data Model"
+  ]
+  node [
+    id 3866
+    label "Wikipedia Citations"
+  ]
+  node [
+    id 3867
+    label "https://meta.wikimedia.org/wiki/Wikicite/grant/Wikipedia_Citations_in_Wikidata"
+  ]
+  node [
+    id 3868
+    label "Treebank Conversion"
+  ]
+  node [
+    id 3869
+    label "Conversion Tools"
+  ]
+  node [
+    id 3870
+    label "10.4000/books.aaccademia.1683"
+  ]
+  node [
+    id 3871
+    label "Pos-Tagging"
+  ]
+  node [
+    id 3872
+    label "Italian"
+  ]
+  node [
+    id 3873
+    label "http://ceur-ws.org/Vol-1749/"
+  ]
+  node [
+    id 3874
+    label "Twitter"
+  ]
+  node [
+    id 3875
+    label "Speech"
+  ]
+  node [
+    id 3876
+    label "Prosody"
+  ]
+  node [
+    id 3877
+    label "Pitch Smoothing"
+  ]
+  node [
+    id 3878
+    label "Neural Networks"
+  ]
+  node [
+    id 3879
+    label "https://books.openedition.org/aaccademia/3345"
+  ]
+  node [
+    id 3880
+    label "Word Sense Disambiguation"
+  ]
+  node [
+    id 3881
+    label "Quantum Probability Theory"
+  ]
+  node [
+    id 3882
+    label "Complex Embeddings"
+  ]
+  node [
+    id 3883
+    label "Cognitive Psychology"
+  ]
+  node [
+    id 3884
+    label "10.26615/978-954-452-056-4_135"
+  ]
+  node [
+    id 3885
+    label "Decipherment"
+  ]
+  node [
+    id 3886
+    label "Scripts"
+  ]
+  node [
+    id 3887
+    label "Epigraphy"
+  ]
+  node [
+    id 3888
+    label "Computational Tools"
+  ]
+  node [
+    id 3889
+    label "10.1418/105964"
+  ]
+  node [
+    id 3890
+    label "Voice Recognition"
+  ]
+  node [
+    id 3891
+    label "Smarthome"
+  ]
+  node [
+    id 3892
+    label "Disability"
+  ]
+  node [
+    id 3893
+    label "Environmental Control"
+  ]
+  node [
+    id 3894
+    label "Speech Disability"
+  ]
+  node [
+    id 3895
+    label "10.1007/978-3-319-54283-6_20"
+  ]
+  node [
+    id 3896
+    label "Morphological Analyser; Derivation Graph; Italian"
+  ]
+  node [
+    id 3897
+    label "article_1673"
+  ]
+  node [
+    id 3898
+    label "Language Resources"
+  ]
+  node [
+    id 3899
+    label "Syntactic Analysis"
+  ]
+  node [
+    id 3900
+    label "Treebanks"
+  ]
+  node [
+    id 3901
+    label "Parsing"
+  ]
+  node [
+    id 3902
+    label "http://aclweb.org/anthology/W/W17/W17-6526.pdf"
+  ]
+  node [
+    id 3903
+    label "Quantum Probability Theory; Machine Learning"
+  ]
+  node [
+    id 3904
+    label "article_1675"
+  ]
+  node [
+    id 3905
+    label "Automatic Detection; Evaluation; Prominence; Prosody; Language And Linguistics; Linguistics And Language"
+  ]
+  node [
+    id 3906
+    label "10.1418/80758"
+  ]
+  node [
+    id 3907
+    label "Pathological Language"
+  ]
+  node [
+    id 3908
+    label "Linguistic Features"
+  ]
+  node [
+    id 3909
+    label "Automatic Classifiers."
+  ]
+  node [
+    id 3910
+    label "http://www.lrec-conf.org/proceedings/lrec2016/summaries/400.html"
+  ]
+  node [
+    id 3911
+    label "Frame Induction"
+  ]
+  node [
+    id 3912
+    label "Iframenet"
+  ]
+  node [
+    id 3913
+    label "http://ceur-ws.org/Vol-2769/"
+  ]
+  node [
+    id 3914
+    label "Developmental Language Disorder"
+  ]
+  node [
+    id 3915
+    label "Italian Preschoolers"
+  ]
+  node [
+    id 3916
+    label "Speech Analysis"
+  ]
+  node [
+    id 3917
+    label "Nlp Techniques"
+  ]
+  node [
+    id 3918
+    label "Digital Linguistic Biomarker"
+  ]
+  node [
+    id 3919
+    label "article_1679"
+  ]
+  node [
+    id 3920
+    label "Assistive Technology; Clinical Applications Of Speech Technology; Language And Linguistics; Human-Computer Interaction; Signal Processing; Software; Modeling And Simulation"
+  ]
+  node [
+    id 3921
+    label "10.21437/Interspeech.2016-148"
+  ]
+  node [
+    id 3922
+    label "Linguistica Generale; Linguistica Comparativa; Glottologia; Linguistica Storica; Linguistica Applicata; Linguistica Italiana"
+  ]
+  node [
+    id 3923
+    label "http://amsacta.unibo.it/view/series/CLUB_Working_Papers_in_Linguistics.html"
+  ]
+  node [
+    id 3924
+    label "Linguistica Generale; Linguistica Applicata; Linguistica Italiana; Divulgazione; Divulgazione Scientifica"
+  ]
+  node [
+    id 3925
+    label "http://amsacta.unibo.it/5752/"
+  ]
+  node [
+    id 3926
+    label "Linguistica"
+  ]
+  node [
+    id 3927
+    label "10.6092/unibo/amsacta/6060"
+  ]
+  node [
+    id 3928
+    label "Linguistica; Bologna; Club"
+  ]
+  node [
+    id 3929
+    label "http://amsacta.unibo.it/7115/"
+  ]
+  node [
+    id 3930
+    label "Frame Identification"
+  ]
+  node [
+    id 3931
+    label "https://aclanthology.org/2022.lrec-1.178/"
+  ]
+  node [
+    id 3932
+    label "Ancient Script Decipherment"
+  ]
+  node [
+    id 3933
+    label "K-Permutation"
+  ]
+  node [
+    id 3934
+    label "Coupled Simulated Annealing"
+  ]
+  node [
+    id 3935
+    label "10.18653/v1/2023.cawl-1.10"
+  ]
+  node [
+    id 3936
+    label "Lexical Resources"
+  ]
+  node [
+    id 3937
+    label "http://ceur-ws.org/Vol-2006/paper079.pdf"
+  ]
+  node [
+    id 3938
+    label "https://github.com/ftamburin/Electra-AGE_FE"
+  ]
+  node [
+    id 3939
+    label "Emotion Recognition; Kernel Quantum Classifier; Evaluation"
+  ]
+  node [
+    id 3940
+    label "article_1690"
+  ]
+  node [
+    id 3941
+    label "Text Summarization"
+  ]
+  node [
+    id 3942
+    label "Contextual Embeddings"
+  ]
+  node [
+    id 3943
+    label "Evaluation Measures"
+  ]
+  node [
+    id 3944
+    label "http://ceur-ws.org/Vol-2481/"
+  ]
+  node [
+    id 3945
+    label "Contextualised Word Embeddings"
+  ]
+  node [
+    id 3946
+    label "10.4000/books.aaccademia.8920"
+  ]
+  node [
+    id 3947
+    label "Corpora"
+  ]
+  node [
+    id 3948
+    label "Italiano"
+  ]
+  node [
+    id 3949
+    label "Rappresentativit&#224;"
+  ]
+  node [
+    id 3950
+    label "Bilanciamento"
+  ]
+  node [
+    id 3951
+    label "10.17469/O2106SLI000012"
+  ]
+  node [
+    id 3952
+    label "Lingua Parlata"
+  ]
+  node [
+    id 3953
+    label "Variazione Fonetica"
+  ]
+  node [
+    id 3954
+    label "Acquisizione Di L2"
+  ]
+  node [
+    id 3955
+    label "Destrutturazione Della Forma Sonora"
+  ]
+  node [
+    id 3956
+    label "Codifica Neurale"
+  ]
+  node [
+    id 3957
+    label "Lingua Dei Segni"
+  ]
+  node [
+    id 3958
+    label "Linguaggio Musicale"
+  ]
+  node [
+    id 3959
+    label "Linguaggio Patologico"
+  ]
+  node [
+    id 3960
+    label "Trattamento Automatico Delle Lingue Naturali"
+  ]
+  node [
+    id 3961
+    label "article_1694"
+  ]
+  node [
+    id 3962
+    label "Linguista"
+  ]
+  node [
+    id 3963
+    label "article_1695"
+  ]
+  node [
+    id 3964
+    label "Dialogue Design"
+  ]
+  node [
+    id 3965
+    label "Pragmatics"
+  ]
+  node [
+    id 3966
+    label "Dialogflow Cx"
+  ]
+  node [
+    id 3967
+    label "http://ceur-ws.org/Vol-3033/"
+  ]
+  node [
+    id 3968
+    label "Induzione"
+  ]
+  node [
+    id 3969
+    label "Categorie Grammaticali"
+  ]
+  node [
+    id 3970
+    label "Classi Di Parole"
+  ]
+  node [
+    id 3971
+    label "Corpus"
+  ]
+  node [
+    id 3972
+    label "Parti Del Discorso"
+  ]
+  node [
+    id 3973
+    label "article_1697"
+  ]
+  node [
+    id 3974
+    label "Classico"
+  ]
+  node [
+    id 3975
+    label "Latino"
+  ]
+  node [
+    id 3976
+    label "Greco"
+  ]
+  node [
+    id 3977
+    label "Grammatica"
+  ]
+  node [
+    id 3978
+    label "Lingue Classiche"
+  ]
+  node [
+    id 3979
+    label "Nahutal"
+  ]
+  node [
+    id 3980
+    label "Cinese"
+  ]
+  node [
+    id 3981
+    label "article_1698"
+  ]
+  node [
+    id 3982
+    label "Dementia Screening"
+  ]
+  node [
+    id 3983
+    label "Linguistic Biomarkers"
+  ]
+  node [
+    id 3984
+    label "10.1418/101111"
+  ]
+  node [
+    id 3985
+    label "Anorexia Nervosa &#183; Clinical Linguistics &#183; Linguistic Marker &#183; Eating Disorders &#183; Adolescence"
+  ]
+  node [
+    id 3986
+    label "10.1007/s40519-021-01273-7"
+  ]
+  node [
+    id 3987
+    label "Dementia; Language And Speech Analyses; Linguistic Bio-Marker; Mild Cognitive Impairment; Nlp Techniques"
+  ]
+  node [
+    id 3988
+    label "10.1016/j.csl.2020.101113"
+  ]
+  node [
+    id 3989
+    label "Mci"
+  ]
+  node [
+    id 3990
+    label "Linguistic Markers"
+  ]
+  node [
+    id 3991
+    label "10.1016/j.jalz.2017.06.509"
+  ]
+  node [
+    id 3992
+    label "Feeding And Eating Disorders"
+  ]
+  node [
+    id 3993
+    label "Anorexia Nervosa"
+  ]
+  node [
+    id 3994
+    label "10.1007/s40519-022-01425-3"
+  ]
+  node [
+    id 3995
+    label "Cognitive Decline; Cognitive Frailty; Older Adults; Personalized Diagnosis; Screening; Spontaneous Speech Analysis; Obstetrics And Gynecology; Biochemistry"
+  ]
+  node [
+    id 3996
+    label "Genetics And Molecular Biology (All)"
+  ]
+  node [
+    id 3997
+    label "article_1704"
+  ]
+  node [
+    id 3998
+    label "Speech Processing"
+  ]
+  node [
+    id 3999
+    label "https://www.patroneditore.com/volumi/9788855535762/neural-models-for-the-automatic-processing-of-italian"
+  ]
+  node [
+    id 4000
+    label "Universal Dependencies"
+  ]
+  node [
+    id 4001
+    label "10.4000/books.aaccademia.3063"
+  ]
+  node [
+    id 4002
+    label "Speech Recognition"
+  ]
+  node [
+    id 4003
+    label "Nvidia Nemo"
+  ]
+  node [
+    id 4004
+    label "Social Media Language"
+  ]
+  node [
+    id 4005
+    label "http://www.lrec-conf.org/proceedings/lrec2018/summaries/636.html"
+  ]
+  node [
+    id 4006
+    label "Clic-It 2018"
+  ]
+  node [
+    id 4007
+    label "Computational Linguistics"
+  ]
+  node [
+    id 4008
+    label "10.4000/books.aaccademia.2802"
+  ]
+  node [
+    id 4009
+    label "10.4000/books.aaccademia.8203"
+  ]
+  node [
+    id 4010
+    label "Prosody; Prominence; Probabilistic Graphical Models; Prominence Annotation"
+  ]
+  node [
+    id 4011
+    label "article_1712"
+  ]
+  node [
+    id 4012
+    label "Dizionari"
+  ]
+  node [
+    id 4013
+    label "Atlanti"
+  ]
+  node [
+    id 4014
+    label "article_1713"
+  ]
+  node [
+    id 4015
+    label "https://github.com/ftamburin/QWSD"
+  ]
+  node [
+    id 4016
+    label "Dependency Treebank"
+  ]
+  node [
+    id 4017
+    label "Dependency Rewriting Tool."
+  ]
+  node [
+    id 4018
+    label "https://github.com/ftamburin/Semgrex-Plus.git"
+  ]
+  node [
+    id 4019
+    label "Dependency Rewriting"
+  ]
+  node [
+    id 4020
+    label "http://aclweb.org/anthology/W/W17/W17-6528.pdf"
+  ]
+  node [
+    id 4021
+    label "10.1016/j.maturitas.2015.05.013"
+  ]
+  node [
+    id 4022
+    label "Polarity"
+  ]
+  node [
+    id 4023
+    label "Distributional Semantics"
+  ]
+  node [
+    id 4024
+    label "Document Embedding"
+  ]
+  node [
+    id 4025
+    label "Paragraph Vectors"
+  ]
+  node [
+    id 4026
+    label "article_1718"
+  ]
+  node [
+    id 4027
+    label "Natural Language Processing; Cognitive Decline; Language; Mild Cognitive Impairment; Preclinical Alzheimer; Speech Analysis"
+  ]
+  node [
+    id 4028
+    label "10.3389/fnagi.2018.00369"
+  ]
+  node [
+    id 4029
+    label "Neural Models"
+  ]
+  node [
+    id 4030
+    label "Ensemble Models"
+  ]
+  node [
+    id 4031
+    label "https://www.aaccademia.it/scheda-libro?aaref=1330"
+  ]
+  node [
+    id 4032
+    label "Cognitive Decline; Cognitive Frailty; Older Adults; Personalized Diagnosis; Screening; Spontaneous Speech Analysis;"
+  ]
+  node [
+    id 4033
+    label "10.17469/O2101AISV000020"
+  ]
+  node [
+    id 4034
+    label "Lemmatisation; Morphological Analyser; Italian; Lexicon"
+  ]
+  node [
+    id 4035
+    label "10.1007/978-3-642-35828-9"
+  ]
+  node [
+    id 4036
+    label "Mental Disorders"
+  ]
+  node [
+    id 4037
+    label "Automatic Speech And Language Analysis"
+  ]
+  node [
+    id 4038
+    label "Digital Linguistic Biomarkers"
+  ]
+  node [
+    id 4039
+    label "https://aclanthology.org/2022.lrec-1.561/"
+  ]
+  node [
+    id 4040
+    label "Sentiment Analysis; Evaluation"
+  ]
+  node [
+    id 4041
+    label "article_1724"
+  ]
+  node [
+    id 4042
+    label "Evaluation; Lemmatisation; Italian"
+  ]
+  node [
+    id 4043
+    label "10.1007/978-3-642-35827-2"
+  ]
+  node [
+    id 4044
+    label "Linear A Script"
+  ]
+  node [
+    id 4045
+    label "Minoan Crete"
+  ]
+  node [
+    id 4046
+    label "Fraction Signs"
+  ]
+  node [
+    id 4047
+    label "Numerical Notations"
+  ]
+  node [
+    id 4048
+    label "10.1016/j.jas.2020.105214"
+  ]
+  node [
+    id 4049
+    label "10.4000/ijcol.900"
+  ]
+  node [
+    id 4050
+    label "Stochastic Models"
+  ]
+  node [
+    id 4051
+    label "Language Models"
+  ]
+  node [
+    id 4052
+    label "http://aclweb.org/anthology/D/D17/D17-1196.pdf"
+  ]
+  node [
+    id 4053
+    label "Prosodia; Frequenza Fondamentale F0; Valutazione Algoritmi"
+  ]
+  node [
+    id 4054
+    label "http://www.aisv.it/aisv2013/"
+  ]
+  node [
+    id 4055
+    label "Part-Of-Speech Tagging"
+  ]
+  node [
+    id 4056
+    label "Spoken Language"
+  ]
+  node [
+    id 4057
+    label "http://ceur-ws.org/Vol-2765/"
+  ]
+  node [
+    id 4058
+    label "Knowledge; Language; Linguistics; Writing; Deep Learning"
+  ]
+  node [
+    id 4059
+    label "Pitch Detection"
+  ]
+  node [
+    id 4060
+    label "Recurrent Neural Networks"
+  ]
+  node [
+    id 4061
+    label "https://www.aaccademia.it/scheda-libro?aaref=1390"
+  ]
+  node [
+    id 4062
+    label "Citizen Curation Artificial"
+  ]
+  node [
+    id 4063
+    label "Intelligence For Cultural Engagement"
+  ]
+  node [
+    id 4064
+    label "Augmented Reality For Cultural Engagement"
+  ]
+  node [
+    id 4065
+    label "Virtual Reality For Cultural Engagement"
+  ]
+  node [
+    id 4066
+    label "Data Infrastructures And Curation For Cultural Engagement"
+  ]
+  node [
+    id 4067
+    label "Digital Technologies And Inclusion In Cultural Heritage"
+  ]
+  node [
+    id 4068
+    label "10.5281/zenodo.7973646"
+  ]
+  node [
+    id 4069
+    label "N/A"
+  ]
+  node [
+    id 4070
+    label "article_1741"
+  ]
+  node [
+    id 4071
+    label "Degree Of Explainability; Objective Explainability Metric; Explainable Ai; Theory Of Explanations"
+  ]
+  node [
+    id 4072
+    label "10.1016/j.knosys.2023.110866"
+  ]
+  node [
+    id 4073
+    label "article_1749"
+  ]
+  node [
+    id 4074
+    label "article_1755"
+  ]
+  node [
+    id 4075
+    label "article_1756"
+  ]
+  node [
+    id 4076
+    label "article_1759"
+  ]
+  node [
+    id 4077
+    label "Assistive; Complex Task; Design And Evaluations; Innovative Approaches; Resource Center; Simple++; Tool Designers; Web Components; Web Resources; Web-Page"
+  ]
+  node [
+    id 4078
+    label "10.4242/BalisageVol25.Vitali01"
+  ]
+  node [
+    id 4079
+    label "Explanatory Ai"
+  ]
+  node [
+    id 4080
+    label "Explainable Ai"
+  ]
+  node [
+    id 4081
+    label "Theory Of Explanations"
+  ]
+  node [
+    id 4082
+    label "Human&#8211;Computer Interaction"
+  ]
+  node [
+    id 4083
+    label "Human-Centred Explanations"
+  ]
+  node [
+    id 4084
+    label "10.1007/s10618-022-00872-x"
+  ]
+  node [
+    id 4085
+    label "Methods For Explanations"
+  ]
+  node [
+    id 4086
+    label "Education And Learning-Related Technologies"
+  ]
+  node [
+    id 4087
+    label "Explanatory Artificial Intelligence (Yai)"
+  ]
+  node [
+    id 4088
+    label "10.1145/3397481.3450655"
+  ]
+  node [
+    id 4089
+    label "10.1145/3519265"
+  ]
+  node [
+    id 4090
+    label "Objective Explainability Metric"
+  ]
+  node [
+    id 4091
+    label "Degree Of Explainability"
+  ]
+  node [
+    id 4092
+    label "10.1109/FUZZ-IEEE55066.2022.9882574"
+  ]
+  node [
+    id 4093
+    label "article_1774"
+  ]
+  node [
+    id 4094
+    label "Knowledge Management; Semantic Web; Ontology"
+  ]
+  node [
+    id 4095
+    label "10.1007/978-3-319-49004-5"
+  ]
+  node [
+    id 4096
+    label "article_1777"
+  ]
+  node [
+    id 4097
+    label "article_1779"
+  ]
+  node [
+    id 4098
+    label "article_1782"
+  ]
+  node [
+    id 4099
+    label "Theories Of Explanation &#183; Speech Act Theory &#183; Evaluation Of Explanations &#183; Explanations In Law"
+  ]
+  node [
+    id 4100
+    label "10.1007/978-3-031-44064-9_2"
+  ]
+  node [
+    id 4101
+    label "Health Informatics"
+  ]
+  node [
+    id 4102
+    label "10.1109/HealthCom.2014.7001839"
+  ]
+  node [
+    id 4103
+    label "E-Health; Networks"
+  ]
+  node [
+    id 4104
+    label "article_1808"
+  ]
+  node [
+    id 4105
+    label "article_1816"
+  ]
+  node [
+    id 4106
+    label "article_1821"
+  ]
+  node [
+    id 4107
+    label "article_1825"
+  ]
   edge [
     source 0
     target 1
@@ -8569,47 +16509,47 @@ graph [
   edge [
     source 2
     target 88
-    weight 12
+    weight 16
   ]
   edge [
     source 2
     target 53
-    weight 40
+    weight 58
   ]
   edge [
     source 2
     target 132
-    weight 4
+    weight 8
   ]
   edge [
     source 2
     target 148
-    weight 12
+    weight 18
   ]
   edge [
     source 2
     target 135
-    weight 16
+    weight 30
   ]
   edge [
     source 2
     target 23
-    weight 16
+    weight 30
   ]
   edge [
     source 2
     target 149
-    weight 4
+    weight 8
   ]
   edge [
     source 2
     target 155
-    weight 8
+    weight 10
   ]
   edge [
     source 2
     target 156
-    weight 8
+    weight 10
   ]
   edge [
     source 2
@@ -8624,7 +16564,7 @@ graph [
   edge [
     source 2
     target 215
-    weight 6
+    weight 8
   ]
   edge [
     source 2
@@ -8634,22 +16574,22 @@ graph [
   edge [
     source 2
     target 208
-    weight 8
+    weight 12
   ]
   edge [
     source 2
     target 136
-    weight 6
+    weight 10
   ]
   edge [
     source 2
     target 289
-    weight 6
+    weight 10
   ]
   edge [
     source 2
     target 131
-    weight 6
+    weight 10
   ]
   edge [
     source 2
@@ -8664,62 +16604,62 @@ graph [
   edge [
     source 2
     target 475
-    weight 4
+    weight 6
   ]
   edge [
     source 2
     target 474
-    weight 4
+    weight 6
   ]
   edge [
     source 2
     target 355
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 56
-    weight 4
+    weight 6
   ]
   edge [
     source 2
     target 119
-    weight 4
+    weight 8
   ]
   edge [
     source 2
     target 491
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 192
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 493
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 606
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 607
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 608
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 609
-    weight 2
+    weight 4
   ]
   edge [
     source 2
@@ -8784,7 +16724,7 @@ graph [
   edge [
     source 2
     target 1108
-    weight 2
+    weight 4
   ]
   edge [
     source 2
@@ -8794,26 +16734,131 @@ graph [
   edge [
     source 2
     target 1109
-    weight 2
+    weight 4
   ]
   edge [
     source 2
     target 1116
-    weight 2
+    weight 8
   ]
   edge [
     source 2
     target 1117
-    weight 2
+    weight 8
   ]
   edge [
     source 2
     target 1118
-    weight 2
+    weight 8
   ]
   edge [
     source 2
     target 1111
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2334
+    weight 1
+  ]
+  edge [
+    source 2
+    target 2436
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2437
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2438
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2756
+    weight 1
+  ]
+  edge [
+    source 2
+    target 587
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2755
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2422
+    weight 2
+  ]
+  edge [
+    source 2
+    target 1144
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2904
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2906
+    weight 1
+  ]
+  edge [
+    source 2
+    target 2905
+    weight 2
+  ]
+  edge [
+    source 2
+    target 2988
+    weight 1
+  ]
+  edge [
+    source 2
+    target 3471
+    weight 2
+  ]
+  edge [
+    source 2
+    target 3473
+    weight 1
+  ]
+  edge [
+    source 2
+    target 3472
+    weight 2
+  ]
+  edge [
+    source 2
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 2
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 2
+    target 3519
+    weight 2
+  ]
+  edge [
+    source 2
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 2
+    target 3452
     weight 2
   ]
   edge [
@@ -8839,7 +16884,7 @@ graph [
   edge [
     source 3
     target 19
-    weight 6
+    weight 10
   ]
   edge [
     source 3
@@ -8849,61 +16894,116 @@ graph [
   edge [
     source 3
     target 97
-    weight 4
+    weight 8
   ]
   edge [
     source 3
     target 50
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 633
-    weight 2
+    weight 10
   ]
   edge [
     source 3
     target 634
-    weight 2
+    weight 10
   ]
   edge [
     source 3
     target 635
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 244
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 1001
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 1002
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 1003
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 1004
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 1005
-    weight 2
+    weight 6
   ]
   edge [
     source 3
     target 1006
+    weight 6
+  ]
+  edge [
+    source 3
+    target 2341
+    weight 1
+  ]
+  edge [
+    source 3
+    target 2340
+    weight 4
+  ]
+  edge [
+    source 3
+    target 3763
+    weight 2
+  ]
+  edge [
+    source 3
+    target 3765
+    weight 1
+  ]
+  edge [
+    source 3
+    target 93
+    weight 2
+  ]
+  edge [
+    source 3
+    target 3764
+    weight 2
+  ]
+  edge [
+    source 3
+    target 29
+    weight 2
+  ]
+  edge [
+    source 3
+    target 1050
+    weight 2
+  ]
+  edge [
+    source 3
+    target 3789
+    weight 2
+  ]
+  edge [
+    source 3
+    target 39
+    weight 2
+  ]
+  edge [
+    source 3
+    target 3790
     weight 2
   ]
   edge [
@@ -8937,9 +17037,14 @@ graph [
     weight 1
   ]
   edge [
+    source 10
+    target 3719
+    weight 1
+  ]
+  edge [
     source 11
     target 12
-    weight 4
+    weight 6
   ]
   edge [
     source 11
@@ -8949,12 +17054,12 @@ graph [
   edge [
     source 11
     target 14
-    weight 4
+    weight 6
   ]
   edge [
     source 11
     target 16
-    weight 2
+    weight 4
   ]
   edge [
     source 11
@@ -8977,6 +17082,21 @@ graph [
     weight 2
   ]
   edge [
+    source 11
+    target 562
+    weight 4
+  ]
+  edge [
+    source 11
+    target 2691
+    weight 1
+  ]
+  edge [
+    source 11
+    target 244
+    weight 4
+  ]
+  edge [
     source 12
     target 13
     weight 2
@@ -8984,12 +17104,12 @@ graph [
   edge [
     source 12
     target 14
-    weight 6
+    weight 8
   ]
   edge [
     source 12
     target 16
-    weight 4
+    weight 6
   ]
   edge [
     source 12
@@ -9044,22 +17164,32 @@ graph [
   edge [
     source 13
     target 244
-    weight 8
+    weight 10
   ]
   edge [
     source 13
     target 293
-    weight 8
+    weight 12
   ]
   edge [
     source 13
     target 294
-    weight 8
+    weight 12
   ]
   edge [
     source 13
     target 295
-    weight 8
+    weight 12
+  ]
+  edge [
+    source 13
+    target 3762
+    weight 1
+  ]
+  edge [
+    source 13
+    target 1002
+    weight 2
   ]
   edge [
     source 14
@@ -9069,7 +17199,7 @@ graph [
   edge [
     source 14
     target 16
-    weight 4
+    weight 6
   ]
   edge [
     source 14
@@ -9107,94 +17237,124 @@ graph [
     weight 2
   ]
   edge [
+    source 14
+    target 266
+    weight 2
+  ]
+  edge [
+    source 15
+    target 3720
+    weight 1
+  ]
+  edge [
     source 16
     target 17
     weight 1
   ]
   edge [
+    source 16
+    target 3858
+    weight 2
+  ]
+  edge [
+    source 16
+    target 3859
+    weight 2
+  ]
+  edge [
+    source 16
+    target 817
+    weight 2
+  ]
+  edge [
+    source 16
+    target 3860
+    weight 2
+  ]
+  edge [
     source 18
     target 19
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 20
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 21
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 22
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 23
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 24
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 18
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 19
     target 20
-    weight 4
+    weight 14
   ]
   edge [
     source 19
     target 21
-    weight 4
+    weight 8
   ]
   edge [
     source 19
     target 22
-    weight 6
+    weight 16
   ]
   edge [
     source 19
     target 23
-    weight 4
+    weight 8
   ]
   edge [
     source 19
     target 24
-    weight 4
+    weight 8
   ]
   edge [
     source 19
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 19
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 19
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 19
@@ -9214,17 +17374,17 @@ graph [
   edge [
     source 19
     target 39
-    weight 2
+    weight 4
   ]
   edge [
     source 19
     target 40
-    weight 2
+    weight 4
   ]
   edge [
     source 19
     target 41
-    weight 2
+    weight 4
   ]
   edge [
     source 19
@@ -9239,7 +17399,7 @@ graph [
   edge [
     source 19
     target 45
-    weight 4
+    weight 8
   ]
   edge [
     source 19
@@ -9259,7 +17419,7 @@ graph [
   edge [
     source 19
     target 50
-    weight 4
+    weight 8
   ]
   edge [
     source 19
@@ -9294,32 +17454,32 @@ graph [
   edge [
     source 19
     target 612
-    weight 2
-  ]
-  edge [
-    source 19
-    target 613
-    weight 2
-  ]
-  edge [
-    source 19
-    target 614
-    weight 2
-  ]
-  edge [
-    source 19
-    target 615
-    weight 2
-  ]
-  edge [
-    source 19
-    target 97
     weight 6
   ]
   edge [
     source 19
+    target 613
+    weight 6
+  ]
+  edge [
+    source 19
+    target 614
+    weight 6
+  ]
+  edge [
+    source 19
+    target 615
+    weight 18
+  ]
+  edge [
+    source 19
+    target 97
+    weight 22
+  ]
+  edge [
+    source 19
     target 78
-    weight 4
+    weight 6
   ]
   edge [
     source 19
@@ -9329,52 +17489,87 @@ graph [
   edge [
     source 19
     target 633
-    weight 2
+    weight 8
   ]
   edge [
     source 19
     target 634
-    weight 2
+    weight 8
   ]
   edge [
     source 19
     target 635
+    weight 6
+  ]
+  edge [
+    source 19
+    target 3733
+    weight 4
+  ]
+  edge [
+    source 19
+    target 3759
+    weight 8
+  ]
+  edge [
+    source 19
+    target 3760
+    weight 8
+  ]
+  edge [
+    source 19
+    target 3798
+    weight 2
+  ]
+  edge [
+    source 19
+    target 53
+    weight 2
+  ]
+  edge [
+    source 19
+    target 3800
+    weight 2
+  ]
+  edge [
+    source 19
+    target 3846
     weight 2
   ]
   edge [
     source 20
     target 21
-    weight 4
+    weight 8
   ]
   edge [
     source 20
     target 22
-    weight 4
+    weight 8
   ]
   edge [
     source 20
     target 23
-    weight 4
+    weight 8
   ]
   edge [
     source 20
     target 24
-    weight 4
+    weight 8
   ]
   edge [
     source 20
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 20
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 20
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 20
@@ -9402,59 +17597,84 @@ graph [
     weight 2
   ]
   edge [
+    source 20
+    target 3733
+    weight 4
+  ]
+  edge [
+    source 20
+    target 3734
+    weight 1
+  ]
+  edge [
+    source 20
+    target 615
+    weight 4
+  ]
+  edge [
+    source 20
+    target 97
+    weight 4
+  ]
+  edge [
+    source 20
+    target 3800
+    weight 2
+  ]
+  edge [
     source 21
     target 22
-    weight 4
+    weight 8
   ]
   edge [
     source 21
     target 23
-    weight 4
+    weight 8
   ]
   edge [
     source 21
     target 24
-    weight 4
+    weight 8
   ]
   edge [
     source 21
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 21
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 21
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 22
     target 23
-    weight 4
+    weight 14
   ]
   edge [
     source 22
     target 24
-    weight 4
+    weight 8
   ]
   edge [
     source 22
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 22
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 22
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 22
@@ -9484,7 +17704,7 @@ graph [
   edge [
     source 22
     target 612
-    weight 2
+    weight 6
   ]
   edge [
     source 22
@@ -9494,27 +17714,27 @@ graph [
   edge [
     source 22
     target 613
-    weight 2
+    weight 6
   ]
   edge [
     source 22
     target 614
-    weight 2
+    weight 6
   ]
   edge [
     source 22
     target 615
-    weight 2
+    weight 6
   ]
   edge [
     source 22
     target 97
-    weight 2
+    weight 6
   ]
   edge [
     source 22
     target 45
-    weight 4
+    weight 8
   ]
   edge [
     source 22
@@ -9527,44 +17747,114 @@ graph [
     weight 2
   ]
   edge [
+    source 22
+    target 2194
+    weight 8
+  ]
+  edge [
+    source 22
+    target 2196
+    weight 1
+  ]
+  edge [
+    source 22
+    target 2195
+    weight 8
+  ]
+  edge [
+    source 22
+    target 634
+    weight 10
+  ]
+  edge [
+    source 22
+    target 1925
+    weight 8
+  ]
+  edge [
+    source 22
+    target 2213
+    weight 6
+  ]
+  edge [
+    source 22
+    target 2214
+    weight 6
+  ]
+  edge [
+    source 22
+    target 2215
+    weight 6
+  ]
+  edge [
+    source 22
+    target 2216
+    weight 6
+  ]
+  edge [
+    source 22
+    target 2304
+    weight 4
+  ]
+  edge [
+    source 22
+    target 2306
+    weight 4
+  ]
+  edge [
+    source 22
+    target 69
+    weight 4
+  ]
+  edge [
+    source 22
+    target 633
+    weight 2
+  ]
+  edge [
+    source 22
+    target 3846
+    weight 2
+  ]
+  edge [
     source 23
     target 24
-    weight 4
+    weight 8
   ]
   edge [
     source 23
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 23
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 23
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 23
     target 132
-    weight 4
+    weight 8
   ]
   edge [
     source 23
     target 148
-    weight 4
+    weight 8
   ]
   edge [
     source 23
     target 135
-    weight 8
+    weight 16
   ]
   edge [
     source 23
     target 149
-    weight 8
+    weight 12
   ]
   edge [
     source 23
@@ -9574,32 +17864,32 @@ graph [
   edge [
     source 23
     target 151
-    weight 8
+    weight 12
   ]
   edge [
     source 23
     target 163
-    weight 4
+    weight 6
   ]
   edge [
     source 23
     target 164
-    weight 4
+    weight 6
   ]
   edge [
     source 23
     target 165
-    weight 4
+    weight 6
   ]
   edge [
     source 23
     target 53
-    weight 28
+    weight 38
   ]
   edge [
     source 23
     target 96
-    weight 12
+    weight 14
   ]
   edge [
     source 23
@@ -9614,32 +17904,32 @@ graph [
   edge [
     source 23
     target 264
-    weight 6
-  ]
-  edge [
-    source 23
-    target 102
-    weight 6
-  ]
-  edge [
-    source 23
-    target 119
     weight 8
   ]
   edge [
     source 23
+    target 102
+    weight 8
+  ]
+  edge [
+    source 23
+    target 119
+    weight 10
+  ]
+  edge [
+    source 23
     target 136
-    weight 6
+    weight 10
   ]
   edge [
     source 23
     target 289
-    weight 6
+    weight 10
   ]
   edge [
     source 23
     target 131
-    weight 6
+    weight 10
   ]
   edge [
     source 23
@@ -9654,12 +17944,12 @@ graph [
   edge [
     source 23
     target 355
-    weight 4
+    weight 6
   ]
   edge [
     source 23
     target 56
-    weight 6
+    weight 8
   ]
   edge [
     source 23
@@ -9674,7 +17964,7 @@ graph [
   edge [
     source 23
     target 420
-    weight 4
+    weight 6
   ]
   edge [
     source 23
@@ -9689,22 +17979,22 @@ graph [
   edge [
     source 23
     target 474
-    weight 2
+    weight 4
   ]
   edge [
     source 23
     target 491
-    weight 2
+    weight 4
   ]
   edge [
     source 23
     target 192
-    weight 2
+    weight 4
   ]
   edge [
     source 23
     target 475
-    weight 2
+    weight 4
   ]
   edge [
     source 23
@@ -9732,34 +18022,184 @@ graph [
     weight 2
   ]
   edge [
+    source 23
+    target 2213
+    weight 6
+  ]
+  edge [
+    source 23
+    target 2214
+    weight 6
+  ]
+  edge [
+    source 23
+    target 2215
+    weight 6
+  ]
+  edge [
+    source 23
+    target 2216
+    weight 6
+  ]
+  edge [
+    source 23
+    target 1063
+    weight 4
+  ]
+  edge [
+    source 23
+    target 2436
+    weight 2
+  ]
+  edge [
+    source 23
+    target 2437
+    weight 2
+  ]
+  edge [
+    source 23
+    target 2438
+    weight 2
+  ]
+  edge [
+    source 23
+    target 2491
+    weight 8
+  ]
+  edge [
+    source 23
+    target 2604
+    weight 1
+  ]
+  edge [
+    source 23
+    target 94
+    weight 8
+  ]
+  edge [
+    source 23
+    target 2603
+    weight 8
+  ]
+  edge [
+    source 23
+    target 2765
+    weight 1
+  ]
+  edge [
+    source 23
+    target 2881
+    weight 2
+  ]
+  edge [
+    source 23
+    target 2904
+    weight 2
+  ]
+  edge [
+    source 23
+    target 2905
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3046
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3047
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3822
+    weight 1
+  ]
+  edge [
+    source 23
+    target 3817
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 23
+    target 2368
+    weight 2
+  ]
+  edge [
+    source 23
+    target 625
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 23
+    target 629
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 23
+    target 98
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 23
+    target 3842
+    weight 1
+  ]
+  edge [
+    source 23
+    target 4105
+    weight 1
+  ]
+  edge [
     source 24
     target 25
-    weight 4
+    weight 8
   ]
   edge [
     source 24
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 24
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 25
     target 26
-    weight 4
+    weight 8
   ]
   edge [
     source 25
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 26
     target 27
-    weight 4
+    weight 8
   ]
   edge [
     source 27
@@ -9804,12 +18244,12 @@ graph [
   edge [
     source 29
     target 47
-    weight 6
+    weight 12
   ]
   edge [
     source 29
     target 85
-    weight 6
+    weight 12
   ]
   edge [
     source 29
@@ -9849,6 +18289,71 @@ graph [
   edge [
     source 29
     target 93
+    weight 2
+  ]
+  edge [
+    source 29
+    target 2631
+    weight 4
+  ]
+  edge [
+    source 29
+    target 2632
+    weight 4
+  ]
+  edge [
+    source 29
+    target 562
+    weight 4
+  ]
+  edge [
+    source 29
+    target 2633
+    weight 4
+  ]
+  edge [
+    source 29
+    target 1050
+    weight 2
+  ]
+  edge [
+    source 29
+    target 3792
+    weight 4
+  ]
+  edge [
+    source 29
+    target 3793
+    weight 4
+  ]
+  edge [
+    source 29
+    target 208
+    weight 4
+  ]
+  edge [
+    source 29
+    target 3840
+    weight 2
+  ]
+  edge [
+    source 29
+    target 39
+    weight 2
+  ]
+  edge [
+    source 29
+    target 3864
+    weight 2
+  ]
+  edge [
+    source 29
+    target 3865
+    weight 2
+  ]
+  edge [
+    source 29
+    target 3866
     weight 2
   ]
   edge [
@@ -9894,37 +18399,37 @@ graph [
   edge [
     source 33
     target 34
-    weight 6
+    weight 16
   ]
   edge [
     source 33
     target 35
-    weight 6
+    weight 16
   ]
   edge [
     source 33
     target 36
-    weight 6
+    weight 16
   ]
   edge [
     source 33
     target 37
-    weight 6
+    weight 16
   ]
   edge [
     source 34
     target 35
-    weight 8
+    weight 18
   ]
   edge [
     source 34
     target 36
-    weight 8
+    weight 18
   ]
   edge [
     source 34
     target 37
-    weight 6
+    weight 16
   ]
   edge [
     source 34
@@ -9939,12 +18444,12 @@ graph [
   edge [
     source 35
     target 36
-    weight 8
+    weight 18
   ]
   edge [
     source 35
     target 37
-    weight 6
+    weight 16
   ]
   edge [
     source 35
@@ -9959,7 +18464,7 @@ graph [
   edge [
     source 36
     target 37
-    weight 6
+    weight 16
   ]
   edge [
     source 36
@@ -9987,19 +18492,64 @@ graph [
     weight 1
   ]
   edge [
+    source 37
+    target 2350
+    weight 1
+  ]
+  edge [
+    source 37
+    target 2353
+    weight 1
+  ]
+  edge [
+    source 37
+    target 2414
+    weight 1
+  ]
+  edge [
+    source 37
+    target 2743
+    weight 1
+  ]
+  edge [
+    source 37
+    target 3752
+    weight 1
+  ]
+  edge [
     source 39
     target 40
-    weight 2
+    weight 4
   ]
   edge [
     source 39
     target 41
+    weight 4
+  ]
+  edge [
+    source 39
+    target 3789
+    weight 2
+  ]
+  edge [
+    source 39
+    target 3790
+    weight 2
+  ]
+  edge [
+    source 39
+    target 3841
+    weight 1
+  ]
+  edge [
+    source 39
+    target 3840
     weight 2
   ]
   edge [
     source 40
     target 41
-    weight 2
+    weight 4
   ]
   edge [
     source 41
@@ -10069,27 +18619,27 @@ graph [
   edge [
     source 45
     target 612
-    weight 2
+    weight 6
   ]
   edge [
     source 45
     target 613
-    weight 2
+    weight 6
   ]
   edge [
     source 45
     target 614
-    weight 2
+    weight 6
   ]
   edge [
     source 45
     target 615
-    weight 2
+    weight 6
   ]
   edge [
     source 45
     target 97
-    weight 2
+    weight 6
   ]
   edge [
     source 45
@@ -10144,7 +18694,7 @@ graph [
   edge [
     source 47
     target 85
-    weight 6
+    weight 12
   ]
   edge [
     source 47
@@ -10164,7 +18714,7 @@ graph [
   edge [
     source 47
     target 97
-    weight 6
+    weight 10
   ]
   edge [
     source 47
@@ -10182,8 +18732,48 @@ graph [
     weight 6
   ]
   edge [
+    source 47
+    target 3760
+    weight 2
+  ]
+  edge [
+    source 47
+    target 370
+    weight 6
+  ]
+  edge [
+    source 47
+    target 3815
+    weight 6
+  ]
+  edge [
+    source 47
+    target 68
+    weight 6
+  ]
+  edge [
+    source 47
+    target 3823
+    weight 2
+  ]
+  edge [
+    source 47
+    target 3825
+    weight 2
+  ]
+  edge [
+    source 47
+    target 3826
+    weight 1
+  ]
+  edge [
     source 48
     target 49
+    weight 1
+  ]
+  edge [
+    source 49
+    target 3755
     weight 1
   ]
   edge [
@@ -10194,17 +18784,17 @@ graph [
   edge [
     source 50
     target 633
-    weight 2
+    weight 6
   ]
   edge [
     source 50
     target 634
-    weight 2
+    weight 6
   ]
   edge [
     source 50
     target 635
-    weight 2
+    weight 6
   ]
   edge [
     source 51
@@ -10224,12 +18814,12 @@ graph [
   edge [
     source 53
     target 56
-    weight 12
+    weight 16
   ]
   edge [
     source 53
     target 88
-    weight 12
+    weight 16
   ]
   edge [
     source 53
@@ -10239,17 +18829,17 @@ graph [
   edge [
     source 53
     target 92
-    weight 6
+    weight 8
   ]
   edge [
     source 53
     target 93
-    weight 6
+    weight 10
   ]
   edge [
     source 53
     target 94
-    weight 10
+    weight 20
   ]
   edge [
     source 53
@@ -10279,7 +18869,7 @@ graph [
   edge [
     source 53
     target 163
-    weight 4
+    weight 6
   ]
   edge [
     source 53
@@ -10289,17 +18879,17 @@ graph [
   edge [
     source 53
     target 164
-    weight 4
+    weight 6
   ]
   edge [
     source 53
     target 151
-    weight 4
+    weight 6
   ]
   edge [
     source 53
     target 165
-    weight 4
+    weight 6
   ]
   edge [
     source 53
@@ -10314,7 +18904,7 @@ graph [
   edge [
     source 53
     target 96
-    weight 18
+    weight 26
   ]
   edge [
     source 53
@@ -10329,7 +18919,7 @@ graph [
   edge [
     source 53
     target 102
-    weight 22
+    weight 30
   ]
   edge [
     source 53
@@ -10339,12 +18929,12 @@ graph [
   edge [
     source 53
     target 208
-    weight 24
+    weight 42
   ]
   edge [
     source 53
     target 215
-    weight 6
+    weight 8
   ]
   edge [
     source 53
@@ -10379,12 +18969,12 @@ graph [
   edge [
     source 53
     target 135
-    weight 18
+    weight 40
   ]
   edge [
     source 53
     target 264
-    weight 6
+    weight 12
   ]
   edge [
     source 53
@@ -10399,7 +18989,7 @@ graph [
   edge [
     source 53
     target 285
-    weight 10
+    weight 12
   ]
   edge [
     source 53
@@ -10414,12 +19004,12 @@ graph [
   edge [
     source 53
     target 299
-    weight 6
+    weight 8
   ]
   edge [
     source 53
     target 313
-    weight 6
+    weight 8
   ]
   edge [
     source 53
@@ -10454,7 +19044,7 @@ graph [
   edge [
     source 53
     target 351
-    weight 2
+    weight 6
   ]
   edge [
     source 53
@@ -10469,7 +19059,7 @@ graph [
   edge [
     source 53
     target 136
-    weight 2
+    weight 8
   ]
   edge [
     source 53
@@ -10479,7 +19069,7 @@ graph [
   edge [
     source 53
     target 362
-    weight 2
+    weight 4
   ]
   edge [
     source 53
@@ -10499,22 +19089,22 @@ graph [
   edge [
     source 53
     target 395
-    weight 4
+    weight 6
   ]
   edge [
     source 53
     target 396
-    weight 4
+    weight 6
   ]
   edge [
     source 53
     target 397
-    weight 4
+    weight 6
   ]
   edge [
     source 53
     target 420
-    weight 4
+    weight 6
   ]
   edge [
     source 53
@@ -10539,12 +19129,12 @@ graph [
   edge [
     source 53
     target 474
-    weight 4
+    weight 10
   ]
   edge [
     source 53
     target 475
-    weight 4
+    weight 10
   ]
   edge [
     source 53
@@ -10589,17 +19179,17 @@ graph [
   edge [
     source 53
     target 581
-    weight 2
+    weight 6
   ]
   edge [
     source 53
     target 589
-    weight 2
+    weight 6
   ]
   edge [
     source 53
     target 562
-    weight 2
+    weight 6
   ]
   edge [
     source 53
@@ -10609,7 +19199,7 @@ graph [
   edge [
     source 53
     target 625
-    weight 4
+    weight 6
   ]
   edge [
     source 53
@@ -10674,7 +19264,7 @@ graph [
   edge [
     source 53
     target 978
-    weight 4
+    weight 12
   ]
   edge [
     source 53
@@ -10704,12 +19294,12 @@ graph [
   edge [
     source 53
     target 1108
-    weight 2
+    weight 4
   ]
   edge [
     source 53
     target 1109
-    weight 2
+    weight 4
   ]
   edge [
     source 53
@@ -10724,7 +19314,7 @@ graph [
   edge [
     source 53
     target 1116
-    weight 2
+    weight 16
   ]
   edge [
     source 53
@@ -10734,12 +19324,12 @@ graph [
   edge [
     source 53
     target 1117
-    weight 2
+    weight 12
   ]
   edge [
     source 53
     target 1118
-    weight 2
+    weight 8
   ]
   edge [
     source 53
@@ -10750,6 +19340,461 @@ graph [
     source 53
     target 149
     weight 2
+  ]
+  edge [
+    source 53
+    target 2199
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2202
+    weight 1
+  ]
+  edge [
+    source 53
+    target 2192
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2200
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2201
+    weight 4
+  ]
+  edge [
+    source 53
+    target 83
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2203
+    weight 6
+  ]
+  edge [
+    source 53
+    target 2204
+    weight 6
+  ]
+  edge [
+    source 53
+    target 1099
+    weight 6
+  ]
+  edge [
+    source 53
+    target 2205
+    weight 6
+  ]
+  edge [
+    source 53
+    target 2384
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2436
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2437
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2438
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2226
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2453
+    weight 2
+  ]
+  edge [
+    source 53
+    target 1143
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2500
+    weight 1
+  ]
+  edge [
+    source 53
+    target 2498
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2499
+    weight 4
+  ]
+  edge [
+    source 53
+    target 587
+    weight 6
+  ]
+  edge [
+    source 53
+    target 2580
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2581
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2582
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2614
+    weight 2
+  ]
+  edge [
+    source 53
+    target 426
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2422
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2757
+    weight 1
+  ]
+  edge [
+    source 53
+    target 2763
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2887
+    weight 1
+  ]
+  edge [
+    source 53
+    target 2922
+    weight 1
+  ]
+  edge [
+    source 53
+    target 2927
+    weight 1
+  ]
+  edge [
+    source 53
+    target 2928
+    weight 4
+  ]
+  edge [
+    source 53
+    target 2945
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2975
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3008
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3009
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3010
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2881
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3020
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3022
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3034
+    weight 2
+  ]
+  edge [
+    source 53
+    target 156
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3035
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3036
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3042
+    weight 4
+  ]
+  edge [
+    source 53
+    target 3045
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3043
+    weight 4
+  ]
+  edge [
+    source 53
+    target 3044
+    weight 4
+  ]
+  edge [
+    source 53
+    target 3058
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3059
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3471
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3472
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3570
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3458
+    weight 2
+  ]
+  edge [
+    source 53
+    target 656
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3571
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3572
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 53
+    target 913
+    weight 4
+  ]
+  edge [
+    source 53
+    target 3546
+    weight 4
+  ]
+  edge [
+    source 53
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 53
+    target 767
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 53
+    target 247
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2301
+    weight 2
+  ]
+  edge [
+    source 53
+    target 914
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3717
+    weight 4
+  ]
+  edge [
+    source 53
+    target 3718
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3729
+    weight 1
+  ]
+  edge [
+    source 53
+    target 3799
+    weight 1
+  ]
+  edge [
+    source 53
+    target 78
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3798
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3817
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 53
+    target 2368
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 53
+    target 629
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 53
+    target 98
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 53
+    target 3839
+    weight 1
   ]
   edge [
     source 54
@@ -10789,12 +19834,12 @@ graph [
   edge [
     source 56
     target 192
-    weight 6
+    weight 8
   ]
   edge [
     source 56
     target 355
-    weight 4
+    weight 6
   ]
   edge [
     source 56
@@ -10849,27 +19894,27 @@ graph [
   edge [
     source 56
     target 474
-    weight 2
+    weight 4
   ]
   edge [
     source 56
     target 119
-    weight 2
+    weight 4
   ]
   edge [
     source 56
     target 491
-    weight 2
+    weight 4
   ]
   edge [
     source 56
     target 475
-    weight 2
+    weight 4
   ]
   edge [
     source 56
     target 581
-    weight 4
+    weight 8
   ]
   edge [
     source 56
@@ -10884,27 +19929,27 @@ graph [
   edge [
     source 56
     target 562
-    weight 6
+    weight 10
   ]
   edge [
     source 56
     target 589
-    weight 2
+    weight 6
   ]
   edge [
     source 56
     target 596
-    weight 4
+    weight 6
   ]
   edge [
     source 56
     target 597
-    weight 4
+    weight 6
   ]
   edge [
     source 56
     target 598
-    weight 4
+    weight 6
   ]
   edge [
     source 56
@@ -10967,54 +20012,84 @@ graph [
     weight 2
   ]
   edge [
+    source 56
+    target 2304
+    weight 6
+  ]
+  edge [
+    source 56
+    target 69
+    weight 4
+  ]
+  edge [
+    source 56
+    target 2226
+    weight 4
+  ]
+  edge [
+    source 56
+    target 2310
+    weight 2
+  ]
+  edge [
+    source 56
+    target 2311
+    weight 2
+  ]
+  edge [
+    source 56
+    target 2312
+    weight 2
+  ]
+  edge [
     source 58
     target 59
-    weight 4
+    weight 8
   ]
   edge [
     source 58
     target 60
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 62
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 63
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 64
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 65
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 66
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 58
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 58
@@ -11049,47 +20124,47 @@ graph [
   edge [
     source 59
     target 60
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 62
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 63
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 64
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 65
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 66
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 59
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 60
@@ -11097,39 +20172,44 @@ graph [
     weight 1
   ]
   edge [
+    source 60
+    target 3783
+    weight 1
+  ]
+  edge [
     source 62
     target 63
-    weight 2
+    weight 4
   ]
   edge [
     source 62
     target 64
-    weight 2
+    weight 4
   ]
   edge [
     source 62
     target 65
-    weight 2
+    weight 4
   ]
   edge [
     source 62
     target 66
-    weight 2
+    weight 4
   ]
   edge [
     source 62
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 62
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 62
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 62
@@ -11139,82 +20219,87 @@ graph [
   edge [
     source 62
     target 1060
+    weight 4
+  ]
+  edge [
+    source 62
+    target 2370
     weight 2
   ]
   edge [
     source 63
     target 64
-    weight 2
+    weight 4
   ]
   edge [
     source 63
     target 65
-    weight 2
+    weight 4
   ]
   edge [
     source 63
     target 66
-    weight 2
+    weight 4
   ]
   edge [
     source 63
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 63
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 63
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 64
     target 65
-    weight 2
+    weight 4
   ]
   edge [
     source 64
     target 66
-    weight 2
+    weight 4
   ]
   edge [
     source 64
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 64
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 64
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 65
     target 66
-    weight 2
+    weight 4
   ]
   edge [
     source 65
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 65
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 65
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 65
@@ -11229,37 +20314,187 @@ graph [
   edge [
     source 66
     target 67
-    weight 2
+    weight 4
   ]
   edge [
     source 66
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 66
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 67
     target 68
-    weight 2
+    weight 4
   ]
   edge [
     source 67
     target 69
-    weight 2
+    weight 4
   ]
   edge [
     source 68
     target 69
+    weight 4
+  ]
+  edge [
+    source 68
+    target 1184
+    weight 2
+  ]
+  edge [
+    source 68
+    target 996
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3469
+    weight 4
+  ]
+  edge [
+    source 68
+    target 3451
+    weight 2
+  ]
+  edge [
+    source 68
+    target 986
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3452
+    weight 4
+  ]
+  edge [
+    source 68
+    target 3597
+    weight 4
+  ]
+  edge [
+    source 68
+    target 3602
+    weight 1
+  ]
+  edge [
+    source 68
+    target 3598
+    weight 4
+  ]
+  edge [
+    source 68
+    target 3599
+    weight 4
+  ]
+  edge [
+    source 68
+    target 3600
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3449
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3601
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3603
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3816
+    weight 1
+  ]
+  edge [
+    source 68
+    target 370
+    weight 6
+  ]
+  edge [
+    source 68
+    target 3815
+    weight 6
+  ]
+  edge [
+    source 68
+    target 3823
+    weight 2
+  ]
+  edge [
+    source 68
+    target 3825
     weight 2
   ]
   edge [
     source 69
     target 70
     weight 1
+  ]
+  edge [
+    source 69
+    target 2304
+    weight 8
+  ]
+  edge [
+    source 69
+    target 2226
+    weight 4
+  ]
+  edge [
+    source 69
+    target 2307
+    weight 1
+  ]
+  edge [
+    source 69
+    target 2306
+    weight 4
   ]
   edge [
     source 71
@@ -11314,12 +20549,12 @@ graph [
   edge [
     source 71
     target 1015
-    weight 2
+    weight 6
   ]
   edge [
     source 71
     target 93
-    weight 2
+    weight 6
   ]
   edge [
     source 72
@@ -11334,6 +20569,21 @@ graph [
   edge [
     source 72
     target 75
+    weight 2
+  ]
+  edge [
+    source 72
+    target 2900
+    weight 2
+  ]
+  edge [
+    source 72
+    target 2902
+    weight 1
+  ]
+  edge [
+    source 72
+    target 2901
     weight 2
   ]
   edge [
@@ -11374,22 +20624,22 @@ graph [
   edge [
     source 74
     target 530
-    weight 2
+    weight 6
   ]
   edge [
     source 74
     target 531
-    weight 2
+    weight 6
   ]
   edge [
     source 74
     target 208
-    weight 2
+    weight 6
   ]
   edge [
     source 74
     target 532
-    weight 2
+    weight 6
   ]
   edge [
     source 74
@@ -11442,8 +20692,18 @@ graph [
     weight 4
   ]
   edge [
+    source 78
+    target 3798
+    weight 2
+  ]
+  edge [
     source 79
     target 80
+    weight 1
+  ]
+  edge [
+    source 80
+    target 3830
     weight 1
   ]
   edge [
@@ -11464,7 +20724,7 @@ graph [
   edge [
     source 82
     target 119
-    weight 6
+    weight 12
   ]
   edge [
     source 82
@@ -11479,7 +20739,7 @@ graph [
   edge [
     source 82
     target 2015
-    weight 2
+    weight 6
   ]
   edge [
     source 82
@@ -11489,7 +20749,47 @@ graph [
   edge [
     source 82
     target 2016
-    weight 2
+    weight 6
+  ]
+  edge [
+    source 82
+    target 2813
+    weight 1
+  ]
+  edge [
+    source 82
+    target 3756
+    weight 1
+  ]
+  edge [
+    source 82
+    target 4076
+    weight 1
+  ]
+  edge [
+    source 83
+    target 2199
+    weight 4
+  ]
+  edge [
+    source 83
+    target 208
+    weight 4
+  ]
+  edge [
+    source 83
+    target 2192
+    weight 4
+  ]
+  edge [
+    source 83
+    target 2200
+    weight 4
+  ]
+  edge [
+    source 83
+    target 2201
+    weight 4
   ]
   edge [
     source 85
@@ -11504,7 +20804,7 @@ graph [
   edge [
     source 88
     target 215
-    weight 6
+    weight 8
   ]
   edge [
     source 90
@@ -11514,17 +20814,17 @@ graph [
   edge [
     source 92
     target 93
-    weight 6
+    weight 8
   ]
   edge [
     source 92
     target 94
-    weight 6
+    weight 8
   ]
   edge [
     source 93
     target 94
-    weight 6
+    weight 8
   ]
   edge [
     source 93
@@ -11534,7 +20834,7 @@ graph [
   edge [
     source 93
     target 1015
-    weight 2
+    weight 6
   ]
   edge [
     source 93
@@ -11569,6 +20869,101 @@ graph [
   edge [
     source 93
     target 606
+    weight 2
+  ]
+  edge [
+    source 93
+    target 2842
+    weight 1
+  ]
+  edge [
+    source 93
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 93
+    target 767
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3469
+    weight 4
+  ]
+  edge [
+    source 93
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 93
+    target 247
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 93
+    target 2301
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3656
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3708
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3658
+    weight 2
+  ]
+  edge [
+    source 93
+    target 905
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3763
+    weight 2
+  ]
+  edge [
+    source 93
+    target 3764
     weight 2
   ]
   edge [
@@ -11624,7 +21019,7 @@ graph [
   edge [
     source 94
     target 208
-    weight 8
+    weight 12
   ]
   edge [
     source 94
@@ -11684,17 +21079,17 @@ graph [
   edge [
     source 94
     target 560
-    weight 2
+    weight 4
   ]
   edge [
     source 94
     target 561
-    weight 2
+    weight 4
   ]
   edge [
     source 94
     target 562
-    weight 2
+    weight 6
   ]
   edge [
     source 94
@@ -11725,6 +21120,161 @@ graph [
     source 94
     target 1030
     weight 2
+  ]
+  edge [
+    source 94
+    target 2367
+    weight 6
+  ]
+  edge [
+    source 94
+    target 2368
+    weight 6
+  ]
+  edge [
+    source 94
+    target 2381
+    weight 2
+  ]
+  edge [
+    source 94
+    target 424
+    weight 2
+  ]
+  edge [
+    source 94
+    target 2382
+    weight 2
+  ]
+  edge [
+    source 94
+    target 1334
+    weight 2
+  ]
+  edge [
+    source 94
+    target 1099
+    weight 2
+  ]
+  edge [
+    source 94
+    target 2529
+    weight 2
+  ]
+  edge [
+    source 94
+    target 2530
+    weight 2
+  ]
+  edge [
+    source 94
+    target 1116
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2534
+    weight 1
+  ]
+  edge [
+    source 94
+    target 587
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2544
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2545
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2546
+    weight 4
+  ]
+  edge [
+    source 94
+    target 98
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2547
+    weight 4
+  ]
+  edge [
+    source 94
+    target 634
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 94
+    target 2491
+    weight 8
+  ]
+  edge [
+    source 94
+    target 2603
+    weight 8
+  ]
+  edge [
+    source 94
+    target 2938
+    weight 4
+  ]
+  edge [
+    source 94
+    target 621
+    weight 1
+  ]
+  edge [
+    source 94
+    target 2312
+    weight 4
+  ]
+  edge [
+    source 94
+    target 327
+    weight 4
+  ]
+  edge [
+    source 94
+    target 3717
+    weight 4
+  ]
+  edge [
+    source 94
+    target 3723
+    weight 1
+  ]
+  edge [
+    source 94
+    target 978
+    weight 2
+  ]
+  edge [
+    source 94
+    target 3829
+    weight 1
   ]
   edge [
     source 96
@@ -11764,27 +21314,37 @@ graph [
   edge [
     source 96
     target 102
-    weight 12
+    weight 16
   ]
   edge [
     source 96
     target 208
-    weight 6
+    weight 8
   ]
   edge [
     source 96
     target 260
-    weight 6
+    weight 8
   ]
   edge [
     source 96
     target 261
-    weight 6
+    weight 8
   ]
   edge [
     source 96
     target 264
-    weight 6
+    weight 12
+  ]
+  edge [
+    source 96
+    target 2928
+    weight 4
+  ]
+  edge [
+    source 96
+    target 2945
+    weight 2
   ]
   edge [
     source 97
@@ -11839,7 +21399,7 @@ graph [
   edge [
     source 97
     target 210
-    weight 4
+    weight 10
   ]
   edge [
     source 97
@@ -11849,17 +21409,17 @@ graph [
   edge [
     source 97
     target 211
-    weight 4
+    weight 10
   ]
   edge [
     source 97
     target 212
-    weight 4
+    weight 10
   ]
   edge [
     source 97
     target 213
-    weight 4
+    weight 10
   ]
   edge [
     source 97
@@ -11894,7 +21454,7 @@ graph [
   edge [
     source 97
     target 208
-    weight 6
+    weight 8
   ]
   edge [
     source 97
@@ -11914,22 +21474,22 @@ graph [
   edge [
     source 97
     target 612
-    weight 2
+    weight 6
   ]
   edge [
     source 97
     target 613
-    weight 2
+    weight 6
   ]
   edge [
     source 97
     target 614
-    weight 2
+    weight 6
   ]
   edge [
     source 97
     target 615
-    weight 2
+    weight 18
   ]
   edge [
     source 97
@@ -11954,6 +21514,86 @@ graph [
   edge [
     source 97
     target 837
+    weight 1
+  ]
+  edge [
+    source 97
+    target 2340
+    weight 4
+  ]
+  edge [
+    source 97
+    target 634
+    weight 4
+  ]
+  edge [
+    source 97
+    target 633
+    weight 4
+  ]
+  edge [
+    source 97
+    target 2836
+    weight 1
+  ]
+  edge [
+    source 97
+    target 2861
+    weight 1
+  ]
+  edge [
+    source 97
+    target 2862
+    weight 2
+  ]
+  edge [
+    source 97
+    target 3730
+    weight 1
+  ]
+  edge [
+    source 97
+    target 3733
+    weight 4
+  ]
+  edge [
+    source 97
+    target 3759
+    weight 8
+  ]
+  edge [
+    source 97
+    target 3761
+    weight 1
+  ]
+  edge [
+    source 97
+    target 3760
+    weight 10
+  ]
+  edge [
+    source 97
+    target 3771
+    weight 1
+  ]
+  edge [
+    source 97
+    target 3780
+    weight 1
+  ]
+  edge [
+    source 97
+    target 3814
+    weight 1
+  ]
+  edge [
+    source 97
+    target 3816
+    weight 1
+  ]
+  edge [
+    source 97
+    target 4096
     weight 1
   ]
   edge [
@@ -11992,19 +21632,99 @@ graph [
     weight 6
   ]
   edge [
+    source 98
+    target 2544
+    weight 4
+  ]
+  edge [
+    source 98
+    target 2545
+    weight 4
+  ]
+  edge [
+    source 98
+    target 2546
+    weight 4
+  ]
+  edge [
+    source 98
+    target 2547
+    weight 4
+  ]
+  edge [
+    source 98
+    target 634
+    weight 4
+  ]
+  edge [
+    source 98
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 98
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 98
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 98
+    target 3817
+    weight 2
+  ]
+  edge [
+    source 98
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 98
+    target 2368
+    weight 2
+  ]
+  edge [
+    source 98
+    target 625
+    weight 2
+  ]
+  edge [
+    source 98
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 98
+    target 629
+    weight 2
+  ]
+  edge [
+    source 98
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 98
+    target 3821
+    weight 2
+  ]
+  edge [
     source 100
     target 101
-    weight 6
+    weight 8
   ]
   edge [
     source 100
     target 102
-    weight 6
+    weight 8
   ]
   edge [
     source 101
     target 102
-    weight 10
+    weight 12
   ]
   edge [
     source 101
@@ -12039,17 +21759,17 @@ graph [
   edge [
     source 102
     target 208
-    weight 6
+    weight 8
   ]
   edge [
     source 102
     target 264
-    weight 6
+    weight 8
   ]
   edge [
     source 102
     target 299
-    weight 10
+    weight 14
   ]
   edge [
     source 102
@@ -12059,12 +21779,12 @@ graph [
   edge [
     source 102
     target 300
-    weight 4
+    weight 6
   ]
   edge [
     source 102
     target 301
-    weight 4
+    weight 6
   ]
   edge [
     source 102
@@ -12074,7 +21794,7 @@ graph [
   edge [
     source 102
     target 313
-    weight 6
+    weight 8
   ]
   edge [
     source 102
@@ -12129,17 +21849,17 @@ graph [
   edge [
     source 102
     target 395
-    weight 4
+    weight 6
   ]
   edge [
     source 102
     target 396
-    weight 4
+    weight 6
   ]
   edge [
     source 102
     target 397
-    weight 6
+    weight 10
   ]
   edge [
     source 102
@@ -12174,16 +21894,31 @@ graph [
   edge [
     source 102
     target 591
-    weight 2
+    weight 4
   ]
   edge [
     source 102
     target 592
-    weight 2
+    weight 4
   ]
   edge [
     source 102
     target 611
+    weight 1
+  ]
+  edge [
+    source 102
+    target 2891
+    weight 1
+  ]
+  edge [
+    source 102
+    target 3057
+    weight 1
+  ]
+  edge [
+    source 102
+    target 3071
     weight 1
   ]
   edge [
@@ -12522,6 +22257,26 @@ graph [
     weight 2
   ]
   edge [
+    source 112
+    target 1127
+    weight 2
+  ]
+  edge [
+    source 112
+    target 2257
+    weight 1
+  ]
+  edge [
+    source 112
+    target 2256
+    weight 2
+  ]
+  edge [
+    source 112
+    target 1126
+    weight 2
+  ]
+  edge [
     source 114
     target 115
     weight 6
@@ -12569,17 +22324,17 @@ graph [
   edge [
     source 116
     target 320
-    weight 2
+    weight 4
   ]
   edge [
     source 116
     target 327
-    weight 2
+    weight 4
   ]
   edge [
     source 116
     target 151
-    weight 2
+    weight 4
   ]
   edge [
     source 117
@@ -12629,7 +22384,7 @@ graph [
   edge [
     source 117
     target 240
-    weight 12
+    weight 14
   ]
   edge [
     source 117
@@ -12639,12 +22394,12 @@ graph [
   edge [
     source 117
     target 266
-    weight 6
+    weight 8
   ]
   edge [
     source 117
     target 399
-    weight 6
+    weight 8
   ]
   edge [
     source 117
@@ -13052,6 +22807,56 @@ graph [
     weight 2
   ]
   edge [
+    source 117
+    target 2342
+    weight 2
+  ]
+  edge [
+    source 117
+    target 2343
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3458
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3459
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3452
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3460
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3583
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3584
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3585
+    weight 2
+  ]
+  edge [
+    source 117
+    target 3586
+    weight 2
+  ]
+  edge [
     source 119
     target 120
     weight 1
@@ -13089,37 +22894,37 @@ graph [
   edge [
     source 119
     target 355
-    weight 2
+    weight 4
   ]
   edge [
     source 119
     target 474
-    weight 2
+    weight 4
   ]
   edge [
     source 119
     target 491
-    weight 2
+    weight 4
   ]
   edge [
     source 119
     target 192
-    weight 2
+    weight 4
   ]
   edge [
     source 119
     target 475
-    weight 2
+    weight 4
   ]
   edge [
     source 119
     target 135
-    weight 2
+    weight 4
   ]
   edge [
     source 119
     target 493
-    weight 2
+    weight 4
   ]
   edge [
     source 119
@@ -13134,6 +22939,26 @@ graph [
   edge [
     source 119
     target 951
+    weight 1
+  ]
+  edge [
+    source 119
+    target 2858
+    weight 1
+  ]
+  edge [
+    source 119
+    target 2892
+    weight 1
+  ]
+  edge [
+    source 119
+    target 3038
+    weight 1
+  ]
+  edge [
+    source 119
+    target 3069
     weight 1
   ]
   edge [
@@ -13344,22 +23169,22 @@ graph [
   edge [
     source 126
     target 525
-    weight 2
+    weight 10
   ]
   edge [
     source 126
     target 526
-    weight 2
+    weight 10
   ]
   edge [
     source 126
     target 527
-    weight 2
+    weight 10
   ]
   edge [
     source 126
     target 528
-    weight 2
+    weight 10
   ]
   edge [
     source 126
@@ -13554,17 +23379,17 @@ graph [
   edge [
     source 130
     target 131
-    weight 4
+    weight 10
   ]
   edge [
     source 130
     target 132
-    weight 4
+    weight 10
   ]
   edge [
     source 131
     target 132
-    weight 4
+    weight 10
   ]
   edge [
     source 131
@@ -13574,12 +23399,17 @@ graph [
   edge [
     source 131
     target 136
-    weight 6
+    weight 10
   ]
   edge [
     source 131
     target 289
-    weight 6
+    weight 10
+  ]
+  edge [
+    source 131
+    target 3056
+    weight 1
   ]
   edge [
     source 132
@@ -13589,17 +23419,22 @@ graph [
   edge [
     source 132
     target 148
-    weight 4
+    weight 8
   ]
   edge [
     source 132
     target 135
-    weight 4
+    weight 8
   ]
   edge [
     source 132
     target 149
-    weight 4
+    weight 8
+  ]
+  edge [
+    source 132
+    target 2190
+    weight 1
   ]
   edge [
     source 134
@@ -13629,12 +23464,12 @@ graph [
   edge [
     source 135
     target 148
-    weight 4
+    weight 8
   ]
   edge [
     source 135
     target 149
-    weight 10
+    weight 16
   ]
   edge [
     source 135
@@ -13649,7 +23484,7 @@ graph [
   edge [
     source 135
     target 208
-    weight 12
+    weight 14
   ]
   edge [
     source 135
@@ -13699,17 +23534,17 @@ graph [
   edge [
     source 135
     target 493
-    weight 2
+    weight 4
   ]
   edge [
     source 135
     target 978
-    weight 6
+    weight 20
   ]
   edge [
     source 135
     target 984
-    weight 4
+    weight 6
   ]
   edge [
     source 135
@@ -13724,7 +23559,7 @@ graph [
   edge [
     source 135
     target 1075
-    weight 2
+    weight 8
   ]
   edge [
     source 135
@@ -13739,22 +23574,147 @@ graph [
   edge [
     source 135
     target 1116
-    weight 2
+    weight 8
   ]
   edge [
     source 135
     target 1117
-    weight 2
+    weight 8
   ]
   edge [
     source 135
     target 1118
-    weight 2
+    weight 8
   ]
   edge [
     source 135
     target 1124
     weight 1
+  ]
+  edge [
+    source 135
+    target 2203
+    weight 6
+  ]
+  edge [
+    source 135
+    target 2204
+    weight 14
+  ]
+  edge [
+    source 135
+    target 1099
+    weight 10
+  ]
+  edge [
+    source 135
+    target 2205
+    weight 6
+  ]
+  edge [
+    source 135
+    target 497
+    weight 6
+  ]
+  edge [
+    source 135
+    target 2219
+    weight 1
+  ]
+  edge [
+    source 135
+    target 2218
+    weight 6
+  ]
+  edge [
+    source 135
+    target 191
+    weight 6
+  ]
+  edge [
+    source 135
+    target 1063
+    weight 4
+  ]
+  edge [
+    source 135
+    target 2388
+    weight 1
+  ]
+  edge [
+    source 135
+    target 2420
+    weight 8
+  ]
+  edge [
+    source 135
+    target 2421
+    weight 8
+  ]
+  edge [
+    source 135
+    target 634
+    weight 4
+  ]
+  edge [
+    source 135
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 135
+    target 423
+    weight 4
+  ]
+  edge [
+    source 135
+    target 2611
+    weight 1
+  ]
+  edge [
+    source 135
+    target 562
+    weight 2
+  ]
+  edge [
+    source 135
+    target 2223
+    weight 2
+  ]
+  edge [
+    source 135
+    target 2925
+    weight 2
+  ]
+  edge [
+    source 135
+    target 3021
+    weight 1
+  ]
+  edge [
+    source 135
+    target 3735
+    weight 2
+  ]
+  edge [
+    source 135
+    target 3736
+    weight 2
+  ]
+  edge [
+    source 135
+    target 3737
+    weight 2
+  ]
+  edge [
+    source 135
+    target 3738
+    weight 2
+  ]
+  edge [
+    source 135
+    target 3739
+    weight 2
   ]
   edge [
     source 136
@@ -13764,17 +23724,17 @@ graph [
   edge [
     source 136
     target 224
-    weight 4
+    weight 8
   ]
   edge [
     source 136
     target 225
-    weight 4
+    weight 8
   ]
   edge [
     source 136
     target 226
-    weight 4
+    weight 8
   ]
   edge [
     source 136
@@ -13844,7 +23804,7 @@ graph [
   edge [
     source 136
     target 289
-    weight 6
+    weight 10
   ]
   edge [
     source 136
@@ -13864,17 +23824,17 @@ graph [
   edge [
     source 136
     target 362
-    weight 2
+    weight 4
   ]
   edge [
     source 136
     target 378
-    weight 2
+    weight 4
   ]
   edge [
     source 136
     target 379
-    weight 2
+    weight 4
   ]
   edge [
     source 136
@@ -13884,7 +23844,7 @@ graph [
   edge [
     source 136
     target 385
-    weight 6
+    weight 8
   ]
   edge [
     source 136
@@ -13929,12 +23889,12 @@ graph [
   edge [
     source 136
     target 192
-    weight 2
+    weight 4
   ]
   edge [
     source 136
     target 327
-    weight 2
+    weight 4
   ]
   edge [
     source 136
@@ -13954,6 +23914,66 @@ graph [
   edge [
     source 136
     target 497
+    weight 4
+  ]
+  edge [
+    source 136
+    target 2908
+    weight 2
+  ]
+  edge [
+    source 136
+    target 2909
+    weight 2
+  ]
+  edge [
+    source 136
+    target 2910
+    weight 2
+  ]
+  edge [
+    source 136
+    target 2911
+    weight 2
+  ]
+  edge [
+    source 136
+    target 2994
+    weight 2
+  ]
+  edge [
+    source 136
+    target 418
+    weight 2
+  ]
+  edge [
+    source 136
+    target 3042
+    weight 4
+  ]
+  edge [
+    source 136
+    target 3043
+    weight 4
+  ]
+  edge [
+    source 136
+    target 3044
+    weight 4
+  ]
+  edge [
+    source 136
+    target 475
+    weight 2
+  ]
+  edge [
+    source 136
+    target 3049
+    weight 2
+  ]
+  edge [
+    source 136
+    target 474
     weight 2
   ]
   edge [
@@ -13974,17 +23994,17 @@ graph [
   edge [
     source 141
     target 142
-    weight 6
+    weight 8
   ]
   edge [
     source 141
     target 143
-    weight 6
+    weight 8
   ]
   edge [
     source 142
     target 143
-    weight 6
+    weight 8
   ]
   edge [
     source 143
@@ -13999,6 +24019,11 @@ graph [
   edge [
     source 143
     target 972
+    weight 1
+  ]
+  edge [
+    source 143
+    target 2907
     weight 1
   ]
   edge [
@@ -14352,6 +24377,16 @@ graph [
     weight 2
   ]
   edge [
+    source 145
+    target 3808
+    weight 2
+  ]
+  edge [
+    source 145
+    target 3850
+    weight 1
+  ]
+  edge [
     source 146
     target 147
     weight 1
@@ -14364,17 +24399,17 @@ graph [
   edge [
     source 148
     target 149
-    weight 4
+    weight 8
   ]
   edge [
     source 148
     target 155
-    weight 8
+    weight 10
   ]
   edge [
     source 148
     target 156
-    weight 8
+    weight 10
   ]
   edge [
     source 148
@@ -14429,42 +24464,42 @@ graph [
   edge [
     source 149
     target 392
-    weight 6
+    weight 8
   ]
   edge [
     source 149
     target 393
-    weight 6
+    weight 8
   ]
   edge [
     source 149
     target 401
-    weight 8
+    weight 10
   ]
   edge [
     source 149
     target 402
-    weight 8
+    weight 10
   ]
   edge [
     source 149
     target 403
-    weight 8
+    weight 10
   ]
   edge [
     source 149
     target 404
-    weight 8
+    weight 10
   ]
   edge [
     source 149
     target 190
-    weight 8
+    weight 10
   ]
   edge [
     source 149
     target 405
-    weight 8
+    weight 10
   ]
   edge [
     source 149
@@ -14482,39 +24517,74 @@ graph [
     weight 2
   ]
   edge [
+    source 149
+    target 2270
+    weight 1
+  ]
+  edge [
+    source 149
+    target 2915
+    weight 1
+  ]
+  edge [
+    source 149
+    target 984
+    weight 2
+  ]
+  edge [
+    source 149
+    target 2926
+    weight 1
+  ]
+  edge [
+    source 149
+    target 2925
+    weight 2
+  ]
+  edge [
+    source 149
+    target 370
+    weight 2
+  ]
+  edge [
+    source 149
+    target 1942
+    weight 2
+  ]
+  edge [
     source 151
     target 163
-    weight 4
+    weight 6
   ]
   edge [
     source 151
     target 164
-    weight 4
+    weight 6
   ]
   edge [
     source 151
     target 165
-    weight 4
+    weight 6
   ]
   edge [
     source 151
     target 219
-    weight 8
+    weight 10
   ]
   edge [
     source 151
     target 220
-    weight 8
+    weight 10
   ]
   edge [
     source 151
     target 221
-    weight 8
+    weight 10
   ]
   edge [
     source 151
     target 320
-    weight 2
+    weight 4
   ]
   edge [
     source 151
@@ -14524,7 +24594,7 @@ graph [
   edge [
     source 151
     target 327
-    weight 2
+    weight 4
   ]
   edge [
     source 151
@@ -14537,9 +24607,24 @@ graph [
     weight 2
   ]
   edge [
+    source 151
+    target 2881
+    weight 2
+  ]
+  edge [
+    source 151
+    target 2882
+    weight 1
+  ]
+  edge [
+    source 151
+    target 2993
+    weight 1
+  ]
+  edge [
     source 155
     target 156
-    weight 8
+    weight 10
   ]
   edge [
     source 156
@@ -14587,6 +24672,26 @@ graph [
     weight 2
   ]
   edge [
+    source 156
+    target 2916
+    weight 1
+  ]
+  edge [
+    source 156
+    target 3034
+    weight 2
+  ]
+  edge [
+    source 156
+    target 3035
+    weight 2
+  ]
+  edge [
+    source 156
+    target 3036
+    weight 2
+  ]
+  edge [
     source 158
     target 159
     weight 1
@@ -14607,6 +24712,31 @@ graph [
     weight 1
   ]
   edge [
+    source 158
+    target 2777
+    weight 1
+  ]
+  edge [
+    source 158
+    target 2818
+    weight 2
+  ]
+  edge [
+    source 158
+    target 2001
+    weight 2
+  ]
+  edge [
+    source 158
+    target 3741
+    weight 1
+  ]
+  edge [
+    source 158
+    target 4073
+    weight 1
+  ]
+  edge [
     source 160
     target 161
     weight 2
@@ -14624,17 +24754,17 @@ graph [
   edge [
     source 163
     target 164
-    weight 4
+    weight 6
   ]
   edge [
     source 163
     target 165
-    weight 4
+    weight 6
   ]
   edge [
     source 164
     target 165
-    weight 4
+    weight 6
   ]
   edge [
     source 167
@@ -15097,6 +25227,11 @@ graph [
     weight 2
   ]
   edge [
+    source 187
+    target 347
+    weight 2
+  ]
+  edge [
     source 190
     target 191
     weight 2
@@ -15119,42 +25254,42 @@ graph [
   edge [
     source 190
     target 401
-    weight 8
-  ]
-  edge [
-    source 190
-    target 402
-    weight 14
-  ]
-  edge [
-    source 190
-    target 403
     weight 10
   ]
   edge [
     source 190
+    target 402
+    weight 16
+  ]
+  edge [
+    source 190
+    target 403
+    weight 14
+  ]
+  edge [
+    source 190
     target 404
-    weight 8
+    weight 10
   ]
   edge [
     source 190
     target 405
-    weight 8
+    weight 10
   ]
   edge [
     source 190
     target 416
-    weight 2
+    weight 4
   ]
   edge [
     source 190
     target 417
-    weight 2
+    weight 4
   ]
   edge [
     source 190
     target 418
-    weight 2
+    weight 4
   ]
   edge [
     source 190
@@ -15182,8 +25317,73 @@ graph [
     weight 1
   ]
   edge [
+    source 190
+    target 3911
+    weight 2
+  ]
+  edge [
+    source 190
+    target 3912
+    weight 2
+  ]
+  edge [
+    source 190
+    target 3930
+    weight 2
+  ]
+  edge [
+    source 190
+    target 1407
+    weight 2
+  ]
+  edge [
     source 191
     target 192
+    weight 2
+  ]
+  edge [
+    source 191
+    target 497
+    weight 6
+  ]
+  edge [
+    source 191
+    target 2218
+    weight 6
+  ]
+  edge [
+    source 191
+    target 3484
+    weight 2
+  ]
+  edge [
+    source 191
+    target 3485
+    weight 2
+  ]
+  edge [
+    source 191
+    target 905
+    weight 2
+  ]
+  edge [
+    source 191
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 191
+    target 3488
+    weight 2
+  ]
+  edge [
+    source 191
+    target 3489
+    weight 2
+  ]
+  edge [
+    source 191
+    target 3490
     weight 2
   ]
   edge [
@@ -15214,7 +25414,7 @@ graph [
   edge [
     source 192
     target 327
-    weight 2
+    weight 4
   ]
   edge [
     source 192
@@ -15229,22 +25429,22 @@ graph [
   edge [
     source 192
     target 355
-    weight 2
+    weight 4
   ]
   edge [
     source 192
     target 474
-    weight 2
+    weight 4
   ]
   edge [
     source 192
     target 491
-    weight 2
+    weight 4
   ]
   edge [
     source 192
     target 475
-    weight 2
+    weight 4
   ]
   edge [
     source 192
@@ -15262,58 +25462,83 @@ graph [
     weight 2
   ]
   edge [
+    source 192
+    target 2345
+    weight 6
+  ]
+  edge [
+    source 192
+    target 2346
+    weight 6
+  ]
+  edge [
+    source 192
+    target 2347
+    weight 6
+  ]
+  edge [
+    source 192
+    target 2348
+    weight 6
+  ]
+  edge [
     source 194
     target 195
-    weight 6
+    weight 8
   ]
   edge [
     source 194
     target 196
-    weight 6
+    weight 8
   ]
   edge [
     source 194
     target 197
-    weight 6
+    weight 8
   ]
   edge [
     source 194
     target 198
-    weight 6
+    weight 8
   ]
   edge [
     source 195
     target 196
-    weight 6
+    weight 8
   ]
   edge [
     source 195
     target 197
-    weight 6
+    weight 8
   ]
   edge [
     source 195
     target 198
-    weight 6
+    weight 8
   ]
   edge [
     source 196
     target 197
-    weight 6
+    weight 8
   ]
   edge [
     source 196
     target 198
-    weight 6
+    weight 8
   ]
   edge [
     source 197
     target 198
-    weight 6
+    weight 8
   ]
   edge [
     source 198
     target 199
+    weight 1
+  ]
+  edge [
+    source 198
+    target 2968
     weight 1
   ]
   edge [
@@ -15392,6 +25617,16 @@ graph [
     weight 6
   ]
   edge [
+    source 204
+    target 2784
+    weight 2
+  ]
+  edge [
+    source 204
+    target 2785
+    weight 2
+  ]
+  edge [
     source 208
     target 303
     weight 6
@@ -15404,22 +25639,22 @@ graph [
   edge [
     source 208
     target 329
-    weight 4
+    weight 6
   ]
   edge [
     source 208
     target 330
-    weight 4
+    weight 6
   ]
   edge [
     source 208
     target 331
-    weight 4
+    weight 6
   ]
   edge [
     source 208
     target 332
-    weight 4
+    weight 6
   ]
   edge [
     source 208
@@ -15429,7 +25664,7 @@ graph [
   edge [
     source 208
     target 463
-    weight 4
+    weight 8
   ]
   edge [
     source 208
@@ -15439,32 +25674,32 @@ graph [
   edge [
     source 208
     target 530
-    weight 2
+    weight 6
   ]
   edge [
     source 208
     target 531
-    weight 2
+    weight 6
   ]
   edge [
     source 208
     target 532
-    weight 2
+    weight 6
   ]
   edge [
     source 208
     target 560
-    weight 2
+    weight 4
   ]
   edge [
     source 208
     target 561
-    weight 2
+    weight 4
   ]
   edge [
     source 208
     target 562
-    weight 2
+    weight 4
   ]
   edge [
     source 208
@@ -15474,7 +25709,7 @@ graph [
   edge [
     source 208
     target 1063
-    weight 2
+    weight 4
   ]
   edge [
     source 208
@@ -15494,7 +25729,7 @@ graph [
   edge [
     source 208
     target 1144
-    weight 2
+    weight 6
   ]
   edge [
     source 208
@@ -15507,49 +25742,359 @@ graph [
     weight 2
   ]
   edge [
+    source 208
+    target 2191
+    weight 8
+  ]
+  edge [
+    source 208
+    target 2192
+    weight 12
+  ]
+  edge [
+    source 208
+    target 919
+    weight 4
+  ]
+  edge [
+    source 208
+    target 1071
+    weight 8
+  ]
+  edge [
+    source 208
+    target 2199
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2200
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2201
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2207
+    weight 4
+  ]
+  edge [
+    source 208
+    target 246
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2208
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2209
+    weight 4
+  ]
+  edge [
+    source 208
+    target 579
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2211
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2314
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2315
+    weight 2
+  ]
+  edge [
+    source 208
+    target 426
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2356
+    weight 1
+  ]
+  edge [
+    source 208
+    target 2381
+    weight 2
+  ]
+  edge [
+    source 208
+    target 424
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2382
+    weight 2
+  ]
+  edge [
+    source 208
+    target 1116
+    weight 8
+  ]
+  edge [
+    source 208
+    target 1117
+    weight 8
+  ]
+  edge [
+    source 208
+    target 2384
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2426
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2428
+    weight 1
+  ]
+  edge [
+    source 208
+    target 2427
+    weight 4
+  ]
+  edge [
+    source 208
+    target 587
+    weight 8
+  ]
+  edge [
+    source 208
+    target 1118
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2304
+    weight 4
+  ]
+  edge [
+    source 208
+    target 564
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2422
+    weight 8
+  ]
+  edge [
+    source 208
+    target 2491
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2517
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2518
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2170
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2519
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2552
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2553
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2554
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2555
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2580
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2581
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2582
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2739
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2741
+    weight 1
+  ]
+  edge [
+    source 208
+    target 2740
+    weight 4
+  ]
+  edge [
+    source 208
+    target 2755
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2862
+    weight 2
+  ]
+  edge [
+    source 208
+    target 2919
+    weight 1
+  ]
+  edge [
+    source 208
+    target 475
+    weight 2
+  ]
+  edge [
+    source 208
+    target 3039
+    weight 1
+  ]
+  edge [
+    source 208
+    target 474
+    weight 2
+  ]
+  edge [
+    source 208
+    target 266
+    weight 2
+  ]
+  edge [
+    source 208
+    target 3633
+    weight 1
+  ]
+  edge [
+    source 208
+    target 3631
+    weight 2
+  ]
+  edge [
+    source 208
+    target 3632
+    weight 2
+  ]
+  edge [
+    source 208
+    target 3794
+    weight 1
+  ]
+  edge [
+    source 208
+    target 3792
+    weight 4
+  ]
+  edge [
+    source 208
+    target 3793
+    weight 4
+  ]
+  edge [
+    source 208
+    target 3795
+    weight 1
+  ]
+  edge [
     source 210
     target 211
-    weight 4
+    weight 10
   ]
   edge [
     source 210
     target 212
-    weight 4
+    weight 10
   ]
   edge [
     source 210
     target 213
-    weight 4
+    weight 10
   ]
   edge [
     source 211
     target 212
-    weight 4
+    weight 10
   ]
   edge [
     source 211
     target 213
-    weight 4
+    weight 10
   ]
   edge [
     source 212
     target 213
-    weight 4
+    weight 10
   ]
   edge [
     source 219
     target 220
-    weight 8
+    weight 10
   ]
   edge [
     source 219
     target 221
-    weight 8
+    weight 10
   ]
   edge [
     source 220
     target 221
-    weight 8
+    weight 10
   ]
   edge [
     source 221
@@ -15557,19 +26102,24 @@ graph [
     weight 1
   ]
   edge [
+    source 221
+    target 2997
+    weight 1
+  ]
+  edge [
     source 224
     target 225
-    weight 4
+    weight 8
   ]
   edge [
     source 224
     target 226
-    weight 4
+    weight 8
   ]
   edge [
     source 225
     target 226
-    weight 6
+    weight 10
   ]
   edge [
     source 225
@@ -15579,6 +26129,11 @@ graph [
   edge [
     source 226
     target 227
+    weight 1
+  ]
+  edge [
+    source 226
+    target 2280
     weight 1
   ]
   edge [
@@ -16292,6 +26847,41 @@ graph [
     weight 2
   ]
   edge [
+    source 240
+    target 2342
+    weight 2
+  ]
+  edge [
+    source 240
+    target 2343
+    weight 2
+  ]
+  edge [
+    source 240
+    target 562
+    weight 2
+  ]
+  edge [
+    source 240
+    target 2677
+    weight 2
+  ]
+  edge [
+    source 240
+    target 2254
+    weight 2
+  ]
+  edge [
+    source 240
+    target 3947
+    weight 2
+  ]
+  edge [
+    source 240
+    target 3962
+    weight 2
+  ]
+  edge [
     source 241
     target 242
     weight 8
@@ -16359,37 +26949,42 @@ graph [
   edge [
     source 244
     target 1001
-    weight 2
+    weight 6
   ]
   edge [
     source 244
     target 1002
-    weight 2
+    weight 8
   ]
   edge [
     source 244
     target 1003
-    weight 2
+    weight 6
   ]
   edge [
     source 244
     target 1004
-    weight 2
+    weight 6
   ]
   edge [
     source 244
     target 1005
-    weight 2
+    weight 6
   ]
   edge [
     source 244
     target 1006
-    weight 2
+    weight 6
   ]
   edge [
     source 244
     target 1045
     weight 2
+  ]
+  edge [
+    source 244
+    target 562
+    weight 4
   ]
   edge [
     source 246
@@ -16422,6 +27017,26 @@ graph [
     weight 6
   ]
   edge [
+    source 246
+    target 2207
+    weight 4
+  ]
+  edge [
+    source 246
+    target 2208
+    weight 4
+  ]
+  edge [
+    source 246
+    target 2209
+    weight 4
+  ]
+  edge [
+    source 246
+    target 579
+    weight 4
+  ]
+  edge [
     source 247
     target 248
     weight 6
@@ -16449,7 +27064,7 @@ graph [
   edge [
     source 247
     target 422
-    weight 4
+    weight 6
   ]
   edge [
     source 247
@@ -16459,17 +27074,17 @@ graph [
   edge [
     source 247
     target 370
-    weight 4
+    weight 6
   ]
   edge [
     source 247
     target 423
-    weight 4
+    weight 6
   ]
   edge [
     source 247
     target 424
-    weight 4
+    weight 6
   ]
   edge [
     source 247
@@ -16504,6 +27119,66 @@ graph [
   edge [
     source 247
     target 1596
+    weight 2
+  ]
+  edge [
+    source 247
+    target 2990
+    weight 1
+  ]
+  edge [
+    source 247
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 247
+    target 767
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 247
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 247
+    target 2301
     weight 2
   ]
   edge [
@@ -16622,13 +27297,43 @@ graph [
     weight 4
   ]
   edge [
+    source 256
+    target 2833
+    weight 6
+  ]
+  edge [
+    source 256
+    target 2835
+    weight 1
+  ]
+  edge [
+    source 256
+    target 2834
+    weight 6
+  ]
+  edge [
+    source 256
+    target 3770
+    weight 1
+  ]
+  edge [
+    source 256
+    target 4093
+    weight 1
+  ]
+  edge [
     source 260
     target 261
-    weight 6
+    weight 8
   ]
   edge [
     source 261
     target 262
+    weight 1
+  ]
+  edge [
+    source 261
+    target 3017
     weight 1
   ]
   edge [
@@ -16654,6 +27359,16 @@ graph [
   edge [
     source 264
     target 1296
+    weight 2
+  ]
+  edge [
+    source 264
+    target 2928
+    weight 4
+  ]
+  edge [
+    source 264
+    target 2945
     weight 2
   ]
   edge [
@@ -16699,7 +27414,7 @@ graph [
   edge [
     source 266
     target 399
-    weight 6
+    weight 8
   ]
   edge [
     source 266
@@ -16767,6 +27482,121 @@ graph [
     weight 2
   ]
   edge [
+    source 266
+    target 3631
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3632
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3726
+    weight 1
+  ]
+  edge [
+    source 266
+    target 3898
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3899
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3900
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3874
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3930
+    weight 2
+  ]
+  edge [
+    source 266
+    target 1407
+    weight 4
+  ]
+  edge [
+    source 266
+    target 3945
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3946
+    weight 1
+  ]
+  edge [
+    source 266
+    target 3872
+    weight 4
+  ]
+  edge [
+    source 266
+    target 1234
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3982
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3983
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3998
+    weight 4
+  ]
+  edge [
+    source 266
+    target 468
+    weight 2
+  ]
+  edge [
+    source 266
+    target 4007
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3880
+    weight 2
+  ]
+  edge [
+    source 266
+    target 3881
+    weight 4
+  ]
+  edge [
+    source 266
+    target 4050
+    weight 2
+  ]
+  edge [
+    source 266
+    target 4051
+    weight 2
+  ]
+  edge [
     source 267
     target 268
     weight 2
@@ -16804,37 +27634,62 @@ graph [
   edge [
     source 273
     target 274
-    weight 6
+    weight 8
   ]
   edge [
     source 273
     target 275
-    weight 6
+    weight 8
   ]
   edge [
     source 273
     target 276
-    weight 6
+    weight 8
   ]
   edge [
     source 274
     target 275
-    weight 6
+    weight 8
   ]
   edge [
     source 274
     target 276
-    weight 6
+    weight 8
   ]
   edge [
     source 275
     target 276
-    weight 6
+    weight 8
   ]
   edge [
     source 276
     target 277
     weight 1
+  ]
+  edge [
+    source 276
+    target 3027
+    weight 1
+  ]
+  edge [
+    source 276
+    target 4022
+    weight 2
+  ]
+  edge [
+    source 276
+    target 4023
+    weight 2
+  ]
+  edge [
+    source 276
+    target 4024
+    weight 2
+  ]
+  edge [
+    source 276
+    target 4025
+    weight 2
   ]
   edge [
     source 278
@@ -17434,17 +28289,17 @@ graph [
   edge [
     source 289
     target 290
-    weight 4
+    weight 14
   ]
   edge [
     source 289
     target 291
-    weight 4
+    weight 14
   ]
   edge [
     source 290
     target 291
-    weight 4
+    weight 14
   ]
   edge [
     source 291
@@ -17452,19 +28307,24 @@ graph [
     weight 1
   ]
   edge [
+    source 291
+    target 2281
+    weight 1
+  ]
+  edge [
     source 293
     target 294
-    weight 8
+    weight 12
   ]
   edge [
     source 293
     target 295
-    weight 8
+    weight 12
   ]
   edge [
     source 294
     target 295
-    weight 8
+    weight 12
   ]
   edge [
     source 294
@@ -17502,24 +28362,59 @@ graph [
     weight 1
   ]
   edge [
+    source 295
+    target 3051
+    weight 1
+  ]
+  edge [
+    source 297
+    target 2849
+    weight 1
+  ]
+  edge [
     source 299
     target 300
-    weight 4
+    weight 6
   ]
   edge [
     source 299
     target 301
-    weight 4
+    weight 6
   ]
   edge [
     source 299
     target 313
-    weight 6
+    weight 8
+  ]
+  edge [
+    source 299
+    target 3028
+    weight 2
+  ]
+  edge [
+    source 299
+    target 3029
+    weight 2
+  ]
+  edge [
+    source 299
+    target 378
+    weight 2
+  ]
+  edge [
+    source 299
+    target 3030
+    weight 2
+  ]
+  edge [
+    source 299
+    target 381
+    weight 2
   ]
   edge [
     source 300
     target 301
-    weight 4
+    weight 6
   ]
   edge [
     source 303
@@ -17537,6 +28432,21 @@ graph [
     weight 1
   ]
   edge [
+    source 308
+    target 2875
+    weight 1
+  ]
+  edge [
+    source 308
+    target 3060
+    weight 1
+  ]
+  edge [
+    source 308
+    target 4107
+    weight 1
+  ]
+  edge [
     source 317
     target 318
     weight 4
@@ -17549,7 +28459,7 @@ graph [
   edge [
     source 320
     target 327
-    weight 2
+    weight 4
   ]
   edge [
     source 325
@@ -17592,29 +28502,44 @@ graph [
     weight 2
   ]
   edge [
+    source 327
+    target 2938
+    weight 4
+  ]
+  edge [
+    source 327
+    target 2312
+    weight 4
+  ]
+  edge [
+    source 327
+    target 2996
+    weight 1
+  ]
+  edge [
     source 329
     target 330
-    weight 4
+    weight 6
   ]
   edge [
     source 329
     target 331
-    weight 4
+    weight 6
   ]
   edge [
     source 329
     target 332
-    weight 4
+    weight 6
   ]
   edge [
     source 330
     target 331
-    weight 4
+    weight 6
   ]
   edge [
     source 330
     target 332
-    weight 4
+    weight 6
   ]
   edge [
     source 330
@@ -17629,7 +28554,7 @@ graph [
   edge [
     source 331
     target 332
-    weight 4
+    weight 6
   ]
   edge [
     source 331
@@ -17712,8 +28637,28 @@ graph [
     weight 2
   ]
   edge [
+    source 331
+    target 3501
+    weight 2
+  ]
+  edge [
+    source 331
+    target 3503
+    weight 1
+  ]
+  edge [
+    source 331
+    target 3502
+    weight 2
+  ]
+  edge [
     source 332
     target 333
+    weight 1
+  ]
+  edge [
+    source 332
+    target 2903
     weight 1
   ]
   edge [
@@ -17847,6 +28792,36 @@ graph [
     weight 1
   ]
   edge [
+    source 347
+    target 2811
+    weight 1
+  ]
+  edge [
+    source 347
+    target 2812
+    weight 1
+  ]
+  edge [
+    source 347
+    target 2824
+    weight 1
+  ]
+  edge [
+    source 347
+    target 2867
+    weight 1
+  ]
+  edge [
+    source 347
+    target 2868
+    weight 1
+  ]
+  edge [
+    source 347
+    target 2880
+    weight 1
+  ]
+  edge [
     source 351
     target 352
     weight 2
@@ -17855,6 +28830,71 @@ graph [
     source 351
     target 353
     weight 2
+  ]
+  edge [
+    source 351
+    target 2403
+    weight 6
+  ]
+  edge [
+    source 351
+    target 2404
+    weight 4
+  ]
+  edge [
+    source 351
+    target 2405
+    weight 4
+  ]
+  edge [
+    source 351
+    target 2406
+    weight 4
+  ]
+  edge [
+    source 351
+    target 562
+    weight 2
+  ]
+  edge [
+    source 351
+    target 2467
+    weight 1
+  ]
+  edge [
+    source 351
+    target 2494
+    weight 2
+  ]
+  edge [
+    source 351
+    target 2495
+    weight 2
+  ]
+  edge [
+    source 351
+    target 2496
+    weight 2
+  ]
+  edge [
+    source 351
+    target 1143
+    weight 4
+  ]
+  edge [
+    source 351
+    target 2498
+    weight 4
+  ]
+  edge [
+    source 351
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 351
+    target 2499
+    weight 4
   ]
   edge [
     source 352
@@ -17894,17 +28934,17 @@ graph [
   edge [
     source 355
     target 474
-    weight 2
+    weight 4
   ]
   edge [
     source 355
     target 491
-    weight 2
+    weight 4
   ]
   edge [
     source 355
     target 475
-    weight 2
+    weight 4
   ]
   edge [
     source 355
@@ -18024,17 +29064,17 @@ graph [
   edge [
     source 370
     target 422
-    weight 4
+    weight 6
   ]
   edge [
     source 370
     target 423
-    weight 4
+    weight 6
   ]
   edge [
     source 370
     target 424
-    weight 4
+    weight 6
   ]
   edge [
     source 370
@@ -18097,6 +29137,26 @@ graph [
     weight 2
   ]
   edge [
+    source 370
+    target 1942
+    weight 2
+  ]
+  edge [
+    source 370
+    target 3815
+    weight 6
+  ]
+  edge [
+    source 370
+    target 3823
+    weight 2
+  ]
+  edge [
+    source 370
+    target 3825
+    weight 2
+  ]
+  edge [
     source 371
     target 372
     weight 1
@@ -18139,6 +29199,26 @@ graph [
   edge [
     source 378
     target 379
+    weight 4
+  ]
+  edge [
+    source 378
+    target 3028
+    weight 2
+  ]
+  edge [
+    source 378
+    target 3029
+    weight 2
+  ]
+  edge [
+    source 378
+    target 3030
+    weight 2
+  ]
+  edge [
+    source 378
+    target 381
     weight 2
   ]
   edge [
@@ -18147,9 +29227,34 @@ graph [
     weight 1
   ]
   edge [
+    source 379
+    target 2941
+    weight 1
+  ]
+  edge [
     source 381
     target 382
     weight 6
+  ]
+  edge [
+    source 381
+    target 3028
+    weight 2
+  ]
+  edge [
+    source 381
+    target 3031
+    weight 1
+  ]
+  edge [
+    source 381
+    target 3029
+    weight 2
+  ]
+  edge [
+    source 381
+    target 3030
+    weight 2
   ]
   edge [
     source 382
@@ -18194,7 +29299,12 @@ graph [
   edge [
     source 385
     target 497
-    weight 2
+    weight 4
+  ]
+  edge [
+    source 385
+    target 2284
+    weight 1
   ]
   edge [
     source 386
@@ -18209,7 +29319,7 @@ graph [
   edge [
     source 392
     target 393
-    weight 6
+    weight 8
   ]
   edge [
     source 392
@@ -18225,6 +29335,36 @@ graph [
     source 392
     target 478
     weight 6
+  ]
+  edge [
+    source 392
+    target 3868
+    weight 2
+  ]
+  edge [
+    source 392
+    target 3869
+    weight 2
+  ]
+  edge [
+    source 392
+    target 3899
+    weight 2
+  ]
+  edge [
+    source 392
+    target 3872
+    weight 2
+  ]
+  edge [
+    source 392
+    target 4029
+    weight 2
+  ]
+  edge [
+    source 392
+    target 4030
+    weight 2
   ]
   edge [
     source 393
@@ -18262,19 +29402,24 @@ graph [
     weight 2
   ]
   edge [
+    source 393
+    target 2962
+    weight 1
+  ]
+  edge [
     source 395
     target 396
-    weight 4
+    weight 6
   ]
   edge [
     source 395
     target 397
-    weight 4
+    weight 6
   ]
   edge [
     source 396
     target 397
-    weight 4
+    weight 6
   ]
   edge [
     source 397
@@ -18284,12 +29429,17 @@ graph [
   edge [
     source 397
     target 591
-    weight 2
+    weight 4
   ]
   edge [
     source 397
     target 592
-    weight 2
+    weight 4
+  ]
+  edge [
+    source 397
+    target 2963
+    weight 1
   ]
   edge [
     source 399
@@ -18297,24 +29447,29 @@ graph [
     weight 1
   ]
   edge [
+    source 399
+    target 2964
+    weight 1
+  ]
+  edge [
     source 401
     target 402
-    weight 8
+    weight 10
   ]
   edge [
     source 401
     target 403
-    weight 8
+    weight 10
   ]
   edge [
     source 401
     target 404
-    weight 8
+    weight 10
   ]
   edge [
     source 401
     target 405
-    weight 8
+    weight 10
   ]
   edge [
     source 401
@@ -18329,17 +29484,17 @@ graph [
   edge [
     source 402
     target 403
-    weight 8
+    weight 10
   ]
   edge [
     source 402
     target 404
-    weight 8
+    weight 10
   ]
   edge [
     source 402
     target 405
-    weight 8
+    weight 10
   ]
   edge [
     source 402
@@ -18354,7 +29509,7 @@ graph [
   edge [
     source 402
     target 431
-    weight 4
+    weight 6
   ]
   edge [
     source 402
@@ -18364,41 +29519,66 @@ graph [
   edge [
     source 402
     target 594
-    weight 4
+    weight 6
+  ]
+  edge [
+    source 402
+    target 2944
+    weight 1
   ]
   edge [
     source 403
     target 404
-    weight 8
+    weight 10
   ]
   edge [
     source 403
     target 405
-    weight 8
+    weight 10
   ]
   edge [
     source 403
     target 416
-    weight 2
+    weight 4
   ]
   edge [
     source 403
     target 417
-    weight 2
+    weight 4
   ]
   edge [
     source 403
     target 418
+    weight 4
+  ]
+  edge [
+    source 403
+    target 3936
+    weight 2
+  ]
+  edge [
+    source 403
+    target 3872
+    weight 2
+  ]
+  edge [
+    source 403
+    target 3912
     weight 2
   ]
   edge [
     source 404
     target 405
-    weight 8
+    weight 10
   ]
   edge [
     source 405
     target 406
+    weight 1
+  ]
+  edge [
+    source 405
+    target 2965
     weight 1
   ]
   edge [
@@ -18419,17 +29599,17 @@ graph [
   edge [
     source 416
     target 417
-    weight 2
+    weight 4
   ]
   edge [
     source 416
     target 418
-    weight 2
+    weight 4
   ]
   edge [
     source 417
     target 418
-    weight 2
+    weight 4
   ]
   edge [
     source 418
@@ -18437,18 +29617,48 @@ graph [
     weight 1
   ]
   edge [
+    source 418
+    target 2989
+    weight 1
+  ]
+  edge [
+    source 418
+    target 2995
+    weight 1
+  ]
+  edge [
+    source 418
+    target 2994
+    weight 2
+  ]
+  edge [
     source 422
     target 423
-    weight 4
+    weight 6
   ]
   edge [
     source 422
     target 424
-    weight 4
+    weight 6
   ]
   edge [
     source 423
     target 424
+    weight 6
+  ]
+  edge [
+    source 423
+    target 2204
+    weight 4
+  ]
+  edge [
+    source 423
+    target 2420
+    weight 4
+  ]
+  edge [
+    source 423
+    target 2421
     weight 4
   ]
   edge [
@@ -18460,6 +29670,16 @@ graph [
     source 424
     target 1519
     weight 1
+  ]
+  edge [
+    source 424
+    target 2381
+    weight 2
+  ]
+  edge [
+    source 424
+    target 2382
+    weight 2
   ]
   edge [
     source 426
@@ -18487,34 +29707,54 @@ graph [
     weight 2
   ]
   edge [
+    source 426
+    target 2615
+    weight 1
+  ]
+  edge [
+    source 426
+    target 2614
+    weight 2
+  ]
+  edge [
+    source 426
+    target 2763
+    weight 2
+  ]
+  edge [
+    source 426
+    target 2764
+    weight 1
+  ]
+  edge [
     source 428
     target 429
-    weight 4
+    weight 6
   ]
   edge [
     source 428
     target 430
-    weight 4
+    weight 6
   ]
   edge [
     source 428
     target 431
-    weight 4
+    weight 6
   ]
   edge [
     source 429
     target 430
-    weight 4
+    weight 6
   ]
   edge [
     source 429
     target 431
-    weight 4
+    weight 6
   ]
   edge [
     source 430
     target 431
-    weight 4
+    weight 6
   ]
   edge [
     source 431
@@ -18524,7 +29764,12 @@ graph [
   edge [
     source 431
     target 594
-    weight 4
+    weight 6
+  ]
+  edge [
+    source 431
+    target 2991
+    weight 1
   ]
   edge [
     source 434
@@ -18702,6 +29947,16 @@ graph [
     weight 4
   ]
   edge [
+    source 463
+    target 2492
+    weight 1
+  ]
+  edge [
+    source 463
+    target 2491
+    weight 4
+  ]
+  edge [
     source 466
     target 467
     weight 2
@@ -18764,12 +30019,12 @@ graph [
   edge [
     source 468
     target 1320
-    weight 2
+    weight 4
   ]
   edge [
     source 468
     target 1321
-    weight 4
+    weight 6
   ]
   edge [
     source 468
@@ -18827,6 +30082,36 @@ graph [
     weight 2
   ]
   edge [
+    source 468
+    target 3521
+    weight 4
+  ]
+  edge [
+    source 468
+    target 3522
+    weight 4
+  ]
+  edge [
+    source 468
+    target 3523
+    weight 4
+  ]
+  edge [
+    source 468
+    target 3472
+    weight 4
+  ]
+  edge [
+    source 468
+    target 3999
+    weight 1
+  ]
+  edge [
+    source 468
+    target 3998
+    weight 2
+  ]
+  edge [
     source 469
     target 470
     weight 1
@@ -18839,11 +30124,21 @@ graph [
   edge [
     source 474
     target 475
-    weight 6
+    weight 16
   ]
   edge [
     source 474
     target 491
+    weight 4
+  ]
+  edge [
+    source 474
+    target 3050
+    weight 1
+  ]
+  edge [
+    source 474
+    target 3049
     weight 2
   ]
   edge [
@@ -18859,6 +30154,16 @@ graph [
   edge [
     source 475
     target 491
+    weight 4
+  ]
+  edge [
+    source 475
+    target 2282
+    weight 1
+  ]
+  edge [
+    source 475
+    target 3049
     weight 2
   ]
   edge [
@@ -18945,6 +30250,56 @@ graph [
     source 493
     target 494
     weight 1
+  ]
+  edge [
+    source 493
+    target 2283
+    weight 1
+  ]
+  edge [
+    source 495
+    target 3772
+    weight 2
+  ]
+  edge [
+    source 495
+    target 2784
+    weight 2
+  ]
+  edge [
+    source 495
+    target 3773
+    weight 2
+  ]
+  edge [
+    source 495
+    target 3774
+    weight 2
+  ]
+  edge [
+    source 495
+    target 3775
+    weight 2
+  ]
+  edge [
+    source 495
+    target 689
+    weight 2
+  ]
+  edge [
+    source 495
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 495
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 497
+    target 2218
+    weight 6
   ]
   edge [
     source 503
@@ -19169,32 +30524,32 @@ graph [
   edge [
     source 525
     target 526
-    weight 2
+    weight 10
   ]
   edge [
     source 525
     target 527
-    weight 2
+    weight 10
   ]
   edge [
     source 525
     target 528
-    weight 2
+    weight 10
   ]
   edge [
     source 526
     target 527
-    weight 2
+    weight 10
   ]
   edge [
     source 526
     target 528
-    weight 2
+    weight 10
   ]
   edge [
     source 527
     target 528
-    weight 2
+    weight 10
   ]
   edge [
     source 528
@@ -19204,17 +30559,17 @@ graph [
   edge [
     source 530
     target 531
-    weight 2
+    weight 6
   ]
   edge [
     source 530
     target 532
-    weight 2
+    weight 6
   ]
   edge [
     source 531
     target 532
-    weight 2
+    weight 6
   ]
   edge [
     source 532
@@ -19294,6 +30649,26 @@ graph [
   edge [
     source 539
     target 541
+    weight 2
+  ]
+  edge [
+    source 539
+    target 3415
+    weight 2
+  ]
+  edge [
+    source 539
+    target 1367
+    weight 2
+  ]
+  edge [
+    source 539
+    target 3416
+    weight 2
+  ]
+  edge [
+    source 539
+    target 3417
     weight 2
   ]
   edge [
@@ -19439,57 +30814,57 @@ graph [
   edge [
     source 560
     target 561
-    weight 2
+    weight 4
   ]
   edge [
     source 560
     target 562
-    weight 2
+    weight 4
   ]
   edge [
     source 561
     target 562
-    weight 2
+    weight 4
   ]
   edge [
     source 562
     target 564
-    weight 4
+    weight 14
   ]
   edge [
     source 562
     target 565
-    weight 2
+    weight 8
   ]
   edge [
     source 562
     target 566
-    weight 4
+    weight 8
   ]
   edge [
     source 562
     target 567
-    weight 2
+    weight 8
   ]
   edge [
     source 562
     target 568
-    weight 2
+    weight 4
   ]
   edge [
     source 562
     target 569
-    weight 2
+    weight 4
   ]
   edge [
     source 562
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 562
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 562
@@ -19499,7 +30874,7 @@ graph [
   edge [
     source 562
     target 574
-    weight 4
+    weight 18
   ]
   edge [
     source 562
@@ -19509,12 +30884,12 @@ graph [
   edge [
     source 562
     target 575
-    weight 2
+    weight 8
   ]
   edge [
     source 562
     target 576
-    weight 2
+    weight 10
   ]
   edge [
     source 562
@@ -19529,7 +30904,7 @@ graph [
   edge [
     source 562
     target 581
-    weight 4
+    weight 8
   ]
   edge [
     source 562
@@ -19554,7 +30929,7 @@ graph [
   edge [
     source 562
     target 589
-    weight 2
+    weight 6
   ]
   edge [
     source 562
@@ -19589,52 +30964,277 @@ graph [
   edge [
     source 562
     target 1104
-    weight 2
+    weight 4
   ]
   edge [
     source 562
     target 1105
-    weight 2
+    weight 4
   ]
   edge [
     source 562
     target 1106
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2226
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2227
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2228
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2229
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2359
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2360
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2361
+    weight 6
+  ]
+  edge [
+    source 562
+    target 662
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2363
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2364
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2365
+    weight 2
+  ]
+  edge [
+    source 562
+    target 666
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2376
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2377
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2417
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2461
+    weight 1
+  ]
+  edge [
+    source 562
+    target 2403
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2493
+    weight 1
+  ]
+  edge [
+    source 562
+    target 2595
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2596
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2597
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2598
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2599
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2600
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2631
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2632
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2633
+    weight 4
+  ]
+  edge [
+    source 562
+    target 2677
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2749
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2751
+    weight 1
+  ]
+  edge [
+    source 562
+    target 2750
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2223
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3144
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3156
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2134
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3187
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3253
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3400
+    weight 2
+  ]
+  edge [
+    source 562
+    target 2142
+    weight 2
+  ]
+  edge [
+    source 562
+    target 3427
+    weight 1
+  ]
+  edge [
+    source 562
+    target 3338
+    weight 2
+  ]
+  edge [
+    source 562
+    target 978
     weight 2
   ]
   edge [
     source 564
     target 565
-    weight 2
+    weight 4
   ]
   edge [
     source 564
     target 566
-    weight 2
+    weight 4
   ]
   edge [
     source 564
     target 567
-    weight 2
+    weight 4
   ]
   edge [
     source 564
     target 568
-    weight 2
+    weight 4
   ]
   edge [
     source 564
     target 569
-    weight 2
+    weight 4
   ]
   edge [
     source 564
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 564
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 564
@@ -19644,47 +31244,97 @@ graph [
   edge [
     source 564
     target 574
-    weight 2
+    weight 10
   ]
   edge [
     source 564
     target 575
-    weight 2
+    weight 8
   ]
   edge [
     source 564
     target 576
+    weight 8
+  ]
+  edge [
+    source 564
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 564
+    target 2304
+    weight 4
+  ]
+  edge [
+    source 564
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 564
+    target 3144
+    weight 2
+  ]
+  edge [
+    source 564
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 564
+    target 3152
+    weight 2
+  ]
+  edge [
+    source 564
+    target 3153
+    weight 2
+  ]
+  edge [
+    source 564
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 564
+    target 3400
+    weight 2
+  ]
+  edge [
+    source 564
+    target 2142
     weight 2
   ]
   edge [
     source 565
     target 566
-    weight 2
+    weight 14
   ]
   edge [
     source 565
     target 567
-    weight 2
+    weight 8
   ]
   edge [
     source 565
     target 568
-    weight 2
+    weight 6
   ]
   edge [
     source 565
     target 569
-    weight 2
+    weight 4
   ]
   edge [
     source 565
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 565
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 565
@@ -19692,29 +31342,259 @@ graph [
     weight 2
   ]
   edge [
+    source 565
+    target 3090
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3091
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3092
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3093
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3094
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3083
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3144
+    weight 2
+  ]
+  edge [
+    source 565
+    target 2142
+    weight 8
+  ]
+  edge [
+    source 565
+    target 574
+    weight 24
+  ]
+  edge [
+    source 565
+    target 3148
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3149
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3161
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3187
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3253
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3188
+    weight 12
+  ]
+  edge [
+    source 565
+    target 2176
+    weight 2
+  ]
+  edge [
+    source 565
+    target 575
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3254
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3289
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3290
+    weight 2
+  ]
+  edge [
+    source 565
+    target 1133
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3292
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3293
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3118
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3294
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3296
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 565
+    target 2133
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3303
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3107
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3078
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3335
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3336
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3341
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3365
+    weight 1
+  ]
+  edge [
+    source 565
+    target 3396
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3402
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3403
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3193
+    weight 4
+  ]
+  edge [
+    source 565
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3411
+    weight 2
+  ]
+  edge [
+    source 565
+    target 3115
+    weight 2
+  ]
+  edge [
     source 566
     target 567
-    weight 2
+    weight 10
   ]
   edge [
     source 566
     target 568
-    weight 2
+    weight 12
   ]
   edge [
     source 566
     target 569
-    weight 2
+    weight 4
   ]
   edge [
     source 566
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 566
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 566
@@ -19729,7 +31609,7 @@ graph [
   edge [
     source 566
     target 969
-    weight 2
+    weight 8
   ]
   edge [
     source 566
@@ -19737,44 +31617,989 @@ graph [
     weight 2
   ]
   edge [
+    source 566
+    target 576
+    weight 10
+  ]
+  edge [
+    source 566
+    target 2241
+    weight 1
+  ]
+  edge [
+    source 566
+    target 2234
+    weight 4
+  ]
+  edge [
+    source 566
+    target 2240
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2249
+    weight 4
+  ]
+  edge [
+    source 566
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2258
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2259
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2260
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2261
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3083
+    weight 8
+  ]
+  edge [
+    source 566
+    target 3084
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3085
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3086
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3087
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3088
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3090
+    weight 16
+  ]
+  edge [
+    source 566
+    target 3091
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3092
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3093
+    weight 12
+  ]
+  edge [
+    source 566
+    target 3094
+    weight 8
+  ]
+  edge [
+    source 566
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3105
+    weight 8
+  ]
+  edge [
+    source 566
+    target 3121
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3122
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 566
+    target 574
+    weight 14
+  ]
+  edge [
+    source 566
+    target 3107
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3126
+    weight 10
+  ]
+  edge [
+    source 566
+    target 3127
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3144
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3150
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3148
+    weight 2
+  ]
+  edge [
+    source 566
+    target 1106
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2127
+    weight 8
+  ]
+  edge [
+    source 566
+    target 3156
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2134
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2142
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3161
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3169
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2603
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3170
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3171
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3172
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3174
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3175
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3184
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3202
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3203
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2536
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3204
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2535
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3214
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3215
+    weight 6
+  ]
+  edge [
+    source 566
+    target 3216
+    weight 6
+  ]
+  edge [
+    source 566
+    target 3217
+    weight 6
+  ]
+  edge [
+    source 566
+    target 1143
+    weight 6
+  ]
+  edge [
+    source 566
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 566
+    target 1129
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3275
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3276
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3277
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3292
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3293
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3118
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3294
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3314
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2155
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3315
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3316
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3079
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3329
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3330
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3078
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3320
+    weight 4
+  ]
+  edge [
+    source 566
+    target 3343
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3344
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3345
+    weight 2
+  ]
+  edge [
+    source 566
+    target 2253
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3398
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3402
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3403
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3193
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3419
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3433
+    weight 2
+  ]
+  edge [
+    source 566
+    target 3338
+    weight 2
+  ]
+  edge [
     source 567
     target 568
-    weight 2
+    weight 6
   ]
   edge [
     source 567
     target 569
-    weight 2
+    weight 4
   ]
   edge [
     source 567
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 567
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 567
     target 572
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3078
+    weight 10
+  ]
+  edge [
+    source 567
+    target 3079
+    weight 8
+  ]
+  edge [
+    source 567
+    target 3080
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3081
+    weight 2
+  ]
+  edge [
+    source 567
+    target 574
+    weight 22
+  ]
+  edge [
+    source 567
+    target 3099
+    weight 6
+  ]
+  edge [
+    source 567
+    target 3100
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3107
+    weight 8
+  ]
+  edge [
+    source 567
+    target 3108
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3109
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3110
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3111
+    weight 4
+  ]
+  edge [
+    source 567
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 567
+    target 969
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3127
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3144
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3190
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3192
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3193
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3195
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3196
+    weight 2
+  ]
+  edge [
+    source 567
+    target 2240
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3197
+    weight 4
+  ]
+  edge [
+    source 567
+    target 3198
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3187
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3253
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3275
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3090
+    weight 4
+  ]
+  edge [
+    source 567
+    target 3276
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3277
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3300
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3301
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3306
+    weight 4
+  ]
+  edge [
+    source 567
+    target 3307
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3308
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3309
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3310
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3318
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3319
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3320
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3321
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3326
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3327
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3329
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3330
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3335
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3336
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3338
+    weight 4
+  ]
+  edge [
+    source 567
+    target 3339
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3351
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3352
+    weight 4
+  ]
+  edge [
+    source 567
+    target 3353
+    weight 2
+  ]
+  edge [
+    source 567
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 567
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3361
+    weight 2
+  ]
+  edge [
+    source 567
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3362
+    weight 2
+  ]
+  edge [
+    source 567
+    target 3384
     weight 2
   ]
   edge [
     source 568
     target 569
-    weight 2
+    weight 4
   ]
   edge [
     source 568
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 568
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 568
@@ -19782,28 +32607,278 @@ graph [
     weight 2
   ]
   edge [
+    source 568
+    target 2244
+    weight 2
+  ]
+  edge [
+    source 568
+    target 2245
+    weight 2
+  ]
+  edge [
+    source 568
+    target 2246
+    weight 2
+  ]
+  edge [
+    source 568
+    target 2247
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3141
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3142
+    weight 2
+  ]
+  edge [
+    source 568
+    target 574
+    weight 14
+  ]
+  edge [
+    source 568
+    target 3115
+    weight 4
+  ]
+  edge [
+    source 568
+    target 3144
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3214
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3218
+    weight 1
+  ]
+  edge [
+    source 568
+    target 3090
+    weight 8
+  ]
+  edge [
+    source 568
+    target 3215
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3216
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3217
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 568
+    target 2135
+    weight 2
+  ]
+  edge [
+    source 568
+    target 2562
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3219
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3220
+    weight 4
+  ]
+  edge [
+    source 568
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3227
+    weight 6
+  ]
+  edge [
+    source 568
+    target 3228
+    weight 4
+  ]
+  edge [
+    source 568
+    target 3275
+    weight 4
+  ]
+  edge [
+    source 568
+    target 3276
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3277
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3284
+    weight 2
+  ]
+  edge [
+    source 568
+    target 2142
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3105
+    weight 4
+  ]
+  edge [
+    source 568
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3323
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3324
+    weight 2
+  ]
+  edge [
+    source 568
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3093
+    weight 4
+  ]
+  edge [
+    source 568
+    target 2253
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3094
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3419
+    weight 2
+  ]
+  edge [
+    source 568
+    target 3188
+    weight 2
+  ]
+  edge [
     source 569
     target 570
-    weight 2
+    weight 4
   ]
   edge [
     source 569
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 569
     target 572
+    weight 2
+  ]
+  edge [
+    source 569
+    target 3144
     weight 2
   ]
   edge [
     source 570
     target 571
-    weight 2
+    weight 4
   ]
   edge [
     source 570
     target 572
+    weight 2
+  ]
+  edge [
+    source 570
+    target 3144
     weight 2
   ]
   edge [
@@ -19812,38 +32887,1053 @@ graph [
     weight 2
   ]
   edge [
+    source 571
+    target 3144
+    weight 2
+  ]
+  edge [
     source 572
     target 573
     weight 1
   ]
   edge [
+    source 573
+    target 2417
+    weight 1
+  ]
+  edge [
+    source 573
+    target 3144
+    weight 1
+  ]
+  edge [
+    source 573
+    target 3188
+    weight 1
+  ]
+  edge [
     source 574
     target 575
-    weight 2
+    weight 12
   ]
   edge [
     source 574
     target 576
-    weight 2
+    weight 12
   ]
   edge [
     source 574
     target 1104
-    weight 2
+    weight 4
   ]
   edge [
     source 574
     target 1105
-    weight 2
+    weight 4
   ]
   edge [
     source 574
     target 1106
+    weight 4
+  ]
+  edge [
+    source 574
+    target 2166
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2393
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2462
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2463
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2464
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2465
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2431
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2432
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2468
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2025
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2152
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3099
+    weight 8
+  ]
+  edge [
+    source 574
+    target 3100
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3101
+    weight 14
+  ]
+  edge [
+    source 574
+    target 3107
+    weight 18
+  ]
+  edge [
+    source 574
+    target 3108
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3109
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3110
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3111
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3114
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3115
+    weight 6
+  ]
+  edge [
+    source 574
+    target 3116
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3118
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3119
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3126
+    weight 10
+  ]
+  edge [
+    source 574
+    target 969
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3127
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3141
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3142
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3147
+    weight 1
+  ]
+  edge [
+    source 574
+    target 2142
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3152
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3153
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3154
+    weight 4
+  ]
+  edge [
+    source 574
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3156
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2134
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3093
+    weight 6
+  ]
+  edge [
+    source 574
+    target 3184
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3190
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3192
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3193
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3210
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2135
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2562
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3219
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3220
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3227
+    weight 6
+  ]
+  edge [
+    source 574
+    target 3228
+    weight 4
+  ]
+  edge [
+    source 574
+    target 1143
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3083
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 574
+    target 1129
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3215
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3216
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3217
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3254
+    weight 6
+  ]
+  edge [
+    source 574
+    target 2607
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3255
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3257
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3258
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3259
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3260
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2176
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3289
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3290
+    weight 2
+  ]
+  edge [
+    source 574
+    target 1133
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3292
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3293
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3294
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3296
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2133
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3188
+    weight 10
+  ]
+  edge [
+    source 574
+    target 3303
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3148
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3312
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3301
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3323
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3324
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3078
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3335
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3336
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3338
+    weight 10
+  ]
+  edge [
+    source 574
+    target 3339
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3341
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3351
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3352
+    weight 6
+  ]
+  edge [
+    source 574
+    target 3306
+    weight 4
+  ]
+  edge [
+    source 574
+    target 3353
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2023
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 574
+    target 2536
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3371
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3373
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3375
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3384
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3387
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3388
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3389
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3391
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3393
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3394
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3396
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3405
+    weight 1
+  ]
+  edge [
+    source 574
+    target 3079
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3411
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3094
+    weight 2
+  ]
+  edge [
+    source 574
+    target 3419
     weight 2
   ]
   edge [
     source 575
     target 576
+    weight 10
+  ]
+  edge [
+    source 575
+    target 2252
+    weight 2
+  ]
+  edge [
+    source 575
+    target 2253
+    weight 2
+  ]
+  edge [
+    source 575
+    target 2254
+    weight 2
+  ]
+  edge [
+    source 575
+    target 2134
+    weight 4
+  ]
+  edge [
+    source 575
+    target 2328
+    weight 2
+  ]
+  edge [
+    source 575
+    target 2329
+    weight 4
+  ]
+  edge [
+    source 575
+    target 1127
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3164
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3165
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3166
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3167
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3225
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3118
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3254
+    weight 4
+  ]
+  edge [
+    source 575
+    target 2607
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3255
+    weight 2
+  ]
+  edge [
+    source 575
+    target 2176
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3289
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3290
+    weight 2
+  ]
+  edge [
+    source 575
+    target 1133
+    weight 2
+  ]
+  edge [
+    source 575
+    target 3305
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2162
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2164
+    weight 1
+  ]
+  edge [
+    source 576
+    target 2163
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2234
+    weight 4
+  ]
+  edge [
+    source 576
+    target 2240
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2249
+    weight 4
+  ]
+  edge [
+    source 576
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2258
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2259
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2260
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2261
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3118
+    weight 4
+  ]
+  edge [
+    source 576
+    target 3119
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3121
+    weight 2
+  ]
+  edge [
+    source 576
+    target 969
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3122
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3156
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2134
+    weight 6
+  ]
+  edge [
+    source 576
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3200
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3225
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3262
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3263
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3264
+    weight 4
+  ]
+  edge [
+    source 576
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3266
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3265
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3270
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2023
+    weight 2
+  ]
+  edge [
+    source 576
+    target 2475
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3298
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3428
+    weight 4
+  ]
+  edge [
+    source 576
+    target 3429
+    weight 2
+  ]
+  edge [
+    source 576
+    target 3430
     weight 2
   ]
   edge [
@@ -19854,6 +33944,31 @@ graph [
   edge [
     source 579
     target 580
+    weight 1
+  ]
+  edge [
+    source 579
+    target 2207
+    weight 4
+  ]
+  edge [
+    source 579
+    target 2210
+    weight 1
+  ]
+  edge [
+    source 579
+    target 2208
+    weight 4
+  ]
+  edge [
+    source 579
+    target 2209
+    weight 4
+  ]
+  edge [
+    source 580
+    target 2333
     weight 1
   ]
   edge [
@@ -19869,7 +33984,7 @@ graph [
   edge [
     source 581
     target 589
-    weight 2
+    weight 6
   ]
   edge [
     source 582
@@ -19897,9 +34012,49 @@ graph [
     weight 1
   ]
   edge [
+    source 587
+    target 2426
+    weight 4
+  ]
+  edge [
+    source 587
+    target 2427
+    weight 4
+  ]
+  edge [
+    source 587
+    target 1117
+    weight 4
+  ]
+  edge [
+    source 587
+    target 1116
+    weight 8
+  ]
+  edge [
+    source 587
+    target 1118
+    weight 4
+  ]
+  edge [
+    source 587
+    target 2422
+    weight 6
+  ]
+  edge [
+    source 587
+    target 1144
+    weight 4
+  ]
+  edge [
+    source 587
+    target 2755
+    weight 2
+  ]
+  edge [
     source 591
     target 592
-    weight 2
+    weight 4
   ]
   edge [
     source 592
@@ -19907,19 +34062,24 @@ graph [
     weight 1
   ]
   edge [
+    source 592
+    target 2897
+    weight 1
+  ]
+  edge [
     source 596
     target 597
-    weight 4
+    weight 6
   ]
   edge [
     source 596
     target 598
-    weight 4
+    weight 6
   ]
   edge [
     source 597
     target 598
-    weight 4
+    weight 6
   ]
   edge [
     source 598
@@ -19929,6 +34089,11 @@ graph [
   edge [
     source 598
     target 998
+    weight 1
+  ]
+  edge [
+    source 598
+    target 2961
     weight 1
   ]
   edge [
@@ -19969,17 +34134,17 @@ graph [
   edge [
     source 606
     target 607
-    weight 2
+    weight 4
   ]
   edge [
     source 606
     target 608
-    weight 2
+    weight 4
   ]
   edge [
     source 606
     target 609
-    weight 2
+    weight 4
   ]
   edge [
     source 606
@@ -20114,17 +34279,17 @@ graph [
   edge [
     source 607
     target 608
-    weight 2
+    weight 4
   ]
   edge [
     source 607
     target 609
-    weight 2
+    weight 4
   ]
   edge [
     source 608
     target 609
-    weight 2
+    weight 4
   ]
   edge [
     source 609
@@ -20132,34 +34297,54 @@ graph [
     weight 1
   ]
   edge [
+    source 609
+    target 3068
+    weight 1
+  ]
+  edge [
     source 612
     target 613
-    weight 2
+    weight 6
   ]
   edge [
     source 612
     target 614
-    weight 2
+    weight 6
   ]
   edge [
     source 612
     target 615
-    weight 2
+    weight 6
   ]
   edge [
     source 613
     target 614
-    weight 2
+    weight 6
   ]
   edge [
     source 613
     target 615
-    weight 2
+    weight 6
   ]
   edge [
     source 614
     target 615
-    weight 2
+    weight 6
+  ]
+  edge [
+    source 615
+    target 3733
+    weight 4
+  ]
+  edge [
+    source 615
+    target 3759
+    weight 8
+  ]
+  edge [
+    source 615
+    target 3760
+    weight 8
   ]
   edge [
     source 617
@@ -20192,6 +34377,56 @@ graph [
     weight 2
   ]
   edge [
+    source 621
+    target 2267
+    weight 1
+  ]
+  edge [
+    source 621
+    target 2273
+    weight 1
+  ]
+  edge [
+    source 621
+    target 2787
+    weight 1
+  ]
+  edge [
+    source 621
+    target 2890
+    weight 1
+  ]
+  edge [
+    source 621
+    target 3067
+    weight 1
+  ]
+  edge [
+    source 621
+    target 3746
+    weight 1
+  ]
+  edge [
+    source 621
+    target 3808
+    weight 1
+  ]
+  edge [
+    source 621
+    target 3813
+    weight 1
+  ]
+  edge [
+    source 623
+    target 2742
+    weight 1
+  ]
+  edge [
+    source 624
+    target 2742
+    weight 1
+  ]
+  edge [
     source 625
     target 626
     weight 2
@@ -20200,6 +34435,41 @@ graph [
     source 625
     target 637
     weight 1
+  ]
+  edge [
+    source 625
+    target 3817
+    weight 2
+  ]
+  edge [
+    source 625
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 625
+    target 2368
+    weight 2
+  ]
+  edge [
+    source 625
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 625
+    target 629
+    weight 2
+  ]
+  edge [
+    source 625
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 625
+    target 3821
+    weight 2
   ]
   edge [
     source 628
@@ -20227,6 +34497,36 @@ graph [
     weight 2
   ]
   edge [
+    source 629
+    target 3817
+    weight 2
+  ]
+  edge [
+    source 629
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 629
+    target 2368
+    weight 2
+  ]
+  edge [
+    source 629
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 629
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 629
+    target 3821
+    weight 2
+  ]
+  edge [
     source 630
     target 631
     weight 2
@@ -20237,14 +34537,19 @@ graph [
     weight 1
   ]
   edge [
+    source 632
+    target 2992
+    weight 1
+  ]
+  edge [
     source 633
     target 634
-    weight 2
+    weight 12
   ]
   edge [
     source 633
     target 635
-    weight 2
+    weight 6
   ]
   edge [
     source 633
@@ -20272,8 +34577,103 @@ graph [
     weight 2
   ]
   edge [
+    source 633
+    target 2340
+    weight 4
+  ]
+  edge [
+    source 633
+    target 3846
+    weight 2
+  ]
+  edge [
     source 634
     target 635
+    weight 6
+  ]
+  edge [
+    source 634
+    target 2194
+    weight 8
+  ]
+  edge [
+    source 634
+    target 2195
+    weight 8
+  ]
+  edge [
+    source 634
+    target 1925
+    weight 8
+  ]
+  edge [
+    source 634
+    target 2340
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2204
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2420
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2421
+    weight 4
+  ]
+  edge [
+    source 634
+    target 1099
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2544
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2545
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2546
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2547
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 634
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 634
+    target 3846
     weight 2
   ]
   edge [
@@ -20442,6 +34842,31 @@ graph [
     weight 2
   ]
   edge [
+    source 656
+    target 3570
+    weight 2
+  ]
+  edge [
+    source 656
+    target 3458
+    weight 2
+  ]
+  edge [
+    source 656
+    target 3571
+    weight 2
+  ]
+  edge [
+    source 656
+    target 3572
+    weight 2
+  ]
+  edge [
+    source 656
+    target 3573
+    weight 2
+  ]
+  edge [
     source 658
     target 659
     weight 2
@@ -20515,6 +34940,26 @@ graph [
     source 662
     target 827
     weight 4
+  ]
+  edge [
+    source 662
+    target 2359
+    weight 2
+  ]
+  edge [
+    source 662
+    target 2362
+    weight 1
+  ]
+  edge [
+    source 662
+    target 2360
+    weight 2
+  ]
+  edge [
+    source 662
+    target 2361
+    weight 2
   ]
   edge [
     source 665
@@ -20695,6 +35140,21 @@ graph [
     source 666
     target 875
     weight 2
+  ]
+  edge [
+    source 666
+    target 2376
+    weight 4
+  ]
+  edge [
+    source 666
+    target 2377
+    weight 4
+  ]
+  edge [
+    source 666
+    target 2361
+    weight 4
   ]
   edge [
     source 672
@@ -21162,6 +35622,46 @@ graph [
     weight 2
   ]
   edge [
+    source 689
+    target 3772
+    weight 2
+  ]
+  edge [
+    source 689
+    target 2784
+    weight 2
+  ]
+  edge [
+    source 689
+    target 3773
+    weight 2
+  ]
+  edge [
+    source 689
+    target 3774
+    weight 2
+  ]
+  edge [
+    source 689
+    target 3775
+    weight 2
+  ]
+  edge [
+    source 689
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 689
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 689
+    target 3807
+    weight 1
+  ]
+  edge [
     source 691
     target 692
     weight 2
@@ -21384,12 +35884,12 @@ graph [
   edge [
     source 714
     target 842
-    weight 2
+    weight 6
   ]
   edge [
     source 714
     target 843
-    weight 4
+    weight 8
   ]
   edge [
     source 714
@@ -22082,6 +36582,91 @@ graph [
     weight 2
   ]
   edge [
+    source 767
+    target 3469
+    weight 4
+  ]
+  edge [
+    source 767
+    target 3656
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3657
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3658
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3659
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3660
+    weight 4
+  ]
+  edge [
+    source 767
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 767
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 767
+    target 2301
+    weight 2
+  ]
+  edge [
     source 769
     target 770
     weight 2
@@ -22477,6 +37062,21 @@ graph [
     weight 2
   ]
   edge [
+    source 817
+    target 3858
+    weight 2
+  ]
+  edge [
+    source 817
+    target 3859
+    weight 2
+  ]
+  edge [
+    source 817
+    target 3860
+    weight 2
+  ]
+  edge [
     source 818
     target 819
     weight 1
@@ -22524,7 +37124,7 @@ graph [
   edge [
     source 842
     target 843
-    weight 2
+    weight 6
   ]
   edge [
     source 843
@@ -22550,6 +37150,36 @@ graph [
     source 843
     target 848
     weight 2
+  ]
+  edge [
+    source 843
+    target 2837
+    weight 1
+  ]
+  edge [
+    source 843
+    target 3462
+    weight 4
+  ]
+  edge [
+    source 843
+    target 3463
+    weight 4
+  ]
+  edge [
+    source 843
+    target 3464
+    weight 4
+  ]
+  edge [
+    source 843
+    target 3465
+    weight 4
+  ]
+  edge [
+    source 843
+    target 4098
+    weight 1
   ]
   edge [
     source 845
@@ -22982,6 +37612,106 @@ graph [
     weight 2
   ]
   edge [
+    source 905
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3488
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3489
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3490
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 905
+    target 1347
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3492
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3493
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3497
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3498
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3499
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3578
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3579
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3580
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3581
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3709
+    weight 1
+  ]
+  edge [
+    source 905
+    target 3656
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3708
+    weight 2
+  ]
+  edge [
+    source 905
+    target 3658
+    weight 2
+  ]
+  edge [
     source 906
     target 907
     weight 2
@@ -23039,21 +37769,76 @@ graph [
   edge [
     source 912
     target 913
-    weight 2
+    weight 4
   ]
   edge [
     source 912
     target 914
-    weight 2
+    weight 4
   ]
   edge [
     source 913
     target 914
+    weight 6
+  ]
+  edge [
+    source 913
+    target 3613
+    weight 2
+  ]
+  edge [
+    source 913
+    target 3614
+    weight 2
+  ]
+  edge [
+    source 913
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 913
+    target 3546
+    weight 6
+  ]
+  edge [
+    source 913
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 913
+    target 3452
+    weight 2
+  ]
+  edge [
+    source 913
+    target 3501
+    weight 2
+  ]
+  edge [
+    source 913
+    target 3450
     weight 2
   ]
   edge [
     source 914
     target 915
+    weight 1
+  ]
+  edge [
+    source 914
+    target 3678
+    weight 1
+  ]
+  edge [
+    source 914
+    target 3546
+    weight 2
+  ]
+  edge [
+    source 914
+    target 3687
     weight 1
   ]
   edge [
@@ -23095,6 +37880,21 @@ graph [
     source 919
     target 1459
     weight 2
+  ]
+  edge [
+    source 919
+    target 2191
+    weight 4
+  ]
+  edge [
+    source 919
+    target 2192
+    weight 4
+  ]
+  edge [
+    source 919
+    target 1071
+    weight 4
   ]
   edge [
     source 920
@@ -23347,6 +38147,81 @@ graph [
     weight 2
   ]
   edge [
+    source 969
+    target 3121
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3122
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3107
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3127
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 969
+    target 2134
+    weight 2
+  ]
+  edge [
+    source 969
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3314
+    weight 2
+  ]
+  edge [
+    source 969
+    target 2155
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3315
+    weight 2
+  ]
+  edge [
+    source 969
+    target 3316
+    weight 2
+  ]
+  edge [
     source 975
     target 976
     weight 2
@@ -23364,7 +38239,7 @@ graph [
   edge [
     source 978
     target 1075
-    weight 2
+    weight 8
   ]
   edge [
     source 978
@@ -23385,6 +38260,11 @@ graph [
     source 978
     target 1102
     weight 2
+  ]
+  edge [
+    source 978
+    target 2321
+    weight 1
   ]
   edge [
     source 982
@@ -23427,6 +38307,11 @@ graph [
     weight 2
   ]
   edge [
+    source 984
+    target 2925
+    weight 2
+  ]
+  edge [
     source 985
     target 986
     weight 2
@@ -23450,6 +38335,46 @@ graph [
     source 986
     target 987
     weight 1
+  ]
+  edge [
+    source 986
+    target 1184
+    weight 2
+  ]
+  edge [
+    source 986
+    target 996
+    weight 2
+  ]
+  edge [
+    source 986
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 986
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 986
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 986
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 986
+    target 3451
+    weight 2
+  ]
+  edge [
+    source 986
+    target 3452
+    weight 2
   ]
   edge [
     source 988
@@ -23562,54 +38487,129 @@ graph [
     weight 2
   ]
   edge [
+    source 994
+    target 3472
+    weight 4
+  ]
+  edge [
+    source 994
+    target 3537
+    weight 6
+  ]
+  edge [
+    source 994
+    target 3538
+    weight 4
+  ]
+  edge [
+    source 994
+    target 3649
+    weight 4
+  ]
+  edge [
+    source 994
+    target 3650
+    weight 2
+  ]
+  edge [
     source 995
     target 996
     weight 2
   ]
   edge [
+    source 996
+    target 3449
+    weight 2
+  ]
+  edge [
+    source 996
+    target 3450
+    weight 4
+  ]
+  edge [
+    source 996
+    target 3451
+    weight 4
+  ]
+  edge [
+    source 996
+    target 3452
+    weight 4
+  ]
+  edge [
+    source 996
+    target 3453
+    weight 2
+  ]
+  edge [
+    source 996
+    target 3454
+    weight 2
+  ]
+  edge [
+    source 996
+    target 1184
+    weight 2
+  ]
+  edge [
+    source 996
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 996
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 996
+    target 3469
+    weight 2
+  ]
+  edge [
     source 1001
     target 1002
-    weight 2
+    weight 6
   ]
   edge [
     source 1001
     target 1003
-    weight 2
+    weight 6
   ]
   edge [
     source 1001
     target 1004
-    weight 2
+    weight 6
   ]
   edge [
     source 1001
     target 1005
-    weight 2
+    weight 6
   ]
   edge [
     source 1001
     target 1006
-    weight 2
+    weight 6
   ]
   edge [
     source 1002
     target 1003
-    weight 2
+    weight 6
   ]
   edge [
     source 1002
     target 1004
-    weight 2
+    weight 6
   ]
   edge [
     source 1002
     target 1005
-    weight 2
+    weight 6
   ]
   edge [
     source 1002
     target 1006
-    weight 2
+    weight 6
   ]
   edge [
     source 1002
@@ -23624,36 +38624,41 @@ graph [
   edge [
     source 1003
     target 1004
-    weight 2
+    weight 6
   ]
   edge [
     source 1003
     target 1005
-    weight 2
+    weight 6
   ]
   edge [
     source 1003
     target 1006
-    weight 2
+    weight 6
   ]
   edge [
     source 1004
     target 1005
-    weight 2
+    weight 6
   ]
   edge [
     source 1004
     target 1006
-    weight 2
+    weight 6
   ]
   edge [
     source 1005
     target 1006
-    weight 2
+    weight 6
   ]
   edge [
     source 1006
     target 1007
+    weight 1
+  ]
+  edge [
+    source 1006
+    target 2794
     weight 1
   ]
   edge [
@@ -23759,6 +38764,31 @@ graph [
   edge [
     source 1024
     target 1025
+    weight 2
+  ]
+  edge [
+    source 1024
+    target 3890
+    weight 2
+  ]
+  edge [
+    source 1024
+    target 3891
+    weight 2
+  ]
+  edge [
+    source 1024
+    target 3892
+    weight 2
+  ]
+  edge [
+    source 1024
+    target 3893
+    weight 2
+  ]
+  edge [
+    source 1024
+    target 3894
     weight 2
   ]
   edge [
@@ -23887,6 +38917,11 @@ graph [
     weight 2
   ]
   edge [
+    source 1050
+    target 3788
+    weight 1
+  ]
+  edge [
     source 1051
     target 1052
     weight 1
@@ -23919,6 +38954,16 @@ graph [
   edge [
     source 1060
     target 1061
+    weight 1
+  ]
+  edge [
+    source 1060
+    target 2370
+    weight 2
+  ]
+  edge [
+    source 1060
+    target 2371
     weight 1
   ]
   edge [
@@ -24037,6 +39082,31 @@ graph [
     weight 2
   ]
   edge [
+    source 1071
+    target 2191
+    weight 8
+  ]
+  edge [
+    source 1071
+    target 2193
+    weight 1
+  ]
+  edge [
+    source 1071
+    target 2192
+    weight 8
+  ]
+  edge [
+    source 1071
+    target 2212
+    weight 1
+  ]
+  edge [
+    source 1071
+    target 2211
+    weight 4
+  ]
+  edge [
     source 1072
     target 1073
     weight 1
@@ -24044,6 +39114,11 @@ graph [
   edge [
     source 1075
     target 1076
+    weight 1
+  ]
+  edge [
+    source 1075
+    target 2744
     weight 1
   ]
   edge [
@@ -24317,6 +39392,51 @@ graph [
     weight 2
   ]
   edge [
+    source 1099
+    target 2203
+    weight 6
+  ]
+  edge [
+    source 1099
+    target 2204
+    weight 10
+  ]
+  edge [
+    source 1099
+    target 2205
+    weight 6
+  ]
+  edge [
+    source 1099
+    target 2420
+    weight 4
+  ]
+  edge [
+    source 1099
+    target 2421
+    weight 4
+  ]
+  edge [
+    source 1099
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 1099
+    target 1334
+    weight 2
+  ]
+  edge [
+    source 1099
+    target 2529
+    weight 2
+  ]
+  edge [
+    source 1099
+    target 2530
+    weight 2
+  ]
+  edge [
     source 1100
     target 1101
     weight 2
@@ -24339,17 +39459,32 @@ graph [
   edge [
     source 1104
     target 1105
-    weight 2
+    weight 4
   ]
   edge [
     source 1104
     target 1106
-    weight 2
+    weight 4
   ]
   edge [
     source 1105
     target 1106
-    weight 2
+    weight 4
+  ]
+  edge [
+    source 1105
+    target 2561
+    weight 6
+  ]
+  edge [
+    source 1105
+    target 2562
+    weight 6
+  ]
+  edge [
+    source 1105
+    target 2563
+    weight 6
   ]
   edge [
     source 1106
@@ -24357,19 +39492,39 @@ graph [
     weight 1
   ]
   edge [
+    source 1106
+    target 3150
+    weight 2
+  ]
+  edge [
+    source 1106
+    target 3151
+    weight 1
+  ]
+  edge [
+    source 1106
+    target 3148
+    weight 2
+  ]
+  edge [
+    source 1106
+    target 3350
+    weight 1
+  ]
+  edge [
     source 1108
     target 1109
-    weight 2
+    weight 4
   ]
   edge [
     source 1111
     target 1112
-    weight 2
+    weight 6
   ]
   edge [
     source 1111
     target 1113
-    weight 2
+    weight 6
   ]
   edge [
     source 1111
@@ -24379,7 +39534,7 @@ graph [
   edge [
     source 1112
     target 1113
-    weight 2
+    weight 6
   ]
   edge [
     source 1113
@@ -24387,44 +39542,89 @@ graph [
     weight 1
   ]
   edge [
+    source 1115
+    target 2335
+    weight 1
+  ]
+  edge [
     source 1116
     target 1117
+    weight 24
+  ]
+  edge [
+    source 1116
+    target 1118
+    weight 12
+  ]
+  edge [
+    source 1116
+    target 1120
+    weight 8
+  ]
+  edge [
+    source 1116
+    target 1121
+    weight 8
+  ]
+  edge [
+    source 1116
+    target 2384
     weight 4
   ]
   edge [
     source 1116
-    target 1118
-    weight 2
+    target 2426
+    weight 4
   ]
   edge [
     source 1116
-    target 1120
-    weight 2
-  ]
-  edge [
-    source 1116
-    target 1121
-    weight 2
+    target 2427
+    weight 4
   ]
   edge [
     source 1117
     target 1118
-    weight 2
+    weight 12
   ]
   edge [
     source 1117
     target 1120
-    weight 2
+    weight 8
   ]
   edge [
     source 1117
     target 1121
-    weight 2
+    weight 8
+  ]
+  edge [
+    source 1117
+    target 2384
+    weight 4
+  ]
+  edge [
+    source 1117
+    target 2426
+    weight 4
+  ]
+  edge [
+    source 1117
+    target 2427
+    weight 4
+  ]
+  edge [
+    source 1118
+    target 2426
+    weight 4
+  ]
+  edge [
+    source 1118
+    target 2427
+    weight 4
   ]
   edge [
     source 1120
     target 1121
-    weight 2
+    weight 8
   ]
   edge [
     source 1121
@@ -24432,9 +39632,19 @@ graph [
     weight 1
   ]
   edge [
+    source 1123
+    target 2336
+    weight 1
+  ]
+  edge [
+    source 1124
+    target 2337
+    weight 1
+  ]
+  edge [
     source 1126
     target 1127
-    weight 2
+    weight 4
   ]
   edge [
     source 1126
@@ -24457,6 +39667,16 @@ graph [
     weight 2
   ]
   edge [
+    source 1126
+    target 2242
+    weight 2
+  ]
+  edge [
+    source 1126
+    target 2256
+    weight 2
+  ]
+  edge [
     source 1127
     target 1128
     weight 2
@@ -24474,6 +39694,56 @@ graph [
   edge [
     source 1127
     target 1131
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 2256
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3164
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3165
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3166
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3167
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3435
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3436
+    weight 2
+  ]
+  edge [
+    source 1127
+    target 3437
     weight 2
   ]
   edge [
@@ -24500,6 +39770,141 @@ graph [
     source 1129
     target 1131
     weight 2
+  ]
+  edge [
+    source 1129
+    target 3126
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 1143
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3083
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3215
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3216
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3217
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 1129
+    target 3249
+    weight 4
   ]
   edge [
     source 1130
@@ -24509,6 +39914,11 @@ graph [
   edge [
     source 1131
     target 1132
+    weight 1
+  ]
+  edge [
+    source 1132
+    target 2220
     weight 1
   ]
   edge [
@@ -24524,7 +39934,7 @@ graph [
   edge [
     source 1133
     target 1136
-    weight 4
+    weight 6
   ]
   edge [
     source 1133
@@ -24550,6 +39960,51 @@ graph [
     source 1133
     target 1141
     weight 4
+  ]
+  edge [
+    source 1133
+    target 2410
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 2411
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 2412
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 2264
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 3291
+    weight 1
+  ]
+  edge [
+    source 1133
+    target 2176
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 3254
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 3289
+    weight 2
+  ]
+  edge [
+    source 1133
+    target 3290
+    weight 2
   ]
   edge [
     source 1134
@@ -24639,6 +40094,26 @@ graph [
   edge [
     source 1136
     target 1141
+    weight 2
+  ]
+  edge [
+    source 1136
+    target 2410
+    weight 2
+  ]
+  edge [
+    source 1136
+    target 2411
+    weight 2
+  ]
+  edge [
+    source 1136
+    target 2412
+    weight 2
+  ]
+  edge [
+    source 1136
+    target 2264
     weight 2
   ]
   edge [
@@ -24692,6 +40167,11 @@ graph [
     weight 2
   ]
   edge [
+    source 1142
+    target 2521
+    weight 1
+  ]
+  edge [
     source 1143
     target 1144
     weight 2
@@ -24704,6 +40184,176 @@ graph [
   edge [
     source 1143
     target 1146
+    weight 2
+  ]
+  edge [
+    source 1143
+    target 2498
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 2499
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3099
+    weight 2
+  ]
+  edge [
+    source 1143
+    target 3206
+    weight 2
+  ]
+  edge [
+    source 1143
+    target 3126
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3083
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3215
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3216
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3217
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 1143
+    target 3398
+    weight 2
+  ]
+  edge [
+    source 1143
+    target 2127
+    weight 2
+  ]
+  edge [
+    source 1143
+    target 2155
     weight 2
   ]
   edge [
@@ -24764,6 +40414,21 @@ graph [
   edge [
     source 1144
     target 1261
+    weight 2
+  ]
+  edge [
+    source 1144
+    target 2730
+    weight 1
+  ]
+  edge [
+    source 1144
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 1144
+    target 2755
     weight 2
   ]
   edge [
@@ -25139,6 +40804,36 @@ graph [
   edge [
     source 1184
     target 1185
+    weight 2
+  ]
+  edge [
+    source 1184
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 1184
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 1184
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 1184
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 1184
+    target 3451
+    weight 2
+  ]
+  edge [
+    source 1184
+    target 3452
     weight 2
   ]
   edge [
@@ -26019,7 +41714,7 @@ graph [
   edge [
     source 1231
     target 1234
-    weight 2
+    weight 4
   ]
   edge [
     source 1231
@@ -26074,6 +41769,16 @@ graph [
   edge [
     source 1231
     target 1245
+    weight 2
+  ]
+  edge [
+    source 1231
+    target 3989
+    weight 2
+  ]
+  edge [
+    source 1231
+    target 3990
     weight 2
   ]
   edge [
@@ -26254,6 +41959,41 @@ graph [
   edge [
     source 1234
     target 1245
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3907
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3908
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3909
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3982
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3983
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3989
+    weight 2
+  ]
+  edge [
+    source 1234
+    target 3990
     weight 2
   ]
   edge [
@@ -27282,6 +43022,21 @@ graph [
     weight 1
   ]
   edge [
+    source 1296
+    target 3485
+    weight 2
+  ]
+  edge [
+    source 1296
+    target 3506
+    weight 2
+  ]
+  edge [
+    source 1296
+    target 3507
+    weight 2
+  ]
+  edge [
     source 1299
     target 1300
     weight 2
@@ -27382,6 +43137,16 @@ graph [
     weight 2
   ]
   edge [
+    source 1310
+    target 3476
+    weight 2
+  ]
+  edge [
+    source 1310
+    target 3477
+    weight 1
+  ]
+  edge [
     source 1311
     target 1330
     weight 2
@@ -27414,7 +43179,7 @@ graph [
   edge [
     source 1320
     target 1321
-    weight 2
+    weight 4
   ]
   edge [
     source 1321
@@ -27424,6 +43189,31 @@ graph [
   edge [
     source 1321
     target 1332
+    weight 2
+  ]
+  edge [
+    source 1332
+    target 3885
+    weight 2
+  ]
+  edge [
+    source 1332
+    target 3886
+    weight 2
+  ]
+  edge [
+    source 1332
+    target 3887
+    weight 2
+  ]
+  edge [
+    source 1332
+    target 3888
+    weight 2
+  ]
+  edge [
+    source 1332
+    target 3878
     weight 2
   ]
   edge [
@@ -27439,6 +43229,16 @@ graph [
   edge [
     source 1334
     target 1337
+    weight 2
+  ]
+  edge [
+    source 1334
+    target 2529
+    weight 2
+  ]
+  edge [
+    source 1334
+    target 2530
     weight 2
   ]
   edge [
@@ -27485,6 +43285,11 @@ graph [
     source 1336
     target 1337
     weight 2
+  ]
+  edge [
+    source 1338
+    target 4058
+    weight 1
   ]
   edge [
     source 1339
@@ -27610,6 +43415,21 @@ graph [
     source 1347
     target 1348
     weight 1
+  ]
+  edge [
+    source 1347
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 1347
+    target 3492
+    weight 2
+  ]
+  edge [
+    source 1347
+    target 3493
+    weight 2
   ]
   edge [
     source 1348
@@ -27775,6 +43595,21 @@ graph [
     source 1367
     target 1368
     weight 1
+  ]
+  edge [
+    source 1367
+    target 3415
+    weight 2
+  ]
+  edge [
+    source 1367
+    target 3416
+    weight 2
+  ]
+  edge [
+    source 1367
+    target 3417
+    weight 2
   ]
   edge [
     source 1369
@@ -28444,6 +44279,41 @@ graph [
   edge [
     source 1407
     target 2002
+    weight 2
+  ]
+  edge [
+    source 1407
+    target 3931
+    weight 1
+  ]
+  edge [
+    source 1407
+    target 3930
+    weight 4
+  ]
+  edge [
+    source 1407
+    target 3938
+    weight 1
+  ]
+  edge [
+    source 1407
+    target 3945
+    weight 2
+  ]
+  edge [
+    source 1407
+    target 3872
+    weight 2
+  ]
+  edge [
+    source 1407
+    target 3871
+    weight 2
+  ]
+  edge [
+    source 1407
+    target 3874
     weight 2
   ]
   edge [
@@ -30364,6 +46234,26 @@ graph [
   edge [
     source 1536
     target 1978
+    weight 2
+  ]
+  edge [
+    source 1536
+    target 4044
+    weight 2
+  ]
+  edge [
+    source 1536
+    target 4045
+    weight 2
+  ]
+  edge [
+    source 1536
+    target 4046
+    weight 2
+  ]
+  edge [
+    source 1536
+    target 4047
     weight 2
   ]
   edge [
@@ -33977,6 +49867,26 @@ graph [
     weight 2
   ]
   edge [
+    source 1925
+    target 2194
+    weight 8
+  ]
+  edge [
+    source 1925
+    target 2195
+    weight 8
+  ]
+  edge [
+    source 1925
+    target 3484
+    weight 2
+  ]
+  edge [
+    source 1925
+    target 3573
+    weight 2
+  ]
+  edge [
     source 1926
     target 1927
     weight 1
@@ -34062,8 +49972,28 @@ graph [
     weight 1
   ]
   edge [
+    source 1940
+    target 3634
+    weight 4
+  ]
+  edge [
+    source 1940
+    target 3635
+    weight 4
+  ]
+  edge [
+    source 1940
+    target 3636
+    weight 4
+  ]
+  edge [
     source 1942
     target 1943
+    weight 1
+  ]
+  edge [
+    source 1942
+    target 3779
     weight 1
   ]
   edge [
@@ -34194,6 +50124,26 @@ graph [
   edge [
     source 1958
     target 1959
+    weight 2
+  ]
+  edge [
+    source 1958
+    target 3871
+    weight 4
+  ]
+  edge [
+    source 1958
+    target 3873
+    weight 1
+  ]
+  edge [
+    source 1958
+    target 3872
+    weight 2
+  ]
+  edge [
+    source 1958
+    target 3874
     weight 2
   ]
   edge [
@@ -34387,6 +50337,16 @@ graph [
     weight 2
   ]
   edge [
+    source 2001
+    target 2818
+    weight 2
+  ]
+  edge [
+    source 2001
+    target 2819
+    weight 1
+  ]
+  edge [
     source 2002
     target 2003
     weight 1
@@ -34439,7 +50399,7 @@ graph [
   edge [
     source 2015
     target 2016
-    weight 2
+    weight 6
   ]
   edge [
     source 2018
@@ -34479,46 +50439,226 @@ graph [
   edge [
     source 2023
     target 2024
+    weight 6
+  ]
+  edge [
+    source 2023
+    target 2025
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2026
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2027
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2034
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2440
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2441
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2442
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2443
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2444
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2472
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2473
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2474
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2475
     weight 4
   ]
   edge [
     source 2023
+    target 2476
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2477
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 3264
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 2134
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 3298
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 3306
+    weight 2
+  ]
+  edge [
+    source 2023
+    target 3107
+    weight 2
+  ]
+  edge [
+    source 2024
     target 2025
     weight 2
   ]
   edge [
-    source 2023
+    source 2024
     target 2026
     weight 2
   ]
   edge [
-    source 2023
+    source 2024
     target 2027
     weight 2
   ]
   edge [
-    source 2023
+    source 2024
     target 2034
     weight 2
   ]
   edge [
     source 2024
-    target 2025
+    target 2440
     weight 2
   ]
   edge [
     source 2024
-    target 2026
+    target 2441
     weight 2
   ]
   edge [
     source 2024
-    target 2027
+    target 2442
     weight 2
   ]
   edge [
     source 2024
-    target 2034
+    target 2443
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2444
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2024
+    target 2451
     weight 2
   ]
   edge [
@@ -34529,6 +50669,41 @@ graph [
   edge [
     source 2025
     target 2027
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2431
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2432
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2468
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2152
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2025
+    target 2470
     weight 2
   ]
   edge [
@@ -35519,6 +51694,14306 @@ graph [
   edge [
     source 2121
     target 2122
+    weight 1
+  ]
+  edge [
+    source 2123
+    target 2124
+    weight 8
+  ]
+  edge [
+    source 2123
+    target 2125
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2166
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2172
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2177
+    weight 1
+  ]
+  edge [
+    source 2123
+    target 2175
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2176
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2180
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2171
+    weight 4
+  ]
+  edge [
+    source 2123
+    target 2158
+    weight 4
+  ]
+  edge [
+    source 2123
+    target 2183
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2184
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 2170
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 3358
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 2123
+    target 3359
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2125
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2131
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2139
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2140
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2145
+    weight 6
+  ]
+  edge [
+    source 2124
+    target 2128
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2149
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2150
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2153
+    weight 1
+  ]
+  edge [
+    source 2124
+    target 2152
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2159
+    weight 1
+  ]
+  edge [
+    source 2124
+    target 2158
+    weight 4
+  ]
+  edge [
+    source 2124
+    target 2160
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2175
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2176
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2178
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2179
+    weight 1
+  ]
+  edge [
+    source 2124
+    target 2182
+    weight 1
+  ]
+  edge [
+    source 2124
+    target 2171
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2183
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2184
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2503
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2504
+    weight 2
+  ]
+  edge [
+    source 2124
+    target 2505
+    weight 2
+  ]
+  edge [
+    source 2125
+    target 2126
+    weight 1
+  ]
+  edge [
+    source 2127
+    target 2128
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2129
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2137
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2134
+    weight 6
+  ]
+  edge [
+    source 2127
+    target 2138
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2142
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2144
+    weight 1
+  ]
+  edge [
+    source 2127
+    target 2143
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2166
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2173
+    weight 1
+  ]
+  edge [
+    source 2127
+    target 2170
+    weight 4
+  ]
+  edge [
+    source 2127
+    target 2171
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2172
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2180
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2186
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2160
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2517
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2518
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2519
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2535
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2536
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2537
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2538
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2539
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2133
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3156
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3314
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2155
+    weight 4
+  ]
+  edge [
+    source 2127
+    target 3315
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3316
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3093
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 2253
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3368
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3370
+    weight 1
+  ]
+  edge [
+    source 2127
+    target 3369
+    weight 2
+  ]
+  edge [
+    source 2127
+    target 3398
+    weight 2
+  ]
+  edge [
+    source 2128
+    target 2129
+    weight 2
+  ]
+  edge [
+    source 2128
+    target 2145
+    weight 2
+  ]
+  edge [
+    source 2128
+    target 2146
+    weight 1
+  ]
+  edge [
+    source 2129
+    target 2130
+    weight 1
+  ]
+  edge [
+    source 2131
+    target 2132
+    weight 1
+  ]
+  edge [
+    source 2133
+    target 2134
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2135
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2535
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2536
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2537
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2538
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2539
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 3296
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 2133
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2135
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2137
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2138
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2328
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2329
+    weight 4
+  ]
+  edge [
+    source 2134
+    target 3156
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3262
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3263
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3264
+    weight 4
+  ]
+  edge [
+    source 2134
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3266
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3265
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3270
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2475
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3298
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3305
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3314
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 2155
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3315
+    weight 2
+  ]
+  edge [
+    source 2134
+    target 3316
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 2136
+    weight 1
+  ]
+  edge [
+    source 2135
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 2562
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 3219
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 3220
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 2135
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 2136
+    target 2138
+    weight 1
+  ]
+  edge [
+    source 2137
+    target 2138
+    weight 2
+  ]
+  edge [
+    source 2139
+    target 2140
+    weight 2
+  ]
+  edge [
+    source 2140
+    target 2141
+    weight 1
+  ]
+  edge [
+    source 2141
+    target 2155
+    weight 1
+  ]
+  edge [
+    source 2142
+    target 2143
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3148
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3149
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3161
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3284
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3275
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 2142
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3400
+    weight 2
+  ]
+  edge [
+    source 2142
+    target 3401
+    weight 1
+  ]
+  edge [
+    source 2145
+    target 2152
+    weight 2
+  ]
+  edge [
+    source 2145
+    target 2158
+    weight 2
+  ]
+  edge [
+    source 2147
+    target 2148
+    weight 1
+  ]
+  edge [
+    source 2149
+    target 2150
+    weight 2
+  ]
+  edge [
+    source 2150
+    target 2151
+    weight 1
+  ]
+  edge [
+    source 2152
+    target 2431
+    weight 2
+  ]
+  edge [
+    source 2152
+    target 2432
+    weight 2
+  ]
+  edge [
+    source 2152
+    target 2468
+    weight 2
+  ]
+  edge [
+    source 2152
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 2152
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2152
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 2154
+    target 2155
+    weight 2
+  ]
+  edge [
+    source 2155
+    target 3314
+    weight 2
+  ]
+  edge [
+    source 2155
+    target 3315
+    weight 2
+  ]
+  edge [
+    source 2155
+    target 3316
+    weight 2
+  ]
+  edge [
+    source 2155
+    target 3398
+    weight 2
+  ]
+  edge [
+    source 2155
+    target 3399
+    weight 1
+  ]
+  edge [
+    source 2156
+    target 2157
+    weight 1
+  ]
+  edge [
+    source 2158
+    target 2180
+    weight 2
+  ]
+  edge [
+    source 2158
+    target 2181
+    weight 1
+  ]
+  edge [
+    source 2158
+    target 2171
+    weight 2
+  ]
+  edge [
+    source 2158
+    target 2183
+    weight 2
+  ]
+  edge [
+    source 2158
+    target 2184
+    weight 2
+  ]
+  edge [
+    source 2160
+    target 2161
+    weight 1
+  ]
+  edge [
+    source 2160
+    target 2180
+    weight 2
+  ]
+  edge [
+    source 2160
+    target 2187
+    weight 1
+  ]
+  edge [
+    source 2160
+    target 2186
+    weight 2
+  ]
+  edge [
+    source 2162
+    target 2163
+    weight 2
+  ]
+  edge [
+    source 2165
+    target 2166
+    weight 2
+  ]
+  edge [
+    source 2166
+    target 2167
+    weight 1
+  ]
+  edge [
+    source 2166
+    target 2168
+    weight 1
+  ]
+  edge [
+    source 2166
+    target 2169
+    weight 1
+  ]
+  edge [
+    source 2166
+    target 2170
+    weight 2
+  ]
+  edge [
+    source 2166
+    target 2171
+    weight 2
+  ]
+  edge [
+    source 2166
+    target 2172
+    weight 4
+  ]
+  edge [
+    source 2170
+    target 2171
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 2172
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 2517
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 2518
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 2519
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 3358
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 2170
+    target 3359
+    weight 2
+  ]
+  edge [
+    source 2171
+    target 2172
+    weight 2
+  ]
+  edge [
+    source 2171
+    target 2180
+    weight 2
+  ]
+  edge [
+    source 2172
+    target 2174
+    weight 1
+  ]
+  edge [
+    source 2174
+    target 2510
+    weight 1
+  ]
+  edge [
+    source 2175
+    target 2176
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 2607
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 2608
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3254
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3289
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3290
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3099
+    weight 4
+  ]
+  edge [
+    source 2176
+    target 3375
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3320
+    weight 2
+  ]
+  edge [
+    source 2176
+    target 3386
+    weight 1
+  ]
+  edge [
+    source 2176
+    target 3345
+    weight 2
+  ]
+  edge [
+    source 2180
+    target 2186
+    weight 2
+  ]
+  edge [
+    source 2183
+    target 2184
+    weight 2
+  ]
+  edge [
+    source 2184
+    target 2185
+    weight 1
+  ]
+  edge [
+    source 2188
+    target 2189
+    weight 1
+  ]
+  edge [
+    source 2191
+    target 2192
+    weight 8
+  ]
+  edge [
+    source 2191
+    target 2211
+    weight 4
+  ]
+  edge [
+    source 2192
+    target 2199
+    weight 4
+  ]
+  edge [
+    source 2192
+    target 2200
+    weight 4
+  ]
+  edge [
+    source 2192
+    target 2201
+    weight 4
+  ]
+  edge [
+    source 2192
+    target 2211
+    weight 4
+  ]
+  edge [
+    source 2194
+    target 2195
+    weight 8
+  ]
+  edge [
+    source 2195
+    target 2525
+    weight 4
+  ]
+  edge [
+    source 2195
+    target 2526
+    weight 4
+  ]
+  edge [
+    source 2195
+    target 2527
+    weight 4
+  ]
+  edge [
+    source 2197
+    target 2198
+    weight 1
+  ]
+  edge [
+    source 2199
+    target 2200
+    weight 4
+  ]
+  edge [
+    source 2199
+    target 2201
+    weight 4
+  ]
+  edge [
+    source 2200
+    target 2201
+    weight 4
+  ]
+  edge [
+    source 2203
+    target 2204
+    weight 6
+  ]
+  edge [
+    source 2203
+    target 2205
+    weight 6
+  ]
+  edge [
+    source 2204
+    target 2205
+    weight 6
+  ]
+  edge [
+    source 2204
+    target 2420
+    weight 8
+  ]
+  edge [
+    source 2204
+    target 2421
+    weight 8
+  ]
+  edge [
+    source 2204
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 2205
+    target 2206
+    weight 1
+  ]
+  edge [
+    source 2205
+    target 2524
+    weight 1
+  ]
+  edge [
+    source 2205
+    target 2754
+    weight 1
+  ]
+  edge [
+    source 2207
+    target 2208
+    weight 4
+  ]
+  edge [
+    source 2207
+    target 2209
+    weight 4
+  ]
+  edge [
+    source 2208
+    target 2209
+    weight 4
+  ]
+  edge [
+    source 2213
+    target 2214
+    weight 6
+  ]
+  edge [
+    source 2213
+    target 2215
+    weight 6
+  ]
+  edge [
+    source 2213
+    target 2216
+    weight 6
+  ]
+  edge [
+    source 2214
+    target 2215
+    weight 6
+  ]
+  edge [
+    source 2214
+    target 2216
+    weight 6
+  ]
+  edge [
+    source 2215
+    target 2216
+    weight 6
+  ]
+  edge [
+    source 2216
+    target 2217
+    weight 1
+  ]
+  edge [
+    source 2221
+    target 2222
+    weight 2
+  ]
+  edge [
+    source 2221
+    target 2223
+    weight 2
+  ]
+  edge [
+    source 2221
+    target 2224
+    weight 2
+  ]
+  edge [
+    source 2222
+    target 2223
+    weight 2
+  ]
+  edge [
+    source 2222
+    target 2224
+    weight 2
+  ]
+  edge [
+    source 2223
+    target 2224
+    weight 2
+  ]
+  edge [
+    source 2223
+    target 2766
+    weight 1
+  ]
+  edge [
+    source 2224
+    target 2225
+    weight 1
+  ]
+  edge [
+    source 2226
+    target 2227
+    weight 2
+  ]
+  edge [
+    source 2226
+    target 2228
+    weight 2
+  ]
+  edge [
+    source 2226
+    target 2229
+    weight 2
+  ]
+  edge [
+    source 2226
+    target 2304
+    weight 4
+  ]
+  edge [
+    source 2226
+    target 2305
+    weight 1
+  ]
+  edge [
+    source 2226
+    target 2453
+    weight 2
+  ]
+  edge [
+    source 2227
+    target 2228
+    weight 2
+  ]
+  edge [
+    source 2227
+    target 2229
+    weight 2
+  ]
+  edge [
+    source 2228
+    target 2229
+    weight 2
+  ]
+  edge [
+    source 2229
+    target 2230
+    weight 1
+  ]
+  edge [
+    source 2231
+    target 2232
+    weight 1
+  ]
+  edge [
+    source 2233
+    target 2234
+    weight 2
+  ]
+  edge [
+    source 2233
+    target 2235
+    weight 2
+  ]
+  edge [
+    source 2233
+    target 2236
+    weight 2
+  ]
+  edge [
+    source 2233
+    target 2237
+    weight 2
+  ]
+  edge [
+    source 2233
+    target 2238
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2235
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2236
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2237
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2238
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2240
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2249
+    weight 2
+  ]
+  edge [
+    source 2234
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 2235
+    target 2236
+    weight 2
+  ]
+  edge [
+    source 2235
+    target 2237
+    weight 2
+  ]
+  edge [
+    source 2235
+    target 2238
+    weight 2
+  ]
+  edge [
+    source 2236
+    target 2237
+    weight 2
+  ]
+  edge [
+    source 2236
+    target 2238
+    weight 2
+  ]
+  edge [
+    source 2237
+    target 2238
+    weight 2
+  ]
+  edge [
+    source 2238
+    target 2239
+    weight 1
+  ]
+  edge [
+    source 2238
+    target 3804
+    weight 4
+  ]
+  edge [
+    source 2238
+    target 3806
+    weight 1
+  ]
+  edge [
+    source 2238
+    target 2368
+    weight 4
+  ]
+  edge [
+    source 2238
+    target 3805
+    weight 4
+  ]
+  edge [
+    source 2240
+    target 3195
+    weight 2
+  ]
+  edge [
+    source 2240
+    target 3196
+    weight 2
+  ]
+  edge [
+    source 2240
+    target 3197
+    weight 2
+  ]
+  edge [
+    source 2240
+    target 3198
+    weight 2
+  ]
+  edge [
+    source 2242
+    target 2243
+    weight 1
+  ]
+  edge [
+    source 2242
+    target 2263
+    weight 2
+  ]
+  edge [
+    source 2242
+    target 2264
+    weight 2
+  ]
+  edge [
+    source 2242
+    target 2265
+    weight 2
+  ]
+  edge [
+    source 2244
+    target 2245
+    weight 2
+  ]
+  edge [
+    source 2244
+    target 2246
+    weight 2
+  ]
+  edge [
+    source 2244
+    target 2247
+    weight 2
+  ]
+  edge [
+    source 2245
+    target 2246
+    weight 2
+  ]
+  edge [
+    source 2245
+    target 2247
+    weight 2
+  ]
+  edge [
+    source 2246
+    target 2247
+    weight 2
+  ]
+  edge [
+    source 2247
+    target 2248
+    weight 1
+  ]
+  edge [
+    source 2249
+    target 2250
+    weight 2
+  ]
+  edge [
+    source 2249
+    target 2258
+    weight 2
+  ]
+  edge [
+    source 2249
+    target 2259
+    weight 2
+  ]
+  edge [
+    source 2249
+    target 2260
+    weight 2
+  ]
+  edge [
+    source 2249
+    target 2261
+    weight 2
+  ]
+  edge [
+    source 2250
+    target 2251
+    weight 1
+  ]
+  edge [
+    source 2250
+    target 2431
+    weight 2
+  ]
+  edge [
+    source 2250
+    target 2432
+    weight 2
+  ]
+  edge [
+    source 2250
+    target 2468
+    weight 2
+  ]
+  edge [
+    source 2250
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2250
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 2252
+    target 2253
+    weight 2
+  ]
+  edge [
+    source 2252
+    target 2254
+    weight 2
+  ]
+  edge [
+    source 2253
+    target 2254
+    weight 2
+  ]
+  edge [
+    source 2253
+    target 3357
+    weight 1
+  ]
+  edge [
+    source 2253
+    target 3093
+    weight 2
+  ]
+  edge [
+    source 2253
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 2253
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 2254
+    target 2255
+    weight 1
+  ]
+  edge [
+    source 2254
+    target 3947
+    weight 2
+  ]
+  edge [
+    source 2254
+    target 3962
+    weight 2
+  ]
+  edge [
+    source 2254
+    target 4006
+    weight 2
+  ]
+  edge [
+    source 2254
+    target 4008
+    weight 1
+  ]
+  edge [
+    source 2254
+    target 4007
+    weight 2
+  ]
+  edge [
+    source 2258
+    target 2259
+    weight 2
+  ]
+  edge [
+    source 2258
+    target 2260
+    weight 2
+  ]
+  edge [
+    source 2258
+    target 2261
+    weight 2
+  ]
+  edge [
+    source 2259
+    target 2260
+    weight 2
+  ]
+  edge [
+    source 2259
+    target 2261
+    weight 2
+  ]
+  edge [
+    source 2260
+    target 2261
+    weight 2
+  ]
+  edge [
+    source 2261
+    target 2262
+    weight 1
+  ]
+  edge [
+    source 2263
+    target 2264
+    weight 2
+  ]
+  edge [
+    source 2263
+    target 2265
+    weight 2
+  ]
+  edge [
+    source 2264
+    target 2265
+    weight 2
+  ]
+  edge [
+    source 2264
+    target 2413
+    weight 1
+  ]
+  edge [
+    source 2264
+    target 2410
+    weight 2
+  ]
+  edge [
+    source 2264
+    target 2411
+    weight 2
+  ]
+  edge [
+    source 2264
+    target 2412
+    weight 2
+  ]
+  edge [
+    source 2265
+    target 2266
+    weight 1
+  ]
+  edge [
+    source 2268
+    target 2269
+    weight 1
+  ]
+  edge [
+    source 2271
+    target 2272
+    weight 1
+  ]
+  edge [
+    source 2274
+    target 2275
+    weight 1
+  ]
+  edge [
+    source 2276
+    target 2277
+    weight 1
+  ]
+  edge [
+    source 2278
+    target 2279
+    weight 1
+  ]
+  edge [
+    source 2285
+    target 2286
+    weight 8
+  ]
+  edge [
+    source 2285
+    target 2287
+    weight 8
+  ]
+  edge [
+    source 2285
+    target 2288
+    weight 8
+  ]
+  edge [
+    source 2285
+    target 2289
+    weight 8
+  ]
+  edge [
+    source 2285
+    target 2290
+    weight 8
+  ]
+  edge [
+    source 2286
+    target 2287
+    weight 8
+  ]
+  edge [
+    source 2286
+    target 2288
+    weight 8
+  ]
+  edge [
+    source 2286
+    target 2289
+    weight 16
+  ]
+  edge [
+    source 2286
+    target 2290
+    weight 8
+  ]
+  edge [
+    source 2286
+    target 2351
+    weight 8
+  ]
+  edge [
+    source 2287
+    target 2288
+    weight 8
+  ]
+  edge [
+    source 2287
+    target 2289
+    weight 8
+  ]
+  edge [
+    source 2287
+    target 2290
+    weight 8
+  ]
+  edge [
+    source 2288
+    target 2289
+    weight 8
+  ]
+  edge [
+    source 2288
+    target 2290
+    weight 8
+  ]
+  edge [
+    source 2289
+    target 2290
+    weight 8
+  ]
+  edge [
+    source 2289
+    target 2351
+    weight 8
+  ]
+  edge [
+    source 2290
+    target 2291
+    weight 1
+  ]
+  edge [
+    source 2292
+    target 2293
+    weight 6
+  ]
+  edge [
+    source 2293
+    target 2294
+    weight 1
+  ]
+  edge [
+    source 2295
+    target 2296
+    weight 1
+  ]
+  edge [
+    source 2295
+    target 2626
+    weight 1
+  ]
+  edge [
+    source 2297
+    target 2298
+    weight 4
+  ]
+  edge [
+    source 2297
+    target 2299
+    weight 4
+  ]
+  edge [
+    source 2297
+    target 2300
+    weight 4
+  ]
+  edge [
+    source 2297
+    target 2301
+    weight 4
+  ]
+  edge [
+    source 2297
+    target 2302
+    weight 4
+  ]
+  edge [
+    source 2298
+    target 2299
+    weight 4
+  ]
+  edge [
+    source 2298
+    target 2300
+    weight 4
+  ]
+  edge [
+    source 2298
+    target 2301
+    weight 4
+  ]
+  edge [
+    source 2298
+    target 2302
+    weight 4
+  ]
+  edge [
+    source 2299
+    target 2300
+    weight 4
+  ]
+  edge [
+    source 2299
+    target 2301
+    weight 4
+  ]
+  edge [
+    source 2299
+    target 2302
+    weight 4
+  ]
+  edge [
+    source 2300
+    target 2301
+    weight 4
+  ]
+  edge [
+    source 2300
+    target 2302
+    weight 4
+  ]
+  edge [
+    source 2301
+    target 2302
+    weight 4
+  ]
+  edge [
+    source 2301
+    target 3673
+    weight 1
+  ]
+  edge [
+    source 2301
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 2301
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 2302
+    target 2303
+    weight 1
+  ]
+  edge [
+    source 2304
+    target 2306
+    weight 4
+  ]
+  edge [
+    source 2304
+    target 2310
+    weight 2
+  ]
+  edge [
+    source 2304
+    target 2313
+    weight 1
+  ]
+  edge [
+    source 2304
+    target 2311
+    weight 2
+  ]
+  edge [
+    source 2304
+    target 2312
+    weight 2
+  ]
+  edge [
+    source 2304
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 2304
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 2308
+    target 2309
+    weight 1
+  ]
+  edge [
+    source 2310
+    target 2311
+    weight 2
+  ]
+  edge [
+    source 2310
+    target 2312
+    weight 2
+  ]
+  edge [
+    source 2311
+    target 2312
+    weight 2
+  ]
+  edge [
+    source 2312
+    target 2938
+    weight 4
+  ]
+  edge [
+    source 2314
+    target 2315
+    weight 2
+  ]
+  edge [
+    source 2315
+    target 2316
+    weight 1
+  ]
+  edge [
+    source 2316
+    target 2602
+    weight 1
+  ]
+  edge [
+    source 2317
+    target 2318
+    weight 1
+  ]
+  edge [
+    source 2319
+    target 2320
+    weight 1
+  ]
+  edge [
+    source 2322
+    target 2323
+    weight 1
+  ]
+  edge [
+    source 2324
+    target 2325
+    weight 1
+  ]
+  edge [
+    source 2326
+    target 2327
+    weight 1
+  ]
+  edge [
+    source 2328
+    target 2329
+    weight 2
+  ]
+  edge [
+    source 2328
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 2328
+    target 3186
+    weight 2
+  ]
+  edge [
+    source 2328
+    target 3187
+    weight 2
+  ]
+  edge [
+    source 2328
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 2329
+    target 2330
+    weight 1
+  ]
+  edge [
+    source 2329
+    target 3305
+    weight 2
+  ]
+  edge [
+    source 2330
+    target 3188
+    weight 1
+  ]
+  edge [
+    source 2331
+    target 2332
+    weight 1
+  ]
+  edge [
+    source 2338
+    target 2339
+    weight 1
+  ]
+  edge [
+    source 2338
+    target 3070
+    weight 1
+  ]
+  edge [
+    source 2342
+    target 2343
+    weight 2
+  ]
+  edge [
+    source 2342
+    target 3964
+    weight 4
+  ]
+  edge [
+    source 2342
+    target 3965
+    weight 4
+  ]
+  edge [
+    source 2342
+    target 3966
+    weight 2
+  ]
+  edge [
+    source 2343
+    target 2344
+    weight 1
+  ]
+  edge [
+    source 2345
+    target 2346
+    weight 6
+  ]
+  edge [
+    source 2345
+    target 2347
+    weight 6
+  ]
+  edge [
+    source 2345
+    target 2348
+    weight 6
+  ]
+  edge [
+    source 2346
+    target 2347
+    weight 6
+  ]
+  edge [
+    source 2346
+    target 2348
+    weight 6
+  ]
+  edge [
+    source 2347
+    target 2348
+    weight 6
+  ]
+  edge [
+    source 2348
+    target 2349
+    weight 1
+  ]
+  edge [
+    source 2351
+    target 2352
+    weight 1
+  ]
+  edge [
+    source 2354
+    target 2355
+    weight 1
+  ]
+  edge [
+    source 2357
+    target 2358
+    weight 1
+  ]
+  edge [
+    source 2359
+    target 2360
+    weight 2
+  ]
+  edge [
+    source 2359
+    target 2361
+    weight 2
+  ]
+  edge [
+    source 2360
+    target 2361
+    weight 2
+  ]
+  edge [
+    source 2361
+    target 2378
+    weight 1
+  ]
+  edge [
+    source 2361
+    target 2376
+    weight 4
+  ]
+  edge [
+    source 2361
+    target 2377
+    weight 4
+  ]
+  edge [
+    source 2363
+    target 2364
+    weight 2
+  ]
+  edge [
+    source 2363
+    target 2365
+    weight 2
+  ]
+  edge [
+    source 2364
+    target 2365
+    weight 2
+  ]
+  edge [
+    source 2365
+    target 2366
+    weight 1
+  ]
+  edge [
+    source 2367
+    target 2368
+    weight 6
+  ]
+  edge [
+    source 2368
+    target 2369
+    weight 1
+  ]
+  edge [
+    source 2368
+    target 3804
+    weight 4
+  ]
+  edge [
+    source 2368
+    target 3805
+    weight 4
+  ]
+  edge [
+    source 2368
+    target 3817
+    weight 2
+  ]
+  edge [
+    source 2368
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 2368
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 2368
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 2368
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 2372
+    target 2373
+    weight 1
+  ]
+  edge [
+    source 2374
+    target 2375
+    weight 1
+  ]
+  edge [
+    source 2376
+    target 2377
+    weight 4
+  ]
+  edge [
+    source 2379
+    target 2380
+    weight 1
+  ]
+  edge [
+    source 2381
+    target 2382
+    weight 2
+  ]
+  edge [
+    source 2382
+    target 2383
+    weight 1
+  ]
+  edge [
+    source 2384
+    target 2385
+    weight 1
+  ]
+  edge [
+    source 2386
+    target 2387
+    weight 1
+  ]
+  edge [
+    source 2389
+    target 2390
+    weight 1
+  ]
+  edge [
+    source 2391
+    target 2392
+    weight 1
+  ]
+  edge [
+    source 2393
+    target 2394
+    weight 1
+  ]
+  edge [
+    source 2395
+    target 2396
+    weight 1
+  ]
+  edge [
+    source 2395
+    target 4074
+    weight 1
+  ]
+  edge [
+    source 2397
+    target 2398
+    weight 1
+  ]
+  edge [
+    source 2397
+    target 3751
+    weight 1
+  ]
+  edge [
+    source 2397
+    target 4075
+    weight 1
+  ]
+  edge [
+    source 2399
+    target 2400
+    weight 1
+  ]
+  edge [
+    source 2401
+    target 2402
+    weight 1
+  ]
+  edge [
+    source 2403
+    target 2404
+    weight 4
+  ]
+  edge [
+    source 2403
+    target 2405
+    weight 4
+  ]
+  edge [
+    source 2403
+    target 2406
+    weight 4
+  ]
+  edge [
+    source 2404
+    target 2405
+    weight 4
+  ]
+  edge [
+    source 2404
+    target 2406
+    weight 4
+  ]
+  edge [
+    source 2405
+    target 2406
+    weight 4
+  ]
+  edge [
+    source 2406
+    target 2407
+    weight 1
+  ]
+  edge [
+    source 2408
+    target 2409
+    weight 1
+  ]
+  edge [
+    source 2410
+    target 2411
+    weight 2
+  ]
+  edge [
+    source 2410
+    target 2412
+    weight 2
+  ]
+  edge [
+    source 2411
+    target 2412
+    weight 2
+  ]
+  edge [
+    source 2415
+    target 2416
+    weight 1
+  ]
+  edge [
+    source 2418
+    target 2419
+    weight 1
+  ]
+  edge [
+    source 2420
+    target 2421
+    weight 8
+  ]
+  edge [
+    source 2420
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 2421
+    target 2422
+    weight 4
+  ]
+  edge [
+    source 2422
+    target 2423
+    weight 1
+  ]
+  edge [
+    source 2422
+    target 2457
+    weight 4
+  ]
+  edge [
+    source 2422
+    target 2458
+    weight 1
+  ]
+  edge [
+    source 2422
+    target 2755
+    weight 2
+  ]
+  edge [
+    source 2424
+    target 2425
+    weight 1
+  ]
+  edge [
+    source 2426
+    target 2427
+    weight 4
+  ]
+  edge [
+    source 2429
+    target 2430
+    weight 1
+  ]
+  edge [
+    source 2429
+    target 3163
+    weight 1
+  ]
+  edge [
+    source 2431
+    target 2432
+    weight 6
+  ]
+  edge [
+    source 2431
+    target 2433
+    weight 4
+  ]
+  edge [
+    source 2431
+    target 2434
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2468
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2485
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2486
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2487
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2488
+    weight 2
+  ]
+  edge [
+    source 2431
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2433
+    weight 4
+  ]
+  edge [
+    source 2432
+    target 2434
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2468
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2485
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2490
+    weight 1
+  ]
+  edge [
+    source 2432
+    target 2486
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2487
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2488
+    weight 2
+  ]
+  edge [
+    source 2432
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2433
+    target 2434
+    weight 2
+  ]
+  edge [
+    source 2433
+    target 2485
+    weight 2
+  ]
+  edge [
+    source 2433
+    target 2486
+    weight 2
+  ]
+  edge [
+    source 2433
+    target 2487
+    weight 2
+  ]
+  edge [
+    source 2433
+    target 2488
+    weight 2
+  ]
+  edge [
+    source 2433
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2434
+    target 2435
+    weight 1
+  ]
+  edge [
+    source 2436
+    target 2437
+    weight 2
+  ]
+  edge [
+    source 2436
+    target 2438
+    weight 2
+  ]
+  edge [
+    source 2437
+    target 2438
+    weight 2
+  ]
+  edge [
+    source 2438
+    target 2439
+    weight 1
+  ]
+  edge [
+    source 2440
+    target 2441
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2442
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2443
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2444
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2440
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2442
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2443
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2444
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2441
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2443
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2444
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2442
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2444
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2443
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2445
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2444
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2446
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 3361
+    weight 2
+  ]
+  edge [
+    source 2445
+    target 3362
+    weight 2
+  ]
+  edge [
+    source 2446
+    target 2447
+    weight 2
+  ]
+  edge [
+    source 2446
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2446
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2446
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2446
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2447
+    target 2448
+    weight 2
+  ]
+  edge [
+    source 2447
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2447
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2447
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2448
+    target 2449
+    weight 2
+  ]
+  edge [
+    source 2448
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2448
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2449
+    target 2450
+    weight 2
+  ]
+  edge [
+    source 2449
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2450
+    target 2451
+    weight 2
+  ]
+  edge [
+    source 2451
+    target 2452
+    weight 1
+  ]
+  edge [
+    source 2453
+    target 2454
+    weight 1
+  ]
+  edge [
+    source 2455
+    target 2456
+    weight 1
+  ]
+  edge [
+    source 2457
+    target 2498
+    weight 4
+  ]
+  edge [
+    source 2457
+    target 2499
+    weight 4
+  ]
+  edge [
+    source 2459
+    target 2460
+    weight 1
+  ]
+  edge [
+    source 2462
+    target 2463
+    weight 2
+  ]
+  edge [
+    source 2462
+    target 2464
+    weight 2
+  ]
+  edge [
+    source 2462
+    target 2465
+    weight 2
+  ]
+  edge [
+    source 2463
+    target 2464
+    weight 2
+  ]
+  edge [
+    source 2463
+    target 2465
+    weight 2
+  ]
+  edge [
+    source 2464
+    target 2465
+    weight 2
+  ]
+  edge [
+    source 2465
+    target 2466
+    weight 1
+  ]
+  edge [
+    source 2468
+    target 2469
+    weight 2
+  ]
+  edge [
+    source 2468
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 2469
+    target 2470
+    weight 2
+  ]
+  edge [
+    source 2469
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 2469
+    target 3361
+    weight 2
+  ]
+  edge [
+    source 2469
+    target 3362
+    weight 2
+  ]
+  edge [
+    source 2470
+    target 2471
+    weight 1
+  ]
+  edge [
+    source 2472
+    target 2473
+    weight 2
+  ]
+  edge [
+    source 2472
+    target 2474
+    weight 2
+  ]
+  edge [
+    source 2472
+    target 2475
+    weight 2
+  ]
+  edge [
+    source 2472
+    target 2476
+    weight 2
+  ]
+  edge [
+    source 2472
+    target 2477
+    weight 2
+  ]
+  edge [
+    source 2472
+    target 2511
+    weight 4
+  ]
+  edge [
+    source 2473
+    target 2474
+    weight 2
+  ]
+  edge [
+    source 2473
+    target 2475
+    weight 2
+  ]
+  edge [
+    source 2473
+    target 2476
+    weight 2
+  ]
+  edge [
+    source 2473
+    target 2477
+    weight 2
+  ]
+  edge [
+    source 2474
+    target 2475
+    weight 2
+  ]
+  edge [
+    source 2474
+    target 2476
+    weight 2
+  ]
+  edge [
+    source 2474
+    target 2477
+    weight 2
+  ]
+  edge [
+    source 2475
+    target 2476
+    weight 2
+  ]
+  edge [
+    source 2475
+    target 2477
+    weight 2
+  ]
+  edge [
+    source 2475
+    target 3264
+    weight 2
+  ]
+  edge [
+    source 2475
+    target 3298
+    weight 2
+  ]
+  edge [
+    source 2476
+    target 2477
+    weight 2
+  ]
+  edge [
+    source 2476
+    target 2557
+    weight 2
+  ]
+  edge [
+    source 2476
+    target 2511
+    weight 2
+  ]
+  edge [
+    source 2476
+    target 2558
+    weight 2
+  ]
+  edge [
+    source 2476
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 2477
+    target 2478
+    weight 1
+  ]
+  edge [
+    source 2479
+    target 2480
+    weight 1
+  ]
+  edge [
+    source 2479
+    target 2610
+    weight 2
+  ]
+  edge [
+    source 2481
+    target 2482
+    weight 2
+  ]
+  edge [
+    source 2481
+    target 2483
+    weight 2
+  ]
+  edge [
+    source 2482
+    target 2483
+    weight 2
+  ]
+  edge [
+    source 2483
+    target 2484
+    weight 1
+  ]
+  edge [
+    source 2485
+    target 2486
+    weight 2
+  ]
+  edge [
+    source 2485
+    target 2487
+    weight 2
+  ]
+  edge [
+    source 2485
+    target 2488
+    weight 2
+  ]
+  edge [
+    source 2485
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2486
+    target 2487
+    weight 2
+  ]
+  edge [
+    source 2486
+    target 2488
+    weight 2
+  ]
+  edge [
+    source 2486
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2487
+    target 2488
+    weight 2
+  ]
+  edge [
+    source 2487
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2488
+    target 2489
+    weight 2
+  ]
+  edge [
+    source 2491
+    target 2603
+    weight 8
+  ]
+  edge [
+    source 2494
+    target 2495
+    weight 2
+  ]
+  edge [
+    source 2494
+    target 2496
+    weight 2
+  ]
+  edge [
+    source 2495
+    target 2496
+    weight 2
+  ]
+  edge [
+    source 2496
+    target 2497
+    weight 1
+  ]
+  edge [
+    source 2498
+    target 2499
+    weight 4
+  ]
+  edge [
+    source 2501
+    target 2502
+    weight 1
+  ]
+  edge [
+    source 2503
+    target 2504
+    weight 2
+  ]
+  edge [
+    source 2503
+    target 2505
+    weight 2
+  ]
+  edge [
+    source 2504
+    target 2505
+    weight 2
+  ]
+  edge [
+    source 2505
+    target 2506
+    weight 1
+  ]
+  edge [
+    source 2507
+    target 2508
+    weight 2
+  ]
+  edge [
+    source 2507
+    target 2509
+    weight 2
+  ]
+  edge [
+    source 2507
+    target 2510
+    weight 2
+  ]
+  edge [
+    source 2508
+    target 2509
+    weight 2
+  ]
+  edge [
+    source 2508
+    target 2510
+    weight 2
+  ]
+  edge [
+    source 2509
+    target 2510
+    weight 2
+  ]
+  edge [
+    source 2511
+    target 2512
+    weight 1
+  ]
+  edge [
+    source 2511
+    target 2557
+    weight 2
+  ]
+  edge [
+    source 2511
+    target 2558
+    weight 2
+  ]
+  edge [
+    source 2511
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 2511
+    target 2567
+    weight 1
+  ]
+  edge [
+    source 2513
+    target 2514
+    weight 1
+  ]
+  edge [
+    source 2515
+    target 2516
+    weight 1
+  ]
+  edge [
+    source 2517
+    target 2518
+    weight 2
+  ]
+  edge [
+    source 2517
+    target 2519
+    weight 2
+  ]
+  edge [
+    source 2518
+    target 2519
+    weight 2
+  ]
+  edge [
+    source 2519
+    target 2520
+    weight 1
+  ]
+  edge [
+    source 2522
+    target 2523
+    weight 1
+  ]
+  edge [
+    source 2525
+    target 2526
+    weight 4
+  ]
+  edge [
+    source 2525
+    target 2527
+    weight 4
+  ]
+  edge [
+    source 2526
+    target 2527
+    weight 4
+  ]
+  edge [
+    source 2527
+    target 2528
+    weight 1
+  ]
+  edge [
+    source 2529
+    target 2530
+    weight 2
+  ]
+  edge [
+    source 2530
+    target 2531
+    weight 1
+  ]
+  edge [
+    source 2532
+    target 2533
+    weight 1
+  ]
+  edge [
+    source 2535
+    target 2536
+    weight 4
+  ]
+  edge [
+    source 2535
+    target 2537
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 2538
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 2539
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 3202
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 3205
+    weight 1
+  ]
+  edge [
+    source 2535
+    target 3203
+    weight 2
+  ]
+  edge [
+    source 2535
+    target 3204
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 2537
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 2538
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 2539
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 3202
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 3203
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 3204
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 3107
+    weight 2
+  ]
+  edge [
+    source 2536
+    target 3371
+    weight 2
+  ]
+  edge [
+    source 2537
+    target 2538
+    weight 2
+  ]
+  edge [
+    source 2537
+    target 2539
+    weight 2
+  ]
+  edge [
+    source 2537
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2537
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2537
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2538
+    target 2539
+    weight 2
+  ]
+  edge [
+    source 2538
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2538
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2538
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2539
+    target 2540
+    weight 2
+  ]
+  edge [
+    source 2539
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2539
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2540
+    target 2541
+    weight 2
+  ]
+  edge [
+    source 2540
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2541
+    target 2542
+    weight 2
+  ]
+  edge [
+    source 2542
+    target 2543
+    weight 1
+  ]
+  edge [
+    source 2544
+    target 2545
+    weight 4
+  ]
+  edge [
+    source 2544
+    target 2546
+    weight 4
+  ]
+  edge [
+    source 2544
+    target 2547
+    weight 4
+  ]
+  edge [
+    source 2544
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 2544
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 2544
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 2545
+    target 2546
+    weight 4
+  ]
+  edge [
+    source 2545
+    target 2547
+    weight 4
+  ]
+  edge [
+    source 2545
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 2545
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 2545
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 2546
+    target 2547
+    weight 4
+  ]
+  edge [
+    source 2546
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 2546
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 2546
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 2547
+    target 2548
+    weight 4
+  ]
+  edge [
+    source 2547
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 2547
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 2548
+    target 2549
+    weight 4
+  ]
+  edge [
+    source 2548
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 2549
+    target 2550
+    weight 4
+  ]
+  edge [
+    source 2550
+    target 2551
+    weight 1
+  ]
+  edge [
+    source 2552
+    target 2553
+    weight 2
+  ]
+  edge [
+    source 2552
+    target 2554
+    weight 2
+  ]
+  edge [
+    source 2552
+    target 2555
+    weight 2
+  ]
+  edge [
+    source 2553
+    target 2554
+    weight 2
+  ]
+  edge [
+    source 2553
+    target 2555
+    weight 2
+  ]
+  edge [
+    source 2554
+    target 2555
+    weight 2
+  ]
+  edge [
+    source 2555
+    target 2556
+    weight 1
+  ]
+  edge [
+    source 2557
+    target 2558
+    weight 2
+  ]
+  edge [
+    source 2557
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 2558
+    target 2559
+    weight 2
+  ]
+  edge [
+    source 2559
+    target 2560
+    weight 1
+  ]
+  edge [
+    source 2559
+    target 3361
+    weight 2
+  ]
+  edge [
+    source 2559
+    target 3362
+    weight 2
+  ]
+  edge [
+    source 2561
+    target 2562
+    weight 6
+  ]
+  edge [
+    source 2561
+    target 2563
+    weight 6
+  ]
+  edge [
+    source 2562
+    target 2563
+    weight 6
+  ]
+  edge [
+    source 2562
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 2562
+    target 3219
+    weight 2
+  ]
+  edge [
+    source 2562
+    target 3220
+    weight 2
+  ]
+  edge [
+    source 2562
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 2562
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 2562
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 2563
+    target 2564
+    weight 1
+  ]
+  edge [
+    source 2565
+    target 2566
+    weight 1
+  ]
+  edge [
+    source 2568
+    target 2569
+    weight 1
+  ]
+  edge [
+    source 2570
+    target 2571
+    weight 1
+  ]
+  edge [
+    source 2572
+    target 2573
+    weight 1
+  ]
+  edge [
+    source 2574
+    target 2575
+    weight 1
+  ]
+  edge [
+    source 2576
+    target 2577
+    weight 1
+  ]
+  edge [
+    source 2578
+    target 2579
+    weight 1
+  ]
+  edge [
+    source 2580
+    target 2581
+    weight 4
+  ]
+  edge [
+    source 2580
+    target 2582
+    weight 4
+  ]
+  edge [
+    source 2581
+    target 2582
+    weight 4
+  ]
+  edge [
+    source 2582
+    target 2583
+    weight 1
+  ]
+  edge [
+    source 2583
+    target 2610
+    weight 1
+  ]
+  edge [
+    source 2584
+    target 2585
+    weight 4
+  ]
+  edge [
+    source 2584
+    target 2586
+    weight 4
+  ]
+  edge [
+    source 2584
+    target 2587
+    weight 4
+  ]
+  edge [
+    source 2585
+    target 2586
+    weight 4
+  ]
+  edge [
+    source 2585
+    target 2587
+    weight 4
+  ]
+  edge [
+    source 2586
+    target 2587
+    weight 4
+  ]
+  edge [
+    source 2587
+    target 2588
+    weight 1
+  ]
+  edge [
+    source 2589
+    target 2590
+    weight 1
+  ]
+  edge [
+    source 2591
+    target 2592
+    weight 1
+  ]
+  edge [
+    source 2593
+    target 2594
+    weight 1
+  ]
+  edge [
+    source 2595
+    target 2596
+    weight 2
+  ]
+  edge [
+    source 2595
+    target 2597
+    weight 2
+  ]
+  edge [
+    source 2595
+    target 2598
+    weight 2
+  ]
+  edge [
+    source 2595
+    target 2599
+    weight 2
+  ]
+  edge [
+    source 2595
+    target 2600
+    weight 2
+  ]
+  edge [
+    source 2596
+    target 2597
+    weight 2
+  ]
+  edge [
+    source 2596
+    target 2598
+    weight 2
+  ]
+  edge [
+    source 2596
+    target 2599
+    weight 2
+  ]
+  edge [
+    source 2596
+    target 2600
+    weight 2
+  ]
+  edge [
+    source 2597
+    target 2598
+    weight 2
+  ]
+  edge [
+    source 2597
+    target 2599
+    weight 2
+  ]
+  edge [
+    source 2597
+    target 2600
+    weight 2
+  ]
+  edge [
+    source 2598
+    target 2599
+    weight 2
+  ]
+  edge [
+    source 2598
+    target 2600
+    weight 2
+  ]
+  edge [
+    source 2599
+    target 2600
+    weight 2
+  ]
+  edge [
+    source 2600
+    target 2601
+    weight 1
+  ]
+  edge [
+    source 2603
+    target 3169
+    weight 2
+  ]
+  edge [
+    source 2603
+    target 3170
+    weight 2
+  ]
+  edge [
+    source 2603
+    target 3171
+    weight 2
+  ]
+  edge [
+    source 2603
+    target 3172
+    weight 2
+  ]
+  edge [
+    source 2605
+    target 2606
+    weight 1
+  ]
+  edge [
+    source 2607
+    target 2608
+    weight 2
+  ]
+  edge [
+    source 2607
+    target 3254
+    weight 2
+  ]
+  edge [
+    source 2607
+    target 3255
+    weight 2
+  ]
+  edge [
+    source 2608
+    target 2609
+    weight 1
+  ]
+  edge [
+    source 2612
+    target 2613
+    weight 1
+  ]
+  edge [
+    source 2616
+    target 2617
+    weight 2
+  ]
+  edge [
+    source 2616
+    target 2618
+    weight 2
+  ]
+  edge [
+    source 2616
+    target 2619
+    weight 2
+  ]
+  edge [
+    source 2616
+    target 2620
+    weight 2
+  ]
+  edge [
+    source 2617
+    target 2618
+    weight 2
+  ]
+  edge [
+    source 2617
+    target 2619
+    weight 2
+  ]
+  edge [
+    source 2617
+    target 2620
+    weight 2
+  ]
+  edge [
+    source 2618
+    target 2619
+    weight 2
+  ]
+  edge [
+    source 2618
+    target 2620
+    weight 2
+  ]
+  edge [
+    source 2619
+    target 2620
+    weight 2
+  ]
+  edge [
+    source 2620
+    target 2621
+    weight 1
+  ]
+  edge [
+    source 2622
+    target 2623
+    weight 1
+  ]
+  edge [
+    source 2624
+    target 2625
+    weight 1
+  ]
+  edge [
+    source 2627
+    target 2628
+    weight 1
+  ]
+  edge [
+    source 2629
+    target 2630
+    weight 1
+  ]
+  edge [
+    source 2631
+    target 2632
+    weight 4
+  ]
+  edge [
+    source 2631
+    target 2633
+    weight 4
+  ]
+  edge [
+    source 2632
+    target 2633
+    weight 4
+  ]
+  edge [
+    source 2633
+    target 2634
+    weight 1
+  ]
+  edge [
+    source 2635
+    target 2636
+    weight 1
+  ]
+  edge [
+    source 2637
+    target 2638
+    weight 1
+  ]
+  edge [
+    source 2639
+    target 2640
+    weight 1
+  ]
+  edge [
+    source 2641
+    target 2642
+    weight 1
+  ]
+  edge [
+    source 2643
+    target 2644
+    weight 1
+  ]
+  edge [
+    source 2645
+    target 2646
+    weight 1
+  ]
+  edge [
+    source 2647
+    target 2648
+    weight 1
+  ]
+  edge [
+    source 2649
+    target 2650
+    weight 1
+  ]
+  edge [
+    source 2651
+    target 2652
+    weight 1
+  ]
+  edge [
+    source 2653
+    target 2654
+    weight 1
+  ]
+  edge [
+    source 2655
+    target 2656
+    weight 1
+  ]
+  edge [
+    source 2657
+    target 2658
+    weight 1
+  ]
+  edge [
+    source 2659
+    target 2660
+    weight 1
+  ]
+  edge [
+    source 2661
+    target 2662
+    weight 1
+  ]
+  edge [
+    source 2663
+    target 2664
+    weight 1
+  ]
+  edge [
+    source 2665
+    target 2666
+    weight 1
+  ]
+  edge [
+    source 2667
+    target 2668
+    weight 1
+  ]
+  edge [
+    source 2669
+    target 2670
+    weight 1
+  ]
+  edge [
+    source 2671
+    target 2672
+    weight 1
+  ]
+  edge [
+    source 2673
+    target 2674
+    weight 1
+  ]
+  edge [
+    source 2675
+    target 2676
+    weight 1
+  ]
+  edge [
+    source 2677
+    target 2678
+    weight 1
+  ]
+  edge [
+    source 2679
+    target 2680
+    weight 1
+  ]
+  edge [
+    source 2681
+    target 2682
+    weight 1
+  ]
+  edge [
+    source 2683
+    target 2684
+    weight 1
+  ]
+  edge [
+    source 2685
+    target 2686
+    weight 1
+  ]
+  edge [
+    source 2687
+    target 2688
+    weight 1
+  ]
+  edge [
+    source 2689
+    target 2690
+    weight 1
+  ]
+  edge [
+    source 2692
+    target 2693
+    weight 1
+  ]
+  edge [
+    source 2694
+    target 2695
+    weight 1
+  ]
+  edge [
+    source 2696
+    target 2697
+    weight 1
+  ]
+  edge [
+    source 2698
+    target 2699
+    weight 1
+  ]
+  edge [
+    source 2700
+    target 2701
+    weight 1
+  ]
+  edge [
+    source 2702
+    target 2703
+    weight 1
+  ]
+  edge [
+    source 2704
+    target 2705
+    weight 1
+  ]
+  edge [
+    source 2706
+    target 2707
+    weight 1
+  ]
+  edge [
+    source 2708
+    target 2709
+    weight 1
+  ]
+  edge [
+    source 2710
+    target 2711
+    weight 1
+  ]
+  edge [
+    source 2712
+    target 2713
+    weight 1
+  ]
+  edge [
+    source 2714
+    target 2715
+    weight 1
+  ]
+  edge [
+    source 2716
+    target 2717
+    weight 1
+  ]
+  edge [
+    source 2718
+    target 2719
+    weight 1
+  ]
+  edge [
+    source 2720
+    target 2721
+    weight 1
+  ]
+  edge [
+    source 2722
+    target 2723
+    weight 1
+  ]
+  edge [
+    source 2724
+    target 2725
+    weight 1
+  ]
+  edge [
+    source 2726
+    target 2727
+    weight 1
+  ]
+  edge [
+    source 2728
+    target 2729
+    weight 1
+  ]
+  edge [
+    source 2731
+    target 2732
+    weight 1
+  ]
+  edge [
+    source 2733
+    target 2734
+    weight 1
+  ]
+  edge [
+    source 2735
+    target 2736
+    weight 1
+  ]
+  edge [
+    source 2737
+    target 2738
+    weight 1
+  ]
+  edge [
+    source 2739
+    target 2740
+    weight 4
+  ]
+  edge [
+    source 2740
+    target 2758
+    weight 2
+  ]
+  edge [
+    source 2740
+    target 2759
+    weight 2
+  ]
+  edge [
+    source 2745
+    target 2746
+    weight 1
+  ]
+  edge [
+    source 2747
+    target 2748
+    weight 1
+  ]
+  edge [
+    source 2749
+    target 2750
+    weight 2
+  ]
+  edge [
+    source 2752
+    target 2753
+    weight 1
+  ]
+  edge [
+    source 2758
+    target 2759
+    weight 2
+  ]
+  edge [
+    source 2759
+    target 2760
+    weight 1
+  ]
+  edge [
+    source 2761
+    target 2762
+    weight 1
+  ]
+  edge [
+    source 2767
+    target 2768
+    weight 1
+  ]
+  edge [
+    source 2767
+    target 2998
+    weight 1
+  ]
+  edge [
+    source 2769
+    target 2770
+    weight 1
+  ]
+  edge [
+    source 2771
+    target 2772
+    weight 1
+  ]
+  edge [
+    source 2773
+    target 2774
+    weight 1
+  ]
+  edge [
+    source 2775
+    target 2776
+    weight 1
+  ]
+  edge [
+    source 2778
+    target 2779
+    weight 1
+  ]
+  edge [
+    source 2780
+    target 2781
+    weight 1
+  ]
+  edge [
+    source 2782
+    target 2783
+    weight 1
+  ]
+  edge [
+    source 2784
+    target 2785
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 2947
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 2948
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 3772
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 3773
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 3774
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 3775
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 2784
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 2785
+    target 2786
+    weight 1
+  ]
+  edge [
+    source 2788
+    target 2789
+    weight 1
+  ]
+  edge [
+    source 2790
+    target 2791
+    weight 1
+  ]
+  edge [
+    source 2792
+    target 2793
+    weight 1
+  ]
+  edge [
+    source 2795
+    target 2796
+    weight 1
+  ]
+  edge [
+    source 2797
+    target 2798
+    weight 1
+  ]
+  edge [
+    source 2799
+    target 2800
+    weight 1
+  ]
+  edge [
+    source 2801
+    target 2802
+    weight 1
+  ]
+  edge [
+    source 2803
+    target 2804
+    weight 1
+  ]
+  edge [
+    source 2805
+    target 2806
+    weight 1
+  ]
+  edge [
+    source 2807
+    target 2808
+    weight 1
+  ]
+  edge [
+    source 2809
+    target 2810
+    weight 1
+  ]
+  edge [
+    source 2814
+    target 2815
+    weight 1
+  ]
+  edge [
+    source 2816
+    target 2817
+    weight 1
+  ]
+  edge [
+    source 2820
+    target 2821
+    weight 1
+  ]
+  edge [
+    source 2822
+    target 2823
+    weight 1
+  ]
+  edge [
+    source 2825
+    target 2826
+    weight 1
+  ]
+  edge [
+    source 2827
+    target 2828
+    weight 1
+  ]
+  edge [
+    source 2829
+    target 2830
+    weight 1
+  ]
+  edge [
+    source 2831
+    target 2832
+    weight 1
+  ]
+  edge [
+    source 2833
+    target 2834
+    weight 6
+  ]
+  edge [
+    source 2838
+    target 2839
+    weight 1
+  ]
+  edge [
+    source 2840
+    target 2841
+    weight 1
+  ]
+  edge [
+    source 2843
+    target 2844
+    weight 1
+  ]
+  edge [
+    source 2845
+    target 2846
+    weight 1
+  ]
+  edge [
+    source 2847
+    target 2848
+    weight 1
+  ]
+  edge [
+    source 2849
+    target 2850
+    weight 1
+  ]
+  edge [
+    source 2851
+    target 2852
+    weight 4
+  ]
+  edge [
+    source 2851
+    target 2853
+    weight 4
+  ]
+  edge [
+    source 2851
+    target 2854
+    weight 4
+  ]
+  edge [
+    source 2851
+    target 2855
+    weight 4
+  ]
+  edge [
+    source 2851
+    target 2856
+    weight 4
+  ]
+  edge [
+    source 2852
+    target 2853
+    weight 4
+  ]
+  edge [
+    source 2852
+    target 2854
+    weight 4
+  ]
+  edge [
+    source 2852
+    target 2855
+    weight 4
+  ]
+  edge [
+    source 2852
+    target 2856
+    weight 4
+  ]
+  edge [
+    source 2853
+    target 2854
+    weight 4
+  ]
+  edge [
+    source 2853
+    target 2855
+    weight 4
+  ]
+  edge [
+    source 2853
+    target 2856
+    weight 4
+  ]
+  edge [
+    source 2854
+    target 2855
+    weight 4
+  ]
+  edge [
+    source 2854
+    target 2856
+    weight 4
+  ]
+  edge [
+    source 2855
+    target 2856
+    weight 4
+  ]
+  edge [
+    source 2856
+    target 2857
+    weight 1
+  ]
+  edge [
+    source 2856
+    target 2866
+    weight 1
+  ]
+  edge [
+    source 2859
+    target 2860
+    weight 1
+  ]
+  edge [
+    source 2862
+    target 2863
+    weight 1
+  ]
+  edge [
+    source 2864
+    target 2865
+    weight 1
+  ]
+  edge [
+    source 2869
+    target 2870
+    weight 1
+  ]
+  edge [
+    source 2871
+    target 2872
+    weight 1
+  ]
+  edge [
+    source 2873
+    target 2874
+    weight 1
+  ]
+  edge [
+    source 2876
+    target 2877
+    weight 1
+  ]
+  edge [
+    source 2876
+    target 3855
+    weight 1
+  ]
+  edge [
+    source 2878
+    target 2879
+    weight 1
+  ]
+  edge [
+    source 2881
+    target 3005
+    weight 2
+  ]
+  edge [
+    source 2881
+    target 3006
+    weight 2
+  ]
+  edge [
+    source 2881
+    target 3008
+    weight 2
+  ]
+  edge [
+    source 2881
+    target 3011
+    weight 1
+  ]
+  edge [
+    source 2881
+    target 3009
+    weight 2
+  ]
+  edge [
+    source 2881
+    target 3010
+    weight 2
+  ]
+  edge [
+    source 2883
+    target 2884
+    weight 1
+  ]
+  edge [
+    source 2883
+    target 2952
+    weight 1
+  ]
+  edge [
+    source 2885
+    target 2886
+    weight 1
+  ]
+  edge [
+    source 2888
+    target 2889
+    weight 1
+  ]
+  edge [
+    source 2893
+    target 2894
+    weight 1
+  ]
+  edge [
+    source 2895
+    target 2896
+    weight 1
+  ]
+  edge [
+    source 2898
+    target 2899
+    weight 1
+  ]
+  edge [
+    source 2900
+    target 2901
+    weight 2
+  ]
+  edge [
+    source 2904
+    target 2905
+    weight 2
+  ]
+  edge [
+    source 2908
+    target 2909
+    weight 2
+  ]
+  edge [
+    source 2908
+    target 2910
+    weight 2
+  ]
+  edge [
+    source 2908
+    target 2911
+    weight 2
+  ]
+  edge [
+    source 2909
+    target 2910
+    weight 2
+  ]
+  edge [
+    source 2909
+    target 2911
+    weight 2
+  ]
+  edge [
+    source 2910
+    target 2911
+    weight 2
+  ]
+  edge [
+    source 2911
+    target 2912
+    weight 1
+  ]
+  edge [
+    source 2913
+    target 2914
+    weight 1
+  ]
+  edge [
+    source 2917
+    target 2918
+    weight 1
+  ]
+  edge [
+    source 2920
+    target 2921
+    weight 1
+  ]
+  edge [
+    source 2923
+    target 2924
+    weight 1
+  ]
+  edge [
+    source 2928
+    target 2929
+    weight 1
+  ]
+  edge [
+    source 2928
+    target 2946
+    weight 1
+  ]
+  edge [
+    source 2928
+    target 2945
+    weight 2
+  ]
+  edge [
+    source 2930
+    target 2931
+    weight 1
+  ]
+  edge [
+    source 2932
+    target 2933
+    weight 1
+  ]
+  edge [
+    source 2934
+    target 2935
+    weight 1
+  ]
+  edge [
+    source 2936
+    target 2937
+    weight 1
+  ]
+  edge [
+    source 2939
+    target 2940
+    weight 1
+  ]
+  edge [
+    source 2942
+    target 2943
+    weight 1
+  ]
+  edge [
+    source 2947
+    target 2948
+    weight 2
+  ]
+  edge [
+    source 2948
+    target 2949
+    weight 1
+  ]
+  edge [
+    source 2950
+    target 2951
+    weight 1
+  ]
+  edge [
+    source 2953
+    target 2954
+    weight 1
+  ]
+  edge [
+    source 2955
+    target 2956
+    weight 1
+  ]
+  edge [
+    source 2957
+    target 2958
+    weight 1
+  ]
+  edge [
+    source 2959
+    target 2960
+    weight 1
+  ]
+  edge [
+    source 2966
+    target 2967
+    weight 1
+  ]
+  edge [
+    source 2969
+    target 2970
+    weight 1
+  ]
+  edge [
+    source 2971
+    target 2972
+    weight 1
+  ]
+  edge [
+    source 2971
+    target 2976
+    weight 1
+  ]
+  edge [
+    source 2971
+    target 2979
+    weight 1
+  ]
+  edge [
+    source 2973
+    target 2974
+    weight 1
+  ]
+  edge [
+    source 2977
+    target 2978
+    weight 1
+  ]
+  edge [
+    source 2979
+    target 2985
+    weight 1
+  ]
+  edge [
+    source 2980
+    target 2981
+    weight 2
+  ]
+  edge [
+    source 2980
+    target 2982
+    weight 2
+  ]
+  edge [
+    source 2980
+    target 2983
+    weight 2
+  ]
+  edge [
+    source 2980
+    target 2984
+    weight 2
+  ]
+  edge [
+    source 2980
+    target 2985
+    weight 2
+  ]
+  edge [
+    source 2981
+    target 2982
+    weight 2
+  ]
+  edge [
+    source 2981
+    target 2983
+    weight 2
+  ]
+  edge [
+    source 2981
+    target 2984
+    weight 2
+  ]
+  edge [
+    source 2981
+    target 2985
+    weight 2
+  ]
+  edge [
+    source 2982
+    target 2983
+    weight 2
+  ]
+  edge [
+    source 2982
+    target 2984
+    weight 2
+  ]
+  edge [
+    source 2982
+    target 2985
+    weight 2
+  ]
+  edge [
+    source 2983
+    target 2984
+    weight 2
+  ]
+  edge [
+    source 2983
+    target 2985
+    weight 2
+  ]
+  edge [
+    source 2984
+    target 2985
+    weight 2
+  ]
+  edge [
+    source 2986
+    target 2987
+    weight 1
+  ]
+  edge [
+    source 2999
+    target 3000
+    weight 1
+  ]
+  edge [
+    source 3001
+    target 3002
+    weight 1
+  ]
+  edge [
+    source 3003
+    target 3004
+    weight 1
+  ]
+  edge [
+    source 3005
+    target 3006
+    weight 2
+  ]
+  edge [
+    source 3006
+    target 3007
+    weight 1
+  ]
+  edge [
+    source 3008
+    target 3009
+    weight 2
+  ]
+  edge [
+    source 3008
+    target 3010
+    weight 2
+  ]
+  edge [
+    source 3009
+    target 3010
+    weight 2
+  ]
+  edge [
+    source 3012
+    target 3013
+    weight 2
+  ]
+  edge [
+    source 3012
+    target 3014
+    weight 2
+  ]
+  edge [
+    source 3012
+    target 3015
+    weight 2
+  ]
+  edge [
+    source 3013
+    target 3014
+    weight 2
+  ]
+  edge [
+    source 3013
+    target 3015
+    weight 2
+  ]
+  edge [
+    source 3014
+    target 3015
+    weight 2
+  ]
+  edge [
+    source 3015
+    target 3016
+    weight 1
+  ]
+  edge [
+    source 3018
+    target 3019
+    weight 1
+  ]
+  edge [
+    source 3023
+    target 3024
+    weight 1
+  ]
+  edge [
+    source 3025
+    target 3026
+    weight 1
+  ]
+  edge [
+    source 3028
+    target 3029
+    weight 2
+  ]
+  edge [
+    source 3028
+    target 3030
+    weight 2
+  ]
+  edge [
+    source 3029
+    target 3030
+    weight 2
+  ]
+  edge [
+    source 3032
+    target 3033
+    weight 1
+  ]
+  edge [
+    source 3034
+    target 3035
+    weight 2
+  ]
+  edge [
+    source 3034
+    target 3036
+    weight 2
+  ]
+  edge [
+    source 3035
+    target 3036
+    weight 2
+  ]
+  edge [
+    source 3036
+    target 3037
+    weight 1
+  ]
+  edge [
+    source 3040
+    target 3041
+    weight 1
+  ]
+  edge [
+    source 3042
+    target 3043
+    weight 4
+  ]
+  edge [
+    source 3042
+    target 3044
+    weight 4
+  ]
+  edge [
+    source 3043
+    target 3044
+    weight 4
+  ]
+  edge [
+    source 3046
+    target 3047
+    weight 2
+  ]
+  edge [
+    source 3047
+    target 3048
+    weight 1
+  ]
+  edge [
+    source 3052
+    target 3053
+    weight 1
+  ]
+  edge [
+    source 3054
+    target 3055
+    weight 1
+  ]
+  edge [
+    source 3061
+    target 3062
+    weight 1
+  ]
+  edge [
+    source 3063
+    target 3064
+    weight 2
+  ]
+  edge [
+    source 3063
+    target 3065
+    weight 2
+  ]
+  edge [
+    source 3064
+    target 3065
+    weight 2
+  ]
+  edge [
+    source 3065
+    target 3066
+    weight 1
+  ]
+  edge [
+    source 3072
+    target 3073
+    weight 1
+  ]
+  edge [
+    source 3074
+    target 3075
+    weight 1
+  ]
+  edge [
+    source 3076
+    target 3077
+    weight 1
+  ]
+  edge [
+    source 3078
+    target 3079
+    weight 8
+  ]
+  edge [
+    source 3078
+    target 3080
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3081
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3328
+    weight 1
+  ]
+  edge [
+    source 3078
+    target 3326
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3327
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3332
+    weight 1
+  ]
+  edge [
+    source 3078
+    target 3329
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3330
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3107
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3335
+    weight 2
+  ]
+  edge [
+    source 3078
+    target 3336
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3080
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3081
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3326
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3327
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3329
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3330
+    weight 2
+  ]
+  edge [
+    source 3079
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 3080
+    target 3081
+    weight 2
+  ]
+  edge [
+    source 3081
+    target 3082
+    weight 1
+  ]
+  edge [
+    source 3083
+    target 3084
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3085
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3086
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3087
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3088
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3090
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3091
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3092
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3093
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3094
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3083
+    target 3126
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3215
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3216
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3217
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3101
+    weight 4
+  ]
+  edge [
+    source 3083
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3084
+    target 3085
+    weight 2
+  ]
+  edge [
+    source 3084
+    target 3086
+    weight 2
+  ]
+  edge [
+    source 3084
+    target 3087
+    weight 2
+  ]
+  edge [
+    source 3084
+    target 3088
+    weight 2
+  ]
+  edge [
+    source 3085
+    target 3086
+    weight 2
+  ]
+  edge [
+    source 3085
+    target 3087
+    weight 2
+  ]
+  edge [
+    source 3085
+    target 3088
+    weight 2
+  ]
+  edge [
+    source 3086
+    target 3087
+    weight 2
+  ]
+  edge [
+    source 3086
+    target 3088
+    weight 2
+  ]
+  edge [
+    source 3087
+    target 3088
+    weight 2
+  ]
+  edge [
+    source 3088
+    target 3089
+    weight 1
+  ]
+  edge [
+    source 3090
+    target 3091
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3092
+    weight 4
+  ]
+  edge [
+    source 3090
+    target 3093
+    weight 10
+  ]
+  edge [
+    source 3090
+    target 3094
+    weight 6
+  ]
+  edge [
+    source 3090
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3105
+    weight 8
+  ]
+  edge [
+    source 3090
+    target 3147
+    weight 1
+  ]
+  edge [
+    source 3090
+    target 3164
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3165
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3166
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3167
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3174
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3175
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3184
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3214
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3215
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3216
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3217
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3275
+    weight 4
+  ]
+  edge [
+    source 3090
+    target 3276
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3277
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3284
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3329
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3330
+    weight 2
+  ]
+  edge [
+    source 3090
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 3091
+    target 3092
+    weight 2
+  ]
+  edge [
+    source 3091
+    target 3093
+    weight 2
+  ]
+  edge [
+    source 3091
+    target 3094
+    weight 2
+  ]
+  edge [
+    source 3091
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 3091
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3091
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3092
+    target 3093
+    weight 4
+  ]
+  edge [
+    source 3092
+    target 3094
+    weight 4
+  ]
+  edge [
+    source 3092
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 3092
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3092
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3092
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3094
+    weight 8
+  ]
+  edge [
+    source 3093
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3105
+    weight 6
+  ]
+  edge [
+    source 3093
+    target 3174
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3175
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3184
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3312
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3301
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 3093
+    target 3419
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3095
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3106
+    weight 1
+  ]
+  edge [
+    source 3094
+    target 3105
+    weight 4
+  ]
+  edge [
+    source 3094
+    target 3174
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3175
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 3094
+    target 3419
+    weight 2
+  ]
+  edge [
+    source 3095
+    target 3096
+    weight 2
+  ]
+  edge [
+    source 3095
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3096
+    target 3097
+    weight 2
+  ]
+  edge [
+    source 3097
+    target 3098
+    weight 1
+  ]
+  edge [
+    source 3099
+    target 3100
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3192
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3193
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3206
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3351
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3352
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3306
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3353
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3375
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3320
+    weight 2
+  ]
+  edge [
+    source 3099
+    target 3345
+    weight 2
+  ]
+  edge [
+    source 3100
+    target 3101
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3102
+    weight 1
+  ]
+  edge [
+    source 3101
+    target 3114
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3115
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3116
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3186
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3187
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3188
+    weight 6
+  ]
+  edge [
+    source 3101
+    target 3219
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3220
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3126
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3215
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3216
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3217
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3101
+    target 3284
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3105
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3275
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3296
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3358
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3359
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3421
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3422
+    weight 2
+  ]
+  edge [
+    source 3101
+    target 3423
+    weight 2
+  ]
+  edge [
+    source 3103
+    target 3104
+    weight 1
+  ]
+  edge [
+    source 3105
+    target 3121
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3122
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3174
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3175
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3284
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3275
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 3105
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3108
+    weight 4
+  ]
+  edge [
+    source 3107
+    target 3109
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3110
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3111
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3126
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3127
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3190
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3210
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3335
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3336
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3364
+    weight 1
+  ]
+  edge [
+    source 3107
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3306
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3371
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3391
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3396
+    weight 2
+  ]
+  edge [
+    source 3107
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 3108
+    target 3109
+    weight 2
+  ]
+  edge [
+    source 3108
+    target 3110
+    weight 2
+  ]
+  edge [
+    source 3108
+    target 3111
+    weight 2
+  ]
+  edge [
+    source 3108
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 3108
+    target 3210
+    weight 2
+  ]
+  edge [
+    source 3109
+    target 3110
+    weight 2
+  ]
+  edge [
+    source 3109
+    target 3111
+    weight 2
+  ]
+  edge [
+    source 3109
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 3110
+    target 3111
+    weight 2
+  ]
+  edge [
+    source 3110
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 3111
+    target 3112
+    weight 2
+  ]
+  edge [
+    source 3111
+    target 3340
+    weight 1
+  ]
+  edge [
+    source 3111
+    target 3338
+    weight 2
+  ]
+  edge [
+    source 3111
+    target 3339
+    weight 2
+  ]
+  edge [
+    source 3112
+    target 3113
+    weight 1
+  ]
+  edge [
+    source 3114
+    target 3115
+    weight 2
+  ]
+  edge [
+    source 3114
+    target 3116
+    weight 2
+  ]
+  edge [
+    source 3115
+    target 3116
+    weight 2
+  ]
+  edge [
+    source 3115
+    target 3143
+    weight 1
+  ]
+  edge [
+    source 3115
+    target 3141
+    weight 2
+  ]
+  edge [
+    source 3115
+    target 3142
+    weight 2
+  ]
+  edge [
+    source 3115
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 3116
+    target 3117
+    weight 1
+  ]
+  edge [
+    source 3118
+    target 3119
+    weight 2
+  ]
+  edge [
+    source 3118
+    target 3226
+    weight 1
+  ]
+  edge [
+    source 3118
+    target 3225
+    weight 2
+  ]
+  edge [
+    source 3118
+    target 3292
+    weight 2
+  ]
+  edge [
+    source 3118
+    target 3293
+    weight 2
+  ]
+  edge [
+    source 3118
+    target 3294
+    weight 2
+  ]
+  edge [
+    source 3119
+    target 3120
+    weight 1
+  ]
+  edge [
+    source 3121
+    target 3122
+    weight 2
+  ]
+  edge [
+    source 3121
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 3121
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 3122
+    target 3123
+    weight 2
+  ]
+  edge [
+    source 3122
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 3123
+    target 3124
+    weight 2
+  ]
+  edge [
+    source 3123
+    target 3306
+    weight 2
+  ]
+  edge [
+    source 3124
+    target 3125
+    weight 1
+  ]
+  edge [
+    source 3126
+    target 3127
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3152
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3153
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3215
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3216
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3217
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3126
+    target 3419
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3320
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3434
+    weight 1
+  ]
+  edge [
+    source 3126
+    target 3433
+    weight 2
+  ]
+  edge [
+    source 3126
+    target 3338
+    weight 2
+  ]
+  edge [
+    source 3127
+    target 3128
+    weight 2
+  ]
+  edge [
+    source 3128
+    target 3129
+    weight 1
+  ]
+  edge [
+    source 3130
+    target 3131
+    weight 1
+  ]
+  edge [
+    source 3132
+    target 3133
+    weight 1
+  ]
+  edge [
+    source 3134
+    target 3135
+    weight 2
+  ]
+  edge [
+    source 3134
+    target 3136
+    weight 2
+  ]
+  edge [
+    source 3134
+    target 3137
+    weight 2
+  ]
+  edge [
+    source 3134
+    target 3138
+    weight 2
+  ]
+  edge [
+    source 3134
+    target 3139
+    weight 2
+  ]
+  edge [
+    source 3134
+    target 3347
+    weight 2
+  ]
+  edge [
+    source 3134
+    target 3348
+    weight 2
+  ]
+  edge [
+    source 3135
+    target 3136
+    weight 2
+  ]
+  edge [
+    source 3135
+    target 3137
+    weight 2
+  ]
+  edge [
+    source 3135
+    target 3138
+    weight 2
+  ]
+  edge [
+    source 3135
+    target 3139
+    weight 2
+  ]
+  edge [
+    source 3136
+    target 3137
+    weight 2
+  ]
+  edge [
+    source 3136
+    target 3138
+    weight 2
+  ]
+  edge [
+    source 3136
+    target 3139
+    weight 2
+  ]
+  edge [
+    source 3137
+    target 3138
+    weight 2
+  ]
+  edge [
+    source 3137
+    target 3139
+    weight 2
+  ]
+  edge [
+    source 3138
+    target 3139
+    weight 2
+  ]
+  edge [
+    source 3139
+    target 3140
+    weight 1
+  ]
+  edge [
+    source 3141
+    target 3142
+    weight 2
+  ]
+  edge [
+    source 3145
+    target 3146
+    weight 1
+  ]
+  edge [
+    source 3147
+    target 3149
+    weight 1
+  ]
+  edge [
+    source 3148
+    target 3149
+    weight 2
+  ]
+  edge [
+    source 3148
+    target 3150
+    weight 2
+  ]
+  edge [
+    source 3148
+    target 3303
+    weight 2
+  ]
+  edge [
+    source 3148
+    target 3254
+    weight 2
+  ]
+  edge [
+    source 3152
+    target 3153
+    weight 2
+  ]
+  edge [
+    source 3152
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 3153
+    target 3154
+    weight 2
+  ]
+  edge [
+    source 3154
+    target 3155
+    weight 1
+  ]
+  edge [
+    source 3154
+    target 3376
+    weight 1
+  ]
+  edge [
+    source 3154
+    target 3375
+    weight 2
+  ]
+  edge [
+    source 3154
+    target 3402
+    weight 2
+  ]
+  edge [
+    source 3154
+    target 3404
+    weight 1
+  ]
+  edge [
+    source 3154
+    target 3403
+    weight 2
+  ]
+  edge [
+    source 3154
+    target 3193
+    weight 2
+  ]
+  edge [
+    source 3156
+    target 3157
+    weight 2
+  ]
+  edge [
+    source 3157
+    target 3158
+    weight 1
+  ]
+  edge [
+    source 3159
+    target 3160
+    weight 1
+  ]
+  edge [
+    source 3161
+    target 3162
+    weight 1
+  ]
+  edge [
+    source 3164
+    target 3165
+    weight 2
+  ]
+  edge [
+    source 3164
+    target 3166
+    weight 2
+  ]
+  edge [
+    source 3164
+    target 3167
+    weight 2
+  ]
+  edge [
+    source 3164
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 3165
+    target 3166
+    weight 2
+  ]
+  edge [
+    source 3165
+    target 3167
+    weight 2
+  ]
+  edge [
+    source 3165
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 3166
+    target 3167
+    weight 2
+  ]
+  edge [
+    source 3166
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 3167
+    target 3168
+    weight 2
+  ]
+  edge [
+    source 3169
+    target 3170
+    weight 2
+  ]
+  edge [
+    source 3169
+    target 3171
+    weight 2
+  ]
+  edge [
+    source 3169
+    target 3172
+    weight 2
+  ]
+  edge [
+    source 3170
+    target 3171
+    weight 2
+  ]
+  edge [
+    source 3170
+    target 3172
+    weight 2
+  ]
+  edge [
+    source 3171
+    target 3172
+    weight 2
+  ]
+  edge [
+    source 3172
+    target 3173
+    weight 1
+  ]
+  edge [
+    source 3174
+    target 3175
+    weight 2
+  ]
+  edge [
+    source 3174
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 3174
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3174
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3175
+    target 3176
+    weight 2
+  ]
+  edge [
+    source 3175
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3175
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3176
+    target 3177
+    weight 2
+  ]
+  edge [
+    source 3176
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3177
+    target 3178
+    weight 2
+  ]
+  edge [
+    source 3178
+    target 3179
+    weight 1
+  ]
+  edge [
+    source 3180
+    target 3181
+    weight 1
+  ]
+  edge [
+    source 3182
+    target 3183
+    weight 1
+  ]
+  edge [
+    source 3184
+    target 3185
+    weight 1
+  ]
+  edge [
+    source 3186
+    target 3187
+    weight 2
+  ]
+  edge [
+    source 3186
+    target 3188
+    weight 2
+  ]
+  edge [
+    source 3187
+    target 3188
+    weight 4
+  ]
+  edge [
+    source 3187
+    target 3253
+    weight 2
+  ]
+  edge [
+    source 3188
+    target 3189
+    weight 1
+  ]
+  edge [
+    source 3188
+    target 3253
+    weight 2
+  ]
+  edge [
+    source 3188
+    target 3297
+    weight 1
+  ]
+  edge [
+    source 3188
+    target 3296
+    weight 2
+  ]
+  edge [
+    source 3188
+    target 3342
+    weight 1
+  ]
+  edge [
+    source 3188
+    target 3293
+    weight 2
+  ]
+  edge [
+    source 3188
+    target 3341
+    weight 2
+  ]
+  edge [
+    source 3188
+    target 3397
+    weight 1
+  ]
+  edge [
+    source 3188
+    target 3396
+    weight 2
+  ]
+  edge [
+    source 3188
+    target 3432
+    weight 1
+  ]
+  edge [
+    source 3190
+    target 3191
+    weight 1
+  ]
+  edge [
+    source 3192
+    target 3193
+    weight 2
+  ]
+  edge [
+    source 3193
+    target 3194
+    weight 1
+  ]
+  edge [
+    source 3193
+    target 3402
+    weight 2
+  ]
+  edge [
+    source 3193
+    target 3403
+    weight 2
+  ]
+  edge [
+    source 3193
+    target 3411
+    weight 2
+  ]
+  edge [
+    source 3195
+    target 3196
+    weight 2
+  ]
+  edge [
+    source 3195
+    target 3197
+    weight 2
+  ]
+  edge [
+    source 3195
+    target 3198
+    weight 2
+  ]
+  edge [
+    source 3196
+    target 3197
+    weight 2
+  ]
+  edge [
+    source 3196
+    target 3198
+    weight 2
+  ]
+  edge [
+    source 3197
+    target 3198
+    weight 2
+  ]
+  edge [
+    source 3197
+    target 3306
+    weight 2
+  ]
+  edge [
+    source 3197
+    target 3307
+    weight 2
+  ]
+  edge [
+    source 3197
+    target 3308
+    weight 2
+  ]
+  edge [
+    source 3197
+    target 3309
+    weight 2
+  ]
+  edge [
+    source 3197
+    target 3310
+    weight 2
+  ]
+  edge [
+    source 3198
+    target 3199
+    weight 1
+  ]
+  edge [
+    source 3200
+    target 3201
+    weight 1
+  ]
+  edge [
+    source 3202
+    target 3203
+    weight 2
+  ]
+  edge [
+    source 3202
+    target 3204
+    weight 2
+  ]
+  edge [
+    source 3203
+    target 3204
+    weight 2
+  ]
+  edge [
+    source 3206
+    target 3207
+    weight 1
+  ]
+  edge [
+    source 3208
+    target 3209
+    weight 1
+  ]
+  edge [
+    source 3210
+    target 3211
+    weight 1
+  ]
+  edge [
+    source 3212
+    target 3213
+    weight 1
+  ]
+  edge [
+    source 3214
+    target 3215
+    weight 2
+  ]
+  edge [
+    source 3214
+    target 3216
+    weight 2
+  ]
+  edge [
+    source 3214
+    target 3217
+    weight 2
+  ]
+  edge [
+    source 3215
+    target 3216
+    weight 6
+  ]
+  edge [
+    source 3215
+    target 3217
+    weight 6
+  ]
+  edge [
+    source 3215
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3215
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3217
+    weight 6
+  ]
+  edge [
+    source 3216
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3216
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3230
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3217
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3219
+    target 3220
+    weight 2
+  ]
+  edge [
+    source 3219
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 3219
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 3219
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 3220
+    target 3221
+    weight 2
+  ]
+  edge [
+    source 3220
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 3220
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 3220
+    target 3227
+    weight 2
+  ]
+  edge [
+    source 3220
+    target 3323
+    weight 2
+  ]
+  edge [
+    source 3220
+    target 3324
+    weight 2
+  ]
+  edge [
+    source 3221
+    target 3222
+    weight 2
+  ]
+  edge [
+    source 3221
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 3222
+    target 3223
+    weight 2
+  ]
+  edge [
+    source 3223
+    target 3224
+    weight 1
+  ]
+  edge [
+    source 3227
+    target 3228
+    weight 4
+  ]
+  edge [
+    source 3227
+    target 3323
+    weight 2
+  ]
+  edge [
+    source 3227
+    target 3324
+    weight 2
+  ]
+  edge [
+    source 3228
+    target 3229
+    weight 1
+  ]
+  edge [
+    source 3230
+    target 3231
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3230
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3232
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3231
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3233
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3232
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3234
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3233
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3235
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3234
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3236
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3235
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3237
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3236
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3238
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3237
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3239
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3238
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3240
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3239
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3241
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3240
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3242
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3241
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3243
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3242
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3243
+    target 3244
+    weight 4
+  ]
+  edge [
+    source 3243
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3243
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3243
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3243
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3243
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3244
+    target 3245
+    weight 4
+  ]
+  edge [
+    source 3244
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3244
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3244
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3244
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3245
+    target 3246
+    weight 4
+  ]
+  edge [
+    source 3245
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3245
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3245
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3246
+    target 3247
+    weight 4
+  ]
+  edge [
+    source 3246
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3246
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3247
+    target 3248
+    weight 4
+  ]
+  edge [
+    source 3247
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3248
+    target 3249
+    weight 4
+  ]
+  edge [
+    source 3249
+    target 3250
+    weight 1
+  ]
+  edge [
+    source 3251
+    target 3252
+    weight 1
+  ]
+  edge [
+    source 3254
+    target 3255
+    weight 2
+  ]
+  edge [
+    source 3254
+    target 3289
+    weight 2
+  ]
+  edge [
+    source 3254
+    target 3290
+    weight 2
+  ]
+  edge [
+    source 3254
+    target 3304
+    weight 1
+  ]
+  edge [
+    source 3254
+    target 3303
+    weight 2
+  ]
+  edge [
+    source 3255
+    target 3256
+    weight 1
+  ]
+  edge [
+    source 3257
+    target 3258
+    weight 2
+  ]
+  edge [
+    source 3257
+    target 3259
+    weight 2
+  ]
+  edge [
+    source 3257
+    target 3260
+    weight 2
+  ]
+  edge [
+    source 3258
+    target 3259
+    weight 2
+  ]
+  edge [
+    source 3258
+    target 3260
+    weight 2
+  ]
+  edge [
+    source 3259
+    target 3260
+    weight 2
+  ]
+  edge [
+    source 3260
+    target 3261
+    weight 1
+  ]
+  edge [
+    source 3262
+    target 3263
+    weight 6
+  ]
+  edge [
+    source 3262
+    target 3264
+    weight 4
+  ]
+  edge [
+    source 3262
+    target 3265
+    weight 4
+  ]
+  edge [
+    source 3262
+    target 3266
+    weight 4
+  ]
+  edge [
+    source 3262
+    target 3267
+    weight 2
+  ]
+  edge [
+    source 3262
+    target 3268
+    weight 2
+  ]
+  edge [
+    source 3262
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3262
+    target 3270
+    weight 4
+  ]
+  edge [
+    source 3262
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 3262
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3262
+    target 3408
+    weight 2
+  ]
+  edge [
+    source 3262
+    target 3409
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3264
+    weight 4
+  ]
+  edge [
+    source 3263
+    target 3265
+    weight 4
+  ]
+  edge [
+    source 3263
+    target 3266
+    weight 4
+  ]
+  edge [
+    source 3263
+    target 3267
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3268
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3270
+    weight 4
+  ]
+  edge [
+    source 3263
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3408
+    weight 2
+  ]
+  edge [
+    source 3263
+    target 3409
+    weight 2
+  ]
+  edge [
+    source 3264
+    target 3265
+    weight 4
+  ]
+  edge [
+    source 3264
+    target 3266
+    weight 4
+  ]
+  edge [
+    source 3264
+    target 3267
+    weight 2
+  ]
+  edge [
+    source 3264
+    target 3268
+    weight 2
+  ]
+  edge [
+    source 3264
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3264
+    target 3270
+    weight 4
+  ]
+  edge [
+    source 3264
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 3264
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3264
+    target 3298
+    weight 2
+  ]
+  edge [
+    source 3265
+    target 3266
+    weight 4
+  ]
+  edge [
+    source 3265
+    target 3267
+    weight 2
+  ]
+  edge [
+    source 3265
+    target 3268
+    weight 2
+  ]
+  edge [
+    source 3265
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3265
+    target 3270
+    weight 4
+  ]
+  edge [
+    source 3265
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 3265
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3266
+    target 3267
+    weight 2
+  ]
+  edge [
+    source 3266
+    target 3268
+    weight 2
+  ]
+  edge [
+    source 3266
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3266
+    target 3270
+    weight 4
+  ]
+  edge [
+    source 3266
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 3266
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3267
+    target 3268
+    weight 2
+  ]
+  edge [
+    source 3267
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3267
+    target 3270
+    weight 2
+  ]
+  edge [
+    source 3268
+    target 3269
+    weight 2
+  ]
+  edge [
+    source 3268
+    target 3270
+    weight 2
+  ]
+  edge [
+    source 3269
+    target 3270
+    weight 2
+  ]
+  edge [
+    source 3270
+    target 3271
+    weight 1
+  ]
+  edge [
+    source 3270
+    target 3272
+    weight 2
+  ]
+  edge [
+    source 3270
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3272
+    target 3273
+    weight 2
+  ]
+  edge [
+    source 3273
+    target 3274
+    weight 1
+  ]
+  edge [
+    source 3275
+    target 3276
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3277
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3284
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 3275
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3276
+    target 3277
+    weight 2
+  ]
+  edge [
+    source 3276
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 3276
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 3276
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 3276
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3276
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3277
+    target 3278
+    weight 2
+  ]
+  edge [
+    source 3277
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 3277
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 3277
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3277
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3278
+    target 3279
+    weight 2
+  ]
+  edge [
+    source 3278
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 3278
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3278
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3279
+    target 3280
+    weight 2
+  ]
+  edge [
+    source 3279
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3279
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3280
+    target 3281
+    weight 2
+  ]
+  edge [
+    source 3280
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3281
+    target 3282
+    weight 2
+  ]
+  edge [
+    source 3282
+    target 3283
+    weight 1
+  ]
+  edge [
+    source 3284
+    target 3285
+    weight 2
+  ]
+  edge [
+    source 3284
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 3284
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3285
+    target 3286
+    weight 2
+  ]
+  edge [
+    source 3285
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3286
+    target 3287
+    weight 2
+  ]
+  edge [
+    source 3287
+    target 3288
+    weight 1
+  ]
+  edge [
+    source 3289
+    target 3290
+    weight 2
+  ]
+  edge [
+    source 3292
+    target 3293
+    weight 2
+  ]
+  edge [
+    source 3292
+    target 3294
+    weight 2
+  ]
+  edge [
+    source 3293
+    target 3294
+    weight 2
+  ]
+  edge [
+    source 3293
+    target 3341
+    weight 2
+  ]
+  edge [
+    source 3294
+    target 3295
+    weight 1
+  ]
+  edge [
+    source 3298
+    target 3299
+    weight 1
+  ]
+  edge [
+    source 3300
+    target 3301
+    weight 2
+  ]
+  edge [
+    source 3301
+    target 3302
+    weight 1
+  ]
+  edge [
+    source 3301
+    target 3313
+    weight 1
+  ]
+  edge [
+    source 3301
+    target 3312
+    weight 2
+  ]
+  edge [
+    source 3303
+    target 3373
+    weight 2
+  ]
+  edge [
+    source 3303
+    target 3338
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3307
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3308
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3309
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3310
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3351
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3352
+    weight 2
+  ]
+  edge [
+    source 3306
+    target 3353
+    weight 2
+  ]
+  edge [
+    source 3307
+    target 3308
+    weight 2
+  ]
+  edge [
+    source 3307
+    target 3309
+    weight 2
+  ]
+  edge [
+    source 3307
+    target 3310
+    weight 2
+  ]
+  edge [
+    source 3308
+    target 3309
+    weight 2
+  ]
+  edge [
+    source 3308
+    target 3310
+    weight 2
+  ]
+  edge [
+    source 3309
+    target 3310
+    weight 2
+  ]
+  edge [
+    source 3310
+    target 3311
+    weight 1
+  ]
+  edge [
+    source 3314
+    target 3315
+    weight 2
+  ]
+  edge [
+    source 3314
+    target 3316
+    weight 2
+  ]
+  edge [
+    source 3315
+    target 3316
+    weight 2
+  ]
+  edge [
+    source 3316
+    target 3317
+    weight 1
+  ]
+  edge [
+    source 3318
+    target 3319
+    weight 2
+  ]
+  edge [
+    source 3318
+    target 3320
+    weight 2
+  ]
+  edge [
+    source 3318
+    target 3321
+    weight 2
+  ]
+  edge [
+    source 3319
+    target 3320
+    weight 2
+  ]
+  edge [
+    source 3319
+    target 3321
+    weight 2
+  ]
+  edge [
+    source 3320
+    target 3321
+    weight 2
+  ]
+  edge [
+    source 3320
+    target 3343
+    weight 2
+  ]
+  edge [
+    source 3320
+    target 3344
+    weight 2
+  ]
+  edge [
+    source 3320
+    target 3345
+    weight 4
+  ]
+  edge [
+    source 3320
+    target 3433
+    weight 2
+  ]
+  edge [
+    source 3320
+    target 3338
+    weight 2
+  ]
+  edge [
+    source 3321
+    target 3322
+    weight 1
+  ]
+  edge [
+    source 3323
+    target 3324
+    weight 2
+  ]
+  edge [
+    source 3324
+    target 3325
+    weight 1
+  ]
+  edge [
+    source 3326
+    target 3327
+    weight 2
+  ]
+  edge [
+    source 3329
+    target 3330
+    weight 2
+  ]
+  edge [
+    source 3329
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 3330
+    target 3331
+    weight 2
+  ]
+  edge [
+    source 3333
+    target 3334
+    weight 1
+  ]
+  edge [
+    source 3335
+    target 3336
+    weight 2
+  ]
+  edge [
+    source 3336
+    target 3337
+    weight 1
+  ]
+  edge [
+    source 3338
+    target 3339
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3374
+    weight 1
+  ]
+  edge [
+    source 3338
+    target 3373
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3352
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3387
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3388
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3389
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3395
+    weight 1
+  ]
+  edge [
+    source 3338
+    target 3393
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3394
+    weight 2
+  ]
+  edge [
+    source 3338
+    target 3433
+    weight 2
+  ]
+  edge [
+    source 3343
+    target 3344
+    weight 2
+  ]
+  edge [
+    source 3343
+    target 3345
+    weight 2
+  ]
+  edge [
+    source 3344
+    target 3345
+    weight 2
+  ]
+  edge [
+    source 3345
+    target 3346
+    weight 1
+  ]
+  edge [
+    source 3347
+    target 3348
+    weight 2
+  ]
+  edge [
+    source 3348
+    target 3349
+    weight 1
+  ]
+  edge [
+    source 3351
+    target 3352
+    weight 2
+  ]
+  edge [
+    source 3351
+    target 3353
+    weight 2
+  ]
+  edge [
+    source 3352
+    target 3353
+    weight 2
+  ]
+  edge [
+    source 3352
+    target 3384
+    weight 2
+  ]
+  edge [
+    source 3352
+    target 3387
+    weight 2
+  ]
+  edge [
+    source 3352
+    target 3388
+    weight 2
+  ]
+  edge [
+    source 3352
+    target 3389
+    weight 2
+  ]
+  edge [
+    source 3353
+    target 3354
+    weight 1
+  ]
+  edge [
+    source 3355
+    target 3356
+    weight 1
+  ]
+  edge [
+    source 3358
+    target 3359
+    weight 2
+  ]
+  edge [
+    source 3359
+    target 3360
+    weight 1
+  ]
+  edge [
+    source 3361
+    target 3362
+    weight 2
+  ]
+  edge [
+    source 3362
+    target 3363
+    weight 1
+  ]
+  edge [
+    source 3366
+    target 3367
+    weight 1
+  ]
+  edge [
+    source 3368
+    target 3369
+    weight 2
+  ]
+  edge [
+    source 3371
+    target 3372
+    weight 1
+  ]
+  edge [
+    source 3377
+    target 3378
+    weight 1
+  ]
+  edge [
+    source 3379
+    target 3380
+    weight 2
+  ]
+  edge [
+    source 3379
+    target 3381
+    weight 2
+  ]
+  edge [
+    source 3379
+    target 3382
+    weight 2
+  ]
+  edge [
+    source 3380
+    target 3381
+    weight 2
+  ]
+  edge [
+    source 3380
+    target 3382
+    weight 2
+  ]
+  edge [
+    source 3381
+    target 3382
+    weight 2
+  ]
+  edge [
+    source 3382
+    target 3383
+    weight 1
+  ]
+  edge [
+    source 3384
+    target 3385
+    weight 1
+  ]
+  edge [
+    source 3387
+    target 3388
+    weight 2
+  ]
+  edge [
+    source 3387
+    target 3389
+    weight 2
+  ]
+  edge [
+    source 3388
+    target 3389
+    weight 2
+  ]
+  edge [
+    source 3389
+    target 3390
+    weight 1
+  ]
+  edge [
+    source 3391
+    target 3392
+    weight 1
+  ]
+  edge [
+    source 3393
+    target 3394
+    weight 2
+  ]
+  edge [
+    source 3402
+    target 3403
+    weight 2
+  ]
+  edge [
+    source 3406
+    target 3407
+    weight 1
+  ]
+  edge [
+    source 3408
+    target 3409
+    weight 2
+  ]
+  edge [
+    source 3409
+    target 3410
+    weight 1
+  ]
+  edge [
+    source 3411
+    target 3412
+    weight 1
+  ]
+  edge [
+    source 3413
+    target 3414
+    weight 1
+  ]
+  edge [
+    source 3415
+    target 3416
+    weight 2
+  ]
+  edge [
+    source 3415
+    target 3417
+    weight 2
+  ]
+  edge [
+    source 3416
+    target 3417
+    weight 2
+  ]
+  edge [
+    source 3417
+    target 3418
+    weight 1
+  ]
+  edge [
+    source 3419
+    target 3420
+    weight 1
+  ]
+  edge [
+    source 3421
+    target 3422
+    weight 2
+  ]
+  edge [
+    source 3421
+    target 3423
+    weight 2
+  ]
+  edge [
+    source 3422
+    target 3423
+    weight 2
+  ]
+  edge [
+    source 3423
+    target 3424
+    weight 1
+  ]
+  edge [
+    source 3425
+    target 3426
+    weight 1
+  ]
+  edge [
+    source 3428
+    target 3429
+    weight 4
+  ]
+  edge [
+    source 3428
+    target 3430
+    weight 4
+  ]
+  edge [
+    source 3429
+    target 3430
+    weight 2
+  ]
+  edge [
+    source 3430
+    target 3431
+    weight 1
+  ]
+  edge [
+    source 3435
+    target 3436
+    weight 2
+  ]
+  edge [
+    source 3435
+    target 3437
+    weight 2
+  ]
+  edge [
+    source 3436
+    target 3437
+    weight 2
+  ]
+  edge [
+    source 3437
+    target 3438
+    weight 1
+  ]
+  edge [
+    source 3439
+    target 3440
+    weight 1
+  ]
+  edge [
+    source 3441
+    target 3442
+    weight 1
+  ]
+  edge [
+    source 3443
+    target 3444
+    weight 4
+  ]
+  edge [
+    source 3443
+    target 3445
+    weight 4
+  ]
+  edge [
+    source 3444
+    target 3445
+    weight 4
+  ]
+  edge [
+    source 3445
+    target 3446
+    weight 1
+  ]
+  edge [
+    source 3447
+    target 3448
+    weight 1
+  ]
+  edge [
+    source 3449
+    target 3450
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3451
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3452
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3453
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3454
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3597
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3598
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3599
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3600
+    weight 2
+  ]
+  edge [
+    source 3449
+    target 3601
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3451
+    weight 4
+  ]
+  edge [
+    source 3450
+    target 3452
+    weight 4
+  ]
+  edge [
+    source 3450
+    target 3453
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3454
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3478
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3483
+    weight 1
+  ]
+  edge [
+    source 3450
+    target 3479
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3480
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3481
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3482
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3492
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3493
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3546
+    weight 6
+  ]
+  edge [
+    source 3450
+    target 3547
+    weight 4
+  ]
+  edge [
+    source 3450
+    target 3548
+    weight 2
+  ]
+  edge [
+    source 3450
+    target 3619
+    weight 1
+  ]
+  edge [
+    source 3450
+    target 3676
+    weight 2
+  ]
+  edge [
+    source 3451
+    target 3452
+    weight 4
+  ]
+  edge [
+    source 3451
+    target 3453
+    weight 2
+  ]
+  edge [
+    source 3451
+    target 3454
+    weight 2
+  ]
+  edge [
+    source 3451
+    target 3467
+    weight 2
+  ]
+  edge [
+    source 3451
+    target 3468
+    weight 2
+  ]
+  edge [
+    source 3451
+    target 3469
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3453
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3454
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3458
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3459
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3460
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3470
+    weight 1
+  ]
+  edge [
+    source 3452
+    target 3467
+    weight 4
+  ]
+  edge [
+    source 3452
+    target 3468
+    weight 4
+  ]
+  edge [
+    source 3452
+    target 3469
+    weight 6
+  ]
+  edge [
+    source 3452
+    target 3520
+    weight 1
+  ]
+  edge [
+    source 3452
+    target 3519
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3597
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3603
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3598
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3599
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3613
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3614
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3546
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3452
+    target 3501
+    weight 2
+  ]
+  edge [
+    source 3453
+    target 3454
+    weight 2
+  ]
+  edge [
+    source 3454
+    target 3455
+    weight 1
+  ]
+  edge [
+    source 3456
+    target 3457
+    weight 1
+  ]
+  edge [
+    source 3458
+    target 3459
+    weight 2
+  ]
+  edge [
+    source 3458
+    target 3460
+    weight 2
+  ]
+  edge [
+    source 3458
+    target 3570
+    weight 2
+  ]
+  edge [
+    source 3458
+    target 3571
+    weight 2
+  ]
+  edge [
+    source 3458
+    target 3572
+    weight 2
+  ]
+  edge [
+    source 3458
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3459
+    target 3460
+    weight 2
+  ]
+  edge [
+    source 3460
+    target 3461
+    weight 1
+  ]
+  edge [
+    source 3462
+    target 3463
+    weight 4
+  ]
+  edge [
+    source 3462
+    target 3464
+    weight 4
+  ]
+  edge [
+    source 3462
+    target 3465
+    weight 4
+  ]
+  edge [
+    source 3463
+    target 3464
+    weight 4
+  ]
+  edge [
+    source 3463
+    target 3465
+    weight 4
+  ]
+  edge [
+    source 3463
+    target 3692
+    weight 4
+  ]
+  edge [
+    source 3463
+    target 3635
+    weight 4
+  ]
+  edge [
+    source 3463
+    target 3636
+    weight 4
+  ]
+  edge [
+    source 3464
+    target 3465
+    weight 4
+  ]
+  edge [
+    source 3465
+    target 3466
+    weight 1
+  ]
+  edge [
+    source 3467
+    target 3468
+    weight 4
+  ]
+  edge [
+    source 3467
+    target 3469
+    weight 4
+  ]
+  edge [
+    source 3467
+    target 3519
+    weight 2
+  ]
+  edge [
+    source 3468
+    target 3469
+    weight 4
+  ]
+  edge [
+    source 3468
+    target 3519
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3519
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3597
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3603
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3598
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3599
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3656
+    weight 4
+  ]
+  edge [
+    source 3469
+    target 3657
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3658
+    weight 4
+  ]
+  edge [
+    source 3469
+    target 3659
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3660
+    weight 4
+  ]
+  edge [
+    source 3469
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3487
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3469
+    target 3708
+    weight 2
+  ]
+  edge [
+    source 3471
+    target 3472
+    weight 2
+  ]
+  edge [
+    source 3471
+    target 3542
+    weight 2
+  ]
+  edge [
+    source 3471
+    target 3545
+    weight 1
+  ]
+  edge [
+    source 3471
+    target 3543
+    weight 2
+  ]
+  edge [
+    source 3471
+    target 3544
+    weight 2
+  ]
+  edge [
+    source 3472
+    target 3521
+    weight 4
+  ]
+  edge [
+    source 3472
+    target 3524
+    weight 1
+  ]
+  edge [
+    source 3472
+    target 3522
+    weight 4
+  ]
+  edge [
+    source 3472
+    target 3523
+    weight 4
+  ]
+  edge [
+    source 3472
+    target 3537
+    weight 4
+  ]
+  edge [
+    source 3472
+    target 3538
+    weight 4
+  ]
+  edge [
+    source 3474
+    target 3475
+    weight 1
+  ]
+  edge [
+    source 3478
+    target 3479
+    weight 2
+  ]
+  edge [
+    source 3478
+    target 3480
+    weight 2
+  ]
+  edge [
+    source 3478
+    target 3481
+    weight 2
+  ]
+  edge [
+    source 3478
+    target 3482
+    weight 2
+  ]
+  edge [
+    source 3479
+    target 3480
+    weight 2
+  ]
+  edge [
+    source 3479
+    target 3481
+    weight 2
+  ]
+  edge [
+    source 3479
+    target 3482
+    weight 2
+  ]
+  edge [
+    source 3480
+    target 3481
+    weight 2
+  ]
+  edge [
+    source 3480
+    target 3482
+    weight 2
+  ]
+  edge [
+    source 3481
+    target 3482
+    weight 2
+  ]
+  edge [
+    source 3483
+    target 3552
+    weight 1
+  ]
+  edge [
+    source 3484
+    target 3485
+    weight 2
+  ]
+  edge [
+    source 3484
+    target 3705
+    weight 2
+  ]
+  edge [
+    source 3484
+    target 3707
+    weight 1
+  ]
+  edge [
+    source 3484
+    target 3706
+    weight 2
+  ]
+  edge [
+    source 3484
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3485
+    target 3486
+    weight 1
+  ]
+  edge [
+    source 3485
+    target 3506
+    weight 4
+  ]
+  edge [
+    source 3485
+    target 3507
+    weight 4
+  ]
+  edge [
+    source 3485
+    target 3516
+    weight 2
+  ]
+  edge [
+    source 3485
+    target 3517
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3488
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3489
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3490
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3487
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3488
+    target 3489
+    weight 2
+  ]
+  edge [
+    source 3488
+    target 3490
+    weight 2
+  ]
+  edge [
+    source 3489
+    target 3490
+    weight 2
+  ]
+  edge [
+    source 3490
+    target 3491
+    weight 1
+  ]
+  edge [
+    source 3492
+    target 3493
+    weight 2
+  ]
+  edge [
+    source 3493
+    target 3494
+    weight 1
+  ]
+  edge [
+    source 3495
+    target 3496
+    weight 1
+  ]
+  edge [
+    source 3497
+    target 3498
+    weight 2
+  ]
+  edge [
+    source 3497
+    target 3499
+    weight 2
+  ]
+  edge [
+    source 3498
+    target 3499
+    weight 2
+  ]
+  edge [
+    source 3499
+    target 3500
+    weight 1
+  ]
+  edge [
+    source 3499
+    target 3501
+    weight 2
+  ]
+  edge [
+    source 3499
+    target 3682
+    weight 1
+  ]
+  edge [
+    source 3499
+    target 3681
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3502
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3613
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3616
+    weight 1
+  ]
+  edge [
+    source 3501
+    target 3614
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3546
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3681
+    weight 2
+  ]
+  edge [
+    source 3501
+    target 3694
+    weight 4
+  ]
+  edge [
+    source 3501
+    target 3695
+    weight 4
+  ]
+  edge [
+    source 3501
+    target 3696
+    weight 4
+  ]
+  edge [
+    source 3504
+    target 3505
+    weight 1
+  ]
+  edge [
+    source 3506
+    target 3507
+    weight 4
+  ]
+  edge [
+    source 3507
+    target 3508
+    weight 1
+  ]
+  edge [
+    source 3507
+    target 3527
+    weight 1
+  ]
+  edge [
+    source 3509
+    target 3510
+    weight 2
+  ]
+  edge [
+    source 3509
+    target 3511
+    weight 2
+  ]
+  edge [
+    source 3509
+    target 3512
+    weight 2
+  ]
+  edge [
+    source 3510
+    target 3511
+    weight 2
+  ]
+  edge [
+    source 3510
+    target 3512
+    weight 2
+  ]
+  edge [
+    source 3510
+    target 3642
+    weight 4
+  ]
+  edge [
+    source 3510
+    target 3643
+    weight 4
+  ]
+  edge [
+    source 3511
+    target 3512
+    weight 2
+  ]
+  edge [
+    source 3512
+    target 3513
+    weight 1
+  ]
+  edge [
+    source 3514
+    target 3515
+    weight 1
+  ]
+  edge [
+    source 3516
+    target 3517
+    weight 2
+  ]
+  edge [
+    source 3517
+    target 3518
+    weight 1
+  ]
+  edge [
+    source 3521
+    target 3522
+    weight 4
+  ]
+  edge [
+    source 3521
+    target 3523
+    weight 4
+  ]
+  edge [
+    source 3522
+    target 3523
+    weight 4
+  ]
+  edge [
+    source 3525
+    target 3526
+    weight 1
+  ]
+  edge [
+    source 3528
+    target 3529
+    weight 1
+  ]
+  edge [
+    source 3530
+    target 3531
+    weight 1
+  ]
+  edge [
+    source 3532
+    target 3533
+    weight 1
+  ]
+  edge [
+    source 3534
+    target 3535
+    weight 2
+  ]
+  edge [
+    source 3535
+    target 3536
+    weight 1
+  ]
+  edge [
+    source 3537
+    target 3538
+    weight 4
+  ]
+  edge [
+    source 3537
+    target 3649
+    weight 4
+  ]
+  edge [
+    source 3537
+    target 3650
+    weight 2
+  ]
+  edge [
+    source 3538
+    target 3539
+    weight 1
+  ]
+  edge [
+    source 3540
+    target 3541
+    weight 1
+  ]
+  edge [
+    source 3542
+    target 3543
+    weight 2
+  ]
+  edge [
+    source 3542
+    target 3544
+    weight 2
+  ]
+  edge [
+    source 3543
+    target 3544
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3547
+    weight 4
+  ]
+  edge [
+    source 3546
+    target 3548
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3613
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3614
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3620
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3622
+    weight 1
+  ]
+  edge [
+    source 3546
+    target 3621
+    weight 2
+  ]
+  edge [
+    source 3546
+    target 3676
+    weight 2
+  ]
+  edge [
+    source 3547
+    target 3548
+    weight 2
+  ]
+  edge [
+    source 3547
+    target 3676
+    weight 2
+  ]
+  edge [
+    source 3548
+    target 3549
+    weight 1
+  ]
+  edge [
+    source 3550
+    target 3551
+    weight 1
+  ]
+  edge [
+    source 3553
+    target 3554
+    weight 2
+  ]
+  edge [
+    source 3553
+    target 3555
+    weight 2
+  ]
+  edge [
+    source 3554
+    target 3555
+    weight 2
+  ]
+  edge [
+    source 3555
+    target 3556
+    weight 1
+  ]
+  edge [
+    source 3557
+    target 3558
+    weight 2
+  ]
+  edge [
+    source 3557
+    target 3559
+    weight 2
+  ]
+  edge [
+    source 3558
+    target 3559
+    weight 2
+  ]
+  edge [
+    source 3559
+    target 3560
+    weight 1
+  ]
+  edge [
+    source 3561
+    target 3562
+    weight 2
+  ]
+  edge [
+    source 3561
+    target 3563
+    weight 2
+  ]
+  edge [
+    source 3561
+    target 3564
+    weight 2
+  ]
+  edge [
+    source 3562
+    target 3563
+    weight 2
+  ]
+  edge [
+    source 3562
+    target 3564
+    weight 2
+  ]
+  edge [
+    source 3563
+    target 3564
+    weight 2
+  ]
+  edge [
+    source 3564
+    target 3565
+    weight 1
+  ]
+  edge [
+    source 3566
+    target 3567
+    weight 1
+  ]
+  edge [
+    source 3568
+    target 3569
+    weight 1
+  ]
+  edge [
+    source 3570
+    target 3571
+    weight 2
+  ]
+  edge [
+    source 3570
+    target 3572
+    weight 2
+  ]
+  edge [
+    source 3570
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3571
+    target 3572
+    weight 2
+  ]
+  edge [
+    source 3571
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3572
+    target 3573
+    weight 2
+  ]
+  edge [
+    source 3573
+    target 3574
+    weight 1
+  ]
+  edge [
+    source 3573
+    target 3613
+    weight 2
+  ]
+  edge [
+    source 3573
+    target 3614
+    weight 2
+  ]
+  edge [
+    source 3573
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 3573
+    target 3712
+    weight 1
+  ]
+  edge [
+    source 3575
+    target 3576
+    weight 2
+  ]
+  edge [
+    source 3576
+    target 3577
+    weight 1
+  ]
+  edge [
+    source 3578
+    target 3579
+    weight 2
+  ]
+  edge [
+    source 3578
+    target 3580
+    weight 2
+  ]
+  edge [
+    source 3578
+    target 3581
+    weight 2
+  ]
+  edge [
+    source 3579
+    target 3580
+    weight 2
+  ]
+  edge [
+    source 3579
+    target 3581
+    weight 2
+  ]
+  edge [
+    source 3580
+    target 3581
+    weight 2
+  ]
+  edge [
+    source 3581
+    target 3582
+    weight 1
+  ]
+  edge [
+    source 3583
+    target 3584
+    weight 2
+  ]
+  edge [
+    source 3583
+    target 3585
+    weight 2
+  ]
+  edge [
+    source 3583
+    target 3586
+    weight 2
+  ]
+  edge [
+    source 3584
+    target 3585
+    weight 2
+  ]
+  edge [
+    source 3584
+    target 3586
+    weight 2
+  ]
+  edge [
+    source 3585
+    target 3586
+    weight 2
+  ]
+  edge [
+    source 3586
+    target 3587
+    weight 1
+  ]
+  edge [
+    source 3588
+    target 3589
+    weight 1
+  ]
+  edge [
+    source 3590
+    target 3591
+    weight 2
+  ]
+  edge [
+    source 3590
+    target 3592
+    weight 2
+  ]
+  edge [
+    source 3590
+    target 3593
+    weight 2
+  ]
+  edge [
+    source 3591
+    target 3592
+    weight 2
+  ]
+  edge [
+    source 3591
+    target 3593
+    weight 2
+  ]
+  edge [
+    source 3592
+    target 3593
+    weight 2
+  ]
+  edge [
+    source 3593
+    target 3594
+    weight 1
+  ]
+  edge [
+    source 3595
+    target 3596
+    weight 1
+  ]
+  edge [
+    source 3597
+    target 3598
+    weight 4
+  ]
+  edge [
+    source 3597
+    target 3599
+    weight 4
+  ]
+  edge [
+    source 3597
+    target 3600
+    weight 2
+  ]
+  edge [
+    source 3597
+    target 3601
+    weight 2
+  ]
+  edge [
+    source 3597
+    target 3603
+    weight 2
+  ]
+  edge [
+    source 3597
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 3597
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3597
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3597
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3599
+    weight 4
+  ]
+  edge [
+    source 3598
+    target 3600
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3601
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3603
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3598
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3600
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3601
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3603
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3599
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3600
+    target 3601
+    weight 2
+  ]
+  edge [
+    source 3603
+    target 3604
+    weight 2
+  ]
+  edge [
+    source 3603
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3603
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3603
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3604
+    target 3605
+    weight 2
+  ]
+  edge [
+    source 3604
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3604
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3605
+    target 3606
+    weight 2
+  ]
+  edge [
+    source 3605
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3606
+    target 3607
+    weight 2
+  ]
+  edge [
+    source 3607
+    target 3608
+    weight 1
+  ]
+  edge [
+    source 3609
+    target 3610
+    weight 1
+  ]
+  edge [
+    source 3611
+    target 3612
+    weight 1
+  ]
+  edge [
+    source 3613
+    target 3614
+    weight 2
+  ]
+  edge [
+    source 3613
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 3614
+    target 3615
+    weight 2
+  ]
+  edge [
+    source 3617
+    target 3618
+    weight 1
+  ]
+  edge [
+    source 3620
+    target 3621
+    weight 2
+  ]
+  edge [
+    source 3623
+    target 3624
+    weight 1
+  ]
+  edge [
+    source 3625
+    target 3626
+    weight 1
+  ]
+  edge [
+    source 3627
+    target 3628
+    weight 1
+  ]
+  edge [
+    source 3629
+    target 3630
+    weight 1
+  ]
+  edge [
+    source 3631
+    target 3632
+    weight 2
+  ]
+  edge [
+    source 3634
+    target 3635
+    weight 4
+  ]
+  edge [
+    source 3634
+    target 3636
+    weight 4
+  ]
+  edge [
+    source 3635
+    target 3636
+    weight 8
+  ]
+  edge [
+    source 3635
+    target 3692
+    weight 4
+  ]
+  edge [
+    source 3635
+    target 4090
+    weight 2
+  ]
+  edge [
+    source 3635
+    target 4091
+    weight 2
+  ]
+  edge [
+    source 3636
+    target 3637
+    weight 1
+  ]
+  edge [
+    source 3636
+    target 3692
+    weight 4
+  ]
+  edge [
+    source 3636
+    target 3693
+    weight 1
+  ]
+  edge [
+    source 3638
+    target 3639
+    weight 1
+  ]
+  edge [
+    source 3640
+    target 3641
+    weight 1
+  ]
+  edge [
+    source 3642
+    target 3643
+    weight 4
+  ]
+  edge [
+    source 3643
+    target 3644
+    weight 1
+  ]
+  edge [
+    source 3645
+    target 3646
+    weight 1
+  ]
+  edge [
+    source 3647
+    target 3648
+    weight 1
+  ]
+  edge [
+    source 3649
+    target 3650
+    weight 4
+  ]
+  edge [
+    source 3650
+    target 3651
+    weight 1
+  ]
+  edge [
+    source 3652
+    target 3653
+    weight 1
+  ]
+  edge [
+    source 3654
+    target 3655
+    weight 1
+  ]
+  edge [
+    source 3656
+    target 3657
+    weight 2
+  ]
+  edge [
+    source 3656
+    target 3658
+    weight 4
+  ]
+  edge [
+    source 3656
+    target 3659
+    weight 2
+  ]
+  edge [
+    source 3656
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 3656
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 3656
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3656
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3656
+    target 3708
+    weight 2
+  ]
+  edge [
+    source 3657
+    target 3658
+    weight 2
+  ]
+  edge [
+    source 3657
+    target 3659
+    weight 2
+  ]
+  edge [
+    source 3657
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 3657
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 3657
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3657
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3658
+    target 3659
+    weight 2
+  ]
+  edge [
+    source 3658
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 3658
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 3658
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3658
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3658
+    target 3708
+    weight 2
+  ]
+  edge [
+    source 3659
+    target 3660
+    weight 2
+  ]
+  edge [
+    source 3659
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 3659
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3659
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3661
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3667
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3660
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3661
+    target 3662
+    weight 2
+  ]
+  edge [
+    source 3661
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3662
+    target 3663
+    weight 2
+  ]
+  edge [
+    source 3663
+    target 3664
+    weight 1
+  ]
+  edge [
+    source 3665
+    target 3666
+    weight 1
+  ]
+  edge [
+    source 3667
+    target 3668
+    weight 2
+  ]
+  edge [
+    source 3667
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 3667
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 3667
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3667
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3668
+    target 3669
+    weight 2
+  ]
+  edge [
+    source 3668
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 3668
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3668
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3669
+    target 3670
+    weight 2
+  ]
+  edge [
+    source 3669
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3669
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3670
+    target 3671
+    weight 2
+  ]
+  edge [
+    source 3670
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3671
+    target 3672
+    weight 2
+  ]
+  edge [
+    source 3674
+    target 3675
+    weight 1
+  ]
+  edge [
+    source 3676
+    target 3677
+    weight 1
+  ]
+  edge [
+    source 3679
+    target 3680
+    weight 1
+  ]
+  edge [
+    source 3683
+    target 3684
+    weight 1
+  ]
+  edge [
+    source 3685
+    target 3686
+    weight 1
+  ]
+  edge [
+    source 3688
+    target 3689
+    weight 1
+  ]
+  edge [
+    source 3690
+    target 3691
+    weight 1
+  ]
+  edge [
+    source 3694
+    target 3695
+    weight 4
+  ]
+  edge [
+    source 3694
+    target 3696
+    weight 4
+  ]
+  edge [
+    source 3695
+    target 3696
+    weight 4
+  ]
+  edge [
+    source 3696
+    target 3697
+    weight 1
+  ]
+  edge [
+    source 3698
+    target 3699
+    weight 1
+  ]
+  edge [
+    source 3700
+    target 3701
+    weight 2
+  ]
+  edge [
+    source 3701
+    target 3702
+    weight 1
+  ]
+  edge [
+    source 3703
+    target 3704
+    weight 1
+  ]
+  edge [
+    source 3705
+    target 3706
+    weight 2
+  ]
+  edge [
+    source 3710
+    target 3711
+    weight 1
+  ]
+  edge [
+    source 3713
+    target 3714
+    weight 1
+  ]
+  edge [
+    source 3715
+    target 3716
+    weight 1
+  ]
+  edge [
+    source 3721
+    target 3722
+    weight 1
+  ]
+  edge [
+    source 3724
+    target 3725
+    weight 1
+  ]
+  edge [
+    source 3727
+    target 3728
+    weight 1
+  ]
+  edge [
+    source 3731
+    target 3732
+    weight 1
+  ]
+  edge [
+    source 3735
+    target 3736
+    weight 2
+  ]
+  edge [
+    source 3735
+    target 3737
+    weight 2
+  ]
+  edge [
+    source 3735
+    target 3738
+    weight 2
+  ]
+  edge [
+    source 3735
+    target 3739
+    weight 2
+  ]
+  edge [
+    source 3736
+    target 3737
+    weight 2
+  ]
+  edge [
+    source 3736
+    target 3738
+    weight 2
+  ]
+  edge [
+    source 3736
+    target 3739
+    weight 2
+  ]
+  edge [
+    source 3737
+    target 3738
+    weight 2
+  ]
+  edge [
+    source 3737
+    target 3739
+    weight 2
+  ]
+  edge [
+    source 3738
+    target 3739
+    weight 2
+  ]
+  edge [
+    source 3739
+    target 3740
+    weight 1
+  ]
+  edge [
+    source 3742
+    target 3743
+    weight 1
+  ]
+  edge [
+    source 3744
+    target 3745
+    weight 1
+  ]
+  edge [
+    source 3747
+    target 3748
+    weight 1
+  ]
+  edge [
+    source 3749
+    target 3750
+    weight 1
+  ]
+  edge [
+    source 3753
+    target 3754
+    weight 1
+  ]
+  edge [
+    source 3757
+    target 3758
+    weight 1
+  ]
+  edge [
+    source 3759
+    target 3760
+    weight 8
+  ]
+  edge [
+    source 3763
+    target 3764
+    weight 2
+  ]
+  edge [
+    source 3766
+    target 3767
+    weight 1
+  ]
+  edge [
+    source 3768
+    target 3769
+    weight 1
+  ]
+  edge [
+    source 3772
+    target 3773
+    weight 2
+  ]
+  edge [
+    source 3772
+    target 3774
+    weight 2
+  ]
+  edge [
+    source 3772
+    target 3775
+    weight 2
+  ]
+  edge [
+    source 3772
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 3772
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 3773
+    target 3774
+    weight 2
+  ]
+  edge [
+    source 3773
+    target 3775
+    weight 2
+  ]
+  edge [
+    source 3773
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 3773
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 3774
+    target 3775
+    weight 2
+  ]
+  edge [
+    source 3774
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 3774
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 3775
+    target 3776
+    weight 2
+  ]
+  edge [
+    source 3775
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 3776
+    target 3777
+    weight 2
+  ]
+  edge [
+    source 3777
+    target 3778
+    weight 1
+  ]
+  edge [
+    source 3781
+    target 3782
+    weight 1
+  ]
+  edge [
+    source 3784
+    target 3785
+    weight 1
+  ]
+  edge [
+    source 3786
+    target 3787
+    weight 1
+  ]
+  edge [
+    source 3789
+    target 3790
+    weight 2
+  ]
+  edge [
+    source 3790
+    target 3791
+    weight 1
+  ]
+  edge [
+    source 3792
+    target 3793
+    weight 4
+  ]
+  edge [
+    source 3796
+    target 3797
+    weight 1
+  ]
+  edge [
+    source 3800
+    target 3801
+    weight 1
+  ]
+  edge [
+    source 3802
+    target 3803
+    weight 1
+  ]
+  edge [
+    source 3804
+    target 3805
+    weight 4
+  ]
+  edge [
+    source 3809
+    target 3810
+    weight 1
+  ]
+  edge [
+    source 3811
+    target 3812
+    weight 1
+  ]
+  edge [
+    source 3811
+    target 3845
+    weight 1
+  ]
+  edge [
+    source 3815
+    target 3823
+    weight 2
+  ]
+  edge [
+    source 3815
+    target 3825
+    weight 2
+  ]
+  edge [
+    source 3817
+    target 3818
+    weight 2
+  ]
+  edge [
+    source 3817
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 3817
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 3817
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 3818
+    target 3819
+    weight 2
+  ]
+  edge [
+    source 3818
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 3818
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 3819
+    target 3820
+    weight 2
+  ]
+  edge [
+    source 3819
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 3820
+    target 3821
+    weight 2
+  ]
+  edge [
+    source 3823
+    target 3824
+    weight 1
+  ]
+  edge [
+    source 3827
+    target 3828
+    weight 1
+  ]
+  edge [
+    source 3831
+    target 3832
+    weight 1
+  ]
+  edge [
+    source 3833
+    target 3834
+    weight 1
+  ]
+  edge [
+    source 3835
+    target 3836
+    weight 1
+  ]
+  edge [
+    source 3837
+    target 3838
+    weight 1
+  ]
+  edge [
+    source 3843
+    target 3844
+    weight 1
+  ]
+  edge [
+    source 3846
+    target 3847
+    weight 1
+  ]
+  edge [
+    source 3848
+    target 3849
+    weight 1
+  ]
+  edge [
+    source 3851
+    target 3852
+    weight 1
+  ]
+  edge [
+    source 3853
+    target 3854
+    weight 1
+  ]
+  edge [
+    source 3856
+    target 3857
+    weight 1
+  ]
+  edge [
+    source 3858
+    target 3859
+    weight 2
+  ]
+  edge [
+    source 3858
+    target 3860
+    weight 2
+  ]
+  edge [
+    source 3859
+    target 3860
+    weight 2
+  ]
+  edge [
+    source 3860
+    target 3861
+    weight 1
+  ]
+  edge [
+    source 3862
+    target 3863
+    weight 1
+  ]
+  edge [
+    source 3864
+    target 3865
+    weight 2
+  ]
+  edge [
+    source 3864
+    target 3866
+    weight 2
+  ]
+  edge [
+    source 3865
+    target 3866
+    weight 2
+  ]
+  edge [
+    source 3866
+    target 3867
+    weight 1
+  ]
+  edge [
+    source 3868
+    target 3869
+    weight 2
+  ]
+  edge [
+    source 3869
+    target 3870
+    weight 1
+  ]
+  edge [
+    source 3871
+    target 3872
+    weight 2
+  ]
+  edge [
+    source 3871
+    target 3874
+    weight 4
+  ]
+  edge [
+    source 3872
+    target 3936
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3912
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3945
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3878
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 4000
+    weight 4
+  ]
+  edge [
+    source 3872
+    target 4002
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3967
+    weight 1
+  ]
+  edge [
+    source 3872
+    target 4003
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 4004
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3874
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 4009
+    weight 1
+  ]
+  edge [
+    source 3872
+    target 4007
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3998
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 3899
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 4029
+    weight 2
+  ]
+  edge [
+    source 3872
+    target 4030
+    weight 2
+  ]
+  edge [
+    source 3873
+    target 3874
+    weight 1
+  ]
+  edge [
+    source 3874
+    target 3898
+    weight 2
+  ]
+  edge [
+    source 3874
+    target 3899
+    weight 2
+  ]
+  edge [
+    source 3874
+    target 3900
+    weight 2
+  ]
+  edge [
+    source 3874
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 3874
+    target 4004
+    weight 2
+  ]
+  edge [
+    source 3874
+    target 4000
+    weight 2
+  ]
+  edge [
+    source 3875
+    target 3876
+    weight 2
+  ]
+  edge [
+    source 3875
+    target 3877
+    weight 2
+  ]
+  edge [
+    source 3875
+    target 3878
+    weight 2
+  ]
+  edge [
+    source 3876
+    target 3877
+    weight 2
+  ]
+  edge [
+    source 3876
+    target 3878
+    weight 2
+  ]
+  edge [
+    source 3877
+    target 3878
+    weight 2
+  ]
+  edge [
+    source 3877
+    target 4059
+    weight 2
+  ]
+  edge [
+    source 3877
+    target 4060
+    weight 2
+  ]
+  edge [
+    source 3878
+    target 3879
+    weight 1
+  ]
+  edge [
+    source 3878
+    target 3885
+    weight 2
+  ]
+  edge [
+    source 3878
+    target 3889
+    weight 1
+  ]
+  edge [
+    source 3878
+    target 3886
+    weight 2
+  ]
+  edge [
+    source 3878
+    target 3887
+    weight 2
+  ]
+  edge [
+    source 3878
+    target 3888
+    weight 2
+  ]
+  edge [
+    source 3878
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 3878
+    target 4000
+    weight 2
+  ]
+  edge [
+    source 3880
+    target 3881
+    weight 4
+  ]
+  edge [
+    source 3880
+    target 3882
+    weight 2
+  ]
+  edge [
+    source 3880
+    target 3883
+    weight 2
+  ]
+  edge [
+    source 3881
+    target 3882
+    weight 2
+  ]
+  edge [
+    source 3881
+    target 3883
+    weight 2
+  ]
+  edge [
+    source 3881
+    target 4015
+    weight 1
+  ]
+  edge [
+    source 3881
+    target 4050
+    weight 2
+  ]
+  edge [
+    source 3881
+    target 4051
+    weight 2
+  ]
+  edge [
+    source 3882
+    target 3883
+    weight 2
+  ]
+  edge [
+    source 3883
+    target 3884
+    weight 1
+  ]
+  edge [
+    source 3885
+    target 3886
+    weight 2
+  ]
+  edge [
+    source 3885
+    target 3887
+    weight 2
+  ]
+  edge [
+    source 3885
+    target 3888
+    weight 2
+  ]
+  edge [
+    source 3886
+    target 3887
+    weight 2
+  ]
+  edge [
+    source 3886
+    target 3888
+    weight 2
+  ]
+  edge [
+    source 3887
+    target 3888
+    weight 2
+  ]
+  edge [
+    source 3890
+    target 3891
+    weight 2
+  ]
+  edge [
+    source 3890
+    target 3892
+    weight 2
+  ]
+  edge [
+    source 3890
+    target 3893
+    weight 2
+  ]
+  edge [
+    source 3890
+    target 3894
+    weight 2
+  ]
+  edge [
+    source 3891
+    target 3892
+    weight 2
+  ]
+  edge [
+    source 3891
+    target 3893
+    weight 2
+  ]
+  edge [
+    source 3891
+    target 3894
+    weight 2
+  ]
+  edge [
+    source 3892
+    target 3893
+    weight 2
+  ]
+  edge [
+    source 3892
+    target 3894
+    weight 2
+  ]
+  edge [
+    source 3893
+    target 3894
+    weight 2
+  ]
+  edge [
+    source 3894
+    target 3895
+    weight 1
+  ]
+  edge [
+    source 3896
+    target 3897
+    weight 1
+  ]
+  edge [
+    source 3898
+    target 3899
+    weight 2
+  ]
+  edge [
+    source 3898
+    target 3900
+    weight 2
+  ]
+  edge [
+    source 3898
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 3899
+    target 3900
+    weight 2
+  ]
+  edge [
+    source 3899
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 3899
+    target 4029
+    weight 2
+  ]
+  edge [
+    source 3899
+    target 4030
+    weight 2
+  ]
+  edge [
+    source 3900
+    target 3901
+    weight 2
+  ]
+  edge [
+    source 3901
+    target 3902
+    weight 1
+  ]
+  edge [
+    source 3901
+    target 4000
+    weight 2
+  ]
+  edge [
+    source 3901
+    target 4016
+    weight 4
+  ]
+  edge [
+    source 3901
+    target 4017
+    weight 2
+  ]
+  edge [
+    source 3901
+    target 4019
+    weight 2
+  ]
+  edge [
+    source 3903
+    target 3904
+    weight 1
+  ]
+  edge [
+    source 3905
+    target 3906
+    weight 1
+  ]
+  edge [
+    source 3907
+    target 3908
+    weight 2
+  ]
+  edge [
+    source 3907
+    target 3909
+    weight 2
+  ]
+  edge [
+    source 3908
+    target 3909
+    weight 2
+  ]
+  edge [
+    source 3909
+    target 3910
+    weight 1
+  ]
+  edge [
+    source 3911
+    target 3912
+    weight 2
+  ]
+  edge [
+    source 3912
+    target 3913
+    weight 1
+  ]
+  edge [
+    source 3912
+    target 3936
+    weight 2
+  ]
+  edge [
+    source 3912
+    target 3937
+    weight 1
+  ]
+  edge [
+    source 3914
+    target 3915
+    weight 2
+  ]
+  edge [
+    source 3914
+    target 3916
+    weight 2
+  ]
+  edge [
+    source 3914
+    target 3917
+    weight 2
+  ]
+  edge [
+    source 3914
+    target 3918
+    weight 2
+  ]
+  edge [
+    source 3915
+    target 3916
+    weight 2
+  ]
+  edge [
+    source 3915
+    target 3917
+    weight 2
+  ]
+  edge [
+    source 3915
+    target 3918
+    weight 2
+  ]
+  edge [
+    source 3916
+    target 3917
+    weight 2
+  ]
+  edge [
+    source 3916
+    target 3918
+    weight 2
+  ]
+  edge [
+    source 3917
+    target 3918
+    weight 2
+  ]
+  edge [
+    source 3918
+    target 3919
+    weight 1
+  ]
+  edge [
+    source 3920
+    target 3921
+    weight 1
+  ]
+  edge [
+    source 3922
+    target 3923
+    weight 1
+  ]
+  edge [
+    source 3924
+    target 3925
+    weight 1
+  ]
+  edge [
+    source 3926
+    target 3927
+    weight 1
+  ]
+  edge [
+    source 3928
+    target 3929
+    weight 1
+  ]
+  edge [
+    source 3932
+    target 3933
+    weight 2
+  ]
+  edge [
+    source 3932
+    target 3934
+    weight 2
+  ]
+  edge [
+    source 3933
+    target 3934
+    weight 2
+  ]
+  edge [
+    source 3934
+    target 3935
+    weight 1
+  ]
+  edge [
+    source 3939
+    target 3940
+    weight 1
+  ]
+  edge [
+    source 3941
+    target 3942
+    weight 2
+  ]
+  edge [
+    source 3941
+    target 3943
+    weight 2
+  ]
+  edge [
+    source 3942
+    target 3943
+    weight 2
+  ]
+  edge [
+    source 3943
+    target 3944
+    weight 1
+  ]
+  edge [
+    source 3945
+    target 4055
+    weight 2
+  ]
+  edge [
+    source 3945
+    target 4056
+    weight 2
+  ]
+  edge [
+    source 3947
+    target 3948
+    weight 2
+  ]
+  edge [
+    source 3947
+    target 3949
+    weight 2
+  ]
+  edge [
+    source 3947
+    target 3950
+    weight 2
+  ]
+  edge [
+    source 3947
+    target 3962
+    weight 2
+  ]
+  edge [
+    source 3947
+    target 4012
+    weight 2
+  ]
+  edge [
+    source 3947
+    target 4013
+    weight 2
+  ]
+  edge [
+    source 3948
+    target 3949
+    weight 2
+  ]
+  edge [
+    source 3948
+    target 3950
+    weight 2
+  ]
+  edge [
+    source 3949
+    target 3950
+    weight 2
+  ]
+  edge [
+    source 3950
+    target 3951
+    weight 1
+  ]
+  edge [
+    source 3952
+    target 3953
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3954
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3955
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3956
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3957
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3958
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3952
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3954
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3955
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3956
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3957
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3958
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3953
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3954
+    target 3955
+    weight 2
+  ]
+  edge [
+    source 3954
+    target 3956
+    weight 2
+  ]
+  edge [
+    source 3954
+    target 3957
+    weight 2
+  ]
+  edge [
+    source 3954
+    target 3958
+    weight 2
+  ]
+  edge [
+    source 3954
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3954
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3955
+    target 3956
+    weight 2
+  ]
+  edge [
+    source 3955
+    target 3957
+    weight 2
+  ]
+  edge [
+    source 3955
+    target 3958
+    weight 2
+  ]
+  edge [
+    source 3955
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3955
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3956
+    target 3957
+    weight 2
+  ]
+  edge [
+    source 3956
+    target 3958
+    weight 2
+  ]
+  edge [
+    source 3956
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3956
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3957
+    target 3958
+    weight 2
+  ]
+  edge [
+    source 3957
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3957
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3958
+    target 3959
+    weight 2
+  ]
+  edge [
+    source 3958
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3959
+    target 3960
+    weight 2
+  ]
+  edge [
+    source 3960
+    target 3961
+    weight 1
+  ]
+  edge [
+    source 3962
+    target 3963
+    weight 1
+  ]
+  edge [
+    source 3964
+    target 3965
+    weight 4
+  ]
+  edge [
+    source 3964
+    target 3966
+    weight 2
+  ]
+  edge [
+    source 3965
+    target 3966
+    weight 2
+  ]
+  edge [
+    source 3965
+    target 4049
+    weight 1
+  ]
+  edge [
+    source 3966
+    target 3967
+    weight 1
+  ]
+  edge [
+    source 3968
+    target 3969
+    weight 2
+  ]
+  edge [
+    source 3968
+    target 3970
+    weight 2
+  ]
+  edge [
+    source 3968
+    target 3971
+    weight 2
+  ]
+  edge [
+    source 3968
+    target 3972
+    weight 2
+  ]
+  edge [
+    source 3969
+    target 3970
+    weight 2
+  ]
+  edge [
+    source 3969
+    target 3971
+    weight 2
+  ]
+  edge [
+    source 3969
+    target 3972
+    weight 2
+  ]
+  edge [
+    source 3970
+    target 3971
+    weight 2
+  ]
+  edge [
+    source 3970
+    target 3972
+    weight 2
+  ]
+  edge [
+    source 3971
+    target 3972
+    weight 2
+  ]
+  edge [
+    source 3972
+    target 3973
+    weight 1
+  ]
+  edge [
+    source 3974
+    target 3975
+    weight 2
+  ]
+  edge [
+    source 3974
+    target 3976
+    weight 2
+  ]
+  edge [
+    source 3974
+    target 3977
+    weight 2
+  ]
+  edge [
+    source 3974
+    target 3978
+    weight 2
+  ]
+  edge [
+    source 3974
+    target 3979
+    weight 2
+  ]
+  edge [
+    source 3974
+    target 3980
+    weight 2
+  ]
+  edge [
+    source 3975
+    target 3976
+    weight 2
+  ]
+  edge [
+    source 3975
+    target 3977
+    weight 2
+  ]
+  edge [
+    source 3975
+    target 3978
+    weight 2
+  ]
+  edge [
+    source 3975
+    target 3979
+    weight 2
+  ]
+  edge [
+    source 3975
+    target 3980
+    weight 2
+  ]
+  edge [
+    source 3976
+    target 3977
+    weight 2
+  ]
+  edge [
+    source 3976
+    target 3978
+    weight 2
+  ]
+  edge [
+    source 3976
+    target 3979
+    weight 2
+  ]
+  edge [
+    source 3976
+    target 3980
+    weight 2
+  ]
+  edge [
+    source 3977
+    target 3978
+    weight 2
+  ]
+  edge [
+    source 3977
+    target 3979
+    weight 2
+  ]
+  edge [
+    source 3977
+    target 3980
+    weight 2
+  ]
+  edge [
+    source 3978
+    target 3979
+    weight 2
+  ]
+  edge [
+    source 3978
+    target 3980
+    weight 2
+  ]
+  edge [
+    source 3979
+    target 3980
+    weight 2
+  ]
+  edge [
+    source 3980
+    target 3981
+    weight 1
+  ]
+  edge [
+    source 3982
+    target 3983
+    weight 2
+  ]
+  edge [
+    source 3983
+    target 3984
+    weight 1
+  ]
+  edge [
+    source 3985
+    target 3986
+    weight 1
+  ]
+  edge [
+    source 3987
+    target 3988
+    weight 1
+  ]
+  edge [
+    source 3989
+    target 3990
+    weight 2
+  ]
+  edge [
+    source 3990
+    target 3991
+    weight 1
+  ]
+  edge [
+    source 3990
+    target 3992
+    weight 2
+  ]
+  edge [
+    source 3990
+    target 3993
+    weight 2
+  ]
+  edge [
+    source 3992
+    target 3993
+    weight 2
+  ]
+  edge [
+    source 3993
+    target 3994
+    weight 1
+  ]
+  edge [
+    source 3995
+    target 3996
+    weight 4
+  ]
+  edge [
+    source 3996
+    target 3997
+    weight 1
+  ]
+  edge [
+    source 3996
+    target 4021
+    weight 1
+  ]
+  edge [
+    source 3998
+    target 4007
+    weight 2
+  ]
+  edge [
+    source 4000
+    target 4001
+    weight 1
+  ]
+  edge [
+    source 4000
+    target 4004
+    weight 2
+  ]
+  edge [
+    source 4000
+    target 4005
+    weight 1
+  ]
+  edge [
+    source 4002
+    target 4003
+    weight 2
+  ]
+  edge [
+    source 4006
+    target 4007
+    weight 2
+  ]
+  edge [
+    source 4010
+    target 4011
+    weight 1
+  ]
+  edge [
+    source 4012
+    target 4013
+    weight 2
+  ]
+  edge [
+    source 4013
+    target 4014
+    weight 1
+  ]
+  edge [
+    source 4016
+    target 4017
+    weight 2
+  ]
+  edge [
+    source 4016
+    target 4019
+    weight 2
+  ]
+  edge [
+    source 4017
+    target 4018
+    weight 1
+  ]
+  edge [
+    source 4019
+    target 4020
+    weight 1
+  ]
+  edge [
+    source 4022
+    target 4023
+    weight 2
+  ]
+  edge [
+    source 4022
+    target 4024
+    weight 2
+  ]
+  edge [
+    source 4022
+    target 4025
+    weight 2
+  ]
+  edge [
+    source 4023
+    target 4024
+    weight 2
+  ]
+  edge [
+    source 4023
+    target 4025
+    weight 2
+  ]
+  edge [
+    source 4024
+    target 4025
+    weight 2
+  ]
+  edge [
+    source 4025
+    target 4026
+    weight 1
+  ]
+  edge [
+    source 4027
+    target 4028
+    weight 1
+  ]
+  edge [
+    source 4029
+    target 4030
+    weight 2
+  ]
+  edge [
+    source 4030
+    target 4031
+    weight 1
+  ]
+  edge [
+    source 4032
+    target 4033
+    weight 1
+  ]
+  edge [
+    source 4034
+    target 4035
+    weight 1
+  ]
+  edge [
+    source 4036
+    target 4037
+    weight 2
+  ]
+  edge [
+    source 4036
+    target 4038
+    weight 2
+  ]
+  edge [
+    source 4037
+    target 4038
+    weight 2
+  ]
+  edge [
+    source 4038
+    target 4039
+    weight 1
+  ]
+  edge [
+    source 4040
+    target 4041
+    weight 1
+  ]
+  edge [
+    source 4042
+    target 4043
+    weight 1
+  ]
+  edge [
+    source 4044
+    target 4045
+    weight 2
+  ]
+  edge [
+    source 4044
+    target 4046
+    weight 2
+  ]
+  edge [
+    source 4044
+    target 4047
+    weight 2
+  ]
+  edge [
+    source 4045
+    target 4046
+    weight 2
+  ]
+  edge [
+    source 4045
+    target 4047
+    weight 2
+  ]
+  edge [
+    source 4046
+    target 4047
+    weight 2
+  ]
+  edge [
+    source 4047
+    target 4048
+    weight 1
+  ]
+  edge [
+    source 4050
+    target 4051
+    weight 2
+  ]
+  edge [
+    source 4051
+    target 4052
+    weight 1
+  ]
+  edge [
+    source 4053
+    target 4054
+    weight 1
+  ]
+  edge [
+    source 4055
+    target 4056
+    weight 2
+  ]
+  edge [
+    source 4056
+    target 4057
+    weight 1
+  ]
+  edge [
+    source 4059
+    target 4060
+    weight 2
+  ]
+  edge [
+    source 4060
+    target 4061
+    weight 1
+  ]
+  edge [
+    source 4062
+    target 4063
+    weight 2
+  ]
+  edge [
+    source 4062
+    target 4064
+    weight 2
+  ]
+  edge [
+    source 4062
+    target 4065
+    weight 2
+  ]
+  edge [
+    source 4062
+    target 4066
+    weight 2
+  ]
+  edge [
+    source 4062
+    target 4067
+    weight 2
+  ]
+  edge [
+    source 4063
+    target 4064
+    weight 2
+  ]
+  edge [
+    source 4063
+    target 4065
+    weight 2
+  ]
+  edge [
+    source 4063
+    target 4066
+    weight 2
+  ]
+  edge [
+    source 4063
+    target 4067
+    weight 2
+  ]
+  edge [
+    source 4064
+    target 4065
+    weight 2
+  ]
+  edge [
+    source 4064
+    target 4066
+    weight 2
+  ]
+  edge [
+    source 4064
+    target 4067
+    weight 2
+  ]
+  edge [
+    source 4065
+    target 4066
+    weight 2
+  ]
+  edge [
+    source 4065
+    target 4067
+    weight 2
+  ]
+  edge [
+    source 4066
+    target 4067
+    weight 2
+  ]
+  edge [
+    source 4067
+    target 4068
+    weight 1
+  ]
+  edge [
+    source 4069
+    target 4070
+    weight 1
+  ]
+  edge [
+    source 4069
+    target 4097
+    weight 1
+  ]
+  edge [
+    source 4069
+    target 4104
+    weight 1
+  ]
+  edge [
+    source 4069
+    target 4106
+    weight 1
+  ]
+  edge [
+    source 4071
+    target 4072
+    weight 1
+  ]
+  edge [
+    source 4077
+    target 4078
+    weight 1
+  ]
+  edge [
+    source 4079
+    target 4080
+    weight 2
+  ]
+  edge [
+    source 4079
+    target 4081
+    weight 2
+  ]
+  edge [
+    source 4079
+    target 4082
+    weight 2
+  ]
+  edge [
+    source 4079
+    target 4083
+    weight 2
+  ]
+  edge [
+    source 4080
+    target 4081
+    weight 2
+  ]
+  edge [
+    source 4080
+    target 4082
+    weight 2
+  ]
+  edge [
+    source 4080
+    target 4083
+    weight 2
+  ]
+  edge [
+    source 4081
+    target 4082
+    weight 2
+  ]
+  edge [
+    source 4081
+    target 4083
+    weight 2
+  ]
+  edge [
+    source 4082
+    target 4083
+    weight 2
+  ]
+  edge [
+    source 4083
+    target 4084
+    weight 1
+  ]
+  edge [
+    source 4085
+    target 4086
+    weight 4
+  ]
+  edge [
+    source 4085
+    target 4087
+    weight 4
+  ]
+  edge [
+    source 4086
+    target 4087
+    weight 4
+  ]
+  edge [
+    source 4087
+    target 4088
+    weight 1
+  ]
+  edge [
+    source 4087
+    target 4089
+    weight 1
+  ]
+  edge [
+    source 4090
+    target 4091
+    weight 2
+  ]
+  edge [
+    source 4091
+    target 4092
+    weight 1
+  ]
+  edge [
+    source 4094
+    target 4095
+    weight 1
+  ]
+  edge [
+    source 4099
+    target 4100
+    weight 1
+  ]
+  edge [
+    source 4101
+    target 4102
+    weight 1
+  ]
+  edge [
+    source 4102
+    target 4103
     weight 1
   ]
 ]

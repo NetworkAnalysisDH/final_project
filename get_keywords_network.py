@@ -9,7 +9,7 @@ from collections import defaultdict
 
 # Absolute path to the JSON file
 base_path = os.path.abspath("dataset")
-file_path = os.path.join(base_path, "publication.json")
+file_path = os.path.join(base_path, "publications.json")
 
 def load_publications(file_path):
     # Load the JSON file
@@ -90,10 +90,10 @@ def create_cooccurrence_network(data):
     
     # Print a few nodes and edges to inspect the structure
     #print("\nSome nodes in the graph:")
-    print(list(graph.nodes)[:10])  # Print the first 10 nodes
+    #print(list(graph.nodes)[:10])  # Print the first 10 nodes
     
     #print("\nSome edges in the graph:")
-    print(list(graph.edges)[:10])  # Print the first 10 edges
+    #print(list(graph.edges)[:10])  # Print the first 10 edges
 
     return graph
 
