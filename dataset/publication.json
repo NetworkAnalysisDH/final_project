@@ -1,6 +1,7 @@
 {
-  "references": [
-      {
+    "publications": 
+    [
+        {
         "type": "article",
         "author": ["Corcho, Oscar", "Ekaputra, Fajar J.", "Heibi, Ivan", "Jonquet, Clement", "Micsik, Andras", "Peroni, Silvio", "Storti, Emanuele"],
         "title": "A maturity model for catalogues of semantic artefacts",
@@ -221,6 +222,7 @@
         "year": 2022,
         "booktitle": "DH2022 Conference Abstracts",
         "keywords": ["Humanities", "Topic Modeling", "Retraction"],
+        "url": "https://hdl.handle.net/11585/918080",
         "pages": "484--486"
       },
       {
@@ -716,7 +718,7 @@
         "year": "2019}",
         "journal": "PEERJ. COMPUTER SCIENCE.}",
         "volume": "5}",
-        "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
+        "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine Learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
         "url": "https://peerj.com/articles/cs-199/}",
         "doi": "10.7717/peerj-cs.199}",
         "pages": "1--28"
@@ -1943,7 +1945,7 @@
       "year": "2019}",
       "journal": "PEERJ. COMPUTER SCIENCE.}",
       "volume": "5}",
-      "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
+      "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine Learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
       "url": "https://peerj.com/articles/cs-199/}",
       "doi": "10.7717/peerj-cs.199}",
       "pages": "1--28"
@@ -2503,7 +2505,6 @@
       "volume": 10,
       "keywords": ["Raffaello", "Storia dell'arte", "Restauro", "Storia della critica d'arte", "Museologia"],
       "url": "https://buponline.com/prodotto/raffaello/",
-      "isbn": "978-88-6923-886-4",
       "isbn": "9788869238871",
       "pages": "1--264"
     },
@@ -4395,7 +4396,7 @@
       "year": "2019}",
       "journal": "PEERJ. COMPUTER SCIENCE.}",
       "volume": "5}",
-      "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
+      "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine Learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
       "url": "https://peerj.com/articles/cs-199/}",
       "doi": "10.7717/peerj-cs.199}",
       "pages": "1--28"
@@ -5644,7 +5645,7 @@
     "year": "2019}",
     "journal": "PEERJ. COMPUTER SCIENCE.}",
     "volume": "5}",
-    "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
+    "keywords": "Academic assessment; ASN; Data processing; Informetrics; Machine Learning; National scientific habilitation; Predictive models; Research evaluation; Science of science; Scientometrics}",
     "url": "https://peerj.com/articles/cs-199/}",
     "doi": "10.7717/peerj-cs.199}",
     "pages": "1--28"
@@ -5925,8 +5926,7 @@
         "pages": "133--136}",
         "number": "2"
     },
-  
-{ { "references 52-77" : [
+
     {"type": "conference",
     "id": "11585/959618",
     "author": ["Sartini Bruno, Baroncini Sofia"],
@@ -6076,7 +6076,7 @@
     "year": "2022",
     "journal": "IJCOL",
     "volume": "8",
-    "keywords": ["opera arias", "emotions extraction", "machine learning"],
+    "keywords": ["opera arias", "emotions extraction", "Machine Learning"],
     "url": "https://journals.openedition.org/ijcol/pdf/1039",
     "doi": "10.4000/ijcol.1039",
     "pages": "7--26"
@@ -6116,7 +6116,7 @@
     "address": "Barcelona",
     "booktitle": "Proceeding of the 25th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2017)",
     "keywords": ["Genomic computing", "genome browser", "similarity search"],
-    "url": "https://www.iscb.org/cms_addon/conferences/ngs2017/posters.php",
+    "url": "https://www.iscb.org/cms_addon/conferences/ngs2017/posters.php"
     },
 
     {"type": "conference",
@@ -6129,7 +6129,7 @@
     "volume": "2037",
     "booktitle": "25th Italian Symposium on Advanced Database Systems, SEBD 2017",
     "keywords": ["Data platform", "Data stream processing", "Massive data streams", "Stream processing", "Big data"],
-    "pages": "137--145",
+    "pages": "137--145"
     },
 
     {"type": "essay",
@@ -6358,7 +6358,7 @@
     "year": "2020",
     "publisher": ["Springer", "Cham"],
     "address": "dnk",
-    "keywords": ["artificial intelligence", "clustering algorithms", "data mining", "databases", "image processing", "information retrieval", "internet", "machine learning", "mathematics of computing", "pattern recognition", "search engines", "semantics", "similarity search", "topology", "World Wide Web"],
+    "keywords": ["artificial intelligence", "clustering algorithms", "data mining", "databases", "image processing", "information retrieval", "internet", "Machine Learning", "mathematics of computing", "pattern recognition", "search engines", "semantics", "similarity search", "topology", "World Wide Web"],
     "url": "https://link.springer.com/book/10.1007/978-3-030-60936-8",
     "doi": "10.1007/978-3-030-60936-8",
     "isbn": "978-3-030-60935-1",
@@ -6399,7 +6399,7 @@
     "year": "2021",
     "publisher": ["Springer", "Cham"],
     "address": "deu",
-    "keywords": ["artificial intelligence", "clustering algorithms", "computer networks", "computer science", "computer systems", "computer vision", "data mining", "databases education engineering", "image analysis", "image processing", "internet learning", "machine learning", "mathematics", "pattern recognition", "query languages", "search engines", "World Wide Web"],
+    "keywords": ["artificial intelligence", "clustering algorithms", "computer networks", "computer science", "computer systems", "computer vision", "data mining", "databases education engineering", "image analysis", "image processing", "internet learning", "Machine Learning", "mathematics", "pattern recognition", "query languages", "search engines", "World Wide Web"],
     "url": "https://link.springer.com/book/10.1007/978-3-030-89657-7",
     "doi": "10.1007/978-3-030-89657-7",
     "isbn": "978-3-030-89656-0",
@@ -6561,7 +6561,7 @@
     "year": "2020",
     "journal": "ACM TRANSACTIONS ON INTERNET TECHNOLOGY",
     "volume": "20",
-    "keywords": ["Social media", "Hate speech detection", "Natural language processing", "Machine learning"],
+    "keywords": ["Social media", "Hate speech detection", "Natural language processing", "Machine Learning"],
     "doi":"10.1145/3377323",
     "pages": "1--22"
     },
@@ -6572,7 +6572,7 @@
     "title": "A System to Monitor Cyberbullying based on Message Classification and Social Network Analysis",
     "year": "2019",
     "booktitle":"Proceedings of the Third Workshop on Abusive Language Online",
-    "keywords": ["Network analysis", "Cyberbullying detection", "Social networks", "Natural language processing", "Machine learning"],
+    "keywords": ["Network analysis", "Cyberbullying detection", "Social networks", "Natural language processing", "Machine Learning"],
     "pages": "105--110"
     },
 
@@ -6584,7 +6584,7 @@
     "publisher": "Incoma Ltd",
     "address": "Varna, Bulgaria",
     "booktitle":"Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019)",
-    "keywords": ["Natural language processing", "Machine learning", "Explicit lyrics detection"],
+    "keywords": ["Natural language processing", "Machine Learning", "Explicit lyrics detection"],
     "doi": "10.26615/978-954-452-056-4_039",
     "pages": "338--344"
     },
@@ -6598,7 +6598,7 @@
     "address": "ITA",
     "volume": "2263",
     "booktitle": "Proceedings of the Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian Final Workshop",
-    "keywords": ["Hate speech detection", "Natural Language Processing", "Machine learning"],
+    "keywords": ["Hate speech detection", "Natural Language Processing", "Machine Learning"],
     "doi": "10.4000/books.aaccademia.4772",
     "pages": "230--234"
     },
@@ -6637,8 +6637,8 @@
     "address": "Bari, Italy",
     "volume": "2481",
     "booktitle": "CLiC-it 2019-Italian Conference on Computational Linguistics",
-    "keywords": ["Abusive language detection", "Natural language processing", "Machine learning"],
-    "pages":"1--7",
+    "keywords": ["Abusive language detection", "Natural language processing", "Machine Learning"],
+    "pages":"1--7"
     },
 
     {"type": "conference",
@@ -6662,7 +6662,7 @@
     "year": "2018",
     "address":"Vienna, Austria",
     "booktitle": "Proceedings of GermEval 2018",
-    "keywords": ["Offensive language detection", "Natural language processing", "Machine learning"],
+    "keywords": ["Offensive language detection", "Natural language processing", "Machine Learning"],
     "url": "https://www.aclweb.org/anthology/W18-5407/",
     "pages": "80--84"
     },
@@ -6675,7 +6675,7 @@
     "publisher": "German Society for Computational Linguistics and Language Technology",
     "address": "Friedrich-Alexander-Universitat Erlangen-Nurnberg, deu",
     "booktitle": "Germeval 2019",
-    "keywords": ["Offensive language detection", "Natural language processing", "Machine learning"],
+    "keywords": ["Offensive language detection", "Natural language processing", "Machine Learning"],
     "pages": "366--371"
     },
 
@@ -6688,7 +6688,7 @@
     "address": "Limassol, Cyprus",
     "volume": "147772",
     "booktitle": "Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing",
-    "keywords": ["Cyberbullying detection", "Emotion classification", "Natural language processing", "Machine learning"],
+    "keywords": ["Cyberbullying detection", "Emotion classification", "Natural language processing", "Machine Learning"],
     "doi": "10.1145/3297280.3297573",
     "pages": "1061--1063"
     },
@@ -8345,7 +8345,7 @@
     "year": "2019",
     "journal": "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
     "volume": "85",
-    "keywords": ["Anomaly detection", "Autoencoder", "High performance computing", "Machine learning"],
+    "keywords": ["Anomaly detection", "Autoencoder", "High performance computing", "Machine Learning"],
     "url": "https://www.sciencedirect.com/science/article/pii/S0952197619301721",
     "doi": "10.1016/j.engappai.2019.07.008",
     "pages": "634--644"
@@ -8410,7 +8410,7 @@
     {"type": "conference",
     "id": "111585/659049",
     "author": ["Lombardi, Michele", "Milano, Michela"],
-    "title": "Boosting combinatorial problem modeling with machine learning",
+    "title": "Boosting combinatorial problem modeling with Machine Learning",
     "year": "2018",
     "publisher": "International Joint Conferences on Artificial Intelligence",
     "address": "Sweden",
@@ -8499,7 +8499,7 @@
     "year": "2017",
     "journal": "ARTIFICIAL INTELLIGENCE",
     "volume": "244",
-    "keywords": ["Artificial neural networks", "Combinatorial optimization", "Complex systems", "Constraint programming", "Decision trees", "Local search", "Machine learning", "Mixed integer non-linear programming", "SAT modulo theories", "Language and Linguistics", "Linguistics and Language", "Artificial Intelligence"],
+    "keywords": ["Artificial neural networks", "Combinatorial optimization", "Complex systems", "Constraint programming", "Decision trees", "Local search", "Machine Learning", "Mixed integer non-linear programming", "SAT modulo theories", "Language and Linguistics", "Linguistics and Language", "Artificial Intelligence"],
     "url": "https://www.sciencedirect.com/science/article/pii/S0004370216000126",
     "doi": "10.1016/j.artint.2016.01.005",
     "pages": "343--367"
@@ -8583,7 +8583,7 @@
     "year": "2022",
     "journal": "KNOWLEDGE-BASED SYSTEMS",
     "volume": "251",
-    "keywords": ["Empirical model learning", "Hardware dimensioning", "Anticipatory algorithms", "Efficient energy management", "Machine learning", "Constrained optimization"],
+    "keywords": ["Empirical model learning", "Hardware dimensioning", "Anticipatory algorithms", "Efficient energy management", "Machine Learning", "Constrained optimization"],
     "url": "https://www.sciencedirect.com/science/article/pii/S0950705122005974?via=ihub",
     "doi": "10.1016/j.knosys.2022.109199",
     "pages": "1--18"
@@ -8596,7 +8596,7 @@
     "year": "2024",
     "journal": "FUTURE GENERATION COMPUTER SYSTEMS",
     "volume": "161",
-    "keywords": ["Anomaly detection", "Federated learning", "High-performance computing", "Data center", "Machine learning"],
+    "keywords": ["Anomaly detection", "Federated learning", "High-performance computing", "Data center", "Machine Learning"],
     "doi": "10.1016/j.future.2024.07.052",
     "pages": "673--685"
     },
@@ -8738,9 +8738,9 @@
     "title": "Merging Observed and Self-Reported Behaviour in Agent-Based Simulation: A Case Study on Photovoltaic Adoption",
     "year": "2019",
     "journal": "APPLIED SCIENCES-BASEL",
-    "volume": "9",
     "keywords": ["simulation model", "multi-agent systems", "photovoltaic energy", "parameter fine-tuning", "self-reported behaviour", "predictive model"],
     "url": "https://www.mdpi.com/2076-3417/9/10/2098",
+    "volume": "9",
     "doi": "10.3390/app9102098",
     "pages": "2098--2118"
     },
@@ -8872,7 +8872,7 @@
     "year": "2018",
     "journal": "SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS",
     "volume": "19",
-    "keywords": ["Constraint programming", "Optimization", "HPC", "Power consumption", "Scheduling", "Machine learning", "Power modelings"],
+    "keywords": ["Constraint programming", "Optimization", "HPC", "Power consumption", "Scheduling", "Machine Learning", "Power modelings"],
     "url": "https://www.sciencedirect.com/science/article/pii/S2210537917302317",
     "doi": "10.1016/j.suscom.2018.05.007",
     "pages": "1--13"
@@ -9304,4 +9304,4 @@
     "pages": "1--18"
     }
 ]
-} 
+}
