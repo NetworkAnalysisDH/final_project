@@ -32,6 +32,7 @@ def load_publications(file_path):
 def create_cooccurrence_network(data):
     # Create the graph
     graph = nx.Graph()
+    excluded_keywords = {"Digital Humanities", "Computer Science", "Computer Science (All)"}
 
     for index, entry in enumerate(data):
         # Extract the available identifier: DOI, URL, or ISBN
@@ -56,6 +57,9 @@ def create_cooccurrence_network(data):
         # If keywords are already a list, clean each keyword
         elif isinstance(keywords, list):
             keywords = [kw.strip().replace('}', '').title() for kw in keywords if isinstance(kw, str) and kw.strip()]
+        
+        # Exclude unwanted keywords
+        keywords = [kw for kw in keywords if kw not in excluded_keywords]
 
         # Output the cleaned list of keywords
         #print(f"Cleaned keywords for article {article_id}: {keywords}")

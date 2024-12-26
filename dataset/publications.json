@@ -4142,7 +4142,7 @@
       "publisher": "Springer}",
       "address": "Berlino}",
       "volume": "10024}",
-      "keywords": "Knowledge management; semantic web; ontology}",
+      "keywords": "Knowledge management, Semantic Web, Ontology",
       "doi": "10.1007/978-3-319-49004-5}",
       "isbn": "978-3-319-49003-8}",
       "pages": "1--3"
@@ -11674,9 +11674,7 @@
         ],
         "title": "DH-CASE 2013 - Collaborative Annotations in Shared Environments: Metadata, Vocabularies and Techniques in the Digital Humanities",
         "year": 2013,
-        "keywords": [
-            "OPEN ANNOTATION COLLABORATION; DIGITAL EDITIONS; LINKED DATA; ONTOLOGIES; MARKUP LANGUAGES; TEI - Text Encoding Initiative"
-        ],
+        "keywords": ["OPEN ANNOTATION COLLABORATION; DIGITAL EDITIONS; LINKED DATA; ONTOLOGIES; MARKUP LANGUAGES; TEI - Text Encoding Initiative"],
         "pages": "1-113"
     },
     {
@@ -11722,9 +11720,7 @@
         "year": 2018,
         "journal": "UMANISTICA DIGITALE",
         "volume": 2,
-        "keywords": [
-            "learning areas ; programme catalogue ; professional figures ; digital humanities ; stakeholders and partnerships"
-        ],
+        "keywords": ["learning areas ; programme catalogue ; professional figures ; digital humanities ; stakeholders and partnerships"],
         "url": "https://umanisticadigitale.unibo.it/article/view/7862/7777",
         "doi": "10.6092/issn.2532-8816/7862",
         "pages": "225-231"
@@ -11740,8 +11736,8 @@
         "journal": "BIBLIOTHECAE.IT",
         "volume": 5,
         "keywords": [
-            "Organizzazione della conoscenza",
-            "ontologie",
+            "Knowledge Organization",
+            "Ontology",
             "ermeneutica",
             "metodologia",
             "classificazione"
@@ -11870,9 +11866,7 @@
         "year": 2015,
         "journal": "LABOUR & LAW ISSUES",
         "volume": 1,
-        "keywords": [
-            "DIGITAL HUMANITIES; social; web skills profiles; cross disciplinary"
-        ],
+        "keywords": ["DIGITAL HUMANITIES; social; web skills profiles; cross disciplinary"],
         "url": "http://labourlaw.unibo.it/article/view/5009",
         "doi": "10.6092/issn.2421-2695/5009",
         "pages": "31-48",
@@ -12566,11 +12560,11 @@
         "journal": "UMANISTICA DIGITALE",
         "volume": 1,
         "keywords": [
-            "Archivi",
+            "Archives",
             "CIDOC-CRM",
             "FRBR",
             "Fotografia",
-            "Ontologie",
+            "Ontologies",
             "Semantic Web"
         ],
         "doi": "10.6092/issn.2532-8816/7195",
@@ -13444,9 +13438,7 @@
         "title": "The Linked Finding Aid as a Platform for Textual Research: The Case Study of the Giuseppe Raimondi Archive",
         "year": 2021,
         "volume": 3019,
-        "keywords": [
-            "Digital Finding Aid \u00b7 Linked Open Data \u00b7 Writers\u2019 Archives"
-        ],
+        "keywords": ["Digital Finding Aid, Linked Open Data, Writers, Archives"],
         "url": "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf",
         "pages": "104-113"
     },
@@ -15259,11 +15251,11 @@
         "journal": "UMANISTICA DIGITALE",
         "volume": 1,
         "keywords": [
-            "Archivi",
+            "Archives",
             "CIDOC-CRM",
             "FRBR",
             "Fotografia",
-            "Ontologie",
+            "Ontology",
             "Semantic Web"
         ],
         "doi": "10.6092/issn.2532-8816/7195",
@@ -15326,9 +15318,7 @@
         ],
         "title": "Melody: A Platform for Linked Open Data Visualisation and Curated Storytelling",
         "year": 2023,
-        "keywords": [
-            "data visualization\nlinked open data\nstorytelling\ndesign thinking\nontology design"
-        ],
+        "keywords": ["data visualization, linked open data, storytelling, design thinking, ontology design"],
         "url": "https://dl.acm.org/doi/proceedings/10.1145/3603163",
         "doi": "10.1145/3603163.3609035",
         "pages": "1-8"
@@ -15845,9 +15835,7 @@
         ],
         "title": "Collaborative practices and multidisciplinary research: The dialogue between entrepreneurship, management, and data science",
         "year": 2018,
-        "keywords": [
-            "Entrepreneurship; Data science; University-Industry Collaborations; Technology Innovation Management; Scientometrics; Strategy; Business Performance Analytics"
-        ],
+        "keywords": ["Entrepreneurship; Data science; University-Industry Collaborations; Technology Innovation Management; Scientometrics; Strategy; Business Performance Analytics"],
         "doi": "10.1007/978-3-319-90548-8_7",
         "pages": "129-152"
     },
@@ -15860,9 +15848,7 @@
         ],
         "title": "Comparison of news commonality and churn in international news outlets with TARO",
         "year": 2023,
-        "keywords": [
-            "Computational journalism; churnalism; news churn; news analysis; news diffusion; online news publication"
-        ],
+        "keywords": ["Computational journalism; churnalism; news churn; news analysis; news diffusion; online news publication"],
         "url": "https://dl.acm.org/doi/10.1145/3603163.3609062",
         "doi": "10.1145/3603163.3609062",
         "pages": "1-10"
@@ -19599,9 +19585,7 @@
         ],
         "title": "Come lavorava Gadda. Un percorso tra le carte",
         "year": 2014,
-        "keywords": [
-            "Letteratura italiana; Archivi; Biblioteche; Manoscritti; Gadda"
-        ],
+        "keywords": ["Letteratura italiana; Archives; Biblioteche; Manoscritti; Gadda"],
         "pages": "19-27"
     },
     {
@@ -20080,7 +20064,7 @@
         "volume": 18,
         "keywords": [
             "Letteratura Italiana Contemporanea",
-            "Archivi",
+            "Archives",
             "Letteratura del Novecento."
         ],
         "pages": "7-12"
@@ -20217,7 +20201,7 @@
         "keywords": [
             "Letteratura Italiana",
             "Filologia della Letteratura Italiana",
-            "Archivi",
+            "Archives",
             "Filologia d'autore",
             "Francesco Petrarca",
             "Giovanni Boccaccio",
@@ -20292,8 +20276,8 @@
             "Letteratura Italiana",
             "Edizioni digitali",
             "Scholarly Editing",
-            "Testo digitale",
-            "Archivi digitali."
+            "Digital Text",
+            "Digital Archives"
         ],
         "url": "https://amsacta.unibo.it/id/eprint/6348/",
         "pages": "107-112"
@@ -20420,7 +20404,7 @@
             "Scholarly Editing",
             "Filologia italiana",
             "Critica testuale",
-            "Archivi digitali",
+            "Digital Archives",
             "Digital Library"
         ],
         "url": "http://amsacta.unibo.it/6348/",
@@ -21091,9 +21075,7 @@
         "year": 2013,
         "journal": "ANTOLOGIA VIEUSSEUX",
         "volume": 57,
-        "keywords": [
-            "Letteratura italiana; Letteratura Italiana Contemporanea; Giovanni Papini; Giuseppe Prezzolini; Archivi del Novecento."
-        ],
+        "keywords": ["Letteratura italiana; Letteratura Italiana Contemporanea; Giovanni Papini; Giuseppe Prezzolini; Archivi del Novecento."],
         "pages": "174-179"
     },
     {
@@ -21128,7 +21110,7 @@
             "Letteratura Italiana",
             "Alessandro Bonsanti",
             "Carlo Emilio Gadda",
-            "Archivi del novecento."
+            "Archivi del novecento"
         ],
         "url": "https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf",
         "pages": "95-102",
@@ -21234,7 +21216,7 @@
         "volume": 71,
         "keywords": [
             "Manosacritti",
-            "Archivi",
+            "Archives",
             "Filologia",
             "Filologia d'autore",
             "Paleografia"
@@ -21544,7 +21526,7 @@
         "keywords": [
             "Letteratura Italiana",
             "Filologia della Letteratura Italiana",
-            "Archivi",
+            "Archives",
             "Filologia d'autore",
             "Francesco Petrarca",
             "Giovanni Boccaccio",
@@ -22230,9 +22212,7 @@
         "title": "Hybrid AI to Support the Implementation of the European Directive",
         "year": 2022,
         "volume": 13429,
-        "keywords": [
-            "Hybrid AI\nAkoma Ntoso \nVisualization \nImplementation of European Directive"
-        ],
+        "keywords": ["Hybrid AI, Akoma Ntoso, Visualization, Implementation of European Directive"],
         "url": "https://link.springer.com/chapter/10.1007/978-3-031-12673-4_8#citeas",
         "doi": "10.1007/978-3-031-12673-4_8",
         "pages": "110-122"
@@ -23018,9 +22998,7 @@
         ],
         "title": "Profili privacy tra archiviazione nel pubblico interesse e ricerca storica: il progetto DARE",
         "year": 2023,
-        "keywords": [
-            "Dati Personali; Ricerca Storica; Archiviazione; Pubblico Interesse;"
-        ],
+        "keywords": ["Dati Personali; Ricerca Storica; Archiviazione; Pubblico Interesse;"],
         "url": "https://www.civita.net/prodotto/personal-digital-memories-i-fondi-di-persona-dallanalogico-al-digitale/",
         "pages": "155-172"
     },
@@ -26588,9 +26566,7 @@
         ],
         "title": "CloudCAST-Remote speech technology for speech professionals",
         "year": 2016,
-        "keywords": [
-            "Assistive technology; Clinical applications of speech technology; Language and Linguistics; Human-Computer Interaction; Signal Processing; Software; Modeling and Simulation"
-        ],
+        "keywords": ["Assistive technology; Clinical applications of speech technology; Language and Linguistics; Human-Computer Interaction; Signal Processing; Software; Modeling and Simulation"],
         "url": "http://www.isca-speech.org/archive/Interspeech_2016/",
         "doi": "10.21437/Interspeech.2016-148",
         "pages": "1608-1612"
@@ -26617,9 +26593,7 @@
         ],
         "title": "CLUB Working Papers in Linguistics",
         "year": 9999,
-        "keywords": [
-            "linguistica generale; linguistica comparativa; glottologia; linguistica storica; linguistica applicata; linguistica italiana"
-        ],
+        "keywords": ["linguistica generale; linguistica comparativa; glottologia; linguistica storica; linguistica applicata; linguistica italiana"],
         "url": "http://amsacta.unibo.it/view/series/CLUB_Working_Papers_in_Linguistics.html"
     },
     {
@@ -26952,9 +26926,7 @@
         "year": 2022,
         "journal": "EATING AND WEIGHT DISORDERS",
         "volume": 27,
-        "keywords": [
-            "Anorexia nervosa \u00b7 Clinical linguistics \u00b7 Linguistic marker \u00b7 Eating Disorders \u00b7 Adolescence"
-        ],
+        "keywords": ["Anorexia nervosa, Clinical linguistics, Linguistic marker, Eating Disorders, Adolescence"],
         "url": "https://link.springer.com/article/10.1007/s40519-021-01273-7",
         "doi": "10.1007/s40519-021-01273-7",
         "pages": "1367-1375",
@@ -26972,9 +26944,7 @@
         "year": 2021,
         "journal": "COMPUTER SPEECH AND LANGUAGE",
         "volume": 65,
-        "keywords": [
-            "Dementia; Language and speech analyses; Linguistic bio-marker; Mild Cognitive Impairment; NLP Techniques"
-        ],
+        "keywords": ["Dementia; Language and speech analyses; Linguistic bio-marker; Mild Cognitive Impairment; NLP Techniques"],
         "url": "https://www.sciencedirect.com/science/article/pii/S0885230820300462",
         "doi": "10.1016/j.csl.2020.101113",
         "pages": "1-18",
@@ -26994,12 +26964,7 @@
         "year": 2017,
         "journal": "ALZHEIMER'S & DEMENTIA",
         "volume": 13,
-        "keywords": [
-            "Dementia",
-            "MCI",
-            "Mild Cognitive Impairment",
-            "linguistic markers"
-        ],
+        "keywords": ["Dementia", "Mild Cognitive Impairment", "linguistic markers"],
         "doi": "10.1016/j.jalz.2017.06.509",
         "pages": "479-479",
         "number": 7
@@ -27045,10 +27010,7 @@
         "year": 2015,
         "journal": "NEA SCIENCE",
         "volume": 9,
-        "keywords": [
-            "Cognitive decline; Cognitive frailty; Older adults; Personalized diagnosis; Screening; Spontaneous speech analysis; Obstetrics and Gynecology; Biochemistry",
-            "Genetics and Molecular Biology (all)"
-        ],
+        "keywords": ["Cognitive decline; Cognitive frailty; Older adults; Personalized diagnosis; Screening; Spontaneous speech analysis; Obstetrics and Gynecology; Biochemistry", "Genetics and Molecular Biology (all)"],
         "pages": "29-35"
     },
     {
@@ -28663,7 +28625,7 @@
         "year": 2023,
         "volume": 1901,
         "keywords": [
-            "Theories of explanation \u00b7 Speech act theory \u00b7 Evaluation of explanations \u00b7 Explanations in law"
+            "Theories of explanation, Speech act theory, Evaluation of explanations, Explanations in law"
         ],
         "url": "https://link.springer.com/chapter/10.1007/978-3-031-44064-9_2",
         "doi": "10.1007/978-3-031-44064-9_2",

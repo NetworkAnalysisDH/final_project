@@ -145,7 +145,6 @@
 <node id="Affordance"/>
 <node id="Behavior Arbitration"/>
 <node id="article_30"/>
-<node id="Computer Science (All)"/>
 <node id="Mathematics (All)"/>
 <node id="10.1007/978-3-319-68130-6_1}"/>
 <node id="Ontology Network"/>
@@ -562,7 +561,6 @@
 <node id="article_218"/>
 <node id="Arts"/>
 <node id="Photography"/>
-<node id="Digital Humanities"/>
 <node id="http://rivista.ibc.regione.emilia-romagna.it/xw-201701/xw-201701-a0011"/>
 <node id="Scholarly Editions"/>
 <node id="Filologia Italiana"/>
@@ -689,8 +687,6 @@
 <node id="Instrumentation"/>
 <node id="Human Factors And Ergonomics"/>
 <node id="10.1109/RTSI.2016.7740548}"/>
-<node id="Computer Science"/>
-<node id="10.1002/cpe.978}"/>
 <node id="Business Modeling"/>
 <node id="Requirements Engineering"/>
 <node id="10.1504/IJBIDM.2008.022137}"/>
@@ -723,7 +719,6 @@
 <node id="Model Driven"/>
 <node id="Civil Protection"/>
 <node id="10.1504/IJEM.2009.031569}"/>
-<node id="article_305"/>
 <node id="article_306"/>
 <node id="Service Oriented Computing"/>
 <node id="Choreography"/>
@@ -737,8 +732,6 @@
 <node id="Strategy"/>
 <node id="Business Performance Analytics"/>
 <node id="10.1007/978-3-319-90548-8_7}"/>
-<node id="article_309"/>
-<node id="1402077092}"/>
 <node id="10.1007/978-3-540-75538-8}"/>
 <node id="Informatica"/>
 <node id="10.1145/3467967}"/>
@@ -824,9 +817,7 @@
 <node id="article_346"/>
 <node id="Informatics"/>
 <node id="9783000293146}"/>
-<node id="article_348"/>
 <node id="10.1007/s10723-009-9115-6}"/>
-<node id="10.1007/978-3-319-27896-4_24}"/>
 <node id="Ecdl"/>
 <node id="10.1007/978-3-642-24722-4_4}"/>
 <node id="Adaptive Software"/>
@@ -904,7 +895,6 @@
 <node id="Xlm"/>
 <node id="9783540372554}"/>
 <node id="10.3390/info15020110}"/>
-<node id="9783540324881}"/>
 <node id="Big Data"/>
 <node id="Big Data Analytics"/>
 <node id="Big Data As A Service"/>
@@ -918,7 +908,6 @@
 <node id="10.1007/978-3-319-49004-5_48}"/>
 <node id="10.1109/WETICE.2016.20}"/>
 <node id="article_399"/>
-<node id="article_400"/>
 <node id="Storytelling"/>
 <node id="Story-Driven Approach"/>
 <node id="Coding"/>
@@ -947,7 +936,6 @@
 <node id="Strategic Management"/>
 <node id="Technical Debt"/>
 <node id="10.1007/978-3-030-47240-5_13}"/>
-<node id="9783540341413}"/>
 <node id="article_422"/>
 <node id=""/>
 <node id="10.1016/j.procs.2017.05.426}"/>
@@ -2403,7 +2391,6 @@
 <node id="10.4403/jlis.it-8808"/>
 <node id="Learning Areas ; Programme Catalogue ; Professional Figures ; Digital Humanities ; Stakeholders And Partnerships"/>
 <node id="10.6092/issn.2532-8816/7862"/>
-<node id="Organizzazione Della Conoscenza"/>
 <node id="Ermeneutica"/>
 <node id="Metodologia"/>
 <node id="Classificazione"/>
@@ -2461,12 +2448,12 @@
 <node id="10.1007/978-3-319-24129-6_37"/>
 <node id="Letteratura Greca; Letteratura Latina; Fortuna Dei Classici"/>
 <node id="http://www.permanenza.unibo.it/eventi/nuovo-evento-test"/>
-<node id="http://dl.acm.org/citation.cfm?id=2802612"/>
 <node id="Cronologia Ragionata"/>
 <node id="Autori"/>
 <node id="Generi"/>
 <node id="Opere"/>
 <node id="https://www.patroneditore.com/volumi/9788855535236/i-passaggi-e-la-cronologia-ragionata-della-letteratura-italiana"/>
+<node id="Organizzazione Della Conoscenza"/>
 <node id="10.53134/9788893574365-15"/>
 <node id="Letteratura Inglese"/>
 <node id="Classici"/>
@@ -2493,11 +2480,11 @@
 <node id="www.permanenza.unibo.it/eventi/folli.-i-classici-xvi-edizione"/>
 <node id="Photo Archive"/>
 <node id="http://aibstudi.aib.it/article/view/11569"/>
-<node id="article_938"/>
 <node id="Preservazione"/>
 <node id="Provenienza"/>
 <node id="Atto Interpretativo"/>
 <node id="10.6092/issn.2283-9364/7531"/>
+<node id="Archives"/>
 <node id="Cidoc-Crm"/>
 <node id="Fotografia"/>
 <node id="10.6092/issn.2532-8816/7195"/>
@@ -2602,7 +2589,7 @@
 <node id="Searching And Organizing"/>
 <node id="Dh In A Global Perspective"/>
 <node id="https://punctumbooks.com/titles/the-digital-humanist/"/>
-<node id="Digital Finding Aid · Linked Open Data · Writers’ Archives"/>
+<node id="Digital Finding Aid, Linked Open Data, Writers, Archives"/>
 <node id="Authorship"/>
 <node id="article_987"/>
 <node id="Forgery; Quantitative Linguistics; Image Analysis; Mathematics; Philology; Annotation; Data Model"/>
@@ -2754,8 +2741,8 @@
 <node id="article_1081"/>
 <node id="Semantic Web; Edizioni Digitali; Rinascimento; Vespasiano Da Bisticci"/>
 <node id="10.6092/issn.1721-4777/12325"/>
+<node id="Data Visualization, Linked Open Data, Storytelling, Design Thinking, Ontology Design"/>
 <node id="article_1087"/>
-<node id="Archives"/>
 <node id="10.3233/SSW190006"/>
 <node id="https://www.iospress.com/catalog/books/mining-authoritativeness-in-art-historical-photo-archives"/>
 <node id="Data Preservation"/>
@@ -3130,7 +3117,7 @@
 <node id="Varianti D'Autore"/>
 <node id="Critica Delle Varianti."/>
 <node id="article_1307"/>
-<node id="Letteratura Italiana; Archivi; Biblioteche; Manoscritti; Gadda"/>
+<node id="Letteratura Italiana; Archives; Biblioteche; Manoscritti; Gadda"/>
 <node id="article_1308"/>
 <node id="Confocal Microscopy; Diffraction Limit; Ink; Paper; Schottky Diode Detector; Terahertz; Radiation; Instrumentation; Condensed Matter Physics; Electrical And Electronic Engineering"/>
 <node id="10.1007/s10762-016-0338-x"/>
@@ -3255,7 +3242,8 @@
 <node id="article_1343"/>
 <node id="Wiki Edizioni"/>
 <node id="Scholarly Editing"/>
-<node id="Archivi Digitali."/>
+<node id="Digital Text"/>
+<node id="Digital Archives"/>
 <node id="https://amsacta.unibo.it/id/eprint/6348/"/>
 <node id="Lingua Italiana"/>
 <node id="Didattica Della Lingua Italiana"/>
@@ -3290,7 +3278,6 @@
 <node id="Carlo Emilio Gadda."/>
 <node id="10.5565/rev/anuariolopedevega.488"/>
 <node id="Critica Testuale"/>
-<node id="Archivi Digitali"/>
 <node id="http://amsacta.unibo.it/6348/"/>
 <node id="Letteratura Moderne E Contemporanea"/>
 <node id="Filologia Editoriale"/>
@@ -3384,7 +3371,7 @@
 <node id="Ugo Foscolo"/>
 <node id="Poesia Italiana Dell'Ottocento."/>
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-80-maggio-agosto-2021/105.html"/>
-<node id="Archivi Del Novecento."/>
+<node id="Archivi Del Novecento"/>
 <node id="https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf"/>
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-74-maggio-agosto-2019/105.html"/>
 <node id="Nuovi Argomenti"/>
@@ -3807,7 +3794,6 @@
 <node id="Markup"/>
 <node id="Xml"/>
 <node id="10.4242/BalisageVol13.Peroni01"/>
-<node id="article_1605"/>
 <node id="Semantic Web For The Legal Domain"/>
 <node id="Research Data Management; Cultural Heritage Data; Museums; Art Collections; Data Management Plan"/>
 <node id="10.5281/zenodo.7974540"/>
@@ -3850,7 +3836,6 @@
 <node id="https://github.com/opencitations/time-agnostic-library"/>
 <node id="Ontology Browser; Ontology Engineering Tools; Ontology Documentation"/>
 <node id="10.4018/jswis.2013010102"/>
-<node id="10.4018/978-1-4666-6042-7.ch041"/>
 <node id="Delicious; Folksonomy; Latent Semantic Analysis; Topicality And Non-Topicality Of Tags; Umbrella Tags; User Testing Session; Information Systems; Library And Information Sciences"/>
 <node id="10.1177/0165551515585283"/>
 <node id="Accessibility In Education; Accessibility In Scientific Documents; Accessible Graphs; Rash; Computer Networks And Communications; Computer Science Applications1707 Computer Vision And Pattern Recognition; Hardware And Architecture; Communication"/>
@@ -3985,11 +3970,10 @@
 <node id="Dementia Screening"/>
 <node id="Linguistic Biomarkers"/>
 <node id="10.1418/101111"/>
-<node id="Anorexia Nervosa · Clinical Linguistics · Linguistic Marker · Eating Disorders · Adolescence"/>
+<node id="Anorexia Nervosa, Clinical Linguistics, Linguistic Marker, Eating Disorders, Adolescence"/>
 <node id="10.1007/s40519-021-01273-7"/>
 <node id="Dementia; Language And Speech Analyses; Linguistic Bio-Marker; Mild Cognitive Impairment; Nlp Techniques"/>
 <node id="10.1016/j.csl.2020.101113"/>
-<node id="Mci"/>
 <node id="Linguistic Markers"/>
 <node id="10.1016/j.jalz.2017.06.509"/>
 <node id="Feeding And Eating Disorders"/>
@@ -4099,7 +4083,7 @@
 <node id="article_1777"/>
 <node id="article_1779"/>
 <node id="article_1782"/>
-<node id="Theories Of Explanation · Speech Act Theory · Evaluation Of Explanations · Explanations In Law"/>
+<node id="Theories Of Explanation, Speech Act Theory, Evaluation Of Explanations, Explanations In Law"/>
 <node id="10.1007/978-3-031-44064-9_2"/>
 <node id="Health Informatics"/>
 <node id="10.1109/HealthCom.2014.7001839"/>
@@ -4157,7 +4141,7 @@
   <data key="d0">16</data>
 </edge>
 <edge source="Ontology" target="Semantic Web">
-  <data key="d0">58</data>
+  <data key="d0">60</data>
 </edge>
 <edge source="Ontology" target="Arco">
   <data key="d0">8</data>
@@ -4279,9 +4263,6 @@
 <edge source="Ontology" target="Privacy Policies">
   <data key="d0">2</data>
 </edge>
-<edge source="Ontology" target="Computer Science (All)">
-  <data key="d0">2</data>
-</edge>
 <edge source="Ontology" target="Iconographical And Iconological Interpretations">
   <data key="d0">4</data>
 </edge>
@@ -4306,6 +4287,18 @@
 <edge source="Ontology" target="https://ceur-ws.org/Vol-3540/">
   <data key="d0">1</data>
 </edge>
+<edge source="Ontology" target="Knowledge Organization">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontology" target="Ermeneutica">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontology" target="Metodologia">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontology" target="Classificazione">
+  <data key="d0">2</data>
+</edge>
 <edge source="Ontology" target="Xml Semantics">
   <data key="d0">2</data>
 </edge>
@@ -4315,13 +4308,22 @@
 <edge source="Ontology" target="Text Encoding Theory">
   <data key="d0">2</data>
 </edge>
+<edge source="Ontology" target="Archives">
+  <data key="d0">4</data>
+</edge>
+<edge source="Ontology" target="Cidoc-Crm">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontology" target="Frbr">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontology" target="Fotografia">
+  <data key="d0">2</data>
+</edge>
 <edge source="Ontology" target="10.3233/SSW190006">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology" target="Art History">
-  <data key="d0">2</data>
-</edge>
-<edge source="Ontology" target="Archives">
   <data key="d0">2</data>
 </edge>
 <edge source="Ontology" target="Authoritativeness">
@@ -4498,14 +4500,11 @@
 <edge source="Citation Analysis" target="Text Mining">
   <data key="d0">2</data>
 </edge>
-<edge source="Citation Analysis" target="Digital Humanities">
+<edge source="Citation Analysis" target="Scientometrics">
   <data key="d0">4</data>
 </edge>
 <edge source="Citation Analysis" target="https://convegni.unicatt.it/aiucd-Spinaci_et_al.pdf">
   <data key="d0">1</data>
-</edge>
-<edge source="Citation Analysis" target="Scientometrics">
-  <data key="d0">4</data>
 </edge>
 <edge source="Retraction" target="Science Of Science">
   <data key="d0">2</data>
@@ -5230,9 +5229,6 @@
 <edge source="Open Citations" target="Citation Indexes">
   <data key="d0">4</data>
 </edge>
-<edge source="Open Citations" target="Digital Humanities">
-  <data key="d0">4</data>
-</edge>
 <edge source="Open Citations" target="Humanities Research">
   <data key="d0">4</data>
 </edge>
@@ -5482,9 +5478,6 @@
 <edge source="Scholarly Data" target="Spar Ontologies">
   <data key="d0">6</data>
 </edge>
-<edge source="Scholarly Data" target="Computer Science (All)">
-  <data key="d0">6</data>
-</edge>
 <edge source="Scholarly Data" target="Theoretical Computer Science">
   <data key="d0">6</data>
 </edge>
@@ -5552,7 +5545,7 @@
   <data key="d0">10</data>
 </edge>
 <edge source="Semantic Web" target="Ontologies">
-  <data key="d0">20</data>
+  <data key="d0">22</data>
 </edge>
 <edge source="Semantic Web" target="Semantic Search">
   <data key="d0">6</data>
@@ -5626,9 +5619,6 @@
 <edge source="Semantic Web" target="Xslt">
   <data key="d0">4</data>
 </edge>
-<edge source="Semantic Web" target="Computer Science (All)">
-  <data key="d0">4</data>
-</edge>
 <edge source="Semantic Web" target="Cultural Heritage">
   <data key="d0">40</data>
 </edge>
@@ -5675,7 +5665,7 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Semantic Web" target="Ontologie">
-  <data key="d0">6</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Semantic Web" target="Lexical Semantics">
   <data key="d0">2</data>
@@ -5759,9 +5749,6 @@
   <data key="d0">6</data>
 </edge>
 <edge source="Semantic Web" target="Narratology">
-  <data key="d0">6</data>
-</edge>
-<edge source="Semantic Web" target="Digital Humanities">
   <data key="d0">6</data>
 </edge>
 <edge source="Semantic Web" target="10.1007/978-3-030-00072-1}">
@@ -5902,7 +5889,7 @@
 <edge source="Semantic Web" target="Graph Data Model">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Web" target="Archivi">
+<edge source="Semantic Web" target="Archives">
   <data key="d0">4</data>
 </edge>
 <edge source="Semantic Web" target="10.6092/issn.2532-8816/7195">
@@ -6205,8 +6192,8 @@
 <edge source="Knowledge Graph" target="Semantic Narratives Visualisation">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Graph" target="Digital Humanities">
-  <data key="d0">10</data>
+<edge source="Knowledge Graph" target="http://www.aiucd.it/wp-content/uploads/2023/06/2023_aiucd_la_memoria_digitale_v1.pdf">
+  <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graph" target="Narratology">
   <data key="d0">6</data>
@@ -6223,11 +6210,11 @@
 <edge source="Knowledge Graph" target="article_454">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Graph" target="https://dh-atlas.github.io/">
-  <data key="d0">1</data>
-</edge>
 <edge source="Knowledge Graph" target="Heritage Science">
   <data key="d0">2</data>
+</edge>
+<edge source="Knowledge Graph" target="https://dh-atlas.github.io/">
+  <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graph" target="Digital Ecosystem">
   <data key="d0">2</data>
@@ -6760,9 +6747,6 @@
 <edge source="Open Data" target="Research Evaluation">
   <data key="d0">2</data>
 </edge>
-<edge source="Open Data" target="Digital Humanities">
-  <data key="d0">2</data>
-</edge>
 <edge source="Open Data" target="Heritage Science">
   <data key="d0">2</data>
 </edge>
@@ -6901,9 +6885,6 @@
 <edge source="Ontologies" target="Photography">
   <data key="d0">4</data>
 </edge>
-<edge source="Ontologies" target="Digital Humanities">
-  <data key="d0">6</data>
-</edge>
 <edge source="Ontologies" target="Social Robots">
   <data key="d0">2</data>
 </edge>
@@ -6935,6 +6916,18 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Ontologies" target="Heterogeneity">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontologies" target="Archives">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontologies" target="Cidoc-Crm">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontologies" target="Frbr">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ontologies" target="Fotografia">
   <data key="d0">2</data>
 </edge>
 <edge source="Ontologies" target="Knowledge">
@@ -7084,9 +7077,6 @@
 <edge source="Semantic Publishing" target="Spar">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Publishing" target="Computer Science (All)">
-  <data key="d0">16</data>
-</edge>
 <edge source="Semantic Publishing" target="Data Reengineering">
   <data key="d0">10</data>
 </edge>
@@ -7213,8 +7203,8 @@
 <edge source="Spar Ontologies" target="Macja">
   <data key="d0">4</data>
 </edge>
-<edge source="Spar Ontologies" target="Computer Science (All)">
-  <data key="d0">10</data>
+<edge source="Spar Ontologies" target="10.1007/978-3-319-25518-7_10}">
+  <data key="d0">1</data>
 </edge>
 <edge source="Spar Ontologies" target="Data Reengineering And Enhancement">
   <data key="d0">6</data>
@@ -7376,9 +7366,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Knowledge Extraction" target="Theoretical Computer Science">
-  <data key="d0">2</data>
-</edge>
-<edge source="Knowledge Extraction" target="Computer Science (All)">
   <data key="d0">2</data>
 </edge>
 <edge source="Knowledge Extraction" target="article_202">
@@ -7737,9 +7724,6 @@
 </edge>
 <edge source="Artificial Intelligence" target="Software">
   <data key="d0">2</data>
-</edge>
-<edge source="Artificial Intelligence" target="Computer Science">
-  <data key="d0">4</data>
 </edge>
 <edge source="Artificial Intelligence" target="10.1007/978-3-540-75538-8}">
   <data key="d0">1</data>
@@ -8110,9 +8094,6 @@
 <edge source="Knowledge Patterns" target="Privacy Policies">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Patterns" target="Computer Science (All)">
-  <data key="d0">2</data>
-</edge>
 <edge source="Visual Exploration" target="Information Systems">
   <data key="d0">6</data>
 </edge>
@@ -8452,9 +8433,6 @@
 <edge source="Cultural Heritage" target="http://ceur-ws.org/Vol-1509/">
   <data key="d0">1</data>
 </edge>
-<edge source="Cultural Heritage" target="Digital Humanities">
-  <data key="d0">2</data>
-</edge>
 <edge source="Cultural Heritage" target="Digital Philology">
   <data key="d0">2</data>
 </edge>
@@ -8537,9 +8515,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Ontology Design Patterns" target="Theoretical Computer Science">
-  <data key="d0">2</data>
-</edge>
-<edge source="Ontology Design Patterns" target="Computer Science (All)">
   <data key="d0">2</data>
 </edge>
 <edge source="Ontology Design Patterns" target="Research Question">
@@ -8638,7 +8613,7 @@
 <edge source="Recurrent Events" target="http://ceur-ws.org/}">
   <data key="d0">1</data>
 </edge>
-<edge source="http://ceur-ws.org/}" target="Computer Science (All)">
+<edge source="http://ceur-ws.org/}" target="Sustainable Mobility">
   <data key="d0">1</data>
 </edge>
 <edge source="Recurrent Situations" target="10.3233/SSW210013}">
@@ -8663,222 +8638,6 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Behavior Arbitration" target="article_1187">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Mathematics (All)">
-  <data key="d0">8</data>
-</edge>
-<edge source="Computer Science (All)" target="Bibliographic References">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="http://ceur-ws.org/Vol-1155/paper-05.pdf}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Biro">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="C4O">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Citation Network">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Renhancer">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Spar">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Theoretical Computer Science">
-  <data key="d0">24</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-030-01379-0_4}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Macja">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-319-25518-7_10}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Digital Publishing">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="10.7717/peerj-cs.132}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Document Conversion">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="Rash">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="Xslt">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="Emergency Vehicle Routing">
-  <data key="d0">10</data>
-</edge>
-<edge source="Computer Science (All)" target="Geo-Linked Open Data Applications">
-  <data key="d0">10</data>
-</edge>
-<edge source="Computer Science (All)" target="Linked Egovernment Data Extraction And Publication">
-  <data key="d0">10</data>
-</edge>
-<edge source="Computer Science (All)" target="Sustainable Mobility">
-  <data key="d0">10</data>
-</edge>
-<edge source="Computer Science (All)" target="http://ceur-ws.org/Vol-1486/paper_72.pdf">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Data Reengineering And Enhancement">
-  <data key="d0">6</data>
-</edge>
-<edge source="Computer Science (All)" target="Linked Open Data">
-  <data key="d0">10</data>
-</edge>
-<edge source="Computer Science (All)" target="Semantic Lancet Project">
-  <data key="d0">6</data>
-</edge>
-<edge source="Computer Science (All)" target="N-Ary Relations">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-642-35843-2_8}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Discourse Representation Theory">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-642-33876-2_12}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Frame Detection">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Robust Ontology Design">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-319-58694-6_34}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Ontology Development">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="Photo Archives">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="Odp">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="http://ceur-ws.org/">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Publishing Process">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Pwo">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Workflow Description">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Delphi Study">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1145/3230713}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Information Systems Quality">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Management Information Systems">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="Mixed Methods">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Software Architecture">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Software Process">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Software Quality">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Antifragility">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1016/j.procs.2016.04.196}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Complex Systems">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Software Engineering">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Control And Systems Engineering">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-319-64161-4_8}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="10.1007/978-3-319-27896-4_24}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Compliance">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="http://ceur-ws.org/Vol-2049/}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Consumers">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Nlp">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Privacy And Data Protection">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Privacy Policies">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Cloud-Of-Things">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Federated Platforms">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Insider Threat">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Internet-Of-Things">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Mobility-As-A-Service">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Law">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Business Model Definition">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.3390/en10091378">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science (All)" target="Customer Behavior Modeling">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Electricity Tariff Optimization">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="Semantic Web For The Legal Domain">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science (All)" target="10.4018/978-1-4666-6042-7.ch041">
   <data key="d0">1</data>
 </edge>
 <edge source="Mathematics (All)" target="10.1007/978-3-319-68130-6_1}">
@@ -9154,6 +8913,9 @@
 <edge source="Renhancer" target="Spar">
   <data key="d0">2</data>
 </edge>
+<edge source="Spar" target="http://ceur-ws.org/Vol-1155/paper-05.pdf}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Altmetrics" target="Bibliometric Indicators">
   <data key="d0">8</data>
 </edge>
@@ -9199,6 +8961,9 @@
 <edge source="Search" target="Constraints Solving">
   <data key="d0">2</data>
 </edge>
+<edge source="Theoretical Computer Science" target="10.1007/978-3-030-01379-0_4}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Theoretical Computer Science" target="Emergency Vehicle Routing">
   <data key="d0">4</data>
 </edge>
@@ -9229,8 +8994,14 @@
 <edge source="Theoretical Computer Science" target="N-Ary Relations">
   <data key="d0">2</data>
 </edge>
+<edge source="Theoretical Computer Science" target="10.1007/978-3-642-35843-2_8}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Theoretical Computer Science" target="Discourse Representation Theory">
   <data key="d0">2</data>
+</edge>
+<edge source="Theoretical Computer Science" target="10.1007/978-3-642-33876-2_12}">
+  <data key="d0">1</data>
 </edge>
 <edge source="Theoretical Computer Science" target="Frame Detection">
   <data key="d0">2</data>
@@ -9238,14 +9009,17 @@
 <edge source="Theoretical Computer Science" target="Robust Ontology Design">
   <data key="d0">2</data>
 </edge>
+<edge source="Theoretical Computer Science" target="10.1007/978-3-319-58694-6_34}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Theoretical Computer Science" target="Ontology Development">
   <data key="d0">4</data>
 </edge>
 <edge source="Theoretical Computer Science" target="Photo Archives">
   <data key="d0">4</data>
 </edge>
-<edge source="Theoretical Computer Science" target="Computer Science">
-  <data key="d0">2</data>
+<edge source="Theoretical Computer Science" target="10.1007/978-3-319-92612-4_2">
+  <data key="d0">1</data>
 </edge>
 <edge source="Software" target="10.1145/2740908.2742842}">
   <data key="d0">1</data>
@@ -9665,9 +9439,6 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Linked Open Data" target="Photography">
-  <data key="d0">4</data>
-</edge>
-<edge source="Linked Open Data" target="Digital Humanities">
   <data key="d0">4</data>
 </edge>
 <edge source="Linked Open Data" target="Social Robots">
@@ -10150,9 +9921,6 @@
 <edge source="Machine Learning" target="Computer Networks">
   <data key="d0">2</data>
 </edge>
-<edge source="Machine Learning" target="Computer Science">
-  <data key="d0">2</data>
-</edge>
 <edge source="Machine Learning" target="Computer Systems">
   <data key="d0">2</data>
 </edge>
@@ -10363,9 +10131,6 @@
 <edge source="Machine Learning" target="Museum">
   <data key="d0">2</data>
 </edge>
-<edge source="Machine Learning" target="Digital Humanities">
-  <data key="d0">2</data>
-</edge>
 <edge source="Machine Learning" target="Text Recognition">
   <data key="d0">2</data>
 </edge>
@@ -10437,9 +10202,6 @@
 </edge>
 <edge source="Scientometrics" target="Cord-19">
   <data key="d0">2</data>
-</edge>
-<edge source="Scientometrics" target="Digital Humanities">
-  <data key="d0">4</data>
 </edge>
 <edge source="Data Modeling" target="Interoperability">
   <data key="d0">6</data>
@@ -10591,6 +10353,9 @@
 <edge source="Management Information Systems" target="Delphi Study">
   <data key="d0">4</data>
 </edge>
+<edge source="Management Information Systems" target="10.1145/3230713}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Management Information Systems" target="Information Systems Quality">
   <data key="d0">4</data>
 </edge>
@@ -10640,6 +10405,12 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Rash" target="article_1774">
+  <data key="d0">1</data>
+</edge>
+<edge source="Xslt" target="10.7717/peerj-cs.132}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Xslt" target="http://ceur-ws.org/Vol-1486/paper_72.pdf">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Integration" target="Semantic Reconciliation">
@@ -10963,6 +10734,9 @@
 <edge source="Software Engineering" target="Antifragility">
   <data key="d0">4</data>
 </edge>
+<edge source="Software Engineering" target="10.1016/j.procs.2016.04.196}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Software Engineering" target="Complex Systems">
   <data key="d0">4</data>
 </edge>
@@ -11153,9 +10927,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Software Engineering" target="Automation &amp; Control Systems">
-  <data key="d0">2</data>
-</edge>
-<edge source="Software Engineering" target="Computer Science">
   <data key="d0">2</data>
 </edge>
 <edge source="Software Engineering" target="Artificial Intelligence Computer Science">
@@ -11473,9 +11244,6 @@
 <edge source="Grid" target="10.1007/s10723-009-9115-6}">
   <data key="d0">1</data>
 </edge>
-<edge source="Grid" target="Computer Science">
-  <data key="d0">2</data>
-</edge>
 <edge source="Grid" target="Xmatch">
   <data key="d0">2</data>
 </edge>
@@ -11549,19 +11317,7 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Ontologie" target="Organizzazione Della Conoscenza">
-  <data key="d0">6</data>
-</edge>
-<edge source="Ontologie" target="Ermeneutica">
   <data key="d0">4</data>
-</edge>
-<edge source="Ontologie" target="Metodologia">
-  <data key="d0">4</data>
-</edge>
-<edge source="Ontologie" target="Classificazione">
-  <data key="d0">4</data>
-</edge>
-<edge source="Ontologie" target="Digital Humanities">
-  <data key="d0">2</data>
 </edge>
 <edge source="Ontologie" target="10.53134/9788893574365-15">
   <data key="d0">1</data>
@@ -11575,17 +11331,14 @@
 <edge source="Ontologie" target="Atto Interpretativo">
   <data key="d0">2</data>
 </edge>
-<edge source="Ontologie" target="Archivi">
-  <data key="d0">4</data>
+<edge source="Ontologie" target="Ermeneutica">
+  <data key="d0">2</data>
 </edge>
-<edge source="Ontologie" target="Cidoc-Crm">
-  <data key="d0">4</data>
+<edge source="Ontologie" target="Metodologia">
+  <data key="d0">2</data>
 </edge>
-<edge source="Ontologie" target="Frbr">
-  <data key="d0">4</data>
-</edge>
-<edge source="Ontologie" target="Fotografia">
-  <data key="d0">4</data>
+<edge source="Ontologie" target="Classificazione">
+  <data key="d0">2</data>
 </edge>
 <edge source="Lexical Semantics" target="Rappresentazione Della Conoscenza">
   <data key="d0">2</data>
@@ -12418,9 +12171,6 @@
 <edge source="Cognitive Science" target="Museum Studies">
   <data key="d0">2</data>
 </edge>
-<edge source="Cognitive Science" target="Computer Science">
-  <data key="d0">2</data>
-</edge>
 <edge source="Cognitive Science" target="Sociology">
   <data key="d0">2</data>
 </edge>
@@ -12739,237 +12489,6 @@
 <edge source="Arts" target="Photography">
   <data key="d0">4</data>
 </edge>
-<edge source="Arts" target="Digital Humanities">
-  <data key="d0">4</data>
-</edge>
-<edge source="Photography" target="Digital Humanities">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Scholarly Editions">
-  <data key="d0">14</data>
-</edge>
-<edge source="Digital Humanities" target="Filologia Italiana">
-  <data key="d0">8</data>
-</edge>
-<edge source="Digital Humanities" target="Filologia D'Autore">
-  <data key="d0">8</data>
-</edge>
-<edge source="Digital Humanities" target="Carlo Emilio Gadda">
-  <data key="d0">8</data>
-</edge>
-<edge source="Digital Humanities" target="Alessandro Manzoni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Ferdinando Pessoa">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Friedrich Nietzsche">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Jane Austen">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Marcel Proust">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Letteratura Italiana">
-  <data key="d0">18</data>
-</edge>
-<edge source="Digital Humanities" target="http://semicerchio.bytenet.it/numero.asp?n=846">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Edizioni Digitali">
-  <data key="d0">8</data>
-</edge>
-<edge source="Digital Humanities" target="Manzoni">
-  <data key="d0">10</data>
-</edge>
-<edge source="Digital Humanities" target="Scholar Editions">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Archive">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Italo Calvino">
-  <data key="d0">8</data>
-</edge>
-<edge source="Digital Humanities" target="10.6092/issn.2532-8816/19013">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Combinatorial Literature">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Semantic Narratives Visualisation">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="http://www.aiucd.it/wp-content/uploads/2023/06/2023_aiucd_la_memoria_digitale_v1.pdf">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Narratology">
-  <data key="d0">6</data>
-</edge>
-<edge source="Digital Humanities" target="Imaging Multispettrale">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Manoscritti">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Heritage Science">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Ecosystem">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Data Mining">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Collodi">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Pinocchio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Filologia Italiana.">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Edition">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Ancient Greek">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Research Infrastructures">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Classics">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Pedagogy">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Distance Learning">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="University Of Bologna">
-  <data key="d0">6</data>
-</edge>
-<edge source="Digital Humanities" target="Education">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Aiucd">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Scholarly Research">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Project-Oriented Method">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Computational Thinking">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Master Degree">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Phd Degree">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Objects' Lifecycle">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="http://dl.acm.org/citation.cfm?id=2802612">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Organizzazione Della Conoscenza">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="article_938">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Technology And The Humanities">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Internet Or The Humanistic Machine">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Writing And Content Production">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Representing And Archiving">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Searching And Organizing">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Dh In A Global Perspective">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Bibliographic Databases">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Citation Indexes">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Humanities Research">
-  <data key="d0">4</data>
-</edge>
-<edge source="Digital Humanities" target="Text Recognition">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Lavoro Digitale">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="article_1081">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Skills">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Digital Philology">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Marcel Proust.">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Filologia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Testi Digitali">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Leopardi">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Scholarly Editions.">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Edizioni Critiche Digitali">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Wiki Edizioni">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Filologia D'Autore.">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Textual Studies">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Ecdotica">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="article_1408">
-  <data key="d0">1</data>
-</edge>
-<edge source="Digital Humanities" target="Letteratura Italiana Moderna E Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Digital Humanities" target="Citizen Curation">
-  <data key="d0">2</data>
-</edge>
 <edge source="Scholarly Editions" target="Filologia Italiana">
   <data key="d0">4</data>
 </edge>
@@ -12996,6 +12515,9 @@
 </edge>
 <edge source="Scholarly Editions" target="Letteratura Italiana">
   <data key="d0">10</data>
+</edge>
+<edge source="Scholarly Editions" target="http://semicerchio.bytenet.it/numero.asp?n=846">
+  <data key="d0">1</data>
 </edge>
 <edge source="Scholarly Editions" target="Edizioni Digitali">
   <data key="d0">8</data>
@@ -13123,7 +12645,7 @@
 <edge source="Filologia Italiana" target="Critica Testuale">
   <data key="d0">2</data>
 </edge>
-<edge source="Filologia Italiana" target="Archivi Digitali">
+<edge source="Filologia Italiana" target="Digital Archives">
   <data key="d0">2</data>
 </edge>
 <edge source="Filologia Italiana" target="Digital Library">
@@ -13411,7 +12933,7 @@
 <edge source="Filologia D'Autore" target="Vincenzo Monti">
   <data key="d0">6</data>
 </edge>
-<edge source="Filologia D'Autore" target="Archivi">
+<edge source="Filologia D'Autore" target="Archives">
   <data key="d0">6</data>
 </edge>
 <edge source="Filologia D'Autore" target="Giovanni Boccaccio">
@@ -13798,8 +13320,11 @@
 <edge source="Carlo Emilio Gadda" target="La Cognizione Del Dolore.">
   <data key="d0">2</data>
 </edge>
-<edge source="Carlo Emilio Gadda" target="Archivi Del Novecento.">
+<edge source="Carlo Emilio Gadda" target="Archivi Del Novecento">
   <data key="d0">2</data>
+</edge>
+<edge source="Carlo Emilio Gadda" target="article_1408">
+  <data key="d0">1</data>
 </edge>
 <edge source="Alessandro Manzoni" target="Ferdinando Pessoa">
   <data key="d0">4</data>
@@ -14188,7 +13713,7 @@
 <edge source="Letteratura Italiana" target="La Storia Della Colonna Infame.">
   <data key="d0">4</data>
 </edge>
-<edge source="Letteratura Italiana" target="Archivi">
+<edge source="Letteratura Italiana" target="Archives">
   <data key="d0">4</data>
 </edge>
 <edge source="Letteratura Italiana" target="Francesco Petrarca">
@@ -14269,11 +13794,11 @@
 <edge source="Letteratura Italiana" target="Scholarly Editing">
   <data key="d0">6</data>
 </edge>
-<edge source="Letteratura Italiana" target="Testo Digitale">
+<edge source="Letteratura Italiana" target="Digital Text">
   <data key="d0">2</data>
 </edge>
-<edge source="Letteratura Italiana" target="Archivi Digitali.">
-  <data key="d0">2</data>
+<edge source="Letteratura Italiana" target="Digital Archives">
+  <data key="d0">4</data>
 </edge>
 <edge source="Letteratura Italiana" target="Lingua Italiana">
   <data key="d0">2</data>
@@ -14291,9 +13816,6 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Letteratura Italiana" target="Critica Testuale">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Archivi Digitali">
   <data key="d0">2</data>
 </edge>
 <edge source="Letteratura Italiana" target="Digital Library">
@@ -14383,7 +13905,7 @@
 <edge source="Letteratura Italiana" target="Storia Del Libro">
   <data key="d0">2</data>
 </edge>
-<edge source="Letteratura Italiana" target="Archivi Del Novecento.">
+<edge source="Letteratura Italiana" target="Archivi Del Novecento">
   <data key="d0">2</data>
 </edge>
 <edge source="Letteratura Italiana" target="Nuovi Argomenti">
@@ -14473,19 +13995,16 @@
 <edge source="Edizioni Digitali" target="Scholarly Editing">
   <data key="d0">4</data>
 </edge>
-<edge source="Edizioni Digitali" target="Testo Digitale">
+<edge source="Edizioni Digitali" target="Digital Text">
   <data key="d0">2</data>
 </edge>
-<edge source="Edizioni Digitali" target="Archivi Digitali.">
-  <data key="d0">2</data>
+<edge source="Edizioni Digitali" target="Digital Archives">
+  <data key="d0">4</data>
 </edge>
 <edge source="Edizioni Digitali" target="Editoria">
   <data key="d0">2</data>
 </edge>
 <edge source="Edizioni Digitali" target="Critica Testuale">
-  <data key="d0">2</data>
-</edge>
-<edge source="Edizioni Digitali" target="Archivi Digitali">
   <data key="d0">2</data>
 </edge>
 <edge source="Edizioni Digitali" target="Digital Library">
@@ -14644,6 +14163,9 @@
 <edge source="Combinatorial Literature" target="Semantic Narratives Visualisation">
   <data key="d0">2</data>
 </edge>
+<edge source="Semantic Narratives Visualisation" target="10.6092/issn.2532-8816/19013">
+  <data key="d0">1</data>
+</edge>
 <edge source="Rdf Data For Humanities" target="Rdf Data Quality">
   <data key="d0">2</data>
 </edge>
@@ -14779,9 +14301,6 @@
 <edge source="Data Mining" target="Computer Networks">
   <data key="d0">2</data>
 </edge>
-<edge source="Data Mining" target="Computer Science">
-  <data key="d0">2</data>
-</edge>
 <edge source="Data Mining" target="Computer Systems">
   <data key="d0">2</data>
 </edge>
@@ -14874,6 +14393,9 @@
 </edge>
 <edge source="Pwo" target="Workflow Description">
   <data key="d0">2</data>
+</edge>
+<edge source="Workflow Description" target="http://ceur-ws.org/">
+  <data key="d0">1</data>
 </edge>
 <edge source="http://ceur-ws.org/" target="Collection; Cultural Heritage; Ontology Design Patterns; Recurrent Events">
   <data key="d0">1</data>
@@ -15088,9 +14610,6 @@
 <edge source="Computer Games" target="Kriegspiel">
   <data key="d0">2</data>
 </edge>
-<edge source="Computer Games" target="Computer Science">
-  <data key="d0">2</data>
-</edge>
 <edge source="Computer Games" target="Ethical Issues In Informatics">
   <data key="d0">2</data>
 </edge>
@@ -15204,9 +14723,6 @@
 </edge>
 <edge source="Education" target="9783000293146}">
   <data key="d0">1</data>
-</edge>
-<edge source="Education" target="Computer Science">
-  <data key="d0">4</data>
 </edge>
 <edge source="Education" target="High School">
   <data key="d0">2</data>
@@ -15342,6 +14858,9 @@
 </edge>
 <edge source="Computational Thinking" target="University Of Bologna">
   <data key="d0">4</data>
+</edge>
+<edge source="Control And Systems Engineering" target="10.1007/978-3-319-64161-4_8}">
+  <data key="d0">1</data>
 </edge>
 <edge source="Control And Systems Engineering" target="10.1109/CoDIT.2018.8394832}">
   <data key="d0">1</data>
@@ -15512,138 +15031,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Human Factors And Ergonomics" target="10.1109/RTSI.2016.7740548}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="10.1002/cpe.978}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="article_305">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="article_309">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="1402077092}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="3540346945}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="article_348">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="Informatics">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science" target="High School">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Ecdl">
-  <data key="d0">4</data>
-</edge>
-<edge source="Computer Science" target="Entertainment Computing">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Service Oriented Architectures">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Xmatch">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Quality Of Service">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Xlm">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="9783540324881}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="article_400">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="9783540341413}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="Clustering Algorithms">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Computer Networks">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Computer Systems">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Computer Vision">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Databases Education Engineering">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Image Analysis">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Image Processing">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Internet Learning">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Mathematics">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Pattern Recognition">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Query Languages">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Search Engines">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="World Wide Web">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Conference Proceedings">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Research Applications">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="10.1007/978-3-319-92612-4_2">
-  <data key="d0">1</data>
-</edge>
-<edge source="Computer Science" target="Automation &amp; Control Systems">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Artificial Intelligence Computer Science">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Model Checking">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Library And Information Sciences">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Psychology">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Physical Sciences">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Communication And Media Studies">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Museum Studies">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Sociology">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="Publishing">
-  <data key="d0">2</data>
-</edge>
-<edge source="Computer Science" target="article_1605">
   <data key="d0">1</data>
 </edge>
 <edge source="Business Modeling" target="Requirements Engineering">
@@ -17359,6 +16746,9 @@
 <edge source="Privacy And Data Protection" target="Privacy Policies">
   <data key="d0">2</data>
 </edge>
+<edge source="Privacy Policies" target="http://ceur-ws.org/Vol-2049/}">
+  <data key="d0">1</data>
+</edge>
 <edge source="Privacy Policies" target="Privacy Icons">
   <data key="d0">2</data>
 </edge>
@@ -18115,7 +17505,7 @@
 <edge source="Benedetto Varchi" target="Filologia Della Letteratura Italiana">
   <data key="d0">4</data>
 </edge>
-<edge source="Benedetto Varchi" target="Archivi">
+<edge source="Benedetto Varchi" target="Archives">
   <data key="d0">4</data>
 </edge>
 <edge source="Benedetto Varchi" target="Francesco Petrarca">
@@ -18250,7 +17640,7 @@
 <edge source="Digital Library" target="Critica Testuale">
   <data key="d0">2</data>
 </edge>
-<edge source="Digital Library" target="Archivi Digitali">
+<edge source="Digital Library" target="Digital Archives">
   <data key="d0">2</data>
 </edge>
 <edge source="Ministero Della Cultura" target="Patrimonio Digitale">
@@ -18359,108 +17749,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Archivi" target="Contesti">
-  <data key="d0">2</data>
-</edge>
-<edge source="Archivi" target="Cidoc-Crm">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Frbr">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Fotografia">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Letteratura Italiana Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Archivi" target="Letteratura Del Novecento.">
-  <data key="d0">2</data>
-</edge>
-<edge source="Archivi" target="Filologia Della Letteratura Italiana">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Francesco Petrarca">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Giovanni Boccaccio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Umanesimo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Sannazzaro">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Niccolò Machiavelli">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Lodovico Ariosto">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Francesco Guicciardini">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Baldassar Castiglione">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Pietro Bembo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Giovan Giorgio Trissino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Pietro Aretino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Giovanni Della Casa">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Annibale Rucellai">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Vincenzio Borghini">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Torquato Tasso">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Alessandro Tassoni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Galileo Galilei">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Giovan Battista Vico">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Pietro Metastasio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Pietro Verri">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Giuseppe Pelli Bencivenni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Vittorio Alfieri">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Vincenzo Monti">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Giacomo Leopardi">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Alessandro Manzoni.">
-  <data key="d0">4</data>
-</edge>
-<edge source="Archivi" target="Manosacritti">
-  <data key="d0">2</data>
-</edge>
-<edge source="Archivi" target="Filologia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Archivi" target="Paleografia">
   <data key="d0">2</data>
 </edge>
 <edge source="Information Retrieval" target="Supervised Annotation">
@@ -19312,9 +18600,6 @@
 <edge source="Dementia" target="Neuroimaging">
   <data key="d0">2</data>
 </edge>
-<edge source="Dementia" target="Mci">
-  <data key="d0">2</data>
-</edge>
 <edge source="Dementia" target="Linguistic Markers">
   <data key="d0">2</data>
 </edge>
@@ -19439,9 +18724,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Mild Cognitive Impairment" target="Linguistic Biomarkers">
-  <data key="d0">2</data>
-</edge>
-<edge source="Mild Cognitive Impairment" target="Mci">
   <data key="d0">2</data>
 </edge>
 <edge source="Mild Cognitive Impairment" target="Linguistic Markers">
@@ -24487,6 +23769,9 @@
 <edge source="Customer Behavior Modeling" target="Electricity Tariff Optimization">
   <data key="d0">2</data>
 </edge>
+<edge source="Electricity Tariff Optimization" target="10.3390/en10091378">
+  <data key="d0">1</data>
+</edge>
 <edge source="Bibliographic Analysis" target="Cultural Analytics">
   <data key="d0">6</data>
 </edge>
@@ -25516,6 +24801,9 @@
 <edge source="Filologia" target="Manosacritti">
   <data key="d0">2</data>
 </edge>
+<edge source="Filologia" target="Archives">
+  <data key="d0">2</data>
+</edge>
 <edge source="Metodo" target="D'Annunzio">
   <data key="d0">2</data>
 </edge>
@@ -25771,6 +25059,9 @@
 <edge source="Paleografia" target="article_1396">
   <data key="d0">1</data>
 </edge>
+<edge source="Paleografia" target="Archives">
+  <data key="d0">2</data>
+</edge>
 <edge source="Guicciardini - Oroscopo" target="https://www.lelettere.it/libro/24010-20-1">
   <data key="d0">1</data>
 </edge>
@@ -25876,7 +25167,7 @@
 <edge source="Editoria" target="Critica Testuale">
   <data key="d0">2</data>
 </edge>
-<edge source="Editoria" target="Archivi Digitali">
+<edge source="Editoria" target="Digital Archives">
   <data key="d0">2</data>
 </edge>
 <edge source="Editoria" target="Letteratura Italiana Contemporanea">
@@ -26341,6 +25632,15 @@
 <edge source="Knowledge Organization" target="Critical Digital Edition">
   <data key="d0">8</data>
 </edge>
+<edge source="Knowledge Organization" target="Ermeneutica">
+  <data key="d0">2</data>
+</edge>
+<edge source="Knowledge Organization" target="Metodologia">
+  <data key="d0">2</data>
+</edge>
+<edge source="Knowledge Organization" target="Classificazione">
+  <data key="d0">2</data>
+</edge>
 <edge source="Intertextuality" target="Intratextuality">
   <data key="d0">8</data>
 </edge>
@@ -26497,7 +25797,7 @@
 <edge source="Writers, Archives" target="http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf">
   <data key="d0">1</data>
 </edge>
-<edge source="http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf" target="Digital Finding Aid · Linked Open Data · Writers’ Archives">
+<edge source="http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf" target="Digital Finding Aid, Linked Open Data, Writers, Archives">
   <data key="d0">1</data>
 </edge>
 <edge source="Civic Education; Color Heritage; Cultural Artifacts; Digital Hermeneutics; Interactive Design" target="https://ijcs.ro/volume-13-2022/#Specialissue1">
@@ -26591,6 +25891,9 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Data Visualization&#10;Linked Open Data&#10;Storytelling&#10;Design Thinking&#10;Ontology Design" target="10.1145/3603163.3609035">
+  <data key="d0">1</data>
+</edge>
+<edge source="10.1145/3603163.3609035" target="Data Visualization, Linked Open Data, Storytelling, Design Thinking, Ontology Design">
   <data key="d0">1</data>
 </edge>
 <edge source="Digital Pedagogy" target="Distance Learning">
@@ -26704,26 +26007,26 @@
 <edge source="Learning Areas ; Programme Catalogue ; Professional Figures ; Digital Humanities ; Stakeholders And Partnerships" target="10.6092/issn.2532-8816/7862">
   <data key="d0">1</data>
 </edge>
-<edge source="Organizzazione Della Conoscenza" target="Ermeneutica">
-  <data key="d0">4</data>
-</edge>
-<edge source="Organizzazione Della Conoscenza" target="Metodologia">
-  <data key="d0">4</data>
-</edge>
-<edge source="Organizzazione Della Conoscenza" target="Classificazione">
-  <data key="d0">4</data>
-</edge>
 <edge source="Ermeneutica" target="Metodologia">
   <data key="d0">4</data>
 </edge>
 <edge source="Ermeneutica" target="Classificazione">
   <data key="d0">4</data>
 </edge>
+<edge source="Ermeneutica" target="Organizzazione Della Conoscenza">
+  <data key="d0">2</data>
+</edge>
 <edge source="Metodologia" target="Classificazione">
   <data key="d0">4</data>
 </edge>
+<edge source="Metodologia" target="Organizzazione Della Conoscenza">
+  <data key="d0">2</data>
+</edge>
 <edge source="Classificazione" target="10.6092/issn.2283-9364/6109">
   <data key="d0">1</data>
+</edge>
+<edge source="Classificazione" target="Organizzazione Della Conoscenza">
+  <data key="d0">2</data>
 </edge>
 <edge source="Linked Open Data; Lam; Knowledge Organization; Dhdk" target="10.2426/aibstudi-12068">
   <data key="d0">1</data>
@@ -27094,6 +26397,9 @@
 <edge source="Ontology Documentation; Cultural Heritage" target="http://purl.org/emmedi/hico">
   <data key="d0">1</data>
 </edge>
+<edge source="Frbr" target="Archives">
+  <data key="d0">4</data>
+</edge>
 <edge source="Frbr" target="Cidoc-Crm">
   <data key="d0">4</data>
 </edge>
@@ -27276,6 +26582,99 @@
 </edge>
 <edge source="Atto Interpretativo" target="10.6092/issn.2283-9364/7531">
   <data key="d0">1</data>
+</edge>
+<edge source="Archives" target="Cidoc-Crm">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Fotografia">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Letteratura Italiana Contemporanea">
+  <data key="d0">2</data>
+</edge>
+<edge source="Archives" target="Letteratura Del Novecento.">
+  <data key="d0">2</data>
+</edge>
+<edge source="Archives" target="Filologia Della Letteratura Italiana">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Francesco Petrarca">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Giovanni Boccaccio">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Umanesimo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Sannazzaro">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Niccolò Machiavelli">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Lodovico Ariosto">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Francesco Guicciardini">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Baldassar Castiglione">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Pietro Bembo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Giovan Giorgio Trissino">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Pietro Aretino">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Giovanni Della Casa">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Annibale Rucellai">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Vincenzio Borghini">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Torquato Tasso">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Alessandro Tassoni">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Galileo Galilei">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Giovan Battista Vico">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Pietro Metastasio">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Pietro Verri">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Giuseppe Pelli Bencivenni">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Vittorio Alfieri">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Vincenzo Monti">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Giacomo Leopardi">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Alessandro Manzoni.">
+  <data key="d0">4</data>
+</edge>
+<edge source="Archives" target="Manosacritti">
+  <data key="d0">2</data>
 </edge>
 <edge source="Cidoc-Crm" target="Fotografia">
   <data key="d0">4</data>
@@ -27751,12 +27150,6 @@
 <edge source="Testo Digitale" target="Accesso Aperto">
   <data key="d0">2</data>
 </edge>
-<edge source="Testo Digitale" target="Scholarly Editing">
-  <data key="d0">2</data>
-</edge>
-<edge source="Testo Digitale" target="Archivi Digitali.">
-  <data key="d0">2</data>
-</edge>
 <edge source="Accesso Aperto" target="article_989">
   <data key="d0">1</data>
 </edge>
@@ -27990,6 +27383,9 @@
 </edge>
 <edge source="Lavoro Digitale" target="Digital Skills">
   <data key="d0">2</data>
+</edge>
+<edge source="Digital Skills" target="article_1081">
+  <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web; Edizioni Digitali; Rinascimento; Vespasiano Da Bisticci" target="10.6092/issn.1721-4777/12325">
   <data key="d0">1</data>
@@ -29515,7 +28911,7 @@
 <edge source="Critica Delle Varianti." target="article_1307">
   <data key="d0">1</data>
 </edge>
-<edge source="Letteratura Italiana; Archivi; Biblioteche; Manoscritti; Gadda" target="article_1308">
+<edge source="Letteratura Italiana; Archives; Biblioteche; Manoscritti; Gadda" target="article_1308">
   <data key="d0">1</data>
 </edge>
 <edge source="Confocal Microscopy; Diffraction Limit; Ink; Paper; Schottky Diode Detector; Terahertz; Radiation; Instrumentation; Condensed Matter Physics; Electrical And Electronic Engineering" target="10.1007/s10762-016-0338-x">
@@ -30679,13 +30075,13 @@
 <edge source="Letteratura Italiana; Letteratura Italiana Contemporanea; Mario Tobino; Resistenza" target="article_1343">
   <data key="d0">1</data>
 </edge>
-<edge source="Scholarly Editing" target="Archivi Digitali.">
+<edge source="Scholarly Editing" target="Digital Text">
   <data key="d0">2</data>
+</edge>
+<edge source="Scholarly Editing" target="Digital Archives">
+  <data key="d0">4</data>
 </edge>
 <edge source="Scholarly Editing" target="Critica Testuale">
-  <data key="d0">2</data>
-</edge>
-<edge source="Scholarly Editing" target="Archivi Digitali">
   <data key="d0">2</data>
 </edge>
 <edge source="Scholarly Editing" target="https://www.patroneditore.com/volumi/9788855535632/che-cos-era-e-che-cos-un-testo-di-lingua">
@@ -30694,8 +30090,14 @@
 <edge source="Scholarly Editing" target="Bibliografia">
   <data key="d0">2</data>
 </edge>
-<edge source="Archivi Digitali." target="https://amsacta.unibo.it/id/eprint/6348/">
+<edge source="Digital Text" target="Digital Archives">
+  <data key="d0">2</data>
+</edge>
+<edge source="Digital Archives" target="https://amsacta.unibo.it/id/eprint/6348/">
   <data key="d0">1</data>
+</edge>
+<edge source="Digital Archives" target="Critica Testuale">
+  <data key="d0">2</data>
 </edge>
 <edge source="Lingua Italiana" target="Didattica Della Lingua Italiana">
   <data key="d0">2</data>
@@ -31006,9 +30408,6 @@
 <edge source="Carlo Emilio Gadda." target="10.5565/rev/anuariolopedevega.488">
   <data key="d0">1</data>
 </edge>
-<edge source="Critica Testuale" target="Archivi Digitali">
-  <data key="d0">2</data>
-</edge>
 <edge source="Letteratura Moderne E Contemporanea" target="Filologia Editoriale">
   <data key="d0">2</data>
 </edge>
@@ -31222,7 +30621,7 @@
 <edge source="Alessandro Bonsanti" target="Giornale Di Guerra E Di Prigionia.">
   <data key="d0">2</data>
 </edge>
-<edge source="Alessandro Bonsanti" target="Archivi Del Novecento.">
+<edge source="Alessandro Bonsanti" target="Archivi Del Novecento">
   <data key="d0">2</data>
 </edge>
 <edge source="Alessandro Bonsanti" target="Nuovi Argomenti">
@@ -31285,7 +30684,7 @@
 <edge source="Poesia Italiana Dell'Ottocento." target="https://www.vieusseux.it/books/antologia-vieusseux-n-80-maggio-agosto-2021/105.html">
   <data key="d0">1</data>
 </edge>
-<edge source="Archivi Del Novecento." target="https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf">
+<edge source="Archivi Del Novecento" target="https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf">
   <data key="d0">1</data>
 </edge>
 <edge source="Nuovi Argomenti" target="Alberto Carocci">
@@ -33547,14 +32946,11 @@
 <edge source="Linguistic Biomarkers" target="10.1418/101111">
   <data key="d0">1</data>
 </edge>
-<edge source="Anorexia Nervosa · Clinical Linguistics · Linguistic Marker · Eating Disorders · Adolescence" target="10.1007/s40519-021-01273-7">
+<edge source="Anorexia Nervosa, Clinical Linguistics, Linguistic Marker, Eating Disorders, Adolescence" target="10.1007/s40519-021-01273-7">
   <data key="d0">1</data>
 </edge>
 <edge source="Dementia; Language And Speech Analyses; Linguistic Bio-Marker; Mild Cognitive Impairment; Nlp Techniques" target="10.1016/j.csl.2020.101113">
   <data key="d0">1</data>
-</edge>
-<edge source="Mci" target="Linguistic Markers">
-  <data key="d0">2</data>
 </edge>
 <edge source="Linguistic Markers" target="10.1016/j.jalz.2017.06.509">
   <data key="d0">1</data>
@@ -33838,7 +33234,7 @@
 <edge source="Knowledge Management; Semantic Web; Ontology" target="10.1007/978-3-319-49004-5">
   <data key="d0">1</data>
 </edge>
-<edge source="Theories Of Explanation · Speech Act Theory · Evaluation Of Explanations · Explanations In Law" target="10.1007/978-3-031-44064-9_2">
+<edge source="Theories Of Explanation, Speech Act Theory, Evaluation Of Explanations, Explanations In Law" target="10.1007/978-3-031-44064-9_2">
   <data key="d0">1</data>
 </edge>
 <edge source="Health Informatics" target="10.1109/HealthCom.2014.7001839">
