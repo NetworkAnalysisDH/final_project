@@ -707,7 +707,7 @@
         },
         {
             "author": "Carriero, V. A. and Gangemi, A. and Mancinelli, M. L. and Marinucci, L. and Nuzzolese, A. G. and Presutti, V. and Veninata, C.}",
-            "title": "ArCo ontology network and LOD on Italian Cultural Heritage}",
+            "title": "ArCo ontology network and LOD on Italian Cultural Heritage",
             "year": "2019}",
             "publisher": "CEUR-WS}",
             "volume": "2375}",
@@ -1409,6 +1409,16 @@
             "keywords": "OWL-S; GRID; OGSA; COORDINATION}",
             "isbn": "1581139640}",
             "pages": "1661--1667"
+        },
+        {
+            "author": "Carriero, V. A. and Gangemi, A. and Mancinelli, M. L. and Marinucci, L. and Nuzzolese, A. G. and Presutti, V. and Veninata, C.}",
+            "title": "ArCo ontology network and LOD on Italian Cultural Heritage}",
+            "year": "2019}",
+            "publisher": "CEUR-WS}",
+            "volume": "2375}",
+            "booktitle": "CEUR Workshop Proceedings}",
+            "keywords": "ArCo, Ontology, Ontology network, Cultural heritage, Linked Data, Knowledge Graphs}",
+            "pages": "97--102"
         },
         {
             "author": "Fiorela, Ciroku and De Giorgis Stefano,  and Aldo, Gangemi and Martinez-Pandiani Delfina Sol,  and Valentina, Presutti}",
@@ -11490,30 +11500,6 @@
             "url": "https://ebooks.iospress.nl/volumearticle/56702",
             "doi": "10.3233/SSW210013",
             "pages": "166-182"
-        },
-        {
-            "type": "conference",
-            "author": [
-                "Carriero, V. A.",
-                "Gangemi, A.",
-                "Mancinelli, M. L.",
-                "Marinucci, L.",
-                "Nuzzolese, A. G.",
-                "Presutti, V.",
-                "Veninata, C"
-            ],
-            "title": "ArCo ontology network and LOD on Italian Cultural Heritage",
-            "year": 2019,
-            "volume": 2375,
-            "keywords": [
-                "ArCo",
-                "Ontologies",
-                "Ontology network",
-                "Cultural heritage",
-                "Linked Data",
-                "Knowledge Graphs"
-            ],
-            "pages": "97-102"
         },
         {
             "type": "conference",
