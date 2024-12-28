@@ -1,0 +1,617 @@
+{
+    "members": 
+    [
+    {
+        "ORCID_ID": "",
+        "name": "Ilaria Burattini",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Graduate",
+        "area": "Literary and Philological Cultures",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-5931-5187",
+        "name": "Valentina Pasqual",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Graduate",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+        },
+    {
+        "ORCID_ID": "",
+        "name": "Beatrice Nava",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Graduate",
+        "area": "Literary and Philological Cultures",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-1427-3723",
+        "name": "Valentina Anita Carriero",
+        "type": "Collaborator",
+        "position": "PhD Student",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Martina Dello Buono",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Student",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-6007-9118",
+        "name": "Francesca Giovannetti",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Student",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-2392-6300",
+        "name": "Delfina Sol Martinez Pandiani",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Student",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-1713-178X",
+        "name": "Roberta Priore",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Student",
+        "area": "Philology",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-5245-4296",
+        "name": "Ersilia Russo",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Student",
+        "area": "Linguistics",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-9152-4402",
+        "name": "Bruno Sartini",
+        "type": "DH.Arc Collaborator",
+        "position": "PhD Student",
+        "area": "History",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-7382-0187",
+        "name": "Fabio Mariani",
+        "type": "DH.Arc Collaborator",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-0799-1527",
+        "name": "Sebastian Barzaghi",
+        "type": "DH.Arc Collaborator",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Sara Amayeh",
+        "type": "DH.Arc Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-2990-0021",
+        "name": "Giulia Renda",
+        "type": "DH.Arc Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Giulia Manganelli",
+        "type": "DH.Arc Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-6631-8607",
+        "name": "Francesca Tomasi",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Knowledge Organization",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-9806-084X",
+        "name": "Giovanni Colavizza",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Semantic Publishing",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-1113-7550",
+        "name": "Marilena Daquino",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Knowledge Representation",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-6893-7452",
+        "name": "Angelo Di Iorio",
+        "type": "DH.Arc Scientific Committee",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-5568-2684",
+        "name": "Aldo Gangemi",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Knowledge Representation",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-6281-7708",
+        "name": "Paola Maria Carmela Italia",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Philology",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-8557-8084",
+        "name": "Monica Palmirani",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Law",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-0530-4305",
+        "name": "Silvio Peroni",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-7950-0347",
+        "name": "Fabio Tamburini",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Linguistics",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-7562-5203",
+        "name": "Fabio Vitali",
+        "type": ["DH.Arc Scientific Committee", "DHDK"],
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+        {
+        "ORCID_ID": "https://orcid.org/0000-0001-5366-5194",
+        "name": "Ivan Heibi",
+        "type": "Dh.Arc Scientific Committee",
+        "position": "Research Assistant",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Tommaso Vitale",
+        "type": "Dh.Arc Scientific Committee",
+        "position": "IT Staff",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-9380-5160",
+        "name": "Valentina Presutti",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-2928-9496",
+        "name": "Andrea Giovanni Nuzzolese",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Computer Science",
+        "affiliation": ["CNR", "University of Bologna"]
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-2341-4375",
+        "name": "Francesca Mambelli",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Art",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0009-0007-7813-0939",
+        "name": "Sebastiano Giacomini",
+        "type": "Extern",
+        "position": "Research Assistant",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-6577-5606",
+        "name": "Francesco Poggi",
+        "type": "Extern",
+        "position": "Research Assistant",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-7958-9924",
+        "name": "Paolo Ciancarini",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Francesco Paolucci",
+        "type": "Extern",
+        "position": "Student",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-1907-0677",
+        "name": "Luigi Asprino",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-7867-6612",
+        "name": "Mehwish Alam",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "Institut Polytechnique de Paris"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-8646-6183",
+        "name": "Diego Reforgiato Recupero",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Computer Science",
+        "affiliation": "University of Cagliari"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0009-0008-2649-0729",
+        "name": "Maria Levchenko",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Giulia Menna",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Matilde Passafaro",
+        "type": "Extern",
+        "position": "Master's Student",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0009-0004-2594-5251",
+        "name": "Sara Obbiso",
+        "type": "Extern",
+        "position": "PhD Student",
+        "area": "Culural Heritage",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0009-0007-5620-3834",
+        "name": "Enrica Bruno",
+        "type": "DH.Arc",
+        "position": "PhD Student",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-5506-523X",
+        "name": "David M. Shotton",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Digital Humanities", 
+        "affiliation": "University of Oxford"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-2733-0689",
+        "name": "Vincent Larivière",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Montréal"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-8249-1752",
+        "name": "Ludo Waltman",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "Leiden University"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-9671-8484",
+        "name": "Claudia Bonsi",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Philology",
+        "affiliation": "University of Milano-Bicocca"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Teresa Gargano",
+        "type": "Extern",
+        "position": "PhD Student",
+        "area": "Philology", 
+        "affiliation": "university of Roma-Sapienza"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-1821-5774",
+        "name": "Mila Fumini",
+        "type": "Extern",
+        "position": "Researcher",
+        "area": "Digital Humanities",
+        "affiliation": "University of Firenze"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Giulia Manganelli",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0003-4133-3445",
+        "name": "Stefano De Giorgis",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-9529-7083",
+        "name": "Sofia Pescarin",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Digital Humanitites",
+        "affiliation": ["CNR", "University of Bologna"]
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-9152-4402",
+        "name": "Bruno Sartini",
+        "type": "Extern",
+        "position": "Master's Graduate",
+        "area": "Digital Humanities",
+        "affiliation":"University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-5042-4827",
+        "name": "Alessandro Capone",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Cultural Heritage",
+        "affiliation": "University of Salerno"
+
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0009-0008-7081-3927",
+        "name": "Dario Brancato",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Linguistics",
+        "affiliation": "Concordia University"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0002-8656-4602",
+        "name": "Laurent Fintoni",
+        "type": "DH.Arc Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "",
+        "name": "Marco Grasso",
+        "type": "Collaborator",
+        "position": "Internship",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "ORCID_ID": "https://orcid.org/0000-0001-8337-3379",
+        "name": "Paolo Bonora",
+        "type": "Scientific Committee",
+        "position": "Technical manager",
+        "area": "Digital Humanities",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-8074-1129",
+        "name": "Ilaria Bartolini",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0001-9548-2089",
+        "name": "Ekaterina Baskakova",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Business",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-7023-7922",
+        "name": "Simona Caraceni",
+        "type": "Extern",
+        "position": "Professor",
+        "area": "Museology",
+        "affiliation": ["CINECA", "University of Bologna"]
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-7288-6635",
+        "name": "Michele Corazza",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0003-0690-2155",
+        "name": "Daniele Donati",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Philosophy and Communication",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0003-1558-1365",
+        "name": "Daniele Ferdani",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Digital Humanities",
+        "affiliation": ["CNR", "University of Bologna"]
+    },
+    {
+        "members_id": "https://orcid.org/0000-0001-9669-3486",
+        "name": "Simone Ferriani",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Business Administration",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-3658-6395",
+        "name": "Saverio Giallorenzo",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0001-8674-7604",
+        "name": "Andrea Guizzardi",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Statistics",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "",
+        "name": "Giulio Iovine",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Ancient Languages",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0003-2255-623X",
+        "name": "Francesca Leonardi",
+        "type": "DHDK",
+        "position": "Post-doctoral researcher",
+        "area": "Business Administration",
+        "affiliation": "University of Rome Tor Vergata"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0001-7379-1411",
+        "name": "Michela Milano",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Computer Science",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "",
+        "name": "Alberto Musso",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Law",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-7406-6286",
+        "name": "Matteo Romanello",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Digital Humanities",
+        "affiliation": ["University of Lausanne", "University of Bologna"]
+    },
+    {
+        "members_id": "",
+        "name": "Giorgio Spedicato",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Law",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "",
+        "name": "Elina Stepanyan",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Cultural Heritage",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-2570-3306",
+        "name": "Chiara Tartarini",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Museology",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0001-8613-0962",
+        "name": "Luca Trapin",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Statistics",
+        "affiliation": "University of Bologna"
+    },
+    {
+        "members_id": "https://orcid.org/0000-0002-5641-5817",
+        "name": "Annafelicia Zufrano",
+        "type": "DHDK",
+        "position": "Professor",
+        "area": "Philology",
+        "affiliation": "University of Bologna"
+    }
+]
+}
+
+
+

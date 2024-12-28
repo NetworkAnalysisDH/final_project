@@ -8,8 +8,8 @@ import community as community_louvain
 from collections import defaultdict
 
 # Absolute path to the JSON file
-base_path = os.path.abspath("dataset")
-file_path = os.path.join(base_path, "publications.json")
+base_path = os.path.abspath("data")
+file_path = os.path.join(base_path, "publications_filtered.json")
 
 def load_publications(file_path):
     # Load the JSON file
@@ -32,18 +32,18 @@ def load_publications(file_path):
 def create_cooccurrence_network(data):
     # Create the graph
     graph = nx.Graph()
-    excluded_keywords = {"Digital Humanities", "Computer Science", "Computer Science (All)", "Italian Literature"}
+    excluded_keywords = {"Digital Humanities", "Computer Science", "Computer Science (All)", "Italian Literature", "Artificial Intelligence", "Software"}
 
     for index, entry in enumerate(data):
         # Extract the available identifier: DOI, URL, or ISBN
-        article_id = entry.get("doi") or entry.get("url") or entry.get("isbn") or entry.get("isbn") or entry.get("id") or entry.get("title")
+        article_id = entry.get("id") or entry.get("doi") or entry.get("url") or entry.get("isbn") or entry.get("title")
        
         if isinstance(article_id, list):
             article_id = str(article_id[0]) 
         
         # If no identifier is available, skip this article
         if not article_id:
-            print(f"Article without identifier (DOI, URL, ISBN, ID, or title): {entry.get('title', 'Title not available')}")
+            #print(f"Article without identifier (DOI, URL, ISBN, ID, or title): {entry.get('title', 'Title not available')}")
             continue
 
         # Retrieve the keywords
@@ -62,8 +62,10 @@ def create_cooccurrence_network(data):
                         for kw in keyword.replace(';', ',').split(',') if kw.strip()]
        
        
-        # Check if "Letteratura italiana" is in the keywords and translate it
+
         keywords = ['Italian Literature' if kw == 'Letteratura Italiana' else kw for kw in keywords]
+        keywords = ['Ontologies' if kw == 'Ontology' else kw for kw in keywords]
+
 
 
         # Exclude unwanted keywords
@@ -137,26 +139,26 @@ def analyze_network(G):
     print("\n--- Centrality ---")
     # Degree centrality
     degree_centrality = nx.degree_centrality(G)
-    print("Top 5 nodes by degree centrality:")
-    for node, centrality_score in sorted(degree_centrality.items(), key=lambda x: -x[1])[:5]:
+    print("Top 10 nodes by degree centrality:")
+    for node, centrality_score in sorted(degree_centrality.items(), key=lambda x: -x[1])[:10]:
         print(f"{node}: {centrality_score:.4f}")
 
     # Betweenness centrality
     betweenness_centrality = nx.betweenness_centrality(G)
-    print("\nTop 5 nodes by betweenness centrality:")
-    for node, centrality_score in sorted(betweenness_centrality.items(), key=lambda x: -x[1])[:5]:
+    print("\nTop 10 nodes by betweenness centrality:")
+    for node, centrality_score in sorted(betweenness_centrality.items(), key=lambda x: -x[1])[:10]:
         print(f"{node}: {centrality_score:.4f}")
 
     # Closeness centrality
     closeness_centrality = nx.closeness_centrality(G)
-    print("\nTop 5 nodes by closeness centrality:")
-    for node, centrality_score in sorted(closeness_centrality.items(), key=lambda x: -x[1])[:5]:
+    print("\nTop 10 nodes by closeness centrality:")
+    for node, centrality_score in sorted(closeness_centrality.items(), key=lambda x: -x[1])[:10]:
         print(f"{node}: {centrality_score:.4f}")
 
     # Eigenvector centrality
     eigenvector_centrality = nx.eigenvector_centrality(G)
-    print("\nTop 5 nodes by eigenvector centrality:")
-    for node, centrality_score in sorted(eigenvector_centrality.items(), key=lambda x: -x[1])[:5]:
+    print("\nTop 10 nodes by eigenvector centrality:")
+    for node, centrality_score in sorted(eigenvector_centrality.items(), key=lambda x: -x[1])[:10]:
         print(f"{node}: {centrality_score:.4f}")
 
     # Modularity

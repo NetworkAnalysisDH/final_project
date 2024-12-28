@@ -1,0 +1,181 @@
+{
+    "projects": [
+    {
+        "project_id": 1,
+        "name": "ArCo",
+        "description": "Ontology",
+        "participants": [4, 21, 29, 30]
+    },
+    {
+        "project_id": 2,
+        "name": "ARTchives",
+        "description": "The Inventory of Art Historians’ Archives",
+        "participants": [17, 19, 31]
+    },
+    {
+        "project_id": 3,
+        "name": "CATARSI",
+        "description": "automatic analysis of scholarly documents",
+        "participants": [24, 27]
+    },
+    {
+        "project_id": 4,
+        "name": "CLEF",
+        "description": "DCrowdsourcing Linked Open Entities via web Forms",
+        "participants": [19, 32]
+    },
+    {
+        "project_id": 5,
+        "name": "DHDKey!",
+        "description": "projects, dataset, DHDK classes",
+        "participants": [11, 24, 17]
+    },
+    {
+        "project_id": 6,
+        "name": "Digital Library (FICLIT)",
+        "description": "Digital Library (FICLIT)",
+        "participants": []
+    },
+    {
+        "project_id": 7,
+        "name": "DocuDipity",
+        "description": "Document visualization, information interfaces and presentation, reading patterns",
+        "participants": [33, 20, 24, 26, 34]
+    },
+    {
+        "project_id": 8,
+        "name": "Edizione nazionale delle opere di Aldo Moro",
+        "description": "Knowledge organization, Text encoding, Critical digital edition",
+        "participants": [12, 35, 17, 26, 21]
+    },
+    {
+        "project_id": 9,
+        "name": "Framester",
+        "description": "a large-scale factual-linguistic knowledge graph based on frame semantics",
+        "participants": [21, 36, 37, 29]
+    },
+    {
+        "project_id": 10,
+        "name": "FRED",
+        "description": "state-of-the-art knowledge graph extraction from text",
+        "participants": [21, 36, 37, 30, 29, 38]
+    },
+    {
+        "project_id": 11,
+        "name": "KNOT",
+        "description": "Patrimoni culturali digitali degli Atenei", 
+        "participants": [56, 19, 17]
+    },
+    {
+        "project_id": 12,
+        "name": "Leggo Manzoni",
+        "description": "Digital Philology, Italian Literature, Alessandro Manzoni, I Promessi Sposi", 
+        "participants": [22, 17, 39, 40, 41, 42, 9]
+    },
+    {
+        "project_id": 13,
+        "name": "LIFT - Linked data from TEI ",
+        "description": "Digital edition, Knowledge graph, Linked Open Data, TEI, Transformation",
+        "participants": [6, 17]
+    },
+    {
+        "project_id": 14,
+        "name": "mAuth",
+        "description": "mining Authoritativeness in Art History", 
+        "participants": [19, 17]
+    },
+    {
+        "project_id": 15,
+        "name": "MELODY",
+        "description": "Make mE a Linked Open Data storY",
+        "participants": [14, 17]
+    },
+    {
+        "project_id": 16,
+        "name": "mythLOD",
+        "description": "Semantic Collection, Linked Open Data, Mythologiae, Canonical Citations, Digital Hermeneutics",
+        "participants": [2, 17]
+    },
+    {
+        "project_id": 17,
+        "name": "musoW 2.0",
+        "description": "the online catalogue of Music Heritage on the web", 
+        "participants": [19]
+    },
+    {
+        "project_id": 18,
+        "name": "ODI",
+        "description": "uno studio su Il Castello dei Destini incrociati di Italo Calvino", 
+        "participants": [43, 2, 17]
+    },
+    {
+        "project_id": 19,
+        "name": "OpenCitations Enhancement Project",
+        "description": "infrastructure, open citation data, interfaces for citation data", 
+        "participants": [17, 27, 24, 44]
+    },
+    {
+        "project_id": 20,
+        "name": "Open Biomedical Citations in Context Corpus",
+        "description": "in-text reference pointers, open citation data, citation contexts", 
+        "participants": [27, 24, 45, 44, 46]
+    },
+    {
+        "project_id": 21,
+        "name": "Philoeditor",
+        "description": "Digital Philology, Italian Literature, Authorial Philology, Alessandro Manzoni, I Promessi Sposi, Collodi, Le avventure di Pinocchio",
+        "participants": [22, 17, 26, 47, 20, 48, 9]
+    },
+    {
+        "project_id": 22,
+        "name": "Ragu",
+        "description": "Reti e Archivi del Gusto", 
+        "participants": [49, 50, 14, 17]
+    },
+    {
+        "project_id": 23,
+        "name": "Semantic Digital Edition of Paolo Bufalini’s notebook",
+        "description": "Contemporary literature, Knowledge organization, Intertextuality, Intratextuality, Text encoding, Semantic Digital Edition",
+        "participants": [6, 19, 17, 5]
+    },
+    {
+        "project_id": 24,
+        "name": "Semantic Digital Edition of Vespasiano da Bisticci’s Letters",
+        "description": "Renaissance, Creative industries, Semantic Digital Edition",
+        "participants": [19, 17]
+    },
+    {
+        "project_id": 25,
+        "name": "Śivadharma database",
+        "description": "Digital Edition, Sanskrit sources, Linked Open Data, Semantic web, Data visualization",
+        "participants": [5, 17]
+    },
+    {
+        "project_id": 26,
+        "name": "SPICE",
+        "description": "Social cohesion, Participation, and Inclusion through Cultural Engagement", 
+        "participants": [21, 24, 51, 19, 7, 52, 53, 19]
+    },
+    {
+        "project_id": 27,
+        "name": "SSE - Smart Structured Editor",
+        "description": "Templates, Authoring, Collaborative Editing, Technical documentation, Versioning", 
+        "participants": [26, 20, 54]
+    },
+    {
+        "project_id": 28,
+        "name": "VASTO",
+        "description": "Digital edition, Varchi, Storia fiorentina, EVT2, XML/TEI", 
+        "participants": [55, 22, 17]
+    },
+    {
+        "project_id": 29,
+        "name": "ZERI & LODE",
+        "description": "Arts and Photography, Ontology Development, Linked Open Data", 
+        "participants": [19, 31, 17, 24, 26]
+    }
+    ]
+}
+
+
+
