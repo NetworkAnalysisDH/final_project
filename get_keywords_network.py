@@ -33,8 +33,7 @@ def create_cooccurrence_network(data):
     # Create the graph
     graph = nx.Graph()
     excluded_keywords = {"digital humanities", "computer science", "computer science (all)", 
-                         "theoretical computer science", "italian literature", 
-                         "artificial intelligence", "software"}
+                         "theoretical computer science", "italian literature", "software"}
 
     for index, entry in enumerate(data):
         # Extract the available identifier: DOI, URL, or ISBN

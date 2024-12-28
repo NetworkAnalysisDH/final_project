@@ -116,6 +116,7 @@
 <node id="Semantic Search"/>
 <node id="Wikipedia"/>
 <node id="Knowledge Pattern"/>
+<node id="Artificial Intelligence"/>
 <node id="Aemoo: Exploratory Search based on Knowledge"/>
 <node id="Knowledge Engineering"/>
 <node id="10.1145/2464464.2464519}"/>
@@ -348,6 +349,8 @@
 <node id="10.1007/978-3-031-33455-9_10}"/>
 <node id="Research Question"/>
 <node id="10.3233/978-1-61499-676-7-189}"/>
+<node id="CREAI 2022 - Preface to the First Workshop on Artificial Intelligence and Creativity}"/>
+<node id="CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity}"/>
 <node id="Controlled Vocabularies"/>
 <node id="Semantic Similarity"/>
 <node id="String-Matching"/>
@@ -719,6 +722,7 @@
 <node id="Software Engineering Education"/>
 <node id="Structural Equation Modelling"/>
 <node id="10.1016/j.jss.2019.110401}"/>
+<node id="http://www.cs.unibo.it/~cianca/wwwpages/chesssite/kriegspiel/kriegspiel.html"/>
 <node id="Darkboard, a program to play Kriegspiel}"/>
 <node id="Software Clones"/>
 <node id="Entertainment Computing"/>
@@ -1798,6 +1802,7 @@
 <node id="Ai Ethics"/>
 <node id="Ai Trust"/>
 <node id="11585/952623"/>
+<node id="111585/659049"/>
 <node id="Transprecision Computing"/>
 <node id="Empirical Model Learning"/>
 <node id="11585/760760"/>
@@ -1879,6 +1884,7 @@
 <node id="Self-Reported Behaviour"/>
 <node id="Predictive Model"/>
 <node id="11585/689018"/>
+<node id="11585/659046"/>
 <node id="Model Learning"/>
 <node id="Deep Neural Networks"/>
 <node id="Constraints Solving"/>
@@ -5627,6 +5633,9 @@
 <edge source="Linked Data" target="Interactive Systems">
   <data key="d0">2</data>
 </edge>
+<edge source="Linked Data" target="Artificial Intelligence">
+  <data key="d0">2</data>
+</edge>
 <edge source="Linked Data" target="Symbolism">
   <data key="d0">4</data>
 </edge>
@@ -6394,6 +6403,9 @@
 </edge>
 <edge source="Semantic Web" target="Knowledge Pattern">
   <data key="d0">4</data>
+</edge>
+<edge source="Semantic Web" target="Artificial Intelligence">
+  <data key="d0">6</data>
 </edge>
 <edge source="Semantic Web" target="10.1007/978-3-642-35176-1_5}">
   <data key="d0">1</data>
@@ -8141,6 +8153,9 @@
 <edge source="Machine Reading" target="Machine Learning">
   <data key="d0">2</data>
 </edge>
+<edge source="Machine Reading" target="Artificial Intelligence">
+  <data key="d0">2</data>
+</edge>
 <edge source="Semantic Publishing" target="Spar Ontologies">
   <data key="d0">14</data>
 </edge>
@@ -8519,6 +8534,9 @@
 <edge source="Formal Ontology" target="Metaphor Semantics">
   <data key="d0">4</data>
 </edge>
+<edge source="Formal Ontology" target="Artificial Intelligence">
+  <data key="d0">4</data>
+</edge>
 <edge source="Formal Ontology" target="Dolce">
   <data key="d0">2</data>
 </edge>
@@ -8559,6 +8577,9 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Knowledge Extraction" target="Metaphor Semantics">
+  <data key="d0">4</data>
+</edge>
+<edge source="Knowledge Extraction" target="Artificial Intelligence">
   <data key="d0">4</data>
 </edge>
 <edge source="Knowledge Extraction" target="Ontology Design Patterns">
@@ -8735,6 +8756,9 @@
 <edge source="Covid-19" target="Machine Learning">
   <data key="d0">2</data>
 </edge>
+<edge source="Covid-19" target="Artificial Intelligence">
+  <data key="d0">2</data>
+</edge>
 <edge source="Covid-19" target="Research Evaluation">
   <data key="d0">2</data>
 </edge>
@@ -8784,6 +8808,9 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Sars-Cov-2" target="Machine Learning">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sars-Cov-2" target="Artificial Intelligence">
   <data key="d0">2</data>
 </edge>
 <edge source="Sars-Cov-2" target="Altmetrics">
@@ -8912,7 +8939,13 @@
 <edge source="Semantic Search" target="Knowledge Pattern">
   <data key="d0">2</data>
 </edge>
+<edge source="Semantic Search" target="Artificial Intelligence">
+  <data key="d0">2</data>
+</edge>
 <edge source="Wikipedia" target="Knowledge Pattern">
+  <data key="d0">2</data>
+</edge>
+<edge source="Wikipedia" target="Artificial Intelligence">
   <data key="d0">2</data>
 </edge>
 <edge source="Wikipedia" target="Altmetrics">
@@ -8957,8 +8990,8 @@
 <edge source="Wikipedia" target="Data Set">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Pattern" target="Aemoo: Exploratory Search based on Knowledge">
-  <data key="d0">1</data>
+<edge source="Knowledge Pattern" target="Artificial Intelligence">
+  <data key="d0">2</data>
 </edge>
 <edge source="Knowledge Pattern" target="9783642250729}">
   <data key="d0">1</data>
@@ -8977,6 +9010,387 @@
 </edge>
 <edge source="Knowledge Pattern" target="Ontology Design">
   <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Aemoo: Exploratory Search based on Knowledge">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.3233/978-1-61499-910-2-159}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Metaphor Semantics">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Hci Design And Evaluation Methods">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Robotics">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="CREAI 2022 - Preface to the First Workshop on Artificial Intelligence and Creativity}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Foundational Ontologies">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Machine Learning">
+  <data key="d0">14</data>
+</edge>
+<edge source="Artificial Intelligence" target="Common Sense Knowledge">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Natural Language Processing">
+  <data key="d0">6</data>
+</edge>
+<edge source="Artificial Intelligence" target="Web Semantics">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Interaction Patterns">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="User-sensitive Explanations under a Knowledge Pattern Lens}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Content Management Systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Interactive Systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Games">
+  <data key="d0">6</data>
+</edge>
+<edge source="Artificial Intelligence" target="Kriegspiel">
+  <data key="d0">6</data>
+</edge>
+<edge source="Artificial Intelligence" target="Game Theory">
+  <data key="d0">8</data>
+</edge>
+<edge source="Artificial Intelligence" target="Partial Information Game">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Wargame">
+  <data key="d0">8</data>
+</edge>
+<edge source="Artificial Intelligence" target="Concurrency">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.1109/IJCNN.2017.7965923}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Defects">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Open Source">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Prediction Model">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.1007/978-3-540-75538-8}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="http://www.cs.unibo.it/~cianca/wwwpages/chesssite/kriegspiel/kriegspiel.html">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Darkboard, a program to play Kriegspiel}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Software Clones">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.1016/j.entcom.2009.06.001}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Software Engineering">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Entertainment Computing">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Chess">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Cultural Computing">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Entertainment">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="978-981-4560-49-8}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Wargames">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Kriegpsiel">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Montecarlo Search Algorithm">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="9781605584379}">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Ethical Issues In Informatics">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Partial Information">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Chess">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Digital Twin">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Personalized Learning Models">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Clustering Algorithms">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Data Mining">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Databases">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Image Processing">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Information Retrieval">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Internet">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Mathematics Of Computing">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Pattern Recognition">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Search Engines">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Semantics">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Similarity Search">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Topology">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="World Wide Web">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Networks">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Vision">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Databases Education Engineering">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Image Analysis">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Internet Learning">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Mathematics">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Query Languages">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="111585/659049">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Artificial Neural Networks">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="11585/583559">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Combinatorial Optimization">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Complex Systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Constraint Programming">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Decision Trees">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Local Search">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Mixed Integer Non-Linear Programming">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Sat Modulo Theories">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Language And Linguistics">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Linguistics And Language">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Creativity">
+  <data key="d0">6</data>
+</edge>
+<edge source="Artificial Intelligence" target="Large Language Models">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="11585/659046">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Robotic Dance">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Mathematical Puzzles">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Challenge">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Deep Reasoning">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Mathematical Puzzle">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Planning">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Aesthetic Evaluation">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Chatbots">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Archives">
+  <data key="d0">4</data>
+</edge>
+<edge source="Artificial Intelligence" target="Recordkeeping">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.3828/coma.2022.22">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Knowledge Management">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.1016/j.ins.2017.12.009">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Tacit Knowledge">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Wikis">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Software: Control And Systems Engineering">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Computer Science Applicationscomputer Vision And Pattern Recognition">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Information Systems And Management">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.3233/978-1-61499-910-2-159">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="10.3390/info13030117">
+  <data key="d0">1</data>
+</edge>
+<edge source="Artificial Intelligence" target="Health Data">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Systematic Reviews">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Guidelines">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Evidence-Based">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Medicine">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Legal Theory">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Legislation">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Legal Design">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Legal Language">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Big Data">
+  <data key="d0">6</data>
+</edge>
+<edge source="Artificial Intelligence" target="Gdpr">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Pubblica Amministrazione">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Automated Decision-Making">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Explicability">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Explanations">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Knowability">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Spiegabilità Dell'Artificial Intelligence">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Art. 22 Del Gdpr">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Digital Citizenship Mediation">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Vulnerability">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Discrimination">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Data Governance">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Giustizia">
+  <data key="d0">2</data>
+</edge>
+<edge source="Artificial Intelligence" target="Trasformazione Digitale">
+  <data key="d0">2</data>
 </edge>
 <edge source="Knowledge Engineering" target="10.1145/2464464.2464519}">
   <data key="d0">1</data>
@@ -10205,11 +10619,11 @@
 <edge source="Robotics" target="http://ceur-ws.org/Vol-1935/paper-05.pdf}">
   <data key="d0">1</data>
 </edge>
-<edge source="Robotics" target="Hci Design And Evaluation Methods">
-  <data key="d0">2</data>
-</edge>
 <edge source="Robotics" target="10.1145/3522686}">
   <data key="d0">1</data>
+</edge>
+<edge source="Robotics" target="Hci Design And Evaluation Methods">
+  <data key="d0">2</data>
 </edge>
 <edge source="Robotics" target="Inclusivity">
   <data key="d0">4</data>
@@ -11750,9 +12164,6 @@
 <edge source="Machine Learning" target="Automated Reasoning">
   <data key="d0">6</data>
 </edge>
-<edge source="Machine Learning" target="10.3390/info13030117">
-  <data key="d0">1</data>
-</edge>
 <edge source="Machine Learning" target="Health Data">
   <data key="d0">2</data>
 </edge>
@@ -12033,9 +12444,6 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Information Systems And Management" target="10.1016/j.bdr.2016.10.001}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Information Systems And Management" target="10.1016/j.ins.2017.12.009">
   <data key="d0">1</data>
 </edge>
 <edge source="Information Systems And Management" target="Tacit Knowledge">
@@ -12874,12 +13282,6 @@
 </edge>
 <edge source="N-Ary Relations" target="Owl">
   <data key="d0">4</data>
-</edge>
-<edge source="Metaphor Semantics" target="10.3233/978-1-61499-910-2-159}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Metaphor Semantics" target="10.3233/978-1-61499-910-2-159">
-  <data key="d0">1</data>
 </edge>
 <edge source="Empirical Knowledge Representation" target="Time Representation">
   <data key="d0">4</data>
@@ -14200,9 +14602,6 @@
 </edge>
 <edge source="Content Management Systems" target="Interactive Systems">
   <data key="d0">2</data>
-</edge>
-<edge source="Interactive Systems" target="User-sensitive Explanations under a Knowledge Pattern Lens}">
-  <data key="d0">1</data>
 </edge>
 <edge source="Wiki" target="9781424437429}">
   <data key="d0">1</data>
@@ -16511,9 +16910,6 @@
 <edge source="Computer Games" target="Kriegspiel">
   <data key="d0">2</data>
 </edge>
-<edge source="Computer Games" target="10.1007/978-3-540-75538-8}">
-  <data key="d0">1</data>
-</edge>
 <edge source="Computer Games" target="Ethical Issues In Informatics">
   <data key="d0">2</data>
 </edge>
@@ -16877,9 +17273,6 @@
 <edge source="Game Theory" target="Wargame">
   <data key="d0">14</data>
 </edge>
-<edge source="Game Theory" target="Darkboard, a program to play Kriegspiel}">
-  <data key="d0">1</data>
-</edge>
 <edge source="Game Theory" target="Monte Carlo Tree Search">
   <data key="d0">2</data>
 </edge>
@@ -17077,9 +17470,6 @@
 </edge>
 <edge source="Open Source" target="Prediction Model">
   <data key="d0">2</data>
-</edge>
-<edge source="Prediction Model" target="10.1109/IJCNN.2017.7965923}">
-  <data key="d0">1</data>
 </edge>
 <edge source="Agenti Sofware" target="Software Agents">
   <data key="d0">4</data>
@@ -17561,9 +17951,6 @@
 <edge source="Entertainment Computing" target="Cultural Computing">
   <data key="d0">2</data>
 </edge>
-<edge source="Computer Chess" target="10.1016/j.entcom.2009.06.001}">
-  <data key="d0">1</data>
-</edge>
 <edge source="Digital Transformation" target="Open Government Data">
   <data key="d0">2</data>
 </edge>
@@ -17793,9 +18180,6 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Professional Certification" target="9780387097282}">
-  <data key="d0">1</data>
-</edge>
-<edge source="Entertainment" target="978-981-4560-49-8}">
   <data key="d0">1</data>
 </edge>
 <edge source="Document Engineering" target="Document Formatting">
@@ -18049,9 +18433,6 @@
 </edge>
 <edge source="Service Oriented Architectures" target="Formal Methods">
   <data key="d0">2</data>
-</edge>
-<edge source="Ethical Issues In Informatics" target="9781605584379}">
-  <data key="d0">1</data>
 </edge>
 <edge source="Retrograde Analysis" target="Chess">
   <data key="d0">2</data>
@@ -25700,9 +26081,6 @@
 <edge source="Language And Linguistics" target="Signal Processing">
   <data key="d0">2</data>
 </edge>
-<edge source="Linguistics And Language" target="11585/583559">
-  <data key="d0">1</data>
-</edge>
 <edge source="Linguistics And Language" target="Automatic Detection">
   <data key="d0">2</data>
 </edge>
@@ -28483,9 +28861,6 @@
 </edge>
 <edge source="Archives" target="Recordkeeping">
   <data key="d0">2</data>
-</edge>
-<edge source="Archives" target="10.3828/coma.2022.22">
-  <data key="d0">1</data>
 </edge>
 <edge source="Archives" target="Authoritativeness">
   <data key="d0">2</data>
