@@ -53,11 +53,15 @@ def create_cooccurrence_network(data):
         if isinstance(keywords, str):
             # Replace semicolons with commas and then split by commas
             keywords = [kw.strip().replace('}', '').title() for kw in keywords.replace(';', ',').split(',') if kw.strip()]
-            
-        # If keywords are already a list, clean each keyword
-        elif isinstance(keywords, list):
-            keywords = [kw.strip().replace('}', '').title() for kw in keywords if isinstance(kw, str) and kw.strip()]
         
+        # If keywords are already a list, handle both commas and semicolons in each string
+        elif isinstance(keywords, list):
+            # Flatten the list by splitting each string by both commas and semicolons
+            keywords = [kw.strip().replace('}', '').title() 
+                        for keyword in keywords 
+                        for kw in keyword.replace(';', ',').split(',') if kw.strip()]
+
+
         # Exclude unwanted keywords
         keywords = [kw for kw in keywords if kw not in excluded_keywords]
 
@@ -100,6 +104,15 @@ def create_cooccurrence_network(data):
     #print(list(graph.edges)[:10])  # Print the first 10 edges
 
     return graph
+
+# Function to create and export the adjacency matrix
+def export_adjacency_matrix(G, output_path):
+    # Generate the adjacency matrix as a DataFrame
+    adjacency_matrix = nx.to_pandas_adjacency(G, dtype=int)
+    
+    # Export the adjacency matrix to a CSV file
+    adjacency_matrix.to_csv(output_path, index=True)
+    print(f"Adjacency matrix exported to: {output_path}")
 
 # Function to visualize the graph with NetworkX and Matplotlib
 def visualize_network(G):
@@ -273,10 +286,31 @@ if __name__ == "__main__":
     # Export network analysis results as DataFrames
     node_df, global_metrics_df = export_analysis_to_pandas(graph)
 
-    # Optionally, you can save these DataFrames to CSV files
-    node_df.to_csv("report/node_level_analysis.csv", index=False)
-    global_metrics_df.to_csv("report/global_metrics.csv", index=False)
+    # Ensure the 'report' directory exists
+    output_dir = "report"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    # Save node-level analysis and global metrics to CSV files
+    node_df.to_csv(os.path.join(output_dir, "node_level_analysis.csv"), index=False)
+    global_metrics_df.to_csv(os.path.join(output_dir, "global_metrics.csv"), index=False)
+
+    # Convert the graph to an adjacency matrix
+    adjacency_matrix = nx.to_pandas_adjacency(graph)
+
+    # Ensure the 'report' directory exists before saving the adjacency matrix
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    # Export the adjacency matrix
+    adjacency_matrix_output_path = os.path.join(output_dir, "adjacency_matrix.csv")
+    adjacency_matrix.to_csv(adjacency_matrix_output_path, index=True)
 
     # Export for GML format
     output_file_gml = os.path.abspath("network/keyword_cooccurrence.gml")
     export_to_gml(graph, output_file_gml)
+
+    # save the adjacency matrix to a CSV file
+    adjacency_matrix_output_path = os.path.join(output_dir, "adjacency_matrix.csv")
+    export_adjacency_matrix(graph, adjacency_matrix_output_path)
+
