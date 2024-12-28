@@ -32,18 +32,18 @@ def load_publications(file_path):
 def create_cooccurrence_network(data):
     # Create the graph
     graph = nx.Graph()
-    excluded_keywords = {"Digital Humanities", "Computer Science", "Computer Science (All)"}
+    excluded_keywords = {"Digital Humanities", "Computer Science", "Computer Science (All)", "Italian Literature"}
 
     for index, entry in enumerate(data):
         # Extract the available identifier: DOI, URL, or ISBN
-        article_id = entry.get("doi") or entry.get("url") or entry.get("isbn") or entry.get("isbn") or entry.get("id") or f"article_{index}"
+        article_id = entry.get("doi") or entry.get("url") or entry.get("isbn") or entry.get("isbn") or entry.get("id") or entry.get("title")
        
         if isinstance(article_id, list):
             article_id = str(article_id[0]) 
         
         # If no identifier is available, skip this article
         if not article_id:
-            print(f"Article without identifier (DOI, URL, or ISBN): {entry.get('title', 'Title not available')}")
+            print(f"Article without identifier (DOI, URL, ISBN, ID, or title): {entry.get('title', 'Title not available')}")
             continue
 
         # Retrieve the keywords
@@ -60,6 +60,10 @@ def create_cooccurrence_network(data):
             keywords = [kw.strip().replace('}', '').title() 
                         for keyword in keywords 
                         for kw in keyword.replace(';', ',').split(',') if kw.strip()]
+       
+       
+        # Check if "Letteratura italiana" is in the keywords and translate it
+        keywords = ['Italian Literature' if kw == 'Letteratura Italiana' else kw for kw in keywords]
 
 
         # Exclude unwanted keywords

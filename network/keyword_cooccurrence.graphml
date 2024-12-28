@@ -32,13 +32,13 @@
 <node id="Open Citations"/>
 <node id="Coci"/>
 <node id="Croci"/>
-<node id="article_5"/>
+<node id="Crowdsourcing open citations with CROCI An analysis ofthe current status of open citations, and a proposal"/>
 <node id="Digital Cultural Heritage"/>
 <node id="Digital Twins"/>
 <node id="Photogrammetry"/>
 <node id="Preservation Of Temporary Exhibitions"/>
 <node id="Structured Light Scanning"/>
-<node id="article_6"/>
+<node id="Digitisation of temporary exhibitions: the Aldrovandi case"/>
 <node id="Open Science Infrastructures"/>
 <node id="Fair"/>
 <node id="Posi"/>
@@ -118,7 +118,7 @@
 <node id="Wikipedia"/>
 <node id="Knowledge Pattern"/>
 <node id="Artificial Intelligence"/>
-<node id="article_24"/>
+<node id="Aemoo: Exploratory Search based on Knowledge"/>
 <node id="Knowledge Engineering"/>
 <node id="10.1145/2464464.2464519}"/>
 <node id="Analysis Of Linked Data"/>
@@ -144,12 +144,12 @@
 <node id="Ontology Desing Pattern"/>
 <node id="Affordance"/>
 <node id="Behavior Arbitration"/>
-<node id="article_30"/>
+<node id="An Ontology Design Pattern for supporting behaviour arbitration in cognitive agents}"/>
 <node id="Mathematics (All)"/>
 <node id="10.1007/978-3-319-68130-6_1}"/>
 <node id="Ontology Network"/>
 <node id="Knowledge Graphs"/>
-<node id="article_32"/>
+<node id="ArCo ontology network and LOD on Italian Cultural Heritage}"/>
 <node id="Ontology Design"/>
 <node id="10.1007/978-3-030-30796-7_3}"/>
 <node id="Atlas Of Paths"/>
@@ -158,7 +158,7 @@
 <node id="Robotics"/>
 <node id="http://ceur-ws.org/Vol-1935/paper-05.pdf}"/>
 <node id="Knowledge Management"/>
-<node id="article_37"/>
+<node id="Characterising Citations in Scholarly Articles: An Experiment}"/>
 <node id="Citalo"/>
 <node id="Citation Function"/>
 <node id="10.1007/978-3-642-41242-4_6}"/>
@@ -192,7 +192,7 @@
 <node id="Frame Semantics"/>
 <node id="Knowledge Representation"/>
 <node id="Ontology Engineering"/>
-<node id="article_48"/>
+<node id="FrODO: Generating Ontologies from Competency Questions in One Click}"/>
 <node id="Abstractive Summarisation"/>
 <node id="Link Semantics"/>
 <node id="Open Information Extraction"/>
@@ -213,7 +213,7 @@
 <node id="Linked Open Dataset"/>
 <node id="Scholarly Publications"/>
 <node id="Semantic Enhancement"/>
-<node id="article_53"/>
+<node id="Knowledge management of scholarly products: Semantic Lancet Project}"/>
 <node id="Reminiscence"/>
 <node id="http://ceur-ws.org/Vol-1935/paper-07.pdf}"/>
 <node id="Macja"/>
@@ -271,7 +271,7 @@
 <node id="Guidelines"/>
 <node id="Evidence-Based"/>
 <node id="10.3390/info13030117}"/>
-<node id="article_68"/>
+<node id="Semion: A Smart Triplification Tool}"/>
 <node id="Conceptual Frames"/>
 <node id="Opinion Mining"/>
 <node id="Sentic Computing"/>
@@ -309,11 +309,11 @@
 <node id="http://wit.istc.cnr.it/stlab-tools/tipalo/"/>
 <node id="Knowledge Enginnering"/>
 <node id="10.1007/978-3-642-41242-4_34}"/>
-<node id="article_82"/>
-<node id="article_83"/>
-<node id="article_84"/>
+<node id="Towards the Automatic Identification of the Nature of Citations}"/>
+<node id="Towards the Natural Ontology of Wikipedia}"/>
+<node id="Type inference through the analysis of Wikipedia"/>
 <node id="Semantic Relations"/>
-<node id="article_85"/>
+<node id="Uncovering the semantics of Wikipedia Pagelinks}"/>
 <node id="10.1007/s11192-020-03809-7}"/>
 <node id="10.1145/1999676.1999711}"/>
 <node id="Dataset"/>
@@ -321,7 +321,6 @@
 <node id="10.1007/978-3-030-95470-3_14}"/>
 <node id="N-Ary Relations"/>
 <node id="10.1007/978-3-642-35843-2_8}"/>
-<node id="article_94"/>
 <node id="Metaphor Semantics"/>
 <node id="10.3233/978-1-61499-910-2-159}"/>
 <node id="Empirical Knowledge Representation"/>
@@ -333,13 +332,11 @@
 <node id="Smart City"/>
 <node id="Smart Governance"/>
 <node id="10.1007/s13132-016-0361-0}"/>
-<node id="article_104"/>
 <node id="Owl-S"/>
 <node id="Grid"/>
 <node id="Ogsa"/>
 <node id="Coordination"/>
 <node id="1581139640}"/>
-<node id="article_106"/>
 <node id="Frame-Based Reasoning"/>
 <node id="Knowledge Graph Construction"/>
 <node id="Multimodal Sensemaking"/>
@@ -347,13 +344,13 @@
 <node id="10.1016/j.chb.2023.107997}"/>
 <node id="Semantic Wiki"/>
 <node id="Web Technologies"/>
-<node id="article_110"/>
+<node id="Automatic Deployment of Semantic Wikis: a Prototype}"/>
 <node id="Hci Design And Evaluation Methods"/>
 <node id="10.1145/3522686}"/>
 <node id="Ontologie"/>
 <node id="Lexical Semantics"/>
 <node id="Rappresentazione Della Conoscenza"/>
-<node id="article_114"/>
+<node id="C-ODO: an OWL meta-model for collaborative ontology design}"/>
 <node id="Music"/>
 <node id="Harmony"/>
 <node id="Chord"/>
@@ -363,8 +360,8 @@
 <node id="10.1007/978-3-031-33455-9_10}"/>
 <node id="Research Question"/>
 <node id="10.3233/978-1-61499-676-7-189}"/>
-<node id="article_119"/>
-<node id="article_120"/>
+<node id="CREAI 2022 - Preface to the First Workshop on Artificial Intelligence and Creativity}"/>
+<node id="CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity}"/>
 <node id="Controlled Vocabularies"/>
 <node id="Semantic Similarity"/>
 <node id="String-Matching"/>
@@ -394,7 +391,7 @@
 <node id="10.1017/9781108641104.016}"/>
 <node id="Dependency Parsing"/>
 <node id="Semantic Parsing"/>
-<node id="article_134"/>
+<node id="Frame Semantic Parsing using Framester Knowledge Graphs}"/>
 <node id="Graph Mining"/>
 <node id="Ntural Language Processing"/>
 <node id="Fred"/>
@@ -415,7 +412,7 @@
 <node id="Discourse Representation Theory"/>
 <node id="Robust Ontology Design"/>
 <node id="10.1007/978-3-642-33876-2_12}"/>
-<node id="article_144"/>
+<node id="Knowledge graphs evolution and preservation}"/>
 <node id="Domain Adaptation"/>
 <node id="Linguistic Meta Model"/>
 <node id="Ontology Learning"/>
@@ -450,7 +447,7 @@
 <node id="Abductive Logic Programming"/>
 <node id="Service Discovery"/>
 <node id="Service Contracting"/>
-<node id="article_156"/>
+<node id="Ontological Reasoning and Abductive Logic Programming for Service Discovery and Contracting}"/>
 <node id="Domain Ontologies"/>
 <node id="10.1007/978-3-540-92673-3_10}"/>
 <node id="9781614996750}"/>
@@ -472,15 +469,14 @@
 <node id="Chord Embeddings"/>
 <node id="https://ceur-ws.org/Vol-3278/}"/>
 <node id="Applications"/>
-<node id="article_168"/>
-<node id="article_170"/>
+<node id="Proceedings of the 5th Workshop on Semantic Web Applications and Perspectives (SWAP2008)}"/>
+<node id="Providing tool support for unit testing in eXtreme Design}"/>
 <node id="Music Information Retrieval"/>
 <node id="Computational Musicology"/>
 <node id="https://archives.ismir.net/ismir2021/latebreaking/000020.pdf"/>
 <node id="Role Oriented Knowledge Graphs"/>
 <node id="Semantic Role Labeling"/>
 <node id="10.1007/s13748-021-00241-7}"/>
-<node id="article_177"/>
 <node id="Legal Knowledge"/>
 <node id="10.1007/978-94-007-0120-5_12}"/>
 <node id="10.1145/2506182.2506189}"/>
@@ -492,7 +488,7 @@
 <node id="10.3233/AO-2011-0095}"/>
 <node id="https://ceur-ws.org/Vol-3352/}"/>
 <node id="Ontology Design Pattern"/>
-<node id="article_188"/>
+<node id="The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata}"/>
 <node id="Competency Questions"/>
 <node id="10.1007/978-3-031-47243-5_17}"/>
 <node id="Cognitive Science"/>
@@ -500,13 +496,10 @@
 <node id="Wikidata"/>
 <node id="https://ceur-ws.org/Vol-3262/paper2.pdf}"/>
 <node id="978354021179}"/>
-<node id="article_200"/>
-<node id="article_201"/>
-<node id="article_202"/>
 <node id="Interaction Patterns"/>
 <node id="Content Management Systems"/>
 <node id="Interactive Systems"/>
-<node id="article_203"/>
+<node id="User-sensitive Explanations under a Knowledge Pattern Lens}"/>
 <node id="Wiki"/>
 <node id="10.1007/11762256_48}"/>
 <node id="Fotografia Antica"/>
@@ -559,7 +552,7 @@
 <node id="Fugger"/>
 <node id="9788873959465"/>
 <node id="Raffigurazione Del Cibo"/>
-<node id="article_218"/>
+<node id="recensione a 'La natura morta di Federico Zeri', a cura di Andrea Bacchi, Francesca Mambelli, Elisabetta Sambo, Bologna-Ferrara 2015 (Fobdazione Zeri), pp. 336, con 300 illustrazioni"/>
 <node id="Arts"/>
 <node id="Photography"/>
 <node id="http://rivista.ibc.regione.emilia-romagna.it/xw-201701/xw-201701-a0011"/>
@@ -573,7 +566,6 @@
 <node id="Jane Austen"/>
 <node id="Marcel Proust"/>
 <node id="http://www.editricesapienza.it/node/7479"/>
-<node id="Letteratura Italiana"/>
 <node id="Edizioni Digitali"/>
 <node id="Manzoni"/>
 <node id="http://semicerchio.bytenet.it/numero.asp?n=846"/>
@@ -599,8 +591,7 @@
 <node id="Co-Reference Resolution"/>
 <node id="Embeddings"/>
 <node id="Similarity Detection"/>
-<node id="article_235"/>
-<node id="article_236"/>
+<node id="Frame Embeddings for Event-Based Knowledge Reconciliation}"/>
 <node id="Generative Adversarial Networks"/>
 <node id="Data Augmentation"/>
 <node id="Synthetic Data"/>
@@ -611,7 +602,6 @@
 <node id="Lexical Database"/>
 <node id="Membership Degrees"/>
 <node id="10.3233/978-1-61499-696-5-297}"/>
-<node id="article_256"/>
 <node id="Change Tracking"/>
 <node id="Semantic Data"/>
 <node id="Provenance Information"/>
@@ -654,7 +644,7 @@
 <node id="10.18293/SEKE2016-199}"/>
 <node id="Computer Games"/>
 <node id="Kriegspiel"/>
-<node id="article_275"/>
+<node id="A Program to Play Kriegspiel}"/>
 <node id="Antifragility"/>
 <node id="Complex Systems"/>
 <node id="10.1016/j.procs.2016.04.196}"/>
@@ -669,9 +659,8 @@
 <node id="Computational Thinking"/>
 <node id="10.1007/978-3-030-57663-9_18}"/>
 <node id="Case"/>
-<node id="article_281"/>
-<node id="article_282"/>
-<node id="article_285"/>
+<node id="A-CASE ``Agile&quot; Computer Aided Software Engineering environment}"/>
+<node id="Agent Oriented Software Engineering}"/>
 <node id="Control And Systems Engineering"/>
 <node id="10.1007/978-3-319-64161-4_8}"/>
 <node id="Software Development"/>
@@ -683,7 +672,7 @@
 <node id="Game Theory"/>
 <node id="Partial Information Game"/>
 <node id="Wargame"/>
-<node id="article_288"/>
+<node id="Algorithmic explorations of a well known wargame}"/>
 <node id="Energy Engineering And Power Technology"/>
 <node id="Biomedical Engineering"/>
 <node id="Instrumentation"/>
@@ -709,7 +698,7 @@
 <node id="10.1145/2889160.2892652}"/>
 <node id="Agenti Sofware"/>
 <node id="Software Agents"/>
-<node id="article_300"/>
+<node id="Autonomous agents and multi agent systems journal}"/>
 <node id="10.1109/BigDataService.2016.37}"/>
 <node id="Change Detection"/>
 <node id="Diff Algorithms"/>
@@ -721,7 +710,6 @@
 <node id="Model Driven"/>
 <node id="Civil Protection"/>
 <node id="10.1504/IJEM.2009.031569}"/>
-<node id="article_306"/>
 <node id="Service Oriented Computing"/>
 <node id="Choreography"/>
 <node id="Orchestration"/>
@@ -756,7 +744,7 @@
 <node id="Structural Equation Modelling"/>
 <node id="10.1016/j.jss.2019.110401}"/>
 <node id="http://www.cs.unibo.it/~cianca/wwwpages/chesssite/kriegspiel/kriegspiel.html"/>
-<node id="article_318"/>
+<node id="Darkboard, a program to play Kriegspiel}"/>
 <node id="Software Clones"/>
 <node id="Entertainment Computing"/>
 <node id="Computer Chess"/>
@@ -775,7 +763,7 @@
 <node id="10.1145/3167132.3167143}"/>
 <node id="Model Driven Architecture"/>
 <node id="Emergency Management"/>
-<node id="article_324"/>
+<node id="Editorial of the Special Issue on Collaboration and Social Networking in Emergency}"/>
 <node id="Essence"/>
 <node id="10.1007/978-3-031-48639-5_6}"/>
 <node id="Classification Tree"/>
@@ -789,8 +777,7 @@
 <node id="Teamwork Quality"/>
 <node id="10.1007/978-3-030-85347-1_11}"/>
 <node id="10.5220/0010526401390150}"/>
-<node id="article_331"/>
-<node id="article_332"/>
+<node id="Entertainment computing}"/>
 <node id="Cultural Computing"/>
 <node id="10.1007/978-3-319-27648-9_34-1}"/>
 <node id="Professional Certification"/>
@@ -816,7 +803,7 @@
 <node id="Qualitative An"/>
 <node id="10.3389/fcomp.2023.1178040}"/>
 <node id="Testing"/>
-<node id="article_346"/>
+<node id="How to compare and exploit different techniques for unit-test generation}"/>
 <node id="Informatics"/>
 <node id="9783000293146}"/>
 <node id="10.1007/s10723-009-9115-6}"/>
@@ -826,25 +813,24 @@
 <node id="Autonomic Systems"/>
 <node id="Mape-K"/>
 <node id="10.13052/jwe1540-9589.18131}"/>
-<node id="article_353"/>
-<node id="article_355"/>
+<node id="International Journal of Agent-Oriented Software Engineering}"/>
+<node id="ISRN Software Engineering}"/>
 <node id="10.1109/ICSE-SEIP55303.2022.9794087}"/>
 <node id="10.1007/978-3-319-49004-5}"/>
-<node id="article_358"/>
 <node id="Internetworked Enterprise"/>
 <node id="9783790820096}"/>
 <node id="10.1016/j.sbspro.2013.12.191}"/>
 <node id="10.1145/2889160.2889180}"/>
 <node id="Deltas"/>
 <node id="Metrics"/>
-<node id="article_362"/>
+<node id="Measuring the domain-oriented quality of diff algorithms}"/>
 <node id="Delta Model"/>
 <node id="Output Quality"/>
 <node id="Hardware And Architecture"/>
 <node id="Law"/>
 <node id="10.1016/j.csi.2015.12.005}"/>
 <node id="Information Technology"/>
-<node id="article_364"/>
+<node id="Mondo digitale}"/>
 <node id="Monte Carlo Tree Search"/>
 <node id="Partial Information"/>
 <node id="10.1016/j.artint.2010.04.017}"/>
@@ -909,7 +895,6 @@
 <node id="Compliance Checking"/>
 <node id="10.1007/978-3-319-49004-5_48}"/>
 <node id="10.1109/WETICE.2016.20}"/>
-<node id="article_399"/>
 <node id="Storytelling"/>
 <node id="Story-Driven Approach"/>
 <node id="Coding"/>
@@ -925,7 +910,7 @@
 <node id="Banking"/>
 <node id="Companies"/>
 <node id="Iso Standards"/>
-<node id="article_403"/>
+<node id="Software Quality Concerns in the Italian Bank Sector: The Emergence of a Meta-Quality Dimension}"/>
 <node id="3642129927}"/>
 <node id="Software Architectures"/>
 <node id="10.4018/978-1-4666-5800-4.ch020}"/>
@@ -938,22 +923,19 @@
 <node id="Strategic Management"/>
 <node id="Technical Debt"/>
 <node id="10.1007/978-3-030-47240-5_13}"/>
-<node id="article_422"/>
+<node id="Towards a Qualitative Analysis of Diff Algorithms}"/>
 <node id=""/>
 <node id="10.1016/j.procs.2017.05.426}"/>
-<node id="article_425"/>
 <node id="10.1109/CSEET58097.2023.00017}"/>
 <node id="Btp"/>
 <node id="Dynamic Service Discovery"/>
 <node id="354025630X}"/>
-<node id="article_428"/>
-<node id="article_429"/>
 <node id="Collaboration"/>
 <node id="9781605581286}"/>
 <node id="9781424437429}"/>
-<node id="article_432"/>
+<node id="World Wide Web: Internet and Web Information Systems}"/>
 <node id="Programming Languages"/>
-<node id="article_433"/>
+<node id="Worldwide computing: Adaptive Middleware and programming technology for dynamic Grid environments}"/>
 <node id="Acquisizione Digitale"/>
 <node id="Pergamena"/>
 <node id="Ravenna"/>
@@ -962,7 +944,6 @@
 <node id="Manoscritti"/>
 <node id="10.6092/issn.2532-8816/14397}"/>
 <node id="10.1007/978-3-319-58694-6_32}"/>
-<node id="article_441"/>
 <node id="978-1-64368-108-5}"/>
 <node id="10.3233/SSW210035}"/>
 <node id="Query Log Summarisation"/>
@@ -971,13 +952,12 @@
 <node id="Citizen Curation"/>
 <node id="10.1145/3477599}"/>
 <node id="10.1145/3555312}"/>
-<node id="article_454"/>
 <node id="Moral Values"/>
 <node id="10.18653/v1/2022.deelio-1.4}"/>
 <node id="Virtual Reality"/>
 <node id="Social Cohesion"/>
 <node id="Usability"/>
-<node id="article_464"/>
+<node id="Virtual Empathy: Usability and Immersivity of a VR System for Enhancing Social Cohesion through Cultural Heritage}"/>
 <node id="Author Name Disambiguation"/>
 <node id="Clustering"/>
 <node id="Knowledge Graph Embeddings"/>
@@ -988,8 +968,6 @@
 <node id="Privacy And Data Protection"/>
 <node id="Privacy Policies"/>
 <node id="http://ceur-ws.org/Vol-2049/}"/>
-<node id="article_469"/>
-<node id="article_470"/>
 <node id="10.1007/978-3-319-93417-4}"/>
 <node id="Open Access"/>
 <node id="Bibliometrics"/>
@@ -1016,7 +994,7 @@
 <node id="Context-Awareness"/>
 <node id="Internet Of Things (Iot)"/>
 <node id="Models"/>
-<node id="article_483"/>
+<node id="Making Smart Buildings and Personal Systems Cooperate via Knowledge Base Overlays}"/>
 <node id="Semantic Modeling"/>
 <node id="Self-Adaptive Systems"/>
 <node id="10.1142/S0218194020400082}"/>
@@ -1024,7 +1002,7 @@
 <node id="10.18293/SEKE2019-169}"/>
 <node id="https://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2019/}"/>
 <node id="Model"/>
-<node id="article_493"/>
+<node id="Resilient reactive systems based on runtime semantic models}"/>
 <node id="Linked Open Data Visualisation"/>
 <node id="10.1145/3167132.3167367}"/>
 <node id="Accuracy"/>
@@ -1034,7 +1012,7 @@
 <node id="10.1162/qss_a_00035}"/>
 <node id="Citation And Co-Citation Analysis"/>
 <node id="Methods And Techniques"/>
-<node id="article_499"/>
+<node id="A principled methodology for comparing relatedness measures for clustering publications}"/>
 <node id="Cord-19"/>
 <node id="10.1371/journal.pone.0244839}"/>
 <node id="Citation Counts"/>
@@ -1043,13 +1021,13 @@
 <node id="In-Text Citations"/>
 <node id="Reference Age"/>
 <node id="10.1016/j.joi.2017.11.005}"/>
-<node id="article_502"/>
+<node id="Exploring the similarity of articles co-cited at different levels}"/>
 <node id="Citation Impact"/>
-<node id="article_503"/>
+<node id="Quantifying the long-term influence of scientific publications}"/>
 <node id="Analysis Of Full Text"/>
 <node id="Databases And Electronic Publications"/>
 <node id="Journals"/>
-<node id="article_504"/>
+<node id="Reference behavior in the full text of scientific articles: A large-scale analysis}"/>
 <node id="Text Mining"/>
 <node id="10.1002/asi.23981}"/>
 <node id="10.1007/978-3-030-62466-8_28}"/>
@@ -1064,7 +1042,7 @@
 <node id="Digital Hermeneutics"/>
 <node id="Interactive Design"/>
 <node id="https://ijcs.ro/volume-13-2022/#Specialissue1}"/>
-<node id="article_510"/>
+<node id="Digitisation of temporary exhibitions: the Aldrovandi case}"/>
 <node id="Spice"/>
 <node id="10.14361/dcs-2020-0213}"/>
 <node id="Multi-Scalar"/>
@@ -1097,7 +1075,7 @@
 <node id="Collodi"/>
 <node id="Pinocchio"/>
 <node id="Italian Philology."/>
-<node id="article_518"/>
+<node id="P. Italia-T. Gargano, Philoeditor 3.0: Pinocchio, in 'Senza giudizio... e senza cuore', Atti del convegno di studi su Pinocchio, Milano, Università Cattolica del Sacro Cuore e Università degli Studi, 18-19 maggio 2017, a cura di Paola Ponti e Martino Marazzi,  “Rivista di Letteratura Italiana”, a. XXXVI, n. 2 (2018), pp. 133-144.}"/>
 <node id="Iconographical And Iconological Interpretations"/>
 <node id="Artworks"/>
 <node id="http://ceur-ws.org/Vol-3540/paper1.pdf"/>
@@ -2117,13 +2095,13 @@
 <node id="Epistolari"/>
 <node id="Rinascimento"/>
 <node id="Tasso"/>
-<node id="article_773"/>
+<node id="[recensione a ] Ricerche sulle Lettere di Torquato Tasso, a c. di Clizia Carminati e Emilio Russo, Bergamo, Edizioni di Archilet, 2017"/>
 <node id="Philology"/>
 <node id="Metodo"/>
 <node id="D'Annunzio"/>
-<node id="article_774"/>
+<node id="[recensione a] C. Montagnani, P. De Lorenzo, Come lavorava d'Annunzio, Roma, Carocci, 2018"/>
 <node id="Matteo Palumbo"/>
-<node id="article_775"/>
+<node id="[recensione a] Culture del Rinascimento. Studi per Matteo Palumbo, Studi Rinascimentali, numero a c. di Giancarlo Alfano e Pasquale Sabbatino, 2017"/>
 <node id="Poesia"/>
 <node id="Leopardi"/>
 <node id="Canti"/>
@@ -2137,34 +2115,34 @@
 <node id="Critica"/>
 <node id="10.14434/tc.v15i2.35558"/>
 <node id="Machiavelli"/>
-<node id="article_780"/>
+<node id="[recensione a] L. Biasiori, Nello scrittoio di Machiavelli. Il 'Principe' e la 'Ciropedia' di Senofonte, Roma, Carocci, 2017"/>
 <node id="Leonardo Da Vinci - Scrittura - Letteratura Italiana"/>
 <node id="https://www.lelettere.it/catalogo/rivista/5971"/>
 <node id="Lirica"/>
 <node id="Canone"/>
-<node id="article_782"/>
+<node id="[recensione a] Lirica in Italia 1494- 1530. Esperienze ecdotiche e profili storiografici, atti del Convegno (Friburgo, 8- 9 giugno 2016), a c. di Uberto Motta, Giacomo Vagni, Bologna, I libri di Emil, 2017."/>
 <node id="Traduzione"/>
-<node id="article_783"/>
+<node id="[recensione a] Machiavelli's Prince. Traditions, Texts and Translations, a cura di N. Gardini, M. McLaughlin, Roma, Viella, 2017"/>
 <node id="Leonardo"/>
 <node id="Paleografia"/>
 <node id="Guicciardini - Oroscopo"/>
 <node id="https://www.lelettere.it/libro/24010-20-1"/>
 <node id="Guerre D'Italia"/>
-<node id="article_786"/>
+<node id="[recensione a] R. Ruggiero, Machiavelli e la crisi dell'analogia, Bologna, Il Mulino, 2015"/>
 <node id="Digitale"/>
-<node id="article_787"/>
+<node id="[Recensione a] Rinascimento digitale. Percorsi, progetti, esperimenti, a cura di G. Genovese e E. Russo, Treccani, Roma, 2021, in Rassegna della Letteratura Italiana, IX/2, 2022, pp. 402-403."/>
 <node id="Romanzo Storico"/>
 <node id="Nievo"/>
 <node id="https://www.edizionistudium.it/riviste/studium-ricerca-n-1-2023"/>
 <node id="Utopie"/>
 <node id="Cinquecento"/>
-<node id="article_789"/>
+<node id="[Recensione a] Italies, 2021, 25 (Utopies, a c. di P. Abbrugiati, R. Ruggiero e M. Ringot), in Rassegna della Letteratura Italiana, IX/2, 2022, pp. 406-408."/>
 <node id="https://www.lelettere.it/libro/24010-20-2"/>
-<node id="article_791"/>
+<node id="[recensione a] Un'arte che non langue non trema e non s'offusca. Studi per Simona Costa"/>
 <node id="Lettere"/>
 <node id="Libri Di Lettere"/>
 <node id="Criteri Di Edizione"/>
-<node id="article_792"/>
+<node id="A proposito dei criteri di edizione per gli epistolari del cinquecento"/>
 <node id="https://www.bulzoni.it/it/catalogo/volti-e-voci-em-di-em-e-em-per-em-lucrezia.html"/>
 <node id="Annibal Caro"/>
 <node id="Editoria"/>
@@ -2176,11 +2154,11 @@
 <node id="https://www.lerma.it/libro/9788891319395/toc/191"/>
 <node id="Diplomazia"/>
 <node id="Crisi"/>
-<node id="article_798"/>
+<node id="Recensione a: Raffaele Ruggiero, Baldassarre Castiglione diplomatico. La missione del 'Cortegiano'"/>
 <node id="Storiografia"/>
 <node id="10.6092/issn.2532-8816/14807"/>
 <node id="Guicciardini- Sacco Di Roma - Autobiografia"/>
-<node id="article_800"/>
+<node id="Forse che le cose harebbono avuto altro fine di quello che hanno havuto. Un autore allo specchio: Guicciardini e le orazioni all'indomani del Sacco"/>
 <node id="10.13140/RG.2.2.25162.18885"/>
 <node id="Semantic Collection"/>
 <node id="Mythologiae"/>
@@ -2198,7 +2176,7 @@
 <node id="Manuscript"/>
 <node id="Data Modelling"/>
 <node id="Contestability"/>
-<node id="article_806"/>
+<node id="MIMA: a data model to represent multi-disciplinary analysis on manuscripts. Use case&#10;on Pellegrino Prisciani's Historiae Ferrariae"/>
 <node id="Chinese Calligraphy"/>
 <node id="Write"/>
 <node id="Contemporary Art"/>
@@ -2230,7 +2208,7 @@
 <node id="Codifica Di Apparati Complessi"/>
 <node id="Xml Tei"/>
 <node id="Overlapping"/>
-<node id="article_816"/>
+<node id="Edizioni digitali di opere a tradizione complessa: il caso del Conte di Carmagnola"/>
 <node id="Edizione Critica"/>
 <node id="http://annali.casadelmanzoni.it/index.php/annali"/>
 <node id="Digital Editions"/>
@@ -2242,7 +2220,7 @@
 <node id="10.6092/unibo/amsacta/6361"/>
 <node id="Censura"/>
 <node id="Politica"/>
-<node id="article_820"/>
+<node id="Politica e Poetica nelle redazioni del Conte di Carmagnola"/>
 <node id="Analisi Digitale Testi Letterari"/>
 <node id="Computational Linguistics"/>
 <node id="10.6092/issn.2532-8816/8185"/>
@@ -2252,13 +2230,13 @@
 <node id="Alfieri"/>
 <node id="Verri"/>
 <node id="Monti"/>
-<node id="article_823"/>
+<node id="Varianti politiche d'autore. Da Verri a Manzoni"/>
 <node id="Digital Texts"/>
 <node id="American  Philological  Tradition"/>
 <node id="10.14434/textual.v13i2.31606"/>
 <node id="Recurrent Situations&#10;Ontology Design Patterns&#10;Arco&#10;Ontology Networks"/>
 <node id="10.3233/SSW210013"/>
-<node id="article_828"/>
+<node id="ArCo ontology network and LOD on Italian Cultural Heritage"/>
 <node id="10.1007/978-3-030-30796-7_3"/>
 <node id="Ontology Modelling"/>
 <node id="Archival Science"/>
@@ -2268,7 +2246,7 @@
 <node id="https://ceur-ws.org/Vol-3011/"/>
 <node id="10.3233/SW-200422"/>
 <node id="10.3233/SSW200033"/>
-<node id="article_837"/>
+<node id="The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata"/>
 <node id="10.1007/978-3-031-47243-5_17"/>
 <node id="https://ceur-ws.org/Vol-3262/paper2.pdf"/>
 <node id="Contemporary Literature"/>
@@ -2284,7 +2262,7 @@
 <node id="Html"/>
 <node id="Graph Database"/>
 <node id="Cms"/>
-<node id="article_842"/>
+<node id="Åšivadharma Database CMS. HTML and graph as a starting point for digital editions"/>
 <node id="Omeka"/>
 <node id="Iiif"/>
 <node id="Mirador"/>
@@ -2325,24 +2303,22 @@
 <node id="Designing And Theorizing"/>
 <node id="Mapprojecy"/>
 <node id="Hogart Press"/>
-<node id="article_860"/>
+<node id="Review of BATTERSHILL, Claire, Helen SOUTHWORTH, Alice STAVELEY, Michael WIDNER, Elizabeth Willson GORDON, Nicola WILSON. 2017. Scholarly Adventures in Digital Humanities: Making the Modernist Archives Publishing Project"/>
 <node id="Digital Scholarly Editing. Authorial Philology. Censorship. Benedetto Varchi. Renaissance History. Italian Renaissance Literature"/>
 <node id="https://ceur-ws.org/Vol-3540/"/>
-<node id="article_870"/>
+<node id="Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures"/>
 <node id="Scholarly Metadata"/>
 <node id="https://github.com/opencitations/oc_meta"/>
 <node id="Chatbots"/>
 <node id="Museum"/>
-<node id="article_874"/>
+<node id="AI and chatbots as a storytelling tool to personalize the visitor experience. The case of National Museum of Ravenna."/>
 <node id="Medieval Manuscripts Ontology"/>
 <node id="Memo"/>
 <node id="Medieval Manuscripts"/>
 <node id="Progetto Irnerio"/>
 <node id="10.6092/issn.2532-8816/11187"/>
-<node id="article_876"/>
 <node id="Critical Digital Edition"/>
 <node id="10.6092/unibo/aldomoro"/>
-<node id="article_878"/>
 <node id="Computer Science - Human-Computer Interaction"/>
 <node id="Computer Science - Information Theory"/>
 <node id="Mathematics - Information Theory"/>
@@ -2362,7 +2338,7 @@
 <node id="Earmark"/>
 <node id="http://dh2016.adho.org/abstracts/149"/>
 <node id="Text Retrieval"/>
-<node id="article_885"/>
+<node id="Analisi del testo letterario e nuove tecnologie"/>
 <node id="Open Annotation Collaboration"/>
 <node id="Semlib"/>
 <node id="10.1007/978-3-642-35834-0_7"/>
@@ -2385,16 +2361,16 @@
 <node id="Annotation Tools"/>
 <node id="Collaboration Environment"/>
 <node id="10.1145/2494266.2494323"/>
-<node id="article_895"/>
+<node id="Collaborative Research Practices and Shared Infrastructures for Humanities Computing"/>
 <node id="Cronologia"/>
-<node id="article_897"/>
+<node id="Cronologia della letteratura italiana"/>
 <node id="Markup Languages"/>
 <node id="Tei - Text Encoding Initiative"/>
-<node id="article_899"/>
+<node id="DH-CASE 2013 - Collaborative Annotations in Shared Environments: Metadata, Vocabularies and Techniques in the Digital Humanities"/>
 <node id="Eac - Encoded Archival Description"/>
 <node id="Semantic Models - Ontologies"/>
 <node id="Geographic Ontology"/>
-<node id="article_900"/>
+<node id="Dialogue and linking between TEI and other semantic models"/>
 <node id="Authority Data"/>
 <node id="Semantic Indexing"/>
 <node id="10.4403/jlis.it-8808"/>
@@ -2414,7 +2390,6 @@
 <node id="Digital Curation"/>
 <node id="Mostre Virtuali"/>
 <node id="10.6092/issn.2283-9364/18712"/>
-<node id="article_907"/>
 <node id="Social"/>
 <node id="Web Skills Profiles"/>
 <node id="Cross Disciplinary"/>
@@ -2439,7 +2414,7 @@
 <node id="Web Environment"/>
 <node id="Bibliographic Codes"/>
 <node id="Ambienti Collaborativi"/>
-<node id="article_918"/>
+<node id="Filologia digitale. Fra teoria, metodologia e tecnica"/>
 <node id="Letteratura Biblica"/>
 <node id="Follia"/>
 <node id="www.permanenza.unibo.it/eventi/folli.-i-classici-xv-edizione"/>
@@ -2485,7 +2460,7 @@
 <node id="Iliade"/>
 <node id="https://centri.unibo.it/permanenza/it/iniziative-editoriali/libri-di-sala"/>
 <node id="Informatica Umanistica"/>
-<node id="article_932"/>
+<node id="Informatica umanistica. Andata e ... ritorno"/>
 <node id="Edizione Digitale"/>
 <node id="Digitale Nativo"/>
 <node id="Archivi Di Persona"/>
@@ -2521,16 +2496,15 @@
 <node id="Digital Tools"/>
 <node id="10.5565/rev/anuariolopedevega.84"/>
 <node id="Web Semantico"/>
-<node id="article_950"/>
+<node id="L'edizione digitale e la rappresentazione della conoscenza. Un esempio: Vespasiano da Bisticci e le sue lettere"/>
 <node id="Rappresentazione Dati"/>
 <node id="Vespasiano Da Bisticci"/>
-<node id="article_951"/>
+<node id="L'informazione digitale e il Web semantico. Il caso delle scholarly digital editions"/>
 <node id="Digital Library - Ministero Della Cultura - Patrimonio Digitale - Digitalizzazione - Infrastruttura Digitale - Ecosistema Digitale - Digital Library - Ministry Of Culture - Digital Heritage - Digitization - Digital Infrastructure - Digital Ecosystem"/>
 <node id="Digital Libraries"/>
 <node id="Digital Archives"/>
 <node id="Relational Databases"/>
 <node id="http://www.w3c.it/events/2014/lod2014/"/>
-<node id="article_954"/>
 <node id="Disagreement"/>
 <node id="Contexts"/>
 <node id="10.1515/9783110430295-041"/>
@@ -2552,7 +2526,7 @@
 <node id="Falsi"/>
 <node id="Falsari"/>
 <node id="Poesia Italiana Del Novecento"/>
-<node id="article_960"/>
+<node id="Montale e pseudo-Montale. Autopsia del 'Diario postumo'"/>
 <node id="Hico"/>
 <node id="Prov-O"/>
 <node id="Frbr Model"/>
@@ -2568,7 +2542,7 @@
 <node id="Patria"/>
 <node id="Sofocle"/>
 <node id="Virgilio"/>
-<node id="article_967"/>
+<node id="Patria, patrie"/>
 <node id="Diff"/>
 <node id="Promessi Sposi"/>
 <node id="Laboratorio"/>
@@ -2582,12 +2556,12 @@
 <node id="Europeana Data Model"/>
 <node id="10.1007/978-3-642-35834-0_23"/>
 <node id="Xml"/>
-<node id="article_973"/>
+<node id="Representing and archiving"/>
 <node id="Provenance&#10;Change-Tracking&#10;Rdf&#10;Digital Humanities"/>
 <node id="10.48550/arxiv.2305.08477"/>
 <node id="Rivoluzione"/>
 <node id="Filologia Classica"/>
-<node id="article_975"/>
+<node id="Res novae - Rivoluzioni"/>
 <node id="http://www.permanenza.unibo.it/iniziative-editoriali"/>
 <node id="Document Semantics"/>
 <node id="Context And Content"/>
@@ -2615,12 +2589,12 @@
 <node id="Dh In A Global Perspective"/>
 <node id="https://punctumbooks.com/titles/the-digital-humanist/"/>
 <node id="Authorship"/>
-<node id="article_987"/>
+<node id="The Project Zeri Photo Archive: Towards a Model for Defining Authoritative Authorship Attributions."/>
 <node id="Quantitative Linguistics"/>
 <node id="10.1145/2517978.2517989"/>
 <node id="Testo Digitale"/>
 <node id="Accesso Aperto"/>
-<node id="article_989"/>
+<node id="Un laboratorio di editoria digitale"/>
 <node id="Humanities Computing"/>
 <node id="http://ceur-ws.org/Vol-1509/"/>
 <node id="Markup Xml/Tei"/>
@@ -2632,13 +2606,13 @@
 <node id="Dc"/>
 <node id="Edm"/>
 <node id="Lod Workflow"/>
-<node id="article_994"/>
+<node id="Web semantico, Linked Data e archivi. Metodologie e strumenti per la rappresentazione della conoscenza"/>
 <node id="Frbr - Functional Requirements For Bibliographic Records"/>
 <node id="Scheda F"/>
 <node id="Fabio"/>
 <node id="10.1109/JCDL.2014.6970182"/>
 <node id="10.6092/unibo/amsacta/5157"/>
-<node id="article_997"/>
+<node id="Śivadharma Database CMS. HTML and graph as a starting point for digital editions"/>
 <node id="Bibliographic Coupling"/>
 <node id="History"/>
 <node id="Intellectual Organization"/>
@@ -2655,7 +2629,7 @@
 <node id="10.1093/llc/fqac016"/>
 <node id="10.1145/3487553.3524925"/>
 <node id="10.1162/qss_a_00035"/>
-<node id="article_1003"/>
+<node id="A principled methodology for comparing relatedness measures for clustering publications"/>
 <node id="10.1371/journal.pone.0244839"/>
 <node id="Bibliodata"/>
 <node id="10.5281/zenodo.6559857"/>
@@ -2685,7 +2659,7 @@
 <node id="10.21237/C7clio10245282"/>
 <node id="Ocr"/>
 <node id="Optical Character Recognition"/>
-<node id="article_1014"/>
+<node id="Assessing the impact of OCR quality on downstream NLP tasks"/>
 <node id="10.1016/j.joi.2017.11.005"/>
 <node id="Citation Histories"/>
 <node id="Physical Review"/>
@@ -2713,10 +2687,10 @@
 <node id="Xml Schemas"/>
 <node id="10.1109/eScience.2019.00033"/>
 <node id="Text Recognition"/>
-<node id="article_1022"/>
+<node id="Diachronic Evaluation of NER Systems on Old Newspapers"/>
 <node id="Small-World Networks"/>
 <node id="10.1007/978-3-319-46224-0_4"/>
-<node id="article_1024"/>
+<node id="Exploring the similarity of articles co-cited at different levels"/>
 <node id="Citation Mining"/>
 <node id="10.46298/jdmdh.9380"/>
 <node id="Distributed Training"/>
@@ -2745,9 +2719,9 @@
 <node id="Influence"/>
 <node id="Interdisciplinarity"/>
 <node id="10.1007/s11192-020-03580-9"/>
-<node id="article_1034"/>
+<node id="Quantifying the long-term influence of scientific publications"/>
 <node id="10.3828/coma.2022.22"/>
-<node id="article_1036"/>
+<node id="Reference behavior in the full text of scientific articles: A large-scale analysis"/>
 <node id="Art"/>
 <node id="Social Networks (Online)"/>
 <node id="10.3389/fbloc.2022.1073499"/>
@@ -2762,7 +2736,7 @@
 <node id="Citation Extraction"/>
 <node id="History Of Venice"/>
 <node id="10.1007/s00799-017-0210-1"/>
-<node id="article_1044"/>
+<node id="The references of references: Enriching library catalogs via domain-specific reference mining"/>
 <node id="Blogs"/>
 <node id="Knowledge Transfer"/>
 <node id="News Sites"/>
@@ -2797,8 +2771,7 @@
 <node id="10.4403/jlis.it-12703"/>
 <node id="Online Catalogue"/>
 <node id="Music Data"/>
-<node id="article_1058"/>
-<node id="article_1066"/>
+<node id="Characterizing the Landscape of Musical Data on the Web: state of the art and challenges"/>
 <node id="10.14361/dcs-2020-0213"/>
 <node id="Cinema Studies"/>
 <node id="Literary Studies"/>
@@ -2808,10 +2781,9 @@
 <node id="10.6084/m9.figshare.16782781.v3"/>
 <node id="Lavoro Digitale"/>
 <node id="Digital Skills"/>
-<node id="article_1081"/>
+<node id="Le professioni del lavoro digitale"/>
 <node id="10.6092/issn.1721-4777/12325"/>
 <node id="Design Thinking"/>
-<node id="article_1087"/>
 <node id="10.3233/SSW190006"/>
 <node id="https://www.iospress.com/catalog/books/mining-authoritativeness-in-art-historical-photo-archives"/>
 <node id="Data Preservation"/>
@@ -2820,7 +2792,6 @@
 <node id="10.1007/978-3-319-58694-6_34"/>
 <node id="Music Heritage"/>
 <node id="https://polifonia-project.eu"/>
-<node id="article_1101"/>
 <node id="https://umanisticadigitale.unibo.it"/>
 <node id="10.1007/978-3-319-68130-6_1"/>
 <node id="Annotations"/>
@@ -2833,7 +2804,7 @@
 <node id="10.1016/j.ins.2017.12.009"/>
 <node id="Linked Data Publishing"/>
 <node id="10.7717/peerj-cs.105"/>
-<node id="article_1111"/>
+<node id="Characterising Citations in Scholarly Articles: An Experiment"/>
 <node id="10.1007/978-3-642-41242-4_6"/>
 <node id="10.1007/978-3-319-90548-8_7"/>
 <node id="Computational Journalism"/>
@@ -2865,9 +2836,9 @@
 <node id="10.1145/3209280.3232792"/>
 <node id="10.1145/2494266.2494322"/>
 <node id="http://www.rintonpress.com/xjwe14/jwe-14-12/001-002.pdf"/>
-<node id="article_1129"/>
-<node id="article_1130"/>
-<node id="article_1131"/>
+<node id="Editorial - Special Issue on Web Technologies"/>
+<node id="Editorial Message - Special Track on Web Technologies"/>
+<node id="Evaluating Citation Functions in CiTO: Cognitive Issues."/>
 <node id="10.18293/DMSVIVA2019-021"/>
 <node id="Collaborative Editing"/>
 <node id="Technical Documentation"/>
@@ -2895,9 +2866,9 @@
 <node id="10.1007/978-3-030-01379-0_11"/>
 <node id="Html-Based Format"/>
 <node id="Scholarly Html"/>
-<node id="article_1142"/>
-<node id="article_1143"/>
-<node id="article_1145"/>
+<node id="It ROCS! The RASH Online Conversion Service"/>
+<node id="Knowledge management of scholarly products: Semantic Lancet Project"/>
+<node id="Measuring the domain-oriented quality of diff algorithms"/>
 <node id="10.1016/j.csi.2015.12.005"/>
 <node id="Interpretation Of Changes"/>
 <node id="Textual Differences"/>
@@ -2926,8 +2897,7 @@
 <node id="10.1007/978-3-319-25518-7_6"/>
 <node id="10.1007/978-3-319-46565-4_19"/>
 <node id="10.1145/3274310"/>
-<node id="article_1160"/>
-<node id="article_1161"/>
+<node id="Special track on web technologies"/>
 <node id="Social Software"/>
 <node id="Web 2.0"/>
 <node id="Library And Information Sciences"/>
@@ -2940,13 +2910,13 @@
 <node id="Web-First Format"/>
 <node id="10.1145/3103010.3103018"/>
 <node id="10.1007/978-3-319-17966-7_10"/>
-<node id="article_1166"/>
-<node id="article_1167"/>
+<node id="Towards a Qualitative Analysis of Diff Algorithms"/>
+<node id="Towards the Automatic Identification of the Nature of Citations"/>
 <node id="Textual Bibliography"/>
 <node id="10.1145/2802612.2802614"/>
 <node id="10.1016/j.scico.2014.03.001"/>
 <node id="Formal Concept Analysis"/>
-<node id="article_1170"/>
+<node id="A Bottom-Up Ontology Construction with Contento"/>
 <node id="10.1007/978-3-642-38288-8-24"/>
 <node id="10.1007/s11192-022-04426-2"/>
 <node id="http://ceur-ws.org/Vol-1935/paper-06.pdf"/>
@@ -2964,7 +2934,7 @@
 <node id="Foaf"/>
 <node id="Human Relations"/>
 <node id="10.3233/AO-160169"/>
-<node id="article_1187"/>
+<node id="An Ontology Design Pattern for supporting behaviour arbitration in cognitive agents"/>
 <node id="Case-Based Legal Reasoning"/>
 <node id="Judicial Interpretation"/>
 <node id="Legal Knowledge Modeling"/>
@@ -2973,19 +2943,17 @@
 <node id="Image Schemas"/>
 <node id="Prepositions"/>
 <node id="http://ceur-ws.org/Vol-2518/paper-CAOS3.pdf"/>
-<node id="article_1190"/>
 <node id="http://ceur-ws.org/Vol-1935/paper-05.pdf"/>
 <node id="Commonsense Reasoning"/>
 <node id="Ethics &amp; Ai"/>
 <node id="10.1007/978-3-031-17105-5_1"/>
-<node id="article_1195"/>
 <node id="Cognitive Semantics"/>
 <node id="Relations"/>
 <node id="Semantic Interoperability"/>
 <node id="10.3233/SW-190383"/>
 <node id="10.3233/978-1-61499-676-7-189"/>
 <node id="User Perspectives"/>
-<node id="article_1199"/>
+<node id="Comparing User Perspectives in a Virtual Reality Cultural Heritage Environment"/>
 <node id="Social Inclusion"/>
 <node id="10.1007/978-3-031-34560-9_1"/>
 <node id="10.1007/978-3-319-46547-0_16"/>
@@ -3025,12 +2993,12 @@
 <node id="Compositionality"/>
 <node id="Natural Language"/>
 <node id="http://ceur-ws.org/Vol-2347/2-Gangemi.pdf"/>
-<node id="article_1222"/>
-<node id="article_1223"/>
+<node id="Frame Embeddings for Event-Based Knowledge Reconciliation"/>
+<node id="Frame Semantic Parsing using Framester Knowledge Graphs"/>
 <node id="10.1109/MCI.2013.2291688"/>
-<node id="article_1225"/>
+<node id="Frame-Based Ontology Alignment"/>
 <node id="10.1007/978-3-319-49004-5_16"/>
-<node id="article_1227"/>
+<node id="FrODO: Generating Ontologies from Competency Questions in One Click"/>
 <node id="10.3233/SW-160221"/>
 <node id="10.1145/2611040.2611092"/>
 <node id="Foundations Of Trustworthy Ai&#10;Automated Reasoning&#10;Machine Learning&#10;Combinatorial Optimization"/>
@@ -3053,13 +3021,13 @@
 <node id="Sparql&#10;Meta-Model&#10;Re-Engineering&#10;Rdf"/>
 <node id="10.1145/3555312"/>
 <node id="http://ceur-ws.org/Vol-1935/paper-07.pdf"/>
-<node id="article_1242"/>
+<node id="Learning Domain Ontologies by Corpus-Driven FrameNet Specialization"/>
 <node id="10.1007/978-3-319-58694-6_9"/>
 <node id="10.1016/j.knosys.2016.05.014"/>
 <node id="10.3233/978-1-61499-676-7-105"/>
 <node id="Ontology Refinement"/>
-<node id="article_1249"/>
-<node id="article_1250"/>
+<node id="Ontology Design Patterns in Ontology Learning"/>
+<node id="Ontology Engineering with Ontology Design Patterns: Foundations and Applications"/>
 <node id="10.1007/978-3-030-05249-2_6"/>
 <node id="10.1007/978-3-319-25518-7_1"/>
 <node id="10.7717/peerj-cs.199"/>
@@ -3107,7 +3075,7 @@
 <node id="Information Realization"/>
 <node id="Information Entities"/>
 <node id="Information Objects"/>
-<node id="article_1274"/>
+<node id="The Information Realization Pattern"/>
 <node id="Midi"/>
 <node id="Music Interoperability"/>
 <node id="10.1007/978-3-319-68204-4_16"/>
@@ -3128,9 +3096,8 @@
 <node id="Out-Of-Distribution"/>
 <node id="10.18653/v1/2023.findings-acl.524"/>
 <node id="10.3233/978-1-61499-696-5-297"/>
-<node id="article_1291"/>
-<node id="article_1292"/>
-<node id="article_1293"/>
+<node id="Towards the Natural Ontology of Wikipedia"/>
+<node id="Uncovering the semantics of Wikipedia Pagelinks"/>
 <node id="Moral Values&#10;Frame Semantics&#10;Zero-Shot Learning&#10;Natural Language Inferenced"/>
 <node id="10.18653/v1/2022.deelio-1.4"/>
 <node id="Altmetrics&#10;Research Evaluation&#10;Bibliometric Indicators&#10;Covid-19&#10;Sars-Cov-2&#10;Ncov-2019"/>
@@ -3140,14 +3107,14 @@
 <node id="Eros E Priapo"/>
 <node id="Intertestualità"/>
 <node id="Interdiscorsività"/>
-<node id="article_1297"/>
+<node id="&quot;Li associati a delinquere&quot;. Voci di Gadda in &quot;Eros e Priapo&quot;"/>
 <node id="Francesco Petrarca"/>
 <node id="Codice Degli Abbozzi"/>
 <node id="Varianti"/>
 <node id="Federico Ubaldini"/>
 <node id="Urbano Viii"/>
 <node id="Canzoniere"/>
-<node id="article_1298"/>
+<node id="Alle origini della filologia d'autore. L'edizione del “Codice degli abbozzi” di Federico Ubaldini*"/>
 <node id="Critica Delle Varianti"/>
 <node id="Stéphane Mallarmé"/>
 <node id="Paul Valéry"/>
@@ -3158,11 +3125,11 @@
 <node id="Giacomo Leopardi"/>
 <node id="https://www.carocci.it/prodotto/gli-scartafacci-degli-scrittori"/>
 <node id="Unpublished Notes"/>
-<node id="article_1300"/>
+<node id="Appunti leopardiani I"/>
 <node id="Operette Morali"/>
 <node id="Letteratura Contemporanea"/>
 <node id="Moral Philosophy"/>
-<node id="article_1301"/>
+<node id="Appunti leopardiani II"/>
 <node id="Critica Genetica"/>
 <node id="https://journals.openedition.org/genesis/4497"/>
 <node id="Letteratura Moderna E Contemporanea"/>
@@ -3171,22 +3138,21 @@
 <node id="Quer Pasticciaccio Brutto De Via Merulana"/>
 <node id="Psicoanalisi"/>
 <node id="&quot;Botteghe Oscure&quot;"/>
-<node id="article_1303"/>
+<node id="Bassani e Gadda. Quattro varianti per “Botteghe oscure”, in Giulio Ferroni, Clizia Gurreri (a cura di), Cento anni di Giorgio Bassani, Roma, Edizioni di Storia e Letteratura, 2019, pp. 147-64."/>
 <node id="Poesia Dell'Ottocento"/>
 <node id="Romanticismo"/>
-<node id="article_1304"/>
+<node id="Capitolo Leopardi, in Letteratura Italiana. Storia e testi. Manuale per studi universitari, Milano, Mondadori Education, vol. II, 2018, pp. 504-574."/>
 <node id="Romanzo"/>
-<node id="article_1305"/>
+<node id="Capitolo Manzoni in Letteratura Italiana. Storia e testi. Manuale per studi universitari, Milano, Mondadori Education, vol. II, 2018, pp. 381-383 e 433-503."/>
 <node id="Autografi"/>
 <node id="Ariosto"/>
 <node id="Gadda"/>
 <node id="Bassani"/>
-<node id="article_1306"/>
-<node id="Filologia Della Letteratura Italiana"/>
+<node id="Carte geo-grafiche. Prosatori al lavoro"/>
 <node id="Varianti D'Autore"/>
-<node id="article_1307"/>
+<node id="Come lavorava Gadda"/>
 <node id="Biblioteche"/>
-<node id="article_1308"/>
+<node id="Come lavorava Gadda. Un percorso tra le carte"/>
 <node id="Confocal Microscopy"/>
 <node id="Diffraction Limit"/>
 <node id="Ink"/>
@@ -3207,7 +3173,6 @@
 <node id="Biografia"/>
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-87-settembre-dicembre-2023/"/>
 <node id="Ecdotica Filologia Testuale"/>
-<node id="article_1313"/>
 <node id="https://site.unibo.it/ecdotica/it"/>
 <node id="Critica Del Testo"/>
 <node id="Teoria Del Testo"/>
@@ -3215,14 +3180,13 @@
 <node id="10.7385/101917"/>
 <node id="Google"/>
 <node id="Editing"/>
-<node id="article_1317"/>
+<node id="Editing 2.0. Quali testi leggiamo e leggeremo in rete?"/>
 <node id="Testi Digitali"/>
 <node id="https://www.salernoeditrice.it/prodotto/editing-2000/"/>
 <node id="Letteratura Ed Editoria Nel Novecento"/>
 <node id="Letteratura Del Novecento"/>
 <node id="http://www.salernoeditrice.it/Rassegna_stampa.asp?id=1921"/>
-<node id="article_1320"/>
-<node id="article_1321"/>
+<node id="Errori in rete. Editing 2.0"/>
 <node id="Variants Criticism"/>
 <node id="Wiki Leopardi"/>
 <node id="Ecdosys Leopardi"/>
@@ -3233,13 +3197,13 @@
 <node id="Imaging"/>
 <node id="Edizioni Critiche"/>
 <node id="Edizioni Scientifiche"/>
-<node id="article_1323"/>
+<node id="Filologia d'autore digitale e multidisciplinare. Dall'Authorship alla fotonica"/>
 <node id="Letteratura Francese"/>
 <node id="Simbolismo"/>
 <node id="Mallarmé"/>
 <node id="Valéry"/>
 <node id="Proust"/>
-<node id="article_1324"/>
+<node id="Filologia d'autore, critica genetica e critica delle varianti: diacronia, sincronia e tassonomia"/>
 <node id="Filologia Editoriale"/>
 <node id="Edizioni Critiche Digitali"/>
 <node id="Testi In Raccolta"/>
@@ -3247,11 +3211,11 @@
 <node id="10.13130/2499-6637/8918"/>
 <node id="Filologia"/>
 <node id="Letteratura Italiana Del Novecento"/>
-<node id="article_1326"/>
-<node id="article_1327"/>
+<node id="Filologia editoriale, Roberto Calasso in dialogo con Paola Italia e Francisco Rico"/>
+<node id="Filologie d'autore, in La critica del testo, Problemi di metodo ed esperienze di lavoro.Trent'anni dopo, in vista del Settecentenario della morte di Dante, Atti del Convegno internazionale di Roma 23-26 ottobre 2017, a cura diEnrico Malato e Andrea Mazzucchi, Roma, Salerno Editrice, 2019, pp. 119-32."/>
 <node id="Scholarly Digital Editions"/>
 <node id="10.1093/llc/fqaa022"/>
-<node id="article_1329"/>
+<node id="Gadda e Roma prima del Pasticciaccio. Con un articolo &quot;disperso&quot;"/>
 <node id="Lessicografia"/>
 <node id="Linguistica Italiana"/>
 <node id="http://www.carocci.it/index.php?option=com_carocci&amp;task=schedalibro&amp;Itemid=72&amp;isbn=9788829016488"/>
@@ -3268,11 +3232,11 @@
 <node id="Autografia"/>
 <node id="Autenticità"/>
 <node id="Annalisa Cima"/>
-<node id="article_1333"/>
-<node id="article_1334"/>
+<node id="Grafie, autorialità, autenticità e Nota a margine: una data sbagliata"/>
+<node id="I pellegrini degli archivi, in &quot;Archivi letterari del '900. Parte I: Ricerche e interpretazioni, a cura di Giuliana Zagra, Monica Davini, Magdalena Maria Kubas, &quot;Quaderni del Novecento&quot; (2018), 18, pp. 7-12."/>
 <node id="Letteratura Del Novecento&#10;Editoria&#10;Filologia"/>
-<node id="article_1335"/>
-<node id="article_1336"/>
+<node id="Il doppio sguardo"/>
+<node id="Il lettore di Bassani e il “caso Deliliers”"/>
 <node id="Lettori"/>
 <node id="Wiki-Source"/>
 <node id="Testi In Rete"/>
@@ -3281,7 +3245,7 @@
 <node id="Pietro Verri"/>
 <node id="Vittorio Alfieri"/>
 <node id="Vincenzo Monti"/>
-<node id="article_1338"/>
+<node id="Il pensiero in movimento"/>
 <node id="Storia Della Colonna Infame"/>
 <node id="Silvio Pellico"/>
 <node id="Pietro Maroncelli"/>
@@ -3313,7 +3277,7 @@
 <node id="Giuseppe Pelli Bencivenni"/>
 <node id="https://volontadarchivio.disll.unipd.it/il-volume/"/>
 <node id="Resistenza"/>
-<node id="article_1343"/>
+<node id="Introduzione, a Mario Tobino, Il Clandestino"/>
 <node id="Wiki Edizioni"/>
 <node id="Scholarly Editing"/>
 <node id="Digital Text"/>
@@ -3331,9 +3295,8 @@
 <node id="Porta"/>
 <node id="Tommaseo"/>
 <node id="Camerini"/>
-<node id="article_1347"/>
+<node id="La commedia nell'età moderna: l'Ottocento"/>
 <node id="Rossetti"/>
-<node id="article_1348"/>
 <node id="Dante Isella"/>
 <node id="Giuseppe Parini"/>
 <node id="Vittorio Sereni"/>
@@ -3341,16 +3304,16 @@
 <node id="Carlo Dossi"/>
 <node id="Carlo Porta"/>
 <node id="Delio Tessa"/>
-<node id="article_1349"/>
+<node id="La filologia e la stilistica di Dante Isella. Per un'antologia, a cura di Stefano Carrai e Paola Italia, “Ecdotica”, n. 15 (2018), pp. 185-238 (Introduzione pp. 185-88)."/>
 <node id="Alberto Blecua"/>
 <node id="Lope De Vega"/>
 <node id="10.5565/rev/anuariolopedevega.488"/>
 <node id="Textual Criticism"/>
 <node id="http://amsacta.unibo.it/6348/"/>
 <node id="Letteratura Moderne E Contemporanea"/>
-<node id="article_1352"/>
+<node id="La produzione del romanzo. editori, consulenti, editor"/>
 <node id="Letteratura Dell'Ottocento"/>
-<node id="article_1353"/>
+<node id="La ricordanza. Idillio III"/>
 <node id="Fauriel"/>
 <node id="https://www.bardiedizioni.it/product/la-ricezione-della-commedia-dai-manoscritti-ai-media/"/>
 <node id="Biblioteche D'Autore"/>
@@ -3369,7 +3332,7 @@
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-77-maggio-agosto-2020/105.html"/>
 <node id="Letteratura Italiana Dell'Ottocento"/>
 <node id="Poesia Italiana Dell'Ottocento"/>
-<node id="article_1361"/>
+<node id="Lo scrittoio, in Leopardi, a cura di Franco D'Intino e Massimo Natale, Roma, Carocci, 2018, pp. 227-42."/>
 <node id="Critique Génétique"/>
 <node id="Alberto Savinio"/>
 <node id="10.4000/genesis.7715"/>
@@ -3378,32 +3341,32 @@
 <node id="https://buponline.com/prodotto/illuminismo-e-settecento-riformatore/"/>
 <node id="Linguaggio"/>
 <node id="Elettrotecnica"/>
-<node id="article_1366"/>
+<node id="Metafore scientifiche nella prosa di Carlo Emilio Gadda"/>
 <node id="Il Libro Delle Furie"/>
 <node id="Pier Paolo Pasolini"/>
 <node id="'Officina'"/>
 <node id="https://www.torrossa.com/en/resources/an/5158242"/>
 <node id="Europa"/>
 <node id="Bompiani Editore"/>
-<node id="article_1368"/>
+<node id="Nota al testo a Alberto Savinio, Sorte dell'Europa"/>
 <node id="Freud"/>
-<node id="article_1369"/>
+<node id="Nota al testo in Carlo Emilio Gadda, &quot;Eros e Priapo. Versione originale&quot;"/>
 <node id="Romanzo Del Novecento"/>
 <node id="https://www.adelphi.it/libro/9788845934407"/>
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-72-settembre-dicembre-2018/105.html"/>
 <node id="Metafisica"/>
 <node id="Valentino Bompiani"/>
-<node id="article_1372"/>
+<node id="Nuove voci di “Nuova enciclopedia”"/>
 <node id="Leonardo Sciascia"/>
-<node id="article_1373"/>
-<node id="article_1374"/>
+<node id="P. Italia, Sciascia e Tobino: un'amicizia 'a bacchiagghiu', in “Il Giannone”, a. XV-XVII, n. 29-34, gennaio-dicembre 2019, pp. 163-77."/>
+<node id="P. Italia-T. Gargano, Philoeditor 3.0: Pinocchio, in 'Senza giudizio... e senza cuore', Atti del convegno di studi su Pinocchio, Milano, Università Cattolica del Sacro Cuore e Università degli Studi, 18-19 maggio 2017, a cura di Paola Ponti e Martino Marazzi,  “Rivista di Letteratura Italiana”, a. XXXVI, n. 2 (2018), pp. 133-144."/>
 <node id="La Passeggiata Autunnale"/>
 <node id="Alessandro Bonsanti"/>
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-85-gennaio-aprile-2023/"/>
-<node id="article_1376"/>
+<node id="Paola Italia, Il metodo di Leopardi. Varianti e stile nella formazione delle “Canzoni”, Roma, Carocci, 2016."/>
 <node id="http://www.fedoabooks.unina.it/index.php/fedoapress/catalog/view/527/553/2669"/>
 <node id="Carteggi"/>
-<node id="article_1378"/>
+<node id="Per un'ecdotica dei carteggi"/>
 <node id="Catullo"/>
 <node id="La Cognizione Del Dolore"/>
 <node id="https://centri.unibo.it/archivio-umanistico-rinascimentale-bologna/it/pubblicazioni/schede-umanistiche-antichi-e-moderni"/>
@@ -3411,20 +3374,20 @@
 <node id="10.6092/issn.1721-4777/14011"/>
 <node id="Poesia Italiana"/>
 <node id="Versi"/>
-<node id="article_1383"/>
+<node id="Ragioni di un libro"/>
 <node id="Bibliofilia"/>
 <node id="Antiquaria"/>
-<node id="article_1384"/>
+<node id="Rec. a Carlo Alberto Chiesa, Un mestiere semplice. Ricordi di un libraio antiquario, Milano, Officina Libraria, 2016 (“Sine Titulo”, n. 2)"/>
 <node id="Poesia Del Novecento"/>
 <node id="https://www.vieusseux.it/books/antologia-vieusseux-n-81-settembre-dicembre-2021/105.html"/>
 <node id="Giorgio Caproni"/>
 <node id="https://www.vieusseux.it/uploads/antologia/N83/ANT83-09-LettIt.pdf"/>
 <node id="Storia Del Libro"/>
-<node id="article_1387"/>
+<node id="Rec. a Giancarlo Ferretti, Il marchio dell'editore. Libri e carte, incontri e casi letterari, Novara, Interlinea, 2019, in “Antologia Vieusseux”, n.s., a XXV, n. 75 (settembre-dicembre 2019), pp. 77-83."/>
 <node id="Giovanni Papini"/>
 <node id="Giuseppe Prezzolini"/>
 <node id="Archivi Del Novecento."/>
-<node id="article_1388"/>
+<node id="Rec. a Giovanni Papini-Giuseppe Prezzolini, Carteggio III, 1915-1956. Dalla Grande Guerra al secondo dopoguerra, a cura di Sandro Gentili e Gloria Manghetti, Roma, Edizioni di Storia e Letteratura - Biblioteca Cantonale Lugano Archivio Prezzolini 2013, &quot;Antologia Vieusseux&quot;, n. 57 (settembre-dicembre 2013), pp. 174-79."/>
 <node id="Letteratura Italiaa"/>
 <node id="Napoleone"/>
 <node id="Ugo Foscolo"/>
@@ -3436,22 +3399,22 @@
 <node id="Alberto Carocci"/>
 <node id="Alberto Moravia"/>
 <node id="https://www.vieusseux.it/uploads/antologia/N85/ANT-85-10-LettIt.pdf"/>
-<node id="article_1393"/>
+<node id="Recensione a Biblioteche reali, biblioteche immaginarie. Tracce di libri, luoghi e letture, a cura di Anna Dolfi, Firenze University Press 2015"/>
 <node id="Primo Levi"/>
 <node id="Bibliografie"/>
 <node id="https://www.vieusseux.it/attivita-culturali/pubblicazioni/antologia-vieusseux.html"/>
 <node id="Luigi Fallacara"/>
-<node id="article_1395"/>
+<node id="Recensione a L'Eterno accade, L'officina letteraria di Luigi Fallacara"/>
 <node id="Manosacritti"/>
-<node id="article_1396"/>
+<node id="Recensione a Matteo Motolese, Scritti a mano, Milano, Garzanti, 2017, in “Antologia Vieusseux”, a. XXIV, n. 71, (maggio-agosto 2018), pp. 95-102."/>
 <node id="Textual Studies"/>
-<node id="article_1397"/>
+<node id="Recensione a Peter Shillingsburg, Textuality and knowledge, The Pennsylvania State University Press, University Park, Pennsylvania, USA, 2017, pp. 240."/>
 <node id="Autore"/>
 <node id="Scrittura"/>
 <node id="https://www.carocci.it/prodotto/storia-dellitaliano-scritto-vi-pratiche-di-scrittura"/>
-<node id="article_1399"/>
+<node id="Riscritture gaddiane, da Eros e la Banda (1944) al Bugiardone (1946) a Eros e Priapo (1967)"/>
 <node id="Letteratura Italiana&#10;Letteratura Contemporanea&#10;Alberto Savinio&#10;Opera Lirica&#10;Libretti"/>
-<node id="article_1400"/>
+<node id="Savinio librettista. Orfeo vedovo"/>
 <node id="Francesco Flora"/>
 <node id="Università Di Bologna"/>
 <node id="https://exhibits.ficlit.unibo.it/s/dante-univ-bologna/page/presentazione"/>
@@ -3462,9 +3425,8 @@
 <node id="Settecento"/>
 <node id="Letteratura"/>
 <node id="Legislazione"/>
-<node id="article_1404"/>
 <node id="Carlo Goldoni"/>
-<node id="article_1405"/>
+<node id="Stratigrafie e varianti, da Manzoni a Gadda. Nuove prospettive per la filologia d'autore"/>
 <node id="Infinito"/>
 <node id="Idillio"/>
 <node id="Luigi Blasucci"/>
@@ -3473,19 +3435,19 @@
 <node id="Autorialità"/>
 <node id="Stilometria"/>
 <node id="14. http://ojs.uniroma1.it/index.php/cogphil/article/view/11586/11448"/>
-<node id="article_1408"/>
+<node id="Un commento 2.0"/>
 <node id="D'Azeglio"/>
 <node id="Cesare"/>
 <node id="Lettera Sul Romanticismo&#10;Keywords&#10;Manzoni"/>
 <node id="Romanticism"/>
 <node id="Letter On Romanticism"/>
-<node id="article_1409"/>
+<node id="Un nuovo testimone della &quot;Lettera sul Romanticismo&quot;"/>
 <node id="10.30451/am.v0i2.34"/>
 <node id="Nuova Enciclopedia"/>
 <node id="https://mucchieditore.it/prodotto/la-vita-e-segno-gino-ruozzi/"/>
 <node id="Genetic Criticism"/>
 <node id="10.11647/OBP.0224"/>
-<node id="article_1416"/>
+<node id="“Ci par di capire”, “TodoModo”, a. V, 2015, pp. 133-144."/>
 <node id="Autonomic Computing"/>
 <node id="Legislation Compliance Checking"/>
 <node id="10.1016/j.procs.2015.09.230"/>
@@ -3550,10 +3512,10 @@
 <node id="Data Governance"/>
 <node id="Datafication"/>
 <node id="Digital Identity"/>
-<node id="article_1433"/>
+<node id="Big data, governance dei dati e nuove vulnerabilità"/>
 <node id="Blockchain"/>
 <node id="Smart Contract"/>
-<node id="article_1434"/>
+<node id="Blockchain e smart contract"/>
 <node id="Legal Design&#10;Interpretation Theory&#10;Data Protection&#10;Gdpr"/>
 <node id="10.1162/desi_a_00605"/>
 <node id="Tree Kernels"/>
@@ -3600,13 +3562,13 @@
 <node id="10.1007/978-3-031-12673-4_8"/>
 <node id="Unsupervised Classification"/>
 <node id="Temporal Tracking"/>
-<node id="article_1451"/>
+<node id="Hybrid Classification of European Legislation using Sustainable Development Goals"/>
 <node id="Oke"/>
 <node id="Refinement"/>
 <node id="10.1007/978-3-030-58957-8_1"/>
 <node id="Informatica Giuridica E Diritto Dell'Infoprmatica"/>
 <node id="Nuove Tecnologie"/>
-<node id="article_1453"/>
+<node id="Il CIRSFID e l'informatica giuridica"/>
 <node id="Digitalizzazione Della Giustizia"/>
 <node id="Giustizia Algoritmica"/>
 <node id="Hybrid Artificial Intelligence"/>
@@ -3617,7 +3579,7 @@
 <node id="Informatica Giuridica"/>
 <node id="Informatica Forense"/>
 <node id="Egoverment"/>
-<node id="article_1456"/>
+<node id="Informatica giuridica e informatica forense al servizio della società della conoscenza. Scritti in onore di Cesare Maioli"/>
 <node id="Identita' Digitale"/>
 <node id="Identità Giuridica"/>
 <node id="Autenticazione"/>
@@ -3654,9 +3616,9 @@
 <node id="Digital Citizenship Mediation"/>
 <node id="Vulnerability"/>
 <node id="Discrimination"/>
-<node id="article_1463"/>
+<node id="La Mediazione Digitale e nuove forme tecnologiche di discriminazione"/>
 <node id="Trasformazione Digitale"/>
-<node id="article_1464"/>
+<node id="La trasformazione digitale della giustizia nel dialogo tra discipline"/>
 <node id="Conoscibilità Del Diritto"/>
 <node id="Accesso All'Informazione Giuridica"/>
 <node id="Dematerializzazione Delle Fonti Cognitive Del Diritto"/>
@@ -3670,7 +3632,7 @@
 <node id="Pattern Library"/>
 <node id="Privacy Communication"/>
 <node id="Privacy Videos"/>
-<node id="article_1467"/>
+<node id="Legal Design Patterns for Privacy"/>
 <node id="Contract Design"/>
 <node id="Information Design"/>
 <node id="Pattern Language"/>
@@ -3680,7 +3642,7 @@
 <node id="Legal Rule Modelling"/>
 <node id="http://ceur-ws.org/Vol-1296/paper2.pdf"/>
 <node id="Open Government"/>
-<node id="article_1470"/>
+<node id="Legal Issues and Economic Exploitation of Open Government Data"/>
 <node id="Ai And Law"/>
 <node id="Nlp For Legal Document"/>
 <node id="Ml For Legal Document"/>
@@ -3694,11 +3656,11 @@
 <node id="Licensing Of Open Government Data"/>
 <node id="http://conferences.computer.org/cedem/2017/papers/6719a113.pdf"/>
 <node id="Legal Rules"/>
-<node id="article_1475"/>
+<node id="Legal Rules Modelling Meets the Web"/>
 <node id="Ruleml"/>
 <node id="Meta-Model"/>
 <node id="10.1007/978-3-319-21768-0_6"/>
-<node id="article_1477"/>
+<node id="LegalRuleML: from Metamodel to Use Cases - A Tutorial"/>
 <node id="Elegislation"/>
 <node id="Ejustice"/>
 <node id="Legal Data Analytics"/>
@@ -3720,12 +3682,12 @@
 <node id="Legal Compliance Checking"/>
 <node id="10.3233/978-1-61499-935-5-101"/>
 <node id="Legal Knowledge Representation"/>
-<node id="article_1485"/>
+<node id="Modificatory Provision Detection: a Hybrid NLP Apprach"/>
 <node id="Hate Speech"/>
 <node id="Legal Concepts"/>
 <node id="10.3233/FAIA230981"/>
 <node id="Defeasible Logic"/>
-<node id="article_1487"/>
+<node id="OASIS LegalRuleML"/>
 <node id="Court Cases"/>
 <node id="Court Decisions"/>
 <node id="Electronic Publishing"/>
@@ -3762,7 +3724,7 @@
 <node id="https://ceur-ws.org/Vol-3460/"/>
 <node id="Digital Signature"/>
 <node id="Ict Law"/>
-<node id="article_1497"/>
+<node id="Remote Signatures for e‐Government: The Case of Municipal Certification in Italy"/>
 <node id="Cloud Computing&#10;Autonomic Computing&#10;Legislation Compliance Checking&#10;Optimization&#10;Quality Of Service&#10;Monitoring&#10;Service Migration&#10;Service Portability"/>
 <node id="10.1016/j.future.2016.11.025"/>
 <node id="10.1007/978-3-319-49004-5_48"/>
@@ -3790,7 +3752,7 @@
 <node id="Knowledge Society"/>
 <node id="Legal Frameworks"/>
 <node id="Right-To-Know&#10;&#10;International Law"/>
-<node id="article_1505"/>
+<node id="The right to know through the freedom of information and open data"/>
 <node id="European Case Law Identifier"/>
 <node id="Judicial Transparency"/>
 <node id="http://conferences.computer.org/cedem/2017/papers/6719a135.pdf"/>
@@ -3833,8 +3795,7 @@
 <node id="Art Collections"/>
 <node id="Acquisition Process"/>
 <node id="Digitisation Process"/>
-<node id="article_1537"/>
-<node id="article_1538"/>
+<node id="CHANGES - Cultural Heritage Active Innovation for Next-Gen Sustainable Society"/>
 <node id="10.1108/JD-08-2020-0144"/>
 <node id="Bibliographic Ontology"/>
 <node id="Scientific Discourse"/>
@@ -3844,17 +3805,14 @@
 <node id="Expert Search"/>
 <node id="Hierarchical Clustering"/>
 <node id="Research Data"/>
-<node id="article_1547"/>
-<node id="article_1550"/>
-<node id="article_1554"/>
-<node id="article_1555"/>
+<node id="Crowdsourcing open citations with CROCI An analysis ofthe current status ofopen citations, and a proposal"/>
+<node id="Data Science - Methods, Infrastructure, and Applications"/>
 <node id="10.3233/DS-190023"/>
-<node id="article_1564"/>
 <node id="10.1145/2740908.2742842"/>
 <node id="Citation Database"/>
 <node id="Scholarly Communication"/>
 <node id="http://ceur-ws.org/Vol-1699/paper-05.pdf"/>
-<node id="article_1571"/>
+<node id="Frontiers in Research Metrics &amp; Analytics"/>
 <node id="Research Assessment"/>
 <node id="Reform Of Research Assessment"/>
 <node id="https://doi.org/10.3030/101095129"/>
@@ -3865,16 +3823,14 @@
 <node id="Data Conversion"/>
 <node id="Fast-Fashion Design"/>
 <node id="10.1016/j.websem.2017.06.001"/>
-<node id="article_1580"/>
 <node id="http://ceur-ws.org/Vol-1690/paper86.pdf"/>
 <node id="Physical Sciences"/>
 <node id="Communication And Media Studies"/>
 <node id="Museum Studies"/>
 <node id="Sociology"/>
 <node id="Publishing"/>
-<node id="article_1582"/>
+<node id="Journal of Documentation"/>
 <node id="10.3233/SSW56"/>
-<node id="article_1584"/>
 <node id="10.1007/978-3-319-25518-7_10"/>
 <node id="https://aiucd2021.labcd.unipi.it/en/home-english/"/>
 <node id="Book Citation"/>
@@ -3946,10 +3902,8 @@
 <node id="Rhetoric"/>
 <node id="Utopia Documents"/>
 <node id="10.3233/SW-150177"/>
-<node id="article_1637"/>
 <node id="Opencitations Indexes"/>
 <node id="https://sloan.org/grant-detail/8017"/>
-<node id="article_1642"/>
 <node id="10.1007/978-3-030-00668-6_8"/>
 <node id="10.1007/978-3-031-16802-4_10"/>
 <node id="Time-Traversal Query"/>
@@ -3968,7 +3922,6 @@
 <node id="Accessibility In Scientific Documents"/>
 <node id="Accessible Graphs"/>
 <node id="10.1109/CCNC.2017.7983287"/>
-<node id="article_1658"/>
 <node id="Over-Lapping Markup"/>
 <node id="Provenance Data"/>
 <node id="http://ceur-ws.org/Vol-1008/paper6.pdf"/>
@@ -3976,7 +3929,7 @@
 <node id="Grounded Theory Approach"/>
 <node id="10.1108/JD-07-2022-0146"/>
 <node id="Humanities&#10;Topic Modeling&#10;Retraction"/>
-<node id="article_1662"/>
+<node id="Why arts and humanities publications get retracted: a topic modeling analysis of the retraction notices"/>
 <node id="Wikicite"/>
 <node id="Wikipedia Citations"/>
 <node id="https://meta.wikimedia.org/wiki/Wikicite/grant/Wikipedia_Citations_in_Wikidata"/>
@@ -4010,12 +3963,12 @@
 <node id="10.1007/978-3-319-54283-6_20"/>
 <node id="Morphological Analyser"/>
 <node id="Derivation Graph"/>
-<node id="article_1673"/>
+<node id="AnIta Morphological Analyser for Italian (v1.3)"/>
 <node id="Syntactic Analysis"/>
 <node id="Treebanks"/>
 <node id="Parsing"/>
 <node id="http://aclweb.org/anthology/W/W17/W17-6526.pdf"/>
-<node id="article_1675"/>
+<node id="Are Quantum Classifiers Promising?"/>
 <node id="Automatic Detection"/>
 <node id="Prominence"/>
 <node id="10.1418/80758"/>
@@ -4031,7 +3984,7 @@
 <node id="Speech Analysis"/>
 <node id="Nlp Techniques"/>
 <node id="Digital Linguistic Biomarker"/>
-<node id="article_1679"/>
+<node id="Can speech-based measures support Developmental Language Disorder identification? An explorative study."/>
 <node id="Assistive Technology"/>
 <node id="Clinical Applications Of Speech Technology"/>
 <node id="Signal Processing"/>
@@ -4061,7 +4014,7 @@
 <node id="https://github.com/ftamburin/Electra-AGE_FE"/>
 <node id="Emotion Recognition"/>
 <node id="Kernel Quantum Classifier"/>
-<node id="article_1690"/>
+<node id="Emotion Recognition with a Kernel Quantum Classifier"/>
 <node id="Text Summarization"/>
 <node id="Contextual Embeddings"/>
 <node id="Evaluation Measures"/>
@@ -4082,9 +4035,9 @@
 <node id="Linguaggio Musicale"/>
 <node id="Linguaggio Patologico"/>
 <node id="Trattamento Automatico Delle Lingue Naturali"/>
-<node id="article_1694"/>
+<node id="Il farsi e disfarsi del linguaggio. Acquisizione, mutamento e destrutturazione della struttura sonora del linguaggio/Language acquisition and language loss. Acquisition, change and disorders of the language sound structure"/>
 <node id="Linguista"/>
-<node id="article_1695"/>
+<node id="Il ruolo del linguista nel trattamento automatico delle lingue."/>
 <node id="Dialogue Design"/>
 <node id="Pragmatics"/>
 <node id="Dialogflow Cx"/>
@@ -4094,7 +4047,7 @@
 <node id="Classi Di Parole"/>
 <node id="Corpus"/>
 <node id="Parti Del Discorso"/>
-<node id="article_1697"/>
+<node id="INDUZIONE DI CATEGORIE GRAMMATICALI E LESSICALI"/>
 <node id="Classico"/>
 <node id="Latino"/>
 <node id="Greco"/>
@@ -4102,7 +4055,7 @@
 <node id="Lingue Classiche"/>
 <node id="Nahutal"/>
 <node id="Cinese"/>
-<node id="article_1698"/>
+<node id="La nozione di classico in linguistica. Atti del XXXVIII Convegno della Società Italiana di Glottologia"/>
 <node id="Dementia Screening"/>
 <node id="Linguistic Biomarkers"/>
 <node id="10.1418/101111"/>
@@ -4128,7 +4081,7 @@
 <node id="Obstetrics And Gynecology"/>
 <node id="Biochemistry"/>
 <node id="Genetics And Molecular Biology (All)"/>
-<node id="article_1704"/>
+<node id="Marche linguistiche come indicatori del decadimento cognitivo"/>
 <node id="Speech Processing"/>
 <node id="https://www.patroneditore.com/volumi/9788855535762/neural-models-for-the-automatic-processing-of-italian"/>
 <node id="Universal Dependencies"/>
@@ -4142,10 +4095,10 @@
 <node id="10.4000/books.aaccademia.8203"/>
 <node id="Probabilistic Graphical Models"/>
 <node id="Prominence Annotation"/>
-<node id="article_1712"/>
+<node id="Prosodic prominence detection in Italian continuous speech using probabilistic graphical models"/>
 <node id="Dizionari"/>
 <node id="Atlanti"/>
-<node id="article_1713"/>
+<node id="Quali risorse usa (o crea) il linguista?"/>
 <node id="https://github.com/ftamburin/QWSD"/>
 <node id="Dependency Treebank"/>
 <node id="Dependency Rewriting Tool"/>
@@ -4157,7 +4110,7 @@
 <node id="Distributional Semantics"/>
 <node id="Document Embedding"/>
 <node id="Paragraph Vectors"/>
-<node id="article_1718"/>
+<node id="Specialising Paragraph Vectors for Text Polarity Detection"/>
 <node id="Preclinical Alzheimer"/>
 <node id="10.3389/fnagi.2018.00369"/>
 <node id="Neural Models"/>
@@ -4171,7 +4124,7 @@
 <node id="Automatic Speech And Language Analysis"/>
 <node id="Digital Linguistic Biomarkers"/>
 <node id="https://aclanthology.org/2022.lrec-1.561/"/>
-<node id="article_1724"/>
+<node id="The FICLIT+CS@UniBO System at the EVALITA 2014 Sentiment Polarity Classification Task"/>
 <node id="10.1007/978-3-642-35827-2"/>
 <node id="Linear A Script"/>
 <node id="Minoan Crete"/>
@@ -4202,10 +4155,6 @@
 <node id="Explainable Ai"/>
 <node id="Theory Of Explanations"/>
 <node id="10.1016/j.knosys.2023.110866"/>
-<node id="article_1749"/>
-<node id="article_1755"/>
-<node id="article_1756"/>
-<node id="article_1759"/>
 <node id="Assistive"/>
 <node id="Complex Task"/>
 <node id="Design And Evaluations"/>
@@ -4227,10 +4176,7 @@
 <node id="10.1145/3397481.3450655"/>
 <node id="10.1145/3519265"/>
 <node id="10.1109/FUZZ-IEEE55066.2022.9882574"/>
-<node id="article_1774"/>
 <node id="10.1007/978-3-319-49004-5"/>
-<node id="article_1777"/>
-<node id="article_1782"/>
 <node id="Theories Of Explanation"/>
 <node id="Speech Act Theory"/>
 <node id="Evaluation Of Explanations"/>
@@ -4239,8 +4185,6 @@
 <node id="Health Informatics"/>
 <node id="10.1109/HealthCom.2014.7001839"/>
 <node id="Networks"/>
-<node id="article_1816"/>
-<node id="article_1825"/>
 <edge source="Catalogues Of Semantic Artefacts" target="Maturity Model">
   <data key="d0">2</data>
 </edge>
@@ -4340,7 +4284,7 @@
 <edge source="Ontologies" target="Web Services">
   <data key="d0">2</data>
 </edge>
-<edge source="Ontologies" target="article_156">
+<edge source="Ontologies" target="Ontological Reasoning and Abductive Logic Programming for Service Discovery and Contracting}">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontologies" target="Abductive Logic Programming">
@@ -4532,7 +4476,7 @@
 <edge source="Ontologies" target="Fotografia">
   <data key="d0">4</data>
 </edge>
-<edge source="Ontologies" target="article_950">
+<edge source="Ontologies" target="L'edizione digitale e la rappresentazione della conoscenza. Un esempio: Vespasiano da Bisticci e le sue lettere">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontologies" target="Web Semantico">
@@ -5000,7 +4944,7 @@
 <edge source="Science Of Science" target="Scientific Habilitation">
   <data key="d0">12</data>
 </edge>
-<edge source="Science Of Science" target="article_1571">
+<edge source="Science Of Science" target="Frontiers in Research Metrics &amp; Analytics">
   <data key="d0">1</data>
 </edge>
 <edge source="Science Of Science" target="Bibliometrics">
@@ -5753,14 +5697,11 @@
 <edge source="Linked Data" target="Photo Archive">
   <data key="d0">8</data>
 </edge>
-<edge source="Linked Data" target="article_987">
+<edge source="Linked Data" target="The Project Zeri Photo Archive: Towards a Model for Defining Authoritative Authorship Attributions.">
   <data key="d0">1</data>
 </edge>
 <edge source="Linked Data" target="Authorship">
   <data key="d0">8</data>
-</edge>
-<edge source="Linked Data" target="article_1101">
-  <data key="d0">1</data>
 </edge>
 <edge source="Linked Data" target="Challenge">
   <data key="d0">4</data>
@@ -5857,12 +5798,6 @@
 </edge>
 <edge source="Linked Data" target="Scholarly Communications">
   <data key="d0">2</data>
-</edge>
-<edge source="Linked Data" target="article_1642">
-  <data key="d0">1</data>
-</edge>
-<edge source="Linked Data" target="article_1816">
-  <data key="d0">1</data>
 </edge>
 <edge source="Triplestore" target="Ramose">
   <data key="d0">8</data>
@@ -6044,10 +5979,10 @@
 <edge source="Coci" target="Scholarly Communication">
   <data key="d0">2</data>
 </edge>
-<edge source="Croci" target="article_5">
+<edge source="Croci" target="Crowdsourcing open citations with CROCI An analysis ofthe current status of open citations, and a proposal">
   <data key="d0">1</data>
 </edge>
-<edge source="Croci" target="article_1547">
+<edge source="Croci" target="Crowdsourcing open citations with CROCI An analysis ofthe current status ofopen citations, and a proposal">
   <data key="d0">1</data>
 </edge>
 <edge source="Digital Cultural Heritage" target="Digital Twins">
@@ -6065,7 +6000,7 @@
 <edge source="Digital Cultural Heritage" target="Digital Philology">
   <data key="d0">2</data>
 </edge>
-<edge source="Digital Cultural Heritage" target="article_895">
+<edge source="Digital Cultural Heritage" target="Collaborative Research Practices and Shared Infrastructures for Humanities Computing">
   <data key="d0">1</data>
 </edge>
 <edge source="Digital Cultural Heritage" target="Digital Libraries And Archives">
@@ -6155,28 +6090,13 @@
 <edge source="Preservation Of Temporary Exhibitions" target="Structured Light Projection Scanning.">
   <data key="d0">2</data>
 </edge>
-<edge source="Structured Light Scanning" target="article_6">
+<edge source="Structured Light Scanning" target="Digitisation of temporary exhibitions: the Aldrovandi case">
   <data key="d0">1</data>
 </edge>
-<edge source="Structured Light Scanning" target="article_510">
+<edge source="Structured Light Scanning" target="Digitisation of temporary exhibitions: the Aldrovandi case}">
   <data key="d0">1</data>
 </edge>
 <edge source="Structured Light Scanning" target="11585/942853">
-  <data key="d0">1</data>
-</edge>
-<edge source="Structured Light Scanning" target="article_876">
-  <data key="d0">1</data>
-</edge>
-<edge source="Structured Light Scanning" target="article_878">
-  <data key="d0">1</data>
-</edge>
-<edge source="Structured Light Scanning" target="article_907">
-  <data key="d0">1</data>
-</edge>
-<edge source="Structured Light Scanning" target="article_1066">
-  <data key="d0">1</data>
-</edge>
-<edge source="Structured Light Scanning" target="article_1555">
   <data key="d0">1</data>
 </edge>
 <edge source="Open Science Infrastructures" target="Fair">
@@ -6572,7 +6492,7 @@
 <edge source="Semantic Web" target="http://wit.istc.cnr.it/stlab-tools/tipalo/">
   <data key="d0">1</data>
 </edge>
-<edge source="Semantic Web" target="article_84">
+<edge source="Semantic Web" target="Type inference through the analysis of Wikipedia">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web" target="Dbpedia">
@@ -6674,9 +6594,6 @@
 <edge source="Semantic Web" target="978354021179}">
   <data key="d0">1</data>
 </edge>
-<edge source="Semantic Web" target="article_201">
-  <data key="d0">1</data>
-</edge>
 <edge source="Semantic Web" target="Wiki">
   <data key="d0">2</data>
 </edge>
@@ -6712,9 +6629,6 @@
 </edge>
 <edge source="Semantic Web" target="Knowledge Management">
   <data key="d0">6</data>
-</edge>
-<edge source="Semantic Web" target="article_428">
-  <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web" target="Knowledge Integration">
   <data key="d0">2</data>
@@ -6821,7 +6735,7 @@
 <edge source="Semantic Web" target="Contestability">
   <data key="d0">6</data>
 </edge>
-<edge source="Semantic Web" target="article_870">
+<edge source="Semantic Web" target="Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web" target="Trustworthiness">
@@ -7004,7 +6918,7 @@
 <edge source="Semantic Web" target="Information Realization">
   <data key="d0">4</data>
 </edge>
-<edge source="Semantic Web" target="article_1274">
+<edge source="Semantic Web" target="The Information Realization Pattern">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web" target="Information Entities">
@@ -7017,9 +6931,6 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web" target="10.1007/978-3-319-98192-5">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Web" target="article_1292">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Web" target="Legalxml">
@@ -7196,9 +7107,6 @@
 <edge source="Semantic Web" target="Scholarly Communications">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Web" target="article_1637">
-  <data key="d0">1</data>
-</edge>
 <edge source="Isws" target="Knowledge Preservation">
   <data key="d0">6</data>
 </edge>
@@ -7253,7 +7161,7 @@
 <edge source="Knowledge Graph" target="Vocabulary Control">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Graph" target="article_144">
+<edge source="Knowledge Graph" target="Knowledge graphs evolution and preservation}">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graph" target="Music Information Retrieval">
@@ -7294,9 +7202,6 @@
 </edge>
 <edge source="Knowledge Graph" target="Similarity Detection">
   <data key="d0">6</data>
-</edge>
-<edge source="Knowledge Graph" target="article_454">
-  <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graph" target="Heritage Science">
   <data key="d0">2</data>
@@ -7610,7 +7515,7 @@
 <edge source="Visualization" target="Communication Design">
   <data key="d0">4</data>
 </edge>
-<edge source="Visualization" target="article_1467">
+<edge source="Visualization" target="Legal Design Patterns for Privacy">
   <data key="d0">1</data>
 </edge>
 <edge source="Visualization" target="Design Patterns">
@@ -7916,7 +7821,7 @@
 <edge source="Citations" target="Data Set">
   <data key="d0">2</data>
 </edge>
-<edge source="Citations" target="article_1131">
+<edge source="Citations" target="Evaluating Citation Functions in CiTO: Cognitive Issues.">
   <data key="d0">1</data>
 </edge>
 <edge source="Citations" target="Information Interfaces And Presentation">
@@ -7936,9 +7841,6 @@
 </edge>
 <edge source="Citations" target="Theoretical Computer Science">
   <data key="d0">4</data>
-</edge>
-<edge source="Citations" target="article_1564">
-  <data key="d0">1</data>
 </edge>
 <edge source="Citations" target="Bibliographic References">
   <data key="d0">4</data>
@@ -7966,9 +7868,6 @@
 </edge>
 <edge source="Citations" target="Library And Information Sciences">
   <data key="d0">2</data>
-</edge>
-<edge source="Citations" target="article_1759">
-  <data key="d0">1</data>
 </edge>
 <edge source="Workflow" target="Collezione Semantica">
   <data key="d0">4</data>
@@ -8486,7 +8385,7 @@
 <edge source="Semantic Publishing" target="Data Reengineering">
   <data key="d0">10</data>
 </edge>
-<edge source="Semantic Publishing" target="article_53">
+<edge source="Semantic Publishing" target="Knowledge management of scholarly products: Semantic Lancet Project}">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="Linked Open Dataset">
@@ -8525,7 +8424,7 @@
 <edge source="Semantic Publishing" target="Theoretical Computer Science">
   <data key="d0">18</data>
 </edge>
-<edge source="Semantic Publishing" target="article_82">
+<edge source="Semantic Publishing" target="Towards the Automatic Identification of the Nature of Citations}">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="Change Tracking">
@@ -8552,9 +8451,6 @@
 <edge source="Semantic Publishing" target="Lode">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Publishing" target="article_358">
-  <data key="d0">1</data>
-</edge>
 <edge source="Semantic Publishing" target="Tei">
   <data key="d0">6</data>
 </edge>
@@ -8576,7 +8472,7 @@
 <edge source="Semantic Publishing" target="Eac - Encoded Archival Description">
   <data key="d0">6</data>
 </edge>
-<edge source="Semantic Publishing" target="article_900">
+<edge source="Semantic Publishing" target="Dialogue and linking between TEI and other semantic models">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="Semantic Models - Ontologies">
@@ -8618,7 +8514,7 @@
 <edge source="Semantic Publishing" target="Citation Functions">
   <data key="d0">4</data>
 </edge>
-<edge source="Semantic Publishing" target="article_1143">
+<edge source="Semantic Publishing" target="Knowledge management of scholarly products: Semantic Lancet Project">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="Web Interface">
@@ -8630,7 +8526,7 @@
 <edge source="Semantic Publishing" target="Information Extraction">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Publishing" target="article_1167">
+<edge source="Semantic Publishing" target="Towards the Automatic Identification of the Nature of Citations">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="10.3233/DS-170012">
@@ -8642,10 +8538,7 @@
 <edge source="Semantic Publishing" target="Data Science">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Publishing" target="article_1550">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Publishing" target="article_1554">
+<edge source="Semantic Publishing" target="Data Science - Methods, Infrastructure, and Applications">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="Visual Analytics">
@@ -8664,9 +8557,6 @@
   <data key="d0">12</data>
 </edge>
 <edge source="Semantic Publishing" target="http://ceur-ws.org/Vol-1690/paper86.pdf">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Publishing" target="article_1584">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Publishing" target="10.1145/2872518.2890600">
@@ -8691,15 +8581,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Semantic Publishing" target="10.1145/3041021.3055257">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Publishing" target="article_1658">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Publishing" target="article_1756">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Publishing" target="article_1777">
   <data key="d0">1</data>
 </edge>
 <edge source="Spar Ontologies" target="10.1007/978-3-319-46565-4_22}">
@@ -8891,7 +8772,7 @@
 <edge source="Knowledge Extraction" target="Knowledge Base">
   <data key="d0">6</data>
 </edge>
-<edge source="Knowledge Extraction" target="article_85">
+<edge source="Knowledge Extraction" target="Uncovering the semantics of Wikipedia Pagelinks}">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Extraction" target="Semantic Relations">
@@ -8948,17 +8829,11 @@
 <edge source="Knowledge Extraction" target="Theoretical Computer Science">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Extraction" target="article_202">
-  <data key="d0">1</data>
-</edge>
 <edge source="Knowledge Extraction" target="Amr">
   <data key="d0">4</data>
 </edge>
 <edge source="Knowledge Extraction" target="Formal Translation">
   <data key="d0">4</data>
-</edge>
-<edge source="Knowledge Extraction" target="article_256">
-  <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Extraction" target="10.3233/978-1-61499-660-6-167">
   <data key="d0">1</data>
@@ -8969,7 +8844,7 @@
 <edge source="Knowledge Extraction" target="10.1007/978-3-319-46565-4_1">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Extraction" target="article_1293">
+<edge source="Knowledge Extraction" target="Uncovering the semantics of Wikipedia Pagelinks">
   <data key="d0">1</data>
 </edge>
 <edge source="Covid-19" target="Sars-Cov-2">
@@ -9314,10 +9189,7 @@
 <edge source="Knowledge Pattern" target="Ontology Design">
   <data key="d0">4</data>
 </edge>
-<edge source="Artificial Intelligence" target="article_24">
-  <data key="d0">1</data>
-</edge>
-<edge source="Artificial Intelligence" target="article_94">
+<edge source="Artificial Intelligence" target="Aemoo: Exploratory Search based on Knowledge">
   <data key="d0">1</data>
 </edge>
 <edge source="Artificial Intelligence" target="10.3233/978-1-61499-910-2-159}">
@@ -9332,10 +9204,10 @@
 <edge source="Artificial Intelligence" target="Robotics">
   <data key="d0">2</data>
 </edge>
-<edge source="Artificial Intelligence" target="article_119">
+<edge source="Artificial Intelligence" target="CREAI 2022 - Preface to the First Workshop on Artificial Intelligence and Creativity}">
   <data key="d0">1</data>
 </edge>
-<edge source="Artificial Intelligence" target="article_120">
+<edge source="Artificial Intelligence" target="CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity}">
   <data key="d0">1</data>
 </edge>
 <edge source="Artificial Intelligence" target="Foundational Ontologies">
@@ -9356,7 +9228,7 @@
 <edge source="Artificial Intelligence" target="Interaction Patterns">
   <data key="d0">4</data>
 </edge>
-<edge source="Artificial Intelligence" target="article_203">
+<edge source="Artificial Intelligence" target="User-sensitive Explanations under a Knowledge Pattern Lens}">
   <data key="d0">1</data>
 </edge>
 <edge source="Artificial Intelligence" target="Content Management Systems">
@@ -9370,9 +9242,6 @@
 </edge>
 <edge source="Artificial Intelligence" target="Kriegspiel">
   <data key="d0">6</data>
-</edge>
-<edge source="Artificial Intelligence" target="article_282">
-  <data key="d0">1</data>
 </edge>
 <edge source="Artificial Intelligence" target="Game Theory">
   <data key="d0">8</data>
@@ -9407,7 +9276,7 @@
 <edge source="Artificial Intelligence" target="http://www.cs.unibo.it/~cianca/wwwpages/chesssite/kriegspiel/kriegspiel.html">
   <data key="d0">1</data>
 </edge>
-<edge source="Artificial Intelligence" target="article_318">
+<edge source="Artificial Intelligence" target="Darkboard, a program to play Kriegspiel}">
   <data key="d0">1</data>
 </edge>
 <edge source="Artificial Intelligence" target="Software Clones">
@@ -9454,9 +9323,6 @@
 </edge>
 <edge source="Artificial Intelligence" target="Chess">
   <data key="d0">2</data>
-</edge>
-<edge source="Artificial Intelligence" target="article_429">
-  <data key="d0">1</data>
 </edge>
 <edge source="Artificial Intelligence" target="Digital Twin">
   <data key="d0">2</data>
@@ -9719,13 +9585,10 @@
 <edge source="Knowledge Engineering" target="10.1007/978-3-319-03524-6_29}">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Engineering" target="article_68">
+<edge source="Knowledge Engineering" target="Semion: A Smart Triplification Tool}">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Engineering" target="article_83">
-  <data key="d0">1</data>
-</edge>
-<edge source="Knowledge Engineering" target="article_177">
+<edge source="Knowledge Engineering" target="Towards the Natural Ontology of Wikipedia}">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Engineering" target="10.1145/2506182.2506189}">
@@ -9752,15 +9615,6 @@
 <edge source="Knowledge Engineering" target="Competency Questions">
   <data key="d0">4</data>
 </edge>
-<edge source="Knowledge Engineering" target="article_200">
-  <data key="d0">1</data>
-</edge>
-<edge source="Knowledge Engineering" target="article_399">
-  <data key="d0">1</data>
-</edge>
-<edge source="Knowledge Engineering" target="article_425">
-  <data key="d0">1</data>
-</edge>
 <edge source="Knowledge Engineering" target="10.1007/978-3-319-03524-6_29">
   <data key="d0">1</data>
 </edge>
@@ -9770,7 +9624,7 @@
 <edge source="Knowledge Engineering" target="10.1145/2506182.2506189">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Engineering" target="article_1291">
+<edge source="Knowledge Engineering" target="Towards the Natural Ontology of Wikipedia">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Engineering" target="Agile Ontology Development Methodology">
@@ -9950,7 +9804,7 @@
 <edge source="Information Systems" target="Banking">
   <data key="d0">2</data>
 </edge>
-<edge source="Information Systems" target="article_403">
+<edge source="Information Systems" target="Software Quality Concerns in the Italian Bank Sector: The Emergence of a Meta-Quality Dimension}">
   <data key="d0">1</data>
 </edge>
 <edge source="Information Systems" target="Companies">
@@ -10857,24 +10711,18 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology Desing Pattern" target="Affordance">
-  <data key="d0">8</data>
+  <data key="d0">4</data>
 </edge>
 <edge source="Ontology Desing Pattern" target="Behavior Arbitration">
-  <data key="d0">8</data>
+  <data key="d0">4</data>
 </edge>
 <edge source="Affordance" target="Behavior Arbitration">
-  <data key="d0">8</data>
+  <data key="d0">4</data>
 </edge>
-<edge source="Behavior Arbitration" target="article_30">
+<edge source="Behavior Arbitration" target="An Ontology Design Pattern for supporting behaviour arbitration in cognitive agents}">
   <data key="d0">1</data>
 </edge>
-<edge source="Behavior Arbitration" target="article_104">
-  <data key="d0">1</data>
-</edge>
-<edge source="Behavior Arbitration" target="article_441">
-  <data key="d0">1</data>
-</edge>
-<edge source="Behavior Arbitration" target="article_1187">
+<edge source="Behavior Arbitration" target="An Ontology Design Pattern for supporting behaviour arbitration in cognitive agents">
   <data key="d0">1</data>
 </edge>
 <edge source="Mathematics (All)" target="10.1007/978-3-319-68130-6_1}">
@@ -10919,14 +10767,11 @@
 <edge source="Ontology Network" target="Water Quality">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Graphs" target="article_32">
+<edge source="Knowledge Graphs" target="ArCo ontology network and LOD on Italian Cultural Heritage}">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graphs" target="Ontology Design">
   <data key="d0">8</data>
-</edge>
-<edge source="Knowledge Graphs" target="article_106">
-  <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graphs" target="Dependency Parsing">
   <data key="d0">8</data>
@@ -10961,7 +10806,7 @@
 <edge source="Knowledge Graphs" target="Symbolism">
   <data key="d0">6</data>
 </edge>
-<edge source="Knowledge Graphs" target="article_828">
+<edge source="Knowledge Graphs" target="ArCo ontology network and LOD on Italian Cultural Heritage">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graphs" target="Citation Mining">
@@ -10984,9 +10829,6 @@
 </edge>
 <edge source="Knowledge Graphs" target="Prepositions">
   <data key="d0">2</data>
-</edge>
-<edge source="Knowledge Graphs" target="article_1190">
-  <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Graphs" target="Virtual Reality">
   <data key="d0">2</data>
@@ -11060,7 +10902,7 @@
 <edge source="Ontology Design" target="Formal Concept Analysis">
   <data key="d0">2</data>
 </edge>
-<edge source="Ontology Design" target="article_1170">
+<edge source="Ontology Design" target="A Bottom-Up Ontology Construction with Contento">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology Design" target="10.3233/978-1-61499-676-7-105">
@@ -11108,10 +10950,7 @@
 <edge source="Robotics" target="Spatial Cognition">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Management" target="article_37">
-  <data key="d0">1</data>
-</edge>
-<edge source="Knowledge Management" target="article_306">
+<edge source="Knowledge Management" target="Characterising Citations in Scholarly Articles: An Experiment}">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Management" target="Internetworked Enterprise">
@@ -11138,7 +10977,7 @@
 <edge source="Knowledge Management" target="Information Systems And Management">
   <data key="d0">2</data>
 </edge>
-<edge source="Knowledge Management" target="article_1111">
+<edge source="Knowledge Management" target="Characterising Citations in Scholarly Articles: An Experiment">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Management" target="Web Sites Inference Mechanisms">
@@ -11155,12 +10994,6 @@
 </edge>
 <edge source="Knowledge Management" target="Library And Information Sciences">
   <data key="d0">2</data>
-</edge>
-<edge source="Knowledge Management" target="article_1538">
-  <data key="d0">1</data>
-</edge>
-<edge source="Knowledge Management" target="article_1749">
-  <data key="d0">1</data>
 </edge>
 <edge source="Citalo" target="Citation Function">
   <data key="d0">6</data>
@@ -11948,7 +11781,7 @@
 <edge source="Knowledge Representation" target="Decision-Making System">
   <data key="d0">2</data>
 </edge>
-<edge source="Ontology Engineering" target="article_48">
+<edge source="Ontology Engineering" target="FrODO: Generating Ontologies from Competency Questions in One Click}">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology Engineering" target="Frame-Based Reasoning">
@@ -12005,7 +11838,7 @@
 <edge source="Ontology Engineering" target="Progetto Irnerio">
   <data key="d0">6</data>
 </edge>
-<edge source="Ontology Engineering" target="article_1227">
+<edge source="Ontology Engineering" target="FrODO: Generating Ontologies from Competency Questions in One Click">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology Engineering" target="Agile Ontology Development Methodology">
@@ -12404,7 +12237,7 @@
 <edge source="Linked Open Data" target="Online Catalogue">
   <data key="d0">4</data>
 </edge>
-<edge source="Linked Open Data" target="article_1058">
+<edge source="Linked Open Data" target="Characterizing the Landscape of Musical Data on the Web: state of the art and challenges">
   <data key="d0">1</data>
 </edge>
 <edge source="Linked Open Data" target="Music Data">
@@ -12427,9 +12260,6 @@
 </edge>
 <edge source="Linked Open Data" target="Information Extraction">
   <data key="d0">2</data>
-</edge>
-<edge source="Linked Open Data" target="article_1195">
-  <data key="d0">1</data>
 </edge>
 <edge source="Linked Open Data" target="Computational Musicology">
   <data key="d0">2</data>
@@ -12521,7 +12351,7 @@
 <edge source="Ontology Testing" target="Ontology Evaluation">
   <data key="d0">10</data>
 </edge>
-<edge source="Ontology Testing" target="article_170">
+<edge source="Ontology Testing" target="Providing tool support for unit testing in eXtreme Design}">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology Evaluation" target="10.3233/SW-200422}">
@@ -13013,7 +12843,7 @@
 <edge source="Machine Learning" target="Quantum Probability Theory">
   <data key="d0">2</data>
 </edge>
-<edge source="Machine Learning" target="article_1675">
+<edge source="Machine Learning" target="Are Quantum Classifiers Promising?">
   <data key="d0">1</data>
 </edge>
 <edge source="Machine Learning" target="Computational Linguistics">
@@ -13295,7 +13125,7 @@
 <edge source="Rash" target="Html-Based Format">
   <data key="d0">6</data>
 </edge>
-<edge source="Rash" target="article_1142">
+<edge source="Rash" target="It ROCS! The RASH Online Conversion Service">
   <data key="d0">1</data>
 </edge>
 <edge source="Rash" target="Scholarly Html">
@@ -13319,9 +13149,6 @@
 <edge source="Rash" target="Web-First Format">
   <data key="d0">6</data>
 </edge>
-<edge source="Rash" target="article_1580">
-  <data key="d0">1</data>
-</edge>
 <edge source="Rash" target="Accessibility In Education">
   <data key="d0">4</data>
 </edge>
@@ -13336,9 +13163,6 @@
 </edge>
 <edge source="Rash" target="Communication">
   <data key="d0">4</data>
-</edge>
-<edge source="Rash" target="article_1774">
-  <data key="d0">1</data>
 </edge>
 <edge source="Xslt" target="10.7717/peerj-cs.132}">
   <data key="d0">1</data>
@@ -13412,7 +13236,7 @@
 <edge source="Natural Language Processing" target="Citation And Co-Citation Analysis">
   <data key="d0">4</data>
 </edge>
-<edge source="Natural Language Processing" target="article_502">
+<edge source="Natural Language Processing" target="Exploring the similarity of articles co-cited at different levels}">
   <data key="d0">1</data>
 </edge>
 <edge source="Natural Language Processing" target="Social Media">
@@ -13481,7 +13305,7 @@
 <edge source="Natural Language Processing" target="Reference Mining">
   <data key="d0">2</data>
 </edge>
-<edge source="Natural Language Processing" target="article_1024">
+<edge source="Natural Language Processing" target="Exploring the similarity of articles co-cited at different levels">
   <data key="d0">1</data>
 </edge>
 <edge source="Natural Language Processing" target="Evidence-Based&#10;Medicine">
@@ -13763,7 +13587,7 @@
 <edge source="Software Engineering" target="Agile">
   <data key="d0">8</data>
 </edge>
-<edge source="Software Engineering" target="article_285">
+<edge source="Software Engineering" target="Agent Oriented Software Engineering}">
   <data key="d0">1</data>
 </edge>
 <edge source="Software Engineering" target="Agile Development">
@@ -13829,7 +13653,7 @@
 <edge source="Software Engineering" target="10.5220/0010526401390150}">
   <data key="d0">1</data>
 </edge>
-<edge source="Software Engineering" target="article_332">
+<edge source="Software Engineering" target="Entertainment computing}">
   <data key="d0">1</data>
 </edge>
 <edge source="Software Engineering" target="10.1016/j.entcom.2014.06.001}">
@@ -13838,10 +13662,10 @@
 <edge source="Software Engineering" target="Testing">
   <data key="d0">4</data>
 </edge>
-<edge source="Software Engineering" target="article_346">
+<edge source="Software Engineering" target="How to compare and exploit different techniques for unit-test generation}">
   <data key="d0">1</data>
 </edge>
-<edge source="Software Engineering" target="article_355">
+<edge source="Software Engineering" target="ISRN Software Engineering}">
   <data key="d0">1</data>
 </edge>
 <edge source="Software Engineering" target="10.1016/j.sbspro.2013.12.191}">
@@ -13919,7 +13743,7 @@
 <edge source="Software Engineering" target="Web Technologies">
   <data key="d0">2</data>
 </edge>
-<edge source="Software Engineering" target="article_432">
+<edge source="Software Engineering" target="World Wide Web: Internet and Web Information Systems}">
   <data key="d0">1</data>
 </edge>
 <edge source="Software Engineering" target="Microservices">
@@ -14075,16 +13899,13 @@
 <edge source="Knowledge Enginnering" target="10.1007/978-3-642-41242-4_34}">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Enginnering" target="article_422">
+<edge source="Knowledge Enginnering" target="Towards a Qualitative Analysis of Diff Algorithms}">
   <data key="d0">1</data>
 </edge>
-<edge source="Knowledge Enginnering" target="article_1166">
+<edge source="Knowledge Enginnering" target="Towards a Qualitative Analysis of Diff Algorithms">
   <data key="d0">1</data>
 </edge>
 <edge source="Knowledge Enginnering" target="10.1007/978-3-642-41242-4_34">
-  <data key="d0">1</data>
-</edge>
-<edge source="Knowledge Enginnering" target="article_1825">
   <data key="d0">1</data>
 </edge>
 <edge source="Dataset" target="Visual Question Answering">
@@ -14141,7 +13962,7 @@
 <edge source="Owl" target="Modelling">
   <data key="d0">4</data>
 </edge>
-<edge source="Owl" target="article_1250">
+<edge source="Owl" target="Ontology Engineering with Ontology Design Patterns: Foundations and Applications">
   <data key="d0">1</data>
 </edge>
 <edge source="Owl" target="Computational Musicology">
@@ -14282,7 +14103,7 @@
 <edge source="Smart City" target="Blockchain">
   <data key="d0">2</data>
 </edge>
-<edge source="Smart City" target="article_1434">
+<edge source="Smart City" target="Blockchain e smart contract">
   <data key="d0">1</data>
 </edge>
 <edge source="Smart City" target="Smart Contract">
@@ -14366,22 +14187,19 @@
 <edge source="Semantic Wiki" target="Web Technologies">
   <data key="d0">2</data>
 </edge>
-<edge source="Web Technologies" target="article_110">
+<edge source="Web Technologies" target="Automatic Deployment of Semantic Wikis: a Prototype}">
   <data key="d0">1</data>
 </edge>
-<edge source="Web Technologies" target="article_1129">
+<edge source="Web Technologies" target="Editorial - Special Issue on Web Technologies">
   <data key="d0">1</data>
 </edge>
-<edge source="Web Technologies" target="article_1130">
+<edge source="Web Technologies" target="Editorial Message - Special Track on Web Technologies">
   <data key="d0">1</data>
 </edge>
 <edge source="Web Technologies" target="10.1002/spe.2169">
   <data key="d0">1</data>
 </edge>
-<edge source="Web Technologies" target="article_1160">
-  <data key="d0">1</data>
-</edge>
-<edge source="Web Technologies" target="article_1161">
+<edge source="Web Technologies" target="Special track on web technologies">
   <data key="d0">1</data>
 </edge>
 <edge source="Web Technologies" target="10.1016/j.scico.2014.03.001">
@@ -14420,7 +14238,7 @@
 <edge source="Lexical Semantics" target="Rappresentazione Della Conoscenza">
   <data key="d0">2</data>
 </edge>
-<edge source="Rappresentazione Della Conoscenza" target="article_114">
+<edge source="Rappresentazione Della Conoscenza" target="C-ODO: an OWL meta-model for collaborative ontology design}">
   <data key="d0">1</data>
 </edge>
 <edge source="Music" target="Harmony">
@@ -14765,13 +14583,7 @@
 <edge source="Dependency Parsing" target="Ensemble Models">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Parsing" target="article_134">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Parsing" target="article_236">
-  <data key="d0">1</data>
-</edge>
-<edge source="Semantic Parsing" target="article_470">
+<edge source="Semantic Parsing" target="Frame Semantic Parsing using Framester Knowledge Graphs}">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Parsing" target="Abstractive Document Summarization">
@@ -14786,7 +14598,7 @@
 <edge source="Semantic Parsing" target="Natural Language Understanding">
   <data key="d0">2</data>
 </edge>
-<edge source="Semantic Parsing" target="article_1223">
+<edge source="Semantic Parsing" target="Frame Semantic Parsing using Framester Knowledge Graphs">
   <data key="d0">1</data>
 </edge>
 <edge source="Graph Mining" target="Ntural Language Processing">
@@ -14813,7 +14625,7 @@
 <edge source="Web Semantics" target="978-1-57735-785-8}">
   <data key="d0">1</data>
 </edge>
-<edge source="Web Semantics" target="article_1225">
+<edge source="Web Semantics" target="Frame-Based Ontology Alignment">
   <data key="d0">1</data>
 </edge>
 <edge source="Frame Detection" target="Framester">
@@ -14924,10 +14736,10 @@
 <edge source="Ontology Learning" target="978-1-61499-378-0}">
   <data key="d0">1</data>
 </edge>
-<edge source="Ontology Learning" target="article_1242">
+<edge source="Ontology Learning" target="Learning Domain Ontologies by Corpus-Driven FrameNet Specialization">
   <data key="d0">1</data>
 </edge>
-<edge source="Ontology Learning" target="article_1249">
+<edge source="Ontology Learning" target="Ontology Design Patterns in Ontology Learning">
   <data key="d0">1</data>
 </edge>
 <edge source="Ontology Learning" target="Ontology Refinement">
@@ -15269,7 +15081,7 @@
 <edge source="Chord Embeddings" target="https://ceur-ws.org/Vol-3278/}">
   <data key="d0">1</data>
 </edge>
-<edge source="Applications" target="article_168">
+<edge source="Applications" target="Proceedings of the 5th Workshop on Semantic Web Applications and Perspectives (SWAP2008)}">
   <data key="d0">1</data>
 </edge>
 <edge source="Applications" target="Change Analysis And Interpretation">
@@ -15305,13 +15117,13 @@
 <edge source="Computational Musicology" target="https://archives.ismir.net/ismir2021/latebreaking/000020.pdf">
   <data key="d0">1</data>
 </edge>
-<edge source="Computational Musicology" target="article_188">
+<edge source="Computational Musicology" target="The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata}">
   <data key="d0">1</data>
 </edge>
 <edge source="Computational Musicology" target="Ontology Design Pattern">
   <data key="d0">4</data>
 </edge>
-<edge source="Computational Musicology" target="article_837">
+<edge source="Computational Musicology" target="The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata">
   <data key="d0">1</data>
 </edge>
 <edge source="Computational Musicology" target="Computer Music">
@@ -15716,14 +15528,14 @@
 <edge source="Fugger" target="9788873959465">
   <data key="d0">1</data>
 </edge>
-<edge source="Raffigurazione Del Cibo" target="article_218">
+<edge source="Raffigurazione Del Cibo" target="recensione a 'La natura morta di Federico Zeri', a cura di Andrea Bacchi, Francesca Mambelli, Elisabetta Sambo, Bologna-Ferrara 2015 (Fobdazione Zeri), pp. 336, con 300 illustrazioni">
   <data key="d0">1</data>
 </edge>
 <edge source="Arts" target="Photography">
   <data key="d0">4</data>
 </edge>
 <edge source="Scholarly Editions" target="Italian Philology">
-  <data key="d0">4</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Scholarly Editions" target="Authorial Philology">
   <data key="d0">6</data>
@@ -15746,14 +15558,11 @@
 <edge source="Scholarly Editions" target="Marcel Proust">
   <data key="d0">4</data>
 </edge>
-<edge source="Scholarly Editions" target="Letteratura Italiana">
-  <data key="d0">12</data>
+<edge source="Scholarly Editions" target="Edizioni Digitali">
+  <data key="d0">8</data>
 </edge>
 <edge source="Scholarly Editions" target="http://semicerchio.bytenet.it/numero.asp?n=846">
   <data key="d0">1</data>
-</edge>
-<edge source="Scholarly Editions" target="Edizioni Digitali">
-  <data key="d0">8</data>
 </edge>
 <edge source="Scholarly Editions" target="Manzoni">
   <data key="d0">10</data>
@@ -15767,9 +15576,6 @@
 <edge source="Scholarly Editions" target="Authoritativeness">
   <data key="d0">4</data>
 </edge>
-<edge source="Scholarly Editions" target="Filologia Della Letteratura Italiana">
-  <data key="d0">2</data>
-</edge>
 <edge source="Scholarly Editions" target="Google">
   <data key="d0">2</data>
 </edge>
@@ -15779,11 +15585,11 @@
 <edge source="Scholarly Editions" target="Editing">
   <data key="d0">2</data>
 </edge>
-<edge source="Scholarly Editions" target="https://www.salernoeditrice.it/prodotto/editing-2000/">
-  <data key="d0">1</data>
-</edge>
 <edge source="Scholarly Editions" target="Philology">
   <data key="d0">2</data>
+</edge>
+<edge source="Scholarly Editions" target="https://www.salernoeditrice.it/prodotto/editing-2000/">
+  <data key="d0">1</data>
 </edge>
 <edge source="Scholarly Editions" target="Testi Digitali">
   <data key="d0">2</data>
@@ -15798,13 +15604,13 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Italian Philology" target="Authorial Philology">
-  <data key="d0">30</data>
+  <data key="d0">40</data>
 </edge>
 <edge source="Italian Philology" target="Carlo Emilio Gadda">
-  <data key="d0">10</data>
+  <data key="d0">12</data>
 </edge>
 <edge source="Italian Philology" target="Alessandro Manzoni">
-  <data key="d0">6</data>
+  <data key="d0">12</data>
 </edge>
 <edge source="Italian Philology" target="Ferdinando Pessoa">
   <data key="d0">4</data>
@@ -15819,7 +15625,7 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Italian Philology" target="Critica Delle Varianti">
-  <data key="d0">4</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Italian Philology" target="Stéphane Mallarmé">
   <data key="d0">2</data>
@@ -15828,31 +15634,37 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Italian Philology" target="Gianfranco Contini">
-  <data key="d0">4</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Italian Philology" target="Benedetto Croce">
-  <data key="d0">4</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Italian Philology" target="Lanfranco Caretti">
   <data key="d0">2</data>
 </edge>
 <edge source="Italian Philology" target="Francesco Petrarca">
-  <data key="d0">2</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Italian Philology" target="Ludovico Ariosto">
   <data key="d0">2</data>
 </edge>
 <edge source="Italian Philology" target="Giacomo Leopardi">
-  <data key="d0">6</data>
+  <data key="d0">10</data>
 </edge>
 <edge source="Italian Philology" target="Critica Genetica">
   <data key="d0">2</data>
 </edge>
+<edge source="Italian Philology" target="Letteratura Moderna E Contemporanea">
+  <data key="d0">6</data>
+</edge>
+<edge source="Italian Philology" target="Manoscritti">
+  <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="Varianti D'Autore">
+  <data key="d0">2</data>
+</edge>
 <edge source="Italian Philology" target="Ecdotica">
   <data key="d0">8</data>
-</edge>
-<edge source="Italian Philology" target="Letteratura Italiana">
-  <data key="d0">30</data>
 </edge>
 <edge source="Italian Philology" target="Critica Del Testo">
   <data key="d0">6</data>
@@ -15866,6 +15678,15 @@
 <edge source="Italian Philology" target="10.7385/101917">
   <data key="d0">1</data>
 </edge>
+<edge source="Italian Philology" target="Google">
+  <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="Edizioni">
+  <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="Editing">
+  <data key="d0">4</data>
+</edge>
 <edge source="Italian Philology" target="Letteratura Ed Editoria Nel Novecento">
   <data key="d0">2</data>
 </edge>
@@ -15873,6 +15694,78 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Italian Philology" target="Letteratura Del Novecento">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Archives">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Giovanni Boccaccio">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Umanesimo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Sannazzaro">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Niccolò Machiavelli">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Lodovico Ariosto">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Francesco Guicciardini">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Baldassar Castiglione">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Pietro Bembo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Giovan Giorgio Trissino">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Pietro Aretino">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Giovanni Della Casa">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Annibale Rucellai">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Benedetto Varchi">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Vincenzio Borghini">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Torquato Tasso">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Alessandro Tassoni">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Galileo Galilei">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Giovan Battista Vico">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Pietro Metastasio">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Pietro Verri">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Giuseppe Pelli Bencivenni">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Vittorio Alfieri">
+  <data key="d0">4</data>
+</edge>
+<edge source="Italian Philology" target="Vincenzo Monti">
   <data key="d0">4</data>
 </edge>
 <edge source="Italian Philology" target="Edizioni Critiche Digitali">
@@ -15917,9 +15810,6 @@
 <edge source="Italian Philology" target="Bibliografia">
   <data key="d0">2</data>
 </edge>
-<edge source="Italian Philology" target="Letteratura Moderna E Contemporanea">
-  <data key="d0">4</data>
-</edge>
 <edge source="Italian Philology" target="Fascismo">
   <data key="d0">2</data>
 </edge>
@@ -15929,11 +15819,11 @@
 <edge source="Italian Philology" target="Psicoanalisi">
   <data key="d0">2</data>
 </edge>
-<edge source="Italian Philology" target="article_1374">
-  <data key="d0">1</data>
-</edge>
 <edge source="Italian Philology" target="Collodi">
   <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="P. Italia-T. Gargano, Philoeditor 3.0: Pinocchio, in 'Senza giudizio... e senza cuore', Atti del convegno di studi su Pinocchio, Milano, Università Cattolica del Sacro Cuore e Università degli Studi, 18-19 maggio 2017, a cura di Paola Ponti e Martino Marazzi,  “Rivista di Letteratura Italiana”, a. XXXVI, n. 2 (2018), pp. 133-144.">
+  <data key="d0">1</data>
 </edge>
 <edge source="Italian Philology" target="Pinocchio">
   <data key="d0">2</data>
@@ -15953,10 +15843,10 @@
 <edge source="Italian Philology" target="Linguistica Italiana">
   <data key="d0">4</data>
 </edge>
-<edge source="Italian Philology" target="Editing">
+<edge source="Italian Philology" target="Scrittura Contemporanea">
   <data key="d0">2</data>
 </edge>
-<edge source="Italian Philology" target="Scrittura Contemporanea">
+<edge source="Italian Philology" target="Carlo Goldoni">
   <data key="d0">2</data>
 </edge>
 <edge source="Italian Philology" target="Letteratura Italiana Contemporanea">
@@ -15972,6 +15862,18 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Italian Philology" target="Romanticismo">
+  <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="Alberto Savinio">
+  <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="https://mucchieditore.it/prodotto/la-vita-e-segno-gino-ruozzi/">
+  <data key="d0">1</data>
+</edge>
+<edge source="Italian Philology" target="Nuova Enciclopedia">
+  <data key="d0">2</data>
+</edge>
+<edge source="Italian Philology" target="Letteratura Italiana Moderna E Contemporanea">
   <data key="d0">2</data>
 </edge>
 <edge source="Italian Philology" target="Genetic Criticism">
@@ -16061,7 +15963,7 @@
 <edge source="Authorial Philology" target="Digital Scholarly Infrastructure">
   <data key="d0">4</data>
 </edge>
-<edge source="Authorial Philology" target="article_918">
+<edge source="Authorial Philology" target="Filologia digitale. Fra teoria, metodologia e tecnica">
   <data key="d0">1</data>
 </edge>
 <edge source="Authorial Philology" target="Web Environment">
@@ -16130,14 +16032,8 @@
 <edge source="Authorial Philology" target="Bassani">
   <data key="d0">2</data>
 </edge>
-<edge source="Authorial Philology" target="Letteratura Italiana">
-  <data key="d0">24</data>
-</edge>
 <edge source="Authorial Philology" target="Letteratura Moderna E Contemporanea">
   <data key="d0">4</data>
-</edge>
-<edge source="Authorial Philology" target="Filologia Della Letteratura Italiana">
-  <data key="d0">10</data>
 </edge>
 <edge source="Authorial Philology" target="Varianti D'Autore">
   <data key="d0">2</data>
@@ -16154,14 +16050,11 @@
 <edge source="Authorial Philology" target="Testi Digitali">
   <data key="d0">2</data>
 </edge>
-<edge source="Authorial Philology" target="article_1320">
+<edge source="Authorial Philology" target="Errori in rete. Editing 2.0">
   <data key="d0">1</data>
 </edge>
 <edge source="Authorial Philology" target="Ecdotica">
   <data key="d0">4</data>
-</edge>
-<edge source="Authorial Philology" target="article_1321">
-  <data key="d0">1</data>
 </edge>
 <edge source="Authorial Philology" target="Variants Criticism">
   <data key="d0">2</data>
@@ -16352,11 +16245,11 @@
 <edge source="Authorial Philology" target="Editoria">
   <data key="d0">2</data>
 </edge>
-<edge source="Authorial Philology" target="article_1353">
-  <data key="d0">1</data>
-</edge>
 <edge source="Authorial Philology" target="Letteratura Dell'Ottocento">
   <data key="d0">2</data>
+</edge>
+<edge source="Authorial Philology" target="La ricordanza. Idillio III">
+  <data key="d0">1</data>
 </edge>
 <edge source="Authorial Philology" target="Poesia">
   <data key="d0">2</data>
@@ -16421,7 +16314,7 @@
 <edge source="Authorial Philology" target="Digital Philology">
   <data key="d0">2</data>
 </edge>
-<edge source="Authorial Philology" target="article_1395">
+<edge source="Authorial Philology" target="Recensione a L'Eterno accade, L'officina letteraria di Luigi Fallacara">
   <data key="d0">1</data>
 </edge>
 <edge source="Authorial Philology" target="Luigi Fallacara">
@@ -16487,9 +16380,6 @@
 <edge source="Carlo Emilio Gadda" target="Interdiscorsività">
   <data key="d0">2</data>
 </edge>
-<edge source="Carlo Emilio Gadda" target="Letteratura Italiana">
-  <data key="d0">26</data>
-</edge>
 <edge source="Carlo Emilio Gadda" target="Letteratura Italiana Contemporanea">
   <data key="d0">6</data>
 </edge>
@@ -16527,9 +16417,6 @@
   <data key="d0">6</data>
 </edge>
 <edge source="Carlo Emilio Gadda" target="&quot;Botteghe Oscure&quot;">
-  <data key="d0">2</data>
-</edge>
-<edge source="Carlo Emilio Gadda" target="Filologia Della Letteratura Italiana">
   <data key="d0">2</data>
 </edge>
 <edge source="Carlo Emilio Gadda" target="Manoscritti">
@@ -16691,7 +16578,7 @@
 <edge source="Carlo Emilio Gadda" target="Archivi Del Novecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Carlo Emilio Gadda" target="article_1408">
+<edge source="Carlo Emilio Gadda" target="Un commento 2.0">
   <data key="d0">1</data>
 </edge>
 <edge source="Alessandro Manzoni" target="Ferdinando Pessoa">
@@ -16724,16 +16611,13 @@
 <edge source="Alessandro Manzoni" target="Biografia">
   <data key="d0">2</data>
 </edge>
-<edge source="Alessandro Manzoni" target="Letteratura Italiana">
-  <data key="d0">18</data>
-</edge>
 <edge source="Alessandro Manzoni" target="Romanticismo">
   <data key="d0">4</data>
 </edge>
 <edge source="Alessandro Manzoni" target="Illuminismo">
   <data key="d0">2</data>
 </edge>
-<edge source="Alessandro Manzoni" target="article_1338">
+<edge source="Alessandro Manzoni" target="Il pensiero in movimento">
   <data key="d0">1</data>
 </edge>
 <edge source="Alessandro Manzoni" target="Critica Delle Varianti">
@@ -16780,9 +16664,6 @@
 </edge>
 <edge source="Alessandro Manzoni" target="https://volontadarchivio.disll.unipd.it/il-volume/">
   <data key="d0">1</data>
-</edge>
-<edge source="Alessandro Manzoni" target="Filologia Della Letteratura Italiana">
-  <data key="d0">6</data>
 </edge>
 <edge source="Alessandro Manzoni" target="Archives">
   <data key="d0">4</data>
@@ -16951,459 +16832,6 @@
 </edge>
 <edge source="http://www.editricesapienza.it/node/7479" target="Objects' Lifecycle">
   <data key="d0">1</data>
-</edge>
-<edge source="Letteratura Italiana" target="Edizioni Digitali">
-  <data key="d0">12</data>
-</edge>
-<edge source="Letteratura Italiana" target="Manzoni">
-  <data key="d0">12</data>
-</edge>
-<edge source="Letteratura Italiana" target="Collodi">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Pinocchio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Italian Philology.">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Cinquecento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Cronologia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Cronologia Ragionata">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Autori">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Generi">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Opere">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Greca">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Latina">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Inglese">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Potere">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Politica">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Traduzione">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Classici">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Fortuna">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Italiana Contemporanea">
-  <data key="d0">14</data>
-</edge>
-<edge source="Letteratura Italiana" target="Unpublished Notes">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giacomo Leopardi">
-  <data key="d0">18</data>
-</edge>
-<edge source="Letteratura Italiana" target="Zibaldone">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Operette Morali">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Moral Philosophy">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Moderna E Contemporanea">
-  <data key="d0">20</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giorgio Bassani">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="&quot;Paragone&quot;">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Quer Pasticciaccio Brutto De Via Merulana">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Psicoanalisi">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="&quot;Botteghe Oscure&quot;">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Poesia Dell'Ottocento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Romanticismo">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Canti">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Romanzo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Promessi Sposi">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Filologia Della Letteratura Italiana">
-  <data key="d0">10</data>
-</edge>
-<edge source="Letteratura Italiana" target="Manoscritti">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Varianti D'Autore">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Critica Delle Varianti">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Archives">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Biblioteche">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Gadda">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Epistolario">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Biografia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="https://site.unibo.it/ecdotica/it">
-  <data key="d0">1</data>
-</edge>
-<edge source="Letteratura Italiana" target="Ecdotica">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Google">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Edizioni">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Editing">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Philology">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Testi Digitali">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Leopardi">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Critica Del Testo">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Ed Editoria Nel Novecento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Eugenio Montale">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Del Novecento">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Gianfranco Contini">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Authorship">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Fascismo">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Lessicografia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Linguistica Italiana">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Filologia Editoriale">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Storia Della Colonna Infame">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Silvio Pellico">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Pietro Maroncelli">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Erich Auerbach">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Mimesis">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="I Promessi Sposi">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="La Storia Della Colonna Infame">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Francesco Petrarca">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giovanni Boccaccio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Umanesimo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Sannazzaro">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Niccolò Machiavelli">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Lodovico Ariosto">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Francesco Guicciardini">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Baldassar Castiglione">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Pietro Bembo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giovan Giorgio Trissino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Pietro Aretino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giovanni Della Casa">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Annibale Rucellai">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Benedetto Varchi">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Vincenzio Borghini">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Torquato Tasso">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Alessandro Tassoni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Galileo Galilei">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giovan Battista Vico">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Pietro Metastasio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Pietro Verri">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giuseppe Pelli Bencivenni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Vittorio Alfieri">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Vincenzo Monti">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Mario Tobino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Resistenza">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Scholarly Editing">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Digital Text">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Digital Archives">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Lingua Italiana">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Didattica Della Lingua Italiana">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Grammatica Italiana">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Editoria">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Textual Criticism">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Digital Library">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Moderne E Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Dell'Ottocento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Poesia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Bibliografia">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Einaudi Editore">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Letteratura Italiana Moderna E Contemporanea">
-  <data key="d0">12</data>
-</edge>
-<edge source="Letteratura Italiana" target="Federico Confalonieri">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Carboneria">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Alberto Savinio">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Europa">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Bompiani Editore">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Freud">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Romanzo Del Novecento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="article_1373">
-  <data key="d0">1</data>
-</edge>
-<edge source="Letteratura Italiana" target="Leonardo Sciascia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="La Passeggiata Autunnale">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Alessandro Bonsanti">
-  <data key="d0">6</data>
-</edge>
-<edge source="Letteratura Italiana" target="Prima Guerra Mondiale">
-  <data key="d0">4</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giornale Di Guerra E Di Prigionia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Dante">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Poesia Italiana">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Versi">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Traduzioni">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Poesia Del Novecento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giorgio Caproni">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Storia Del Libro">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giovanni Papini">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Giuseppe Prezzolini">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Archivi Del Novecento.">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Archivi Del Novecento">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Nuovi Argomenti">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Alberto Carocci">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Alberto Moravia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Biblioteche D'Autore">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Primo Levi">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Bibliografie">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Luigi Fallacara">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="article_1399">
-  <data key="d0">1</data>
-</edge>
-<edge source="Letteratura Italiana" target="Eros E Priapo">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Scrittura Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Benedetto Croce">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Carlo Goldoni">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Attribuzionismo">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Autorialità">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Italiana" target="Stilometria">
-  <data key="d0">2</data>
 </edge>
 <edge source="Edizioni Digitali" target="Manzoni">
   <data key="d0">12</data>
@@ -17768,13 +17196,10 @@
 <edge source="Embeddings" target="Similarity Detection">
   <data key="d0">6</data>
 </edge>
-<edge source="Similarity Detection" target="article_235">
+<edge source="Similarity Detection" target="Frame Embeddings for Event-Based Knowledge Reconciliation}">
   <data key="d0">1</data>
 </edge>
-<edge source="Similarity Detection" target="article_469">
-  <data key="d0">1</data>
-</edge>
-<edge source="Similarity Detection" target="article_1222">
+<edge source="Similarity Detection" target="Frame Embeddings for Event-Based Knowledge Reconciliation">
   <data key="d0">1</data>
 </edge>
 <edge source="Generative Adversarial Networks" target="Data Augmentation">
@@ -18212,7 +17637,7 @@
 <edge source="Computer Games" target="Ethical Issues In Informatics">
   <data key="d0">2</data>
 </edge>
-<edge source="Kriegspiel" target="article_275">
+<edge source="Kriegspiel" target="A Program to Play Kriegspiel}">
   <data key="d0">1</data>
 </edge>
 <edge source="Kriegspiel" target="Partial Information Game">
@@ -18347,7 +17772,7 @@
 <edge source="Agile" target="Case">
   <data key="d0">2</data>
 </edge>
-<edge source="Agile" target="article_281">
+<edge source="Agile" target="A-CASE ``Agile&quot; Computer Aided Software Engineering environment}">
   <data key="d0">1</data>
 </edge>
 <edge source="Agile" target="Agile Contracts">
@@ -18593,7 +18018,7 @@
 <edge source="Partial Information Game" target="Wargame">
   <data key="d0">4</data>
 </edge>
-<edge source="Wargame" target="article_288">
+<edge source="Wargame" target="Algorithmic explorations of a well known wargame}">
   <data key="d0">1</data>
 </edge>
 <edge source="Wargame" target="10.1016/j.artint.2010.04.017}">
@@ -18779,10 +18204,10 @@
 <edge source="Agenti Sofware" target="Software Agents">
   <data key="d0">4</data>
 </edge>
-<edge source="Software Agents" target="article_300">
+<edge source="Software Agents" target="Autonomous agents and multi agent systems journal}">
   <data key="d0">1</data>
 </edge>
-<edge source="Software Agents" target="article_353">
+<edge source="Software Agents" target="International Journal of Agent-Oriented Software Engineering}">
   <data key="d0">1</data>
 </edge>
 <edge source="Change Detection" target="Diff Algorithms">
@@ -18881,7 +18306,7 @@
 <edge source="Civil Protection" target="10.1504/IJEM.2009.031569}">
   <data key="d0">1</data>
 </edge>
-<edge source="Civil Protection" target="article_324">
+<edge source="Civil Protection" target="Editorial of the Special Issue on Collaboration and Social Networking in Emergency}">
   <data key="d0">1</data>
 </edge>
 <edge source="Civil Protection" target="Model Driven Architecture">
@@ -19241,7 +18666,7 @@
 <edge source="Entertainment Computing" target="Computer Chess">
   <data key="d0">2</data>
 </edge>
-<edge source="Entertainment Computing" target="article_331">
+<edge source="Entertainment Computing" target="Entertainment computing}">
   <data key="d0">1</data>
 </edge>
 <edge source="Entertainment Computing" target="Cultural Computing">
@@ -19640,7 +19065,7 @@
 <edge source="Deltas" target="Metrics">
   <data key="d0">6</data>
 </edge>
-<edge source="Metrics" target="article_362">
+<edge source="Metrics" target="Measuring the domain-oriented quality of diff algorithms}">
   <data key="d0">1</data>
 </edge>
 <edge source="Metrics" target="Delta Model">
@@ -19655,7 +19080,7 @@
 <edge source="Metrics" target="Law">
   <data key="d0">6</data>
 </edge>
-<edge source="Metrics" target="article_1145">
+<edge source="Metrics" target="Measuring the domain-oriented quality of diff algorithms">
   <data key="d0">1</data>
 </edge>
 <edge source="Metrics" target="Explainable Artificial Intelligence">
@@ -19669,9 +19094,6 @@
 </edge>
 <edge source="Metrics" target="Artificial Intelligence Act">
   <data key="d0">8</data>
-</edge>
-<edge source="Metrics" target="article_1782">
-  <data key="d0">1</data>
 </edge>
 <edge source="Delta Model" target="Output Quality">
   <data key="d0">6</data>
@@ -19760,7 +19182,7 @@
 <edge source="Law" target="Syntagmatic Relations">
   <data key="d0">4</data>
 </edge>
-<edge source="Information Technology" target="article_364">
+<edge source="Information Technology" target="Mondo digitale}">
   <data key="d0">1</data>
 </edge>
 <edge source="Monte Carlo Tree Search" target="Partial Information">
@@ -20171,7 +19593,7 @@
 <edge source="Legal Reasoning" target="Legal Rules">
   <data key="d0">4</data>
 </edge>
-<edge source="Legal Reasoning" target="article_1477">
+<edge source="Legal Reasoning" target="LegalRuleML: from Metamodel to Use Cases - A Tutorial">
   <data key="d0">1</data>
 </edge>
 <edge source="Legal Reasoning" target="Defeasible Logic">
@@ -20351,7 +19773,7 @@
 <edge source="Dynamic Service Discovery" target="354025630X}">
   <data key="d0">1</data>
 </edge>
-<edge source="Programming Languages" target="article_433">
+<edge source="Programming Languages" target="Worldwide computing: Adaptive Middleware and programming technology for dynamic Grid environments}">
   <data key="d0">1</data>
 </edge>
 <edge source="Programming Languages" target="Microservices">
@@ -20394,9 +19816,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Manoscritti" target="Letteratura Moderna E Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Manoscritti" target="Filologia Della Letteratura Italiana">
   <data key="d0">2</data>
 </edge>
 <edge source="Manoscritti" target="Varianti D'Autore">
@@ -20510,7 +19929,7 @@
 <edge source="Social Cohesion" target="Virtual Embodiment">
   <data key="d0">4</data>
 </edge>
-<edge source="Usability" target="article_464">
+<edge source="Usability" target="Virtual Empathy: Usability and Immersivity of a VR System for Enhancing Social Cohesion through Cultural Heritage}">
   <data key="d0">1</data>
 </edge>
 <edge source="Usability" target="Privacy">
@@ -20906,7 +20325,7 @@
 <edge source="Internet Of Things (Iot)" target="Speech Disability">
   <data key="d0">2</data>
 </edge>
-<edge source="Models" target="article_483">
+<edge source="Models" target="Making Smart Buildings and Personal Systems Cooperate via Knowledge Base Overlays}">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Modeling" target="Self-Adaptive Systems">
@@ -20921,7 +20340,7 @@
 <edge source="Semantic Sensor Networks" target="10.18293/SEKE2019-169}">
   <data key="d0">1</data>
 </edge>
-<edge source="Model" target="article_493">
+<edge source="Model" target="Resilient reactive systems based on runtime semantic models}">
   <data key="d0">1</data>
 </edge>
 <edge source="Accuracy" target="Citation Relation">
@@ -20951,10 +20370,10 @@
 <edge source="Citation And Co-Citation Analysis" target="Methods And Techniques">
   <data key="d0">4</data>
 </edge>
-<edge source="Methods And Techniques" target="article_499">
+<edge source="Methods And Techniques" target="A principled methodology for comparing relatedness measures for clustering publications}">
   <data key="d0">1</data>
 </edge>
-<edge source="Methods And Techniques" target="article_1003">
+<edge source="Methods And Techniques" target="A principled methodology for comparing relatedness measures for clustering publications">
   <data key="d0">1</data>
 </edge>
 <edge source="Cord-19" target="Coronavirus">
@@ -20999,7 +20418,7 @@
 <edge source="Reference Age" target="10.1016/j.joi.2017.11.005">
   <data key="d0">1</data>
 </edge>
-<edge source="Citation Impact" target="article_503">
+<edge source="Citation Impact" target="Quantifying the long-term influence of scientific publications}">
   <data key="d0">1</data>
 </edge>
 <edge source="Citation Impact" target="Citation Influence">
@@ -21011,7 +20430,7 @@
 <edge source="Citation Impact" target="Interdisciplinarity">
   <data key="d0">2</data>
 </edge>
-<edge source="Citation Impact" target="article_1034">
+<edge source="Citation Impact" target="Quantifying the long-term influence of scientific publications">
   <data key="d0">1</data>
 </edge>
 <edge source="Analysis Of Full Text" target="Databases And Electronic Publications">
@@ -21023,10 +20442,10 @@
 <edge source="Databases And Electronic Publications" target="Journals">
   <data key="d0">4</data>
 </edge>
-<edge source="Journals" target="article_504">
+<edge source="Journals" target="Reference behavior in the full text of scientific articles: A large-scale analysis}">
   <data key="d0">1</data>
 </edge>
-<edge source="Journals" target="article_1036">
+<edge source="Journals" target="Reference behavior in the full text of scientific articles: A large-scale analysis">
   <data key="d0">1</data>
 </edge>
 <edge source="Text Mining" target="10.1002/asi.23981}">
@@ -21035,7 +20454,7 @@
 <edge source="Text Mining" target="Text Retrieval">
   <data key="d0">2</data>
 </edge>
-<edge source="Text Mining" target="article_885">
+<edge source="Text Mining" target="Analisi del testo letterario e nuove tecnologie">
   <data key="d0">1</data>
 </edge>
 <edge source="Text Mining" target="Apache Spark">
@@ -21434,7 +20853,7 @@
 <edge source="Pinocchio" target="Laboratorio">
   <data key="d0">6</data>
 </edge>
-<edge source="Italian Philology." target="article_518">
+<edge source="Italian Philology." target="P. Italia-T. Gargano, Philoeditor 3.0: Pinocchio, in 'Senza giudizio... e senza cuore', Atti del convegno di studi su Pinocchio, Milano, Università Cattolica del Sacro Cuore e Università degli Studi, 18-19 maggio 2017, a cura di Paola Ponti e Martino Marazzi,  “Rivista di Letteratura Italiana”, a. XXXVI, n. 2 (2018), pp. 133-144.}">
   <data key="d0">1</data>
 </edge>
 <edge source="Iconographical And Iconological Interpretations" target="Artworks">
@@ -21550,9 +20969,6 @@
 </edge>
 <edge source="Benedetto Varchi" target="Italian Renaissance Literature">
   <data key="d0">6</data>
-</edge>
-<edge source="Benedetto Varchi" target="Filologia Della Letteratura Italiana">
-  <data key="d0">4</data>
 </edge>
 <edge source="Benedetto Varchi" target="Archives">
   <data key="d0">4</data>
@@ -21674,11 +21090,11 @@
 <edge source="Digital Library" target="Digital Texts">
   <data key="d0">2</data>
 </edge>
-<edge source="Digital Library" target="http://amsacta.unibo.it/6348/">
-  <data key="d0">1</data>
-</edge>
 <edge source="Digital Library" target="Editoria">
   <data key="d0">2</data>
+</edge>
+<edge source="Digital Library" target="http://amsacta.unibo.it/6348/">
+  <data key="d0">1</data>
 </edge>
 <edge source="Digital Library" target="Scholarly Editing">
   <data key="d0">2</data>
@@ -21857,7 +21273,7 @@
 <edge source="Information Retrieval" target="History Of Venice">
   <data key="d0">4</data>
 </edge>
-<edge source="Information Retrieval" target="article_1044">
+<edge source="Information Retrieval" target="The references of references: Enriching library catalogs via domain-specific reference mining">
   <data key="d0">1</data>
 </edge>
 <edge source="Information Retrieval" target="10.1002/asi.24301">
@@ -24377,7 +23793,7 @@
 <edge source="Evaluation" target="Emotion Recognition">
   <data key="d0">2</data>
 </edge>
-<edge source="Evaluation" target="article_1690">
+<edge source="Evaluation" target="Emotion Recognition with a Kernel Quantum Classifier">
   <data key="d0">1</data>
 </edge>
 <edge source="Evaluation" target="Kernel Quantum Classifier">
@@ -24395,7 +23811,7 @@
 <edge source="Evaluation" target="Twitter">
   <data key="d0">2</data>
 </edge>
-<edge source="Evaluation" target="article_1724">
+<edge source="Evaluation" target="The FICLIT+CS@UniBO System at the EVALITA 2014 Sentiment Polarity Classification Task">
   <data key="d0">1</data>
 </edge>
 <edge source="Evaluation" target="Lemmatisation">
@@ -29084,13 +28500,13 @@
 <edge source="Rinascimento" target="Canone">
   <data key="d0">2</data>
 </edge>
-<edge source="Rinascimento" target="article_783">
+<edge source="Rinascimento" target="[recensione a] Machiavelli's Prince. Traditions, Texts and Translations, a cura di N. Gardini, M. McLaughlin, Roma, Viella, 2017">
   <data key="d0">1</data>
 </edge>
 <edge source="Rinascimento" target="Traduzione">
   <data key="d0">2</data>
 </edge>
-<edge source="Rinascimento" target="article_786">
+<edge source="Rinascimento" target="[recensione a] R. Ruggiero, Machiavelli e la crisi dell'analogia, Bologna, Il Mulino, 2015">
   <data key="d0">1</data>
 </edge>
 <edge source="Rinascimento" target="Guerre D'Italia">
@@ -29135,7 +28551,7 @@
 <edge source="Rinascimento" target="Vespasiano Da Bisticci">
   <data key="d0">2</data>
 </edge>
-<edge source="Tasso" target="article_773">
+<edge source="Tasso" target="[recensione a ] Ricerche sulle Lettere di Torquato Tasso, a c. di Clizia Carminati e Emilio Russo, Bergamo, Edizioni di Archilet, 2017">
   <data key="d0">1</data>
 </edge>
 <edge source="Philology" target="Metodo">
@@ -29165,7 +28581,7 @@
 <edge source="Philology" target="Cinquecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Philology" target="article_792">
+<edge source="Philology" target="A proposito dei criteri di edizione per gli epistolari del cinquecento">
   <data key="d0">1</data>
 </edge>
 <edge source="Philology" target="Lettere">
@@ -29276,7 +28692,7 @@
 <edge source="Philology" target="Bibliofilia">
   <data key="d0">2</data>
 </edge>
-<edge source="Philology" target="article_1384">
+<edge source="Philology" target="Rec. a Carlo Alberto Chiesa, Un mestiere semplice. Ricordi di un libraio antiquario, Milano, Officina Libraria, 2016 (“Sine Titulo”, n. 2)">
   <data key="d0">1</data>
 </edge>
 <edge source="Philology" target="Antiquaria">
@@ -29294,13 +28710,13 @@
 <edge source="Metodo" target="Machiavelli">
   <data key="d0">2</data>
 </edge>
-<edge source="Metodo" target="article_780">
+<edge source="Metodo" target="[recensione a] L. Biasiori, Nello scrittoio di Machiavelli. Il 'Principe' e la 'Ciropedia' di Senofonte, Roma, Carocci, 2017">
   <data key="d0">1</data>
 </edge>
-<edge source="D'Annunzio" target="article_774">
+<edge source="D'Annunzio" target="[recensione a] C. Montagnani, P. De Lorenzo, Come lavorava d'Annunzio, Roma, Carocci, 2018">
   <data key="d0">1</data>
 </edge>
-<edge source="Matteo Palumbo" target="article_775">
+<edge source="Matteo Palumbo" target="[recensione a] Culture del Rinascimento. Studi per Matteo Palumbo, Studi Rinascimentali, numero a c. di Giancarlo Alfano e Pasquale Sabbatino, 2017">
   <data key="d0">1</data>
 </edge>
 <edge source="Poesia" target="Leopardi">
@@ -29417,11 +28833,11 @@
 <edge source="Canti" target="https://www.rivisteweb.it/issn/0391-2493/issues">
   <data key="d0">1</data>
 </edge>
-<edge source="Canti" target="article_1304">
-  <data key="d0">1</data>
-</edge>
 <edge source="Canti" target="Giacomo Leopardi">
   <data key="d0">4</data>
+</edge>
+<edge source="Canti" target="Capitolo Leopardi, in Letteratura Italiana. Storia e testi. Manuale per studi universitari, Milano, Mondadori Education, vol. II, 2018, pp. 504-574.">
+  <data key="d0">1</data>
 </edge>
 <edge source="Canti" target="Poesia Dell'Ottocento">
   <data key="d0">2</data>
@@ -29465,6 +28881,12 @@
 <edge source="Ecdotica" target="Critica">
   <data key="d0">2</data>
 </edge>
+<edge source="Ecdotica" target="Ecdotica Filologia Testuale">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecdotica" target="https://site.unibo.it/ecdotica/it">
+  <data key="d0">1</data>
+</edge>
 <edge source="Ecdotica" target="Critica Del Testo">
   <data key="d0">2</data>
 </edge>
@@ -29501,7 +28923,7 @@
 <edge source="Ecdotica" target="Giacomo Leopardi">
   <data key="d0">6</data>
 </edge>
-<edge source="Ecdotica" target="article_1378">
+<edge source="Ecdotica" target="Per un'ecdotica dei carteggi">
   <data key="d0">1</data>
 </edge>
 <edge source="Ecdotica" target="Lettere">
@@ -29513,7 +28935,7 @@
 <edge source="Ecdotica" target="Textual Studies">
   <data key="d0">2</data>
 </edge>
-<edge source="Ecdotica" target="article_1397">
+<edge source="Ecdotica" target="Recensione a Peter Shillingsburg, Textuality and knowledge, The Pennsylvania State University Press, University Park, Pennsylvania, USA, 2017, pp. 240.">
   <data key="d0">1</data>
 </edge>
 <edge source="Machiavelli" target="Traduzione">
@@ -29528,7 +28950,7 @@
 <edge source="Lirica" target="Canone">
   <data key="d0">2</data>
 </edge>
-<edge source="Canone" target="article_782">
+<edge source="Canone" target="[recensione a] Lirica in Italia 1494- 1530. Esperienze ecdotiche e profili storiografici, atti del Convegno (Friburgo, 8- 9 giugno 2016), a c. di Uberto Motta, Giacomo Vagni, Bologna, I libri di Emil, 2017.">
   <data key="d0">1</data>
 </edge>
 <edge source="Traduzione" target="Letteratura Greca">
@@ -29564,7 +28986,7 @@
 <edge source="Paleografia" target="Manosacritti">
   <data key="d0">2</data>
 </edge>
-<edge source="Paleografia" target="article_1396">
+<edge source="Paleografia" target="Recensione a Matteo Motolese, Scritti a mano, Milano, Garzanti, 2017, in “Antologia Vieusseux”, a. XXIV, n. 71, (maggio-agosto 2018), pp. 95-102.">
   <data key="d0">1</data>
 </edge>
 <edge source="Paleografia" target="Archives">
@@ -29588,7 +29010,7 @@
 <edge source="Guerre D'Italia" target="Crisi">
   <data key="d0">2</data>
 </edge>
-<edge source="Digitale" target="article_787">
+<edge source="Digitale" target="[Recensione a] Rinascimento digitale. Percorsi, progetti, esperimenti, a cura di G. Genovese e E. Russo, Treccani, Roma, 2021, in Rassegna della Letteratura Italiana, IX/2, 2022, pp. 402-403.">
   <data key="d0">1</data>
 </edge>
 <edge source="Digitale" target="Guicciardini">
@@ -29606,7 +29028,7 @@
 <edge source="Romanzo Storico" target="Alberto Savinio">
   <data key="d0">2</data>
 </edge>
-<edge source="Romanzo Storico" target="article_1416">
+<edge source="Romanzo Storico" target="“Ci par di capire”, “TodoModo”, a. V, 2015, pp. 133-144.">
   <data key="d0">1</data>
 </edge>
 <edge source="Romanzo Storico" target="Fascismo">
@@ -29624,13 +29046,13 @@
 <edge source="Utopie" target="Cinquecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Cinquecento" target="article_789">
+<edge source="Cinquecento" target="[Recensione a] Italies, 2021, 25 (Utopies, a c. di P. Abbrugiati, R. Ruggiero e M. Ringot), in Rassegna della Letteratura Italiana, IX/2, 2022, pp. 406-408.">
   <data key="d0">1</data>
 </edge>
 <edge source="Cinquecento" target="https://www.lelettere.it/libro/24010-20-2">
   <data key="d0">1</data>
 </edge>
-<edge source="Cinquecento" target="article_791">
+<edge source="Cinquecento" target="[recensione a] Un'arte che non langue non trema e non s'offusca. Studi per Simona Costa">
   <data key="d0">1</data>
 </edge>
 <edge source="Cinquecento" target="Lettere">
@@ -29714,11 +29136,11 @@
 <edge source="Editoria" target="Digital Archives">
   <data key="d0">2</data>
 </edge>
-<edge source="Editoria" target="article_1352">
-  <data key="d0">1</data>
-</edge>
 <edge source="Editoria" target="Letteratura Moderne E Contemporanea">
   <data key="d0">2</data>
+</edge>
+<edge source="Editoria" target="La produzione del romanzo. editori, consulenti, editor">
+  <data key="d0">1</data>
 </edge>
 <edge source="Editoria" target="Filologia Editoriale">
   <data key="d0">2</data>
@@ -29756,11 +29178,11 @@
 <edge source="Traduzioni" target="Filologia Classica">
   <data key="d0">2</data>
 </edge>
-<edge source="Traduzioni" target="article_1383">
-  <data key="d0">1</data>
-</edge>
 <edge source="Traduzioni" target="Poesia Italiana">
   <data key="d0">2</data>
+</edge>
+<edge source="Traduzioni" target="Ragioni di un libro">
+  <data key="d0">1</data>
 </edge>
 <edge source="Traduzioni" target="Giacomo Leopardi">
   <data key="d0">2</data>
@@ -29774,10 +29196,10 @@
 <edge source="Diplomazia" target="Crisi">
   <data key="d0">2</data>
 </edge>
-<edge source="Crisi" target="article_798">
+<edge source="Crisi" target="Recensione a: Raffaele Ruggiero, Baldassarre Castiglione diplomatico. La missione del 'Cortegiano'">
   <data key="d0">1</data>
 </edge>
-<edge source="Guicciardini- Sacco Di Roma - Autobiografia" target="article_800">
+<edge source="Guicciardini- Sacco Di Roma - Autobiografia" target="Forse che le cose harebbono avuto altro fine di quello che hanno havuto. Un autore allo specchio: Guicciardini e le orazioni all'indomani del Sacco">
   <data key="d0">1</data>
 </edge>
 <edge source="Semantic Collection" target="Mythologiae">
@@ -29840,13 +29262,7 @@
 <edge source="Data Modelling" target="Authoritativeness">
   <data key="d0">4</data>
 </edge>
-<edge source="Contestability" target="article_806">
-  <data key="d0">1</data>
-</edge>
-<edge source="Contestability" target="article_954">
-  <data key="d0">1</data>
-</edge>
-<edge source="Contestability" target="article_1087">
+<edge source="Contestability" target="MIMA: a data model to represent multi-disciplinary analysis on manuscripts. Use case&#10;on Pellegrino Prisciani's Historiae Ferrariae">
   <data key="d0">1</data>
 </edge>
 <edge source="Chinese Calligraphy" target="Write">
@@ -30020,7 +29436,7 @@
 <edge source="Xml Tei" target="Overlapping">
   <data key="d0">2</data>
 </edge>
-<edge source="Overlapping" target="article_816">
+<edge source="Overlapping" target="Edizioni digitali di opere a tradizione complessa: il caso del Conte di Carmagnola">
   <data key="d0">1</data>
 </edge>
 <edge source="Overlapping" target="Markup">
@@ -30149,7 +29565,7 @@
 <edge source="Censura" target="Monti">
   <data key="d0">2</data>
 </edge>
-<edge source="Politica" target="article_820">
+<edge source="Politica" target="Politica e Poetica nelle redazioni del Conte di Carmagnola">
   <data key="d0">1</data>
 </edge>
 <edge source="Politica" target="Letteratura Greca">
@@ -30218,7 +29634,7 @@
 <edge source="Verri" target="Monti">
   <data key="d0">2</data>
 </edge>
-<edge source="Monti" target="article_823">
+<edge source="Monti" target="Varianti politiche d'autore. Da Verri a Manzoni">
   <data key="d0">1</data>
 </edge>
 <edge source="Digital Texts" target="American  Philological  Tradition">
@@ -30377,10 +29793,10 @@
 <edge source="Graph Database" target="Cms">
   <data key="d0">4</data>
 </edge>
-<edge source="Cms" target="article_842">
+<edge source="Cms" target="Åšivadharma Database CMS. HTML and graph as a starting point for digital editions">
   <data key="d0">1</data>
 </edge>
-<edge source="Cms" target="article_997">
+<edge source="Cms" target="Śivadharma Database CMS. HTML and graph as a starting point for digital editions">
   <data key="d0">1</data>
 </edge>
 <edge source="Omeka" target="Iiif">
@@ -30437,7 +29853,7 @@
 <edge source="Metadata" target="Xml">
   <data key="d0">2</data>
 </edge>
-<edge source="Metadata" target="article_973">
+<edge source="Metadata" target="Representing and archiving">
   <data key="d0">1</data>
 </edge>
 <edge source="Metadata" target="Frbr">
@@ -30578,9 +29994,6 @@
 <edge source="Archives" target="Letteratura Del Novecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Archives" target="Filologia Della Letteratura Italiana">
-  <data key="d0">4</data>
-</edge>
 <edge source="Archives" target="Francesco Petrarca">
   <data key="d0">4</data>
 </edge>
@@ -30716,9 +30129,6 @@
 <edge source="Edizioni" target="https://wydawnictwo.uksw.edu.pl/ksiegarnia/1190-leopardi-oltre-la-letteratura-lo-zibaldone-nella-cultura-contemporanea.html">
   <data key="d0">1</data>
 </edge>
-<edge source="Edizioni" target="Filologia Della Letteratura Italiana">
-  <data key="d0">2</data>
-</edge>
 <edge source="Edizioni" target="Google">
   <data key="d0">2</data>
 </edge>
@@ -30755,7 +30165,7 @@
 <edge source="Mapprojecy" target="Hogart Press">
   <data key="d0">2</data>
 </edge>
-<edge source="Hogart Press" target="article_860">
+<edge source="Hogart Press" target="Review of BATTERSHILL, Claire, Helen SOUTHWORTH, Alice STAVELEY, Michael WIDNER, Elizabeth Willson GORDON, Nicola WILSON. 2017. Scholarly Adventures in Digital Humanities: Making the Modernist Archives Publishing Project">
   <data key="d0">1</data>
 </edge>
 <edge source="Chatbots" target="Museum">
@@ -30770,7 +30180,7 @@
 <edge source="Chatbots" target="Dialogflow Cx">
   <data key="d0">2</data>
 </edge>
-<edge source="Museum" target="article_874">
+<edge source="Museum" target="AI and chatbots as a storytelling tool to personalize the visitor experience. The case of National Museum of Ravenna.">
   <data key="d0">1</data>
 </edge>
 <edge source="Medieval Manuscripts Ontology" target="Memo">
@@ -30944,13 +30354,13 @@
 <edge source="Collaboration Environment" target="10.1145/2494266.2494323">
   <data key="d0">1</data>
 </edge>
-<edge source="Cronologia" target="article_897">
+<edge source="Cronologia" target="Cronologia della letteratura italiana">
   <data key="d0">1</data>
 </edge>
 <edge source="Markup Languages" target="Tei - Text Encoding Initiative">
   <data key="d0">4</data>
 </edge>
-<edge source="Tei - Text Encoding Initiative" target="article_899">
+<edge source="Tei - Text Encoding Initiative" target="DH-CASE 2013 - Collaborative Annotations in Shared Environments: Metadata, Vocabularies and Techniques in the Digital Humanities">
   <data key="d0">1</data>
 </edge>
 <edge source="Tei - Text Encoding Initiative" target="Eac - Encoded Archival Description">
@@ -30961,9 +30371,6 @@
 </edge>
 <edge source="Tei - Text Encoding Initiative" target="Geographic Ontology">
   <data key="d0">6</data>
-</edge>
-<edge source="Tei - Text Encoding Initiative" target="article_1755">
-  <data key="d0">1</data>
 </edge>
 <edge source="Eac - Encoded Archival Description" target="Semantic Models - Ontologies">
   <data key="d0">6</data>
@@ -31616,7 +31023,7 @@
 <edge source="Iliade" target="https://centri.unibo.it/permanenza/it/iniziative-editoriali/libri-di-sala">
   <data key="d0">1</data>
 </edge>
-<edge source="Informatica Umanistica" target="article_932">
+<edge source="Informatica Umanistica" target="Informatica umanistica. Andata e ... ritorno">
   <data key="d0">1</data>
 </edge>
 <edge source="Informatica Umanistica" target="Humanities Computing">
@@ -31781,7 +31188,7 @@
 <edge source="Rappresentazione Dati" target="Vespasiano Da Bisticci">
   <data key="d0">2</data>
 </edge>
-<edge source="Vespasiano Da Bisticci" target="article_951">
+<edge source="Vespasiano Da Bisticci" target="L'informazione digitale e il Web semantico. Il caso delle scholarly digital editions">
   <data key="d0">1</data>
 </edge>
 <edge source="Vespasiano Da Bisticci" target="Markup Xml/Tei">
@@ -31943,7 +31350,7 @@
 <edge source="Diario Postumo" target="Autografia">
   <data key="d0">2</data>
 </edge>
-<edge source="Diario Postumo" target="article_1333">
+<edge source="Diario Postumo" target="Grafie, autorialità, autenticità e Nota a margine: una data sbagliata">
   <data key="d0">1</data>
 </edge>
 <edge source="Diario Postumo" target="Autenticità">
@@ -31988,7 +31395,7 @@
 <edge source="Eugenio Montale" target="Annalisa Cima">
   <data key="d0">2</data>
 </edge>
-<edge source="Eugenio Montale" target="article_1349">
+<edge source="Eugenio Montale" target="La filologia e la stilistica di Dante Isella. Per un'antologia, a cura di Stefano Carrai e Paola Italia, “Ecdotica”, n. 15 (2018), pp. 185-238 (Introduzione pp. 185-88).">
   <data key="d0">1</data>
 </edge>
 <edge source="Eugenio Montale" target="Dante Isella">
@@ -32081,7 +31488,7 @@
 <edge source="Falsari" target="Poesia Italiana Del Novecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Poesia Italiana Del Novecento" target="article_960">
+<edge source="Poesia Italiana Del Novecento" target="Montale e pseudo-Montale. Autopsia del 'Diario postumo'">
   <data key="d0">1</data>
 </edge>
 <edge source="Hico" target="Prov-O">
@@ -32219,7 +31626,7 @@
 <edge source="Sofocle" target="Virgilio">
   <data key="d0">2</data>
 </edge>
-<edge source="Virgilio" target="article_967">
+<edge source="Virgilio" target="Patria, patrie">
   <data key="d0">1</data>
 </edge>
 <edge source="Virgilio" target="Catullo">
@@ -32255,7 +31662,7 @@
 <edge source="Promessi Sposi" target="Laboratorio">
   <data key="d0">6</data>
 </edge>
-<edge source="Promessi Sposi" target="article_1305">
+<edge source="Promessi Sposi" target="Capitolo Manzoni in Letteratura Italiana. Storia e testi. Manuale per studi universitari, Milano, Mondadori Education, vol. II, 2018, pp. 381-383 e 433-503.">
   <data key="d0">1</data>
 </edge>
 <edge source="Promessi Sposi" target="Romanzo">
@@ -32333,7 +31740,7 @@
 <edge source="Rivoluzione" target="Filologia Classica">
   <data key="d0">2</data>
 </edge>
-<edge source="Filologia Classica" target="article_975">
+<edge source="Filologia Classica" target="Res novae - Rivoluzioni">
   <data key="d0">1</data>
 </edge>
 <edge source="Document Semantics" target="Context And Content">
@@ -32441,7 +31848,7 @@
 <edge source="Authorship" target="Edizioni Scientifiche">
   <data key="d0">2</data>
 </edge>
-<edge source="Authorship" target="article_1327">
+<edge source="Authorship" target="Filologie d'autore, in La critica del testo, Problemi di metodo ed esperienze di lavoro.Trent'anni dopo, in vista del Settecentenario della morte di Dante, Atti del Convegno internazionale di Roma 23-26 ottobre 2017, a cura diEnrico Malato e Andrea Mazzucchi, Roma, Salerno Editrice, 2019, pp. 119-32.">
   <data key="d0">1</data>
 </edge>
 <edge source="Authorship" target="Critica Delle Varianti">
@@ -32453,7 +31860,7 @@
 <edge source="Testo Digitale" target="Accesso Aperto">
   <data key="d0">2</data>
 </edge>
-<edge source="Accesso Aperto" target="article_989">
+<edge source="Accesso Aperto" target="Un laboratorio di editoria digitale">
   <data key="d0">1</data>
 </edge>
 <edge source="Markup Xml/Tei" target="Firenze - Xv Secolo">
@@ -32477,7 +31884,7 @@
 <edge source="Edm" target="Lod Workflow">
   <data key="d0">2</data>
 </edge>
-<edge source="Lod Workflow" target="article_994">
+<edge source="Lod Workflow" target="Web semantico, Linked Data e archivi. Metodologie e strumenti per la rappresentazione della conoscenza">
   <data key="d0">1</data>
 </edge>
 <edge source="Frbr - Functional Requirements For Bibliographic Records" target="Scheda F">
@@ -32711,7 +32118,7 @@
 <edge source="Ocr" target="News Flows">
   <data key="d0">2</data>
 </edge>
-<edge source="Optical Character Recognition" target="article_1014">
+<edge source="Optical Character Recognition" target="Assessing the impact of OCR quality on downstream NLP tasks">
   <data key="d0">1</data>
 </edge>
 <edge source="Citation Histories" target="Physical Review">
@@ -32825,7 +32232,7 @@
 <edge source="Xml Schemas" target="10.1109/eScience.2019.00033">
   <data key="d0">1</data>
 </edge>
-<edge source="Text Recognition" target="article_1022">
+<edge source="Text Recognition" target="Diachronic Evaluation of NER Systems on Old Newspapers">
   <data key="d0">1</data>
 </edge>
 <edge source="Distributed Training" target="Group Synchronization">
@@ -33113,7 +32520,7 @@
 <edge source="Lavoro Digitale" target="Digital Skills">
   <data key="d0">2</data>
 </edge>
-<edge source="Digital Skills" target="article_1081">
+<edge source="Digital Skills" target="Le professioni del lavoro digitale">
   <data key="d0">1</data>
 </edge>
 <edge source="Data Preservation" target="Catalogue">
@@ -33677,7 +33084,7 @@
 <edge source="Semantic Interoperability" target="10.3233/SW-190383">
   <data key="d0">1</data>
 </edge>
-<edge source="User Perspectives" target="article_1199">
+<edge source="User Perspectives" target="Comparing User Perspectives in a Virtual Reality Cultural Heritage Environment">
   <data key="d0">1</data>
 </edge>
 <edge source="User Reviews" target="10.1007/978-3-319-26561-2_44">
@@ -33977,13 +33384,13 @@
 <edge source="Fascismo" target="Interdiscorsività">
   <data key="d0">2</data>
 </edge>
-<edge source="Fascismo" target="article_1329">
-  <data key="d0">1</data>
-</edge>
 <edge source="Fascismo" target="Letteratura Moderna E Contemporanea">
   <data key="d0">4</data>
 </edge>
-<edge source="Fascismo" target="article_1366">
+<edge source="Fascismo" target="Gadda e Roma prima del Pasticciaccio. Con un articolo &quot;disperso&quot;">
+  <data key="d0">1</data>
+</edge>
+<edge source="Fascismo" target="Metafore scientifiche nella prosa di Carlo Emilio Gadda">
   <data key="d0">1</data>
 </edge>
 <edge source="Fascismo" target="Linguaggio">
@@ -34012,6 +33419,9 @@
 </edge>
 <edge source="Fascismo" target="Psicoanalisi">
   <data key="d0">2</data>
+</edge>
+<edge source="Fascismo" target="Riscritture gaddiane, da Eros e la Banda (1944) al Bugiardone (1946) a Eros e Priapo (1967)">
+  <data key="d0">1</data>
 </edge>
 <edge source="Fascismo" target="Alberto Savinio">
   <data key="d0">2</data>
@@ -34052,7 +33462,7 @@
 <edge source="Intertestualità" target="Interdiscorsività">
   <data key="d0">2</data>
 </edge>
-<edge source="Interdiscorsività" target="article_1297">
+<edge source="Interdiscorsività" target="&quot;Li associati a delinquere&quot;. Voci di Gadda in &quot;Eros e Priapo&quot;">
   <data key="d0">1</data>
 </edge>
 <edge source="Francesco Petrarca" target="Codice Degli Abbozzi">
@@ -34093,9 +33503,6 @@
 </edge>
 <edge source="Francesco Petrarca" target="Giacomo Leopardi">
   <data key="d0">6</data>
-</edge>
-<edge source="Francesco Petrarca" target="Filologia Della Letteratura Italiana">
-  <data key="d0">4</data>
 </edge>
 <edge source="Francesco Petrarca" target="Giovanni Boccaccio">
   <data key="d0">4</data>
@@ -34205,7 +33612,7 @@
 <edge source="Urbano Viii" target="Canzoniere">
   <data key="d0">2</data>
 </edge>
-<edge source="Canzoniere" target="article_1298">
+<edge source="Canzoniere" target="Alle origini della filologia d'autore. L'edizione del “Codice degli abbozzi” di Federico Ubaldini*">
   <data key="d0">1</data>
 </edge>
 <edge source="Critica Delle Varianti" target="Stéphane Mallarmé">
@@ -34232,13 +33639,10 @@
 <edge source="Critica Delle Varianti" target="Critica Genetica">
   <data key="d0">8</data>
 </edge>
-<edge source="Critica Delle Varianti" target="article_1307">
+<edge source="Critica Delle Varianti" target="Come lavorava Gadda">
   <data key="d0">1</data>
 </edge>
 <edge source="Critica Delle Varianti" target="Letteratura Moderna E Contemporanea">
-  <data key="d0">2</data>
-</edge>
-<edge source="Critica Delle Varianti" target="Filologia Della Letteratura Italiana">
   <data key="d0">2</data>
 </edge>
 <edge source="Critica Delle Varianti" target="Varianti D'Autore">
@@ -34400,9 +33804,6 @@
 <edge source="Gianfranco Contini" target="Letteratura Italiana Moderna E Contemporanea">
   <data key="d0">2</data>
 </edge>
-<edge source="Gianfranco Contini" target="Filologia Della Letteratura Italiana">
-  <data key="d0">2</data>
-</edge>
 <edge source="Gianfranco Contini" target="Carlo Goldoni">
   <data key="d0">2</data>
 </edge>
@@ -34436,9 +33837,6 @@
 <edge source="Benedetto Croce" target="Proust">
   <data key="d0">2</data>
 </edge>
-<edge source="Benedetto Croce" target="Filologia Della Letteratura Italiana">
-  <data key="d0">2</data>
-</edge>
 <edge source="Benedetto Croce" target="Carlo Goldoni">
   <data key="d0">2</data>
 </edge>
@@ -34454,7 +33852,7 @@
 <edge source="Giacomo Leopardi" target="https://www.carocci.it/prodotto/gli-scartafacci-degli-scrittori">
   <data key="d0">1</data>
 </edge>
-<edge source="Giacomo Leopardi" target="article_1300">
+<edge source="Giacomo Leopardi" target="Appunti leopardiani I">
   <data key="d0">1</data>
 </edge>
 <edge source="Giacomo Leopardi" target="Unpublished Notes">
@@ -34495,9 +33893,6 @@
 </edge>
 <edge source="Giacomo Leopardi" target="Mimesis">
   <data key="d0">2</data>
-</edge>
-<edge source="Giacomo Leopardi" target="Filologia Della Letteratura Italiana">
-  <data key="d0">4</data>
 </edge>
 <edge source="Giacomo Leopardi" target="Giovanni Boccaccio">
   <data key="d0">4</data>
@@ -34601,7 +33996,7 @@
 <edge source="Giacomo Leopardi" target="Luigi Blasucci">
   <data key="d0">2</data>
 </edge>
-<edge source="Unpublished Notes" target="article_1301">
+<edge source="Unpublished Notes" target="Appunti leopardiani II">
   <data key="d0">1</data>
 </edge>
 <edge source="Unpublished Notes" target="Operette Morali">
@@ -34674,9 +34069,6 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Letteratura Moderna E Contemporanea" target="&quot;Botteghe Oscure&quot;">
-  <data key="d0">2</data>
-</edge>
-<edge source="Letteratura Moderna E Contemporanea" target="Filologia Della Letteratura Italiana">
   <data key="d0">2</data>
 </edge>
 <edge source="Letteratura Moderna E Contemporanea" target="Varianti D'Autore">
@@ -34760,28 +34152,28 @@
 <edge source="Psicoanalisi" target="&quot;Botteghe Oscure&quot;">
   <data key="d0">2</data>
 </edge>
-<edge source="Psicoanalisi" target="article_1369">
+<edge source="Psicoanalisi" target="Nota al testo in Carlo Emilio Gadda, &quot;Eros e Priapo. Versione originale&quot;">
   <data key="d0">1</data>
 </edge>
 <edge source="Psicoanalisi" target="Freud">
   <data key="d0">2</data>
 </edge>
-<edge source="Psicoanalisi" target="https://www.adelphi.it/libro/9788845934407">
-  <data key="d0">1</data>
-</edge>
 <edge source="Psicoanalisi" target="Letteratura Italiana Moderna E Contemporanea">
   <data key="d0">2</data>
+</edge>
+<edge source="Psicoanalisi" target="https://www.adelphi.it/libro/9788845934407">
+  <data key="d0">1</data>
 </edge>
 <edge source="Psicoanalisi" target="Romanzo Del Novecento">
   <data key="d0">2</data>
 </edge>
-<edge source="&quot;Botteghe Oscure&quot;" target="article_1303">
+<edge source="&quot;Botteghe Oscure&quot;" target="Bassani e Gadda. Quattro varianti per “Botteghe oscure”, in Giulio Ferroni, Clizia Gurreri (a cura di), Cento anni di Giorgio Bassani, Roma, Edizioni di Storia e Letteratura, 2019, pp. 147-64.">
   <data key="d0">1</data>
 </edge>
 <edge source="Poesia Dell'Ottocento" target="Romanticismo">
   <data key="d0">2</data>
 </edge>
-<edge source="Poesia Dell'Ottocento" target="article_1376">
+<edge source="Poesia Dell'Ottocento" target="Paola Italia, Il metodo di Leopardi. Varianti e stile nella formazione delle “Canzoni”, Roma, Carocci, 2016.">
   <data key="d0">1</data>
 </edge>
 <edge source="Romanticismo" target="https://www.vieusseux.it/books/antologia-vieusseux-n-87-settembre-dicembre-2023/">
@@ -34793,7 +34185,7 @@
 <edge source="Romanticismo" target="Biografia">
   <data key="d0">2</data>
 </edge>
-<edge source="Romanticismo" target="article_1361">
+<edge source="Romanticismo" target="Lo scrittoio, in Leopardi, a cura di Franco D'Intino e Massimo Natale, Roma, Carocci, 2018, pp. 227-42.">
   <data key="d0">1</data>
 </edge>
 <edge source="Romanticismo" target="Letteratura Italiana Dell'Ottocento">
@@ -34850,7 +34242,7 @@
 <edge source="Gadda" target="Bassani">
   <data key="d0">2</data>
 </edge>
-<edge source="Gadda" target="article_1308">
+<edge source="Gadda" target="Come lavorava Gadda. Un percorso tra le carte">
   <data key="d0">1</data>
 </edge>
 <edge source="Gadda" target="Biblioteche">
@@ -34859,98 +34251,8 @@
 <edge source="Gadda" target="Prima Guerra Mondiale">
   <data key="d0">2</data>
 </edge>
-<edge source="Bassani" target="article_1306">
+<edge source="Bassani" target="Carte geo-grafiche. Prosatori al lavoro">
   <data key="d0">1</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Varianti D'Autore">
-  <data key="d0">2</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Google">
-  <data key="d0">2</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Editing">
-  <data key="d0">2</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Giovanni Boccaccio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Umanesimo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Sannazzaro">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Niccolò Machiavelli">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Lodovico Ariosto">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Francesco Guicciardini">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Baldassar Castiglione">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Pietro Bembo">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Giovan Giorgio Trissino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Pietro Aretino">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Giovanni Della Casa">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Annibale Rucellai">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Vincenzio Borghini">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Torquato Tasso">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Alessandro Tassoni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Galileo Galilei">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Giovan Battista Vico">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Pietro Metastasio">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Pietro Verri">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Giuseppe Pelli Bencivenni">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Vittorio Alfieri">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Vincenzo Monti">
-  <data key="d0">4</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Carlo Goldoni">
-  <data key="d0">2</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Alberto Savinio">
-  <data key="d0">2</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="https://mucchieditore.it/prodotto/la-vita-e-segno-gino-ruozzi/">
-  <data key="d0">1</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Nuova Enciclopedia">
-  <data key="d0">2</data>
-</edge>
-<edge source="Filologia Della Letteratura Italiana" target="Letteratura Italiana Moderna E Contemporanea">
-  <data key="d0">2</data>
 </edge>
 <edge source="Confocal Microscopy" target="Diffraction Limit">
   <data key="d0">2</data>
@@ -35099,9 +34401,6 @@
 <edge source="Epistolario" target="Biografia">
   <data key="d0">2</data>
 </edge>
-<edge source="Ecdotica Filologia Testuale" target="article_1313">
-  <data key="d0">1</data>
-</edge>
 <edge source="https://site.unibo.it/ecdotica/it" target="Teoria Del Testo">
   <data key="d0">1</data>
 </edge>
@@ -35129,16 +34428,16 @@
 <edge source="Google" target="Testi In Rete">
   <data key="d0">2</data>
 </edge>
-<edge source="Editing" target="article_1317">
+<edge source="Editing" target="Editing 2.0. Quali testi leggiamo e leggeremo in rete?">
   <data key="d0">1</data>
 </edge>
 <edge source="Editing" target="Letteratura Del Novecento&#10;Editoria&#10;Filologia">
   <data key="d0">2</data>
 </edge>
-<edge source="Editing" target="article_1335">
+<edge source="Editing" target="Il doppio sguardo">
   <data key="d0">1</data>
 </edge>
-<edge source="Editing" target="article_1387">
+<edge source="Editing" target="Rec. a Giancarlo Ferretti, Il marchio dell'editore. Libri e carte, incontri e casi letterari, Novara, Interlinea, 2019, in “Antologia Vieusseux”, n.s., a XXV, n. 75 (settembre-dicembre 2019), pp. 77-83.">
   <data key="d0">1</data>
 </edge>
 <edge source="Editing" target="Storia Del Libro">
@@ -35162,7 +34461,7 @@
 <edge source="Letteratura Del Novecento" target="http://www.salernoeditrice.it/Rassegna_stampa.asp?id=1921">
   <data key="d0">1</data>
 </edge>
-<edge source="Letteratura Del Novecento" target="article_1334">
+<edge source="Letteratura Del Novecento" target="I pellegrini degli archivi, in &quot;Archivi letterari del '900. Parte I: Ricerche e interpretazioni, a cura di Giuliana Zagra, Monica Davini, Magdalena Maria Kubas, &quot;Quaderni del Novecento&quot; (2018), 18, pp. 7-12.">
   <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Del Novecento" target="Alberto Savinio">
@@ -35264,7 +34563,7 @@
 <edge source="Edizioni Critiche" target="Opere Complete">
   <data key="d0">2</data>
 </edge>
-<edge source="Edizioni Scientifiche" target="article_1323">
+<edge source="Edizioni Scientifiche" target="Filologia d'autore digitale e multidisciplinare. Dall'Authorship alla fotonica">
   <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Francese" target="Simbolismo">
@@ -35297,7 +34596,7 @@
 <edge source="Valéry" target="Proust">
   <data key="d0">2</data>
 </edge>
-<edge source="Proust" target="article_1324">
+<edge source="Proust" target="Filologia d'autore, critica genetica e critica delle varianti: diacronia, sincronia e tassonomia">
   <data key="d0">1</data>
 </edge>
 <edge source="Filologia Editoriale" target="Edizioni Critiche Digitali">
@@ -35309,7 +34608,7 @@
 <edge source="Filologia Editoriale" target="Opere Complete">
   <data key="d0">2</data>
 </edge>
-<edge source="Filologia Editoriale" target="article_1336">
+<edge source="Filologia Editoriale" target="Il lettore di Bassani e il “caso Deliliers”">
   <data key="d0">1</data>
 </edge>
 <edge source="Filologia Editoriale" target="Letteratura Moderne E Contemporanea">
@@ -35336,7 +34635,7 @@
 <edge source="Filologia" target="Letteratura Italiana Del Novecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Letteratura Italiana Del Novecento" target="article_1326">
+<edge source="Letteratura Italiana Del Novecento" target="Filologia editoriale, Roberto Calasso in dialogo con Paola Italia e Francisco Rico">
   <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Italiana Del Novecento" target="Alberto Savinio">
@@ -36233,7 +35532,7 @@
 <edge source="Pietro Metastasio" target="Giuseppe Pelli Bencivenni">
   <data key="d0">4</data>
 </edge>
-<edge source="Resistenza" target="article_1343">
+<edge source="Resistenza" target="Introduzione, a Mario Tobino, Il Clandestino">
   <data key="d0">1</data>
 </edge>
 <edge source="Scholarly Editing" target="Digital Text">
@@ -36242,11 +35541,11 @@
 <edge source="Scholarly Editing" target="Textual Criticism">
   <data key="d0">4</data>
 </edge>
-<edge source="Scholarly Editing" target="https://www.patroneditore.com/volumi/9788855535632/che-cos-era-e-che-cos-un-testo-di-lingua">
-  <data key="d0">1</data>
-</edge>
 <edge source="Scholarly Editing" target="Bibliografia">
   <data key="d0">2</data>
+</edge>
+<edge source="Scholarly Editing" target="https://www.patroneditore.com/volumi/9788855535632/che-cos-era-e-che-cos-un-testo-di-lingua">
+  <data key="d0">1</data>
 </edge>
 <edge source="Lingua Italiana" target="Didattica Della Lingua Italiana">
   <data key="d0">2</data>
@@ -36386,7 +35685,7 @@
 <edge source="Cannizzaro" target="Camerini">
   <data key="d0">4</data>
 </edge>
-<edge source="Cannizzaro" target="article_1348">
+<edge source="Cannizzaro" target="La commedia nell'età moderna: l'Ottocento">
   <data key="d0">1</data>
 </edge>
 <edge source="Cannizzaro" target="Rossetti">
@@ -36401,7 +35700,7 @@
 <edge source="Tommaseo" target="Camerini">
   <data key="d0">2</data>
 </edge>
-<edge source="Camerini" target="article_1347">
+<edge source="Camerini" target="La commedia nell'età moderna: l'Ottocento">
   <data key="d0">1</data>
 </edge>
 <edge source="Camerini" target="Rossetti">
@@ -36491,7 +35790,7 @@
 <edge source="Biblioteche D'Autore" target="Letteratura Italiana Moderna E Contemporanea">
   <data key="d0">2</data>
 </edge>
-<edge source="Biblioteche D'Autore" target="article_1393">
+<edge source="Biblioteche D'Autore" target="Recensione a Biblioteche reali, biblioteche immaginarie. Tracce di libri, luoghi e letture, a cura di Anna Dolfi, Firenze University Press 2015">
   <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="https://www.bulzoni.it/it/catalogo/catalogo-della-biblioteca-di-carlo-emilio-gadda.html">
@@ -36506,11 +35805,11 @@
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="Romanzo Del Novecento">
   <data key="d0">2</data>
 </edge>
-<edge source="Letteratura Italiana Moderna E Contemporanea" target="https://www.vieusseux.it/uploads/antologia/N83/ANT83-09-LettIt.pdf">
-  <data key="d0">1</data>
-</edge>
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="Bibliografia">
   <data key="d0">2</data>
+</edge>
+<edge source="Letteratura Italiana Moderna E Contemporanea" target="https://www.vieusseux.it/uploads/antologia/N83/ANT83-09-LettIt.pdf">
+  <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="Giorgio Caproni">
   <data key="d0">2</data>
@@ -36527,11 +35826,11 @@
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="Alberto Moravia">
   <data key="d0">2</data>
 </edge>
-<edge source="Letteratura Italiana Moderna E Contemporanea" target="https://www.vieusseux.it/attivita-culturali/pubblicazioni/antologia-vieusseux.html">
-  <data key="d0">1</data>
-</edge>
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="Primo Levi">
   <data key="d0">2</data>
+</edge>
+<edge source="Letteratura Italiana Moderna E Contemporanea" target="https://www.vieusseux.it/attivita-culturali/pubblicazioni/antologia-vieusseux.html">
+  <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Italiana Moderna E Contemporanea" target="Bibliografie">
   <data key="d0">2</data>
@@ -36650,13 +35949,16 @@
 <edge source="Europa" target="Bompiani Editore">
   <data key="d0">2</data>
 </edge>
-<edge source="Bompiani Editore" target="article_1368">
+<edge source="Bompiani Editore" target="Nota al testo a Alberto Savinio, Sorte dell'Europa">
   <data key="d0">1</data>
 </edge>
 <edge source="Metafisica" target="Valentino Bompiani">
   <data key="d0">2</data>
 </edge>
-<edge source="Valentino Bompiani" target="article_1372">
+<edge source="Valentino Bompiani" target="Nuove voci di “Nuova enciclopedia”">
+  <data key="d0">1</data>
+</edge>
+<edge source="Leonardo Sciascia" target="P. Italia, Sciascia e Tobino: un'amicizia 'a bacchiagghiu', in “Il Giannone”, a. XV-XVII, n. 29-34, gennaio-dicembre 2019, pp. 163-77.">
   <data key="d0">1</data>
 </edge>
 <edge source="La Passeggiata Autunnale" target="Alessandro Bonsanti">
@@ -36698,7 +36000,7 @@
 <edge source="Giuseppe Prezzolini" target="Archivi Del Novecento.">
   <data key="d0">2</data>
 </edge>
-<edge source="Archivi Del Novecento." target="article_1388">
+<edge source="Archivi Del Novecento." target="Rec. a Giovanni Papini-Giuseppe Prezzolini, Carteggio III, 1915-1956. Dalla Grande Guerra al secondo dopoguerra, a cura di Sandro Gentili e Gloria Manghetti, Roma, Edizioni di Storia e Letteratura - Biblioteca Cantonale Lugano Archivio Prezzolini 2013, &quot;Antologia Vieusseux&quot;, n. 57 (settembre-dicembre 2013), pp. 174-79.">
   <data key="d0">1</data>
 </edge>
 <edge source="Letteratura Italiaa" target="Napoleone">
@@ -36731,7 +36033,7 @@
 <edge source="Autore" target="Scrittura">
   <data key="d0">2</data>
 </edge>
-<edge source="Letteratura Italiana&#10;Letteratura Contemporanea&#10;Alberto Savinio&#10;Opera Lirica&#10;Libretti" target="article_1400">
+<edge source="Letteratura Italiana&#10;Letteratura Contemporanea&#10;Alberto Savinio&#10;Opera Lirica&#10;Libretti" target="Savinio librettista. Orfeo vedovo">
   <data key="d0">1</data>
 </edge>
 <edge source="Francesco Flora" target="Università Di Bologna">
@@ -36750,15 +36052,12 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Settecento" target="Legislazione">
-  <data key="d0">2</data>
+  <data key="d0">1</data>
 </edge>
 <edge source="Letteratura" target="Legislazione">
   <data key="d0">2</data>
 </edge>
-<edge source="Legislazione" target="article_1404">
-  <data key="d0">1</data>
-</edge>
-<edge source="Carlo Goldoni" target="article_1405">
+<edge source="Carlo Goldoni" target="Stratigrafie e varianti, da Manzoni a Gadda. Nuove prospettive per la filologia d'autore">
   <data key="d0">1</data>
 </edge>
 <edge source="Infinito" target="Idillio">
@@ -36815,7 +36114,7 @@
 <edge source="Romanticism" target="Letter On Romanticism">
   <data key="d0">2</data>
 </edge>
-<edge source="Letter On Romanticism" target="article_1409">
+<edge source="Letter On Romanticism" target="Un nuovo testimone della &quot;Lettera sul Romanticismo&quot;">
   <data key="d0">1</data>
 </edge>
 <edge source="Genetic Criticism" target="10.11647/OBP.0224">
@@ -37235,7 +36534,7 @@
 <edge source="Legalxml" target="Hybrid Ai">
   <data key="d0">2</data>
 </edge>
-<edge source="Legalxml" target="article_1451">
+<edge source="Legalxml" target="Hybrid Classification of European Legislation using Sustainable Development Goals">
   <data key="d0">1</data>
 </edge>
 <edge source="Legalxml" target="Unsupervised Classification">
@@ -37484,7 +36783,7 @@
 <edge source="Data Governance" target="Digital Citizenship Mediation">
   <data key="d0">2</data>
 </edge>
-<edge source="Data Governance" target="article_1463">
+<edge source="Data Governance" target="La Mediazione Digitale e nuove forme tecnologiche di discriminazione">
   <data key="d0">1</data>
 </edge>
 <edge source="Data Governance" target="Vulnerability">
@@ -37496,7 +36795,7 @@
 <edge source="Datafication" target="Digital Identity">
   <data key="d0">2</data>
 </edge>
-<edge source="Digital Identity" target="article_1433">
+<edge source="Digital Identity" target="Big data, governance dei dati e nuove vulnerabilità">
   <data key="d0">1</data>
 </edge>
 <edge source="Digital Identity" target="Blockchain">
@@ -37694,7 +36993,7 @@
 <edge source="Informatica Giuridica E Diritto Dell'Infoprmatica" target="Nuove Tecnologie">
   <data key="d0">2</data>
 </edge>
-<edge source="Nuove Tecnologie" target="article_1453">
+<edge source="Nuove Tecnologie" target="Il CIRSFID e l'informatica giuridica">
   <data key="d0">1</data>
 </edge>
 <edge source="Digitalizzazione Della Giustizia" target="Giustizia Algoritmica">
@@ -37739,7 +37038,7 @@
 <edge source="Informatica Forense" target="Egoverment">
   <data key="d0">2</data>
 </edge>
-<edge source="Egoverment" target="article_1456">
+<edge source="Egoverment" target="Informatica giuridica e informatica forense al servizio della società della conoscenza. Scritti in onore di Cesare Maioli">
   <data key="d0">1</data>
 </edge>
 <edge source="Identita' Digitale" target="Identità Giuridica">
@@ -38135,7 +37434,7 @@
 <edge source="Vulnerability" target="Discrimination">
   <data key="d0">2</data>
 </edge>
-<edge source="Trasformazione Digitale" target="article_1464">
+<edge source="Trasformazione Digitale" target="La trasformazione digitale della giustizia nel dialogo tra discipline">
   <data key="d0">1</data>
 </edge>
 <edge source="Conoscibilità Del Diritto" target="Accesso All'Informazione Giuridica">
@@ -38273,7 +37572,7 @@
 <edge source="Legal Rule Modelling" target="Meta-Model">
   <data key="d0">2</data>
 </edge>
-<edge source="Open Government" target="article_1470">
+<edge source="Open Government" target="Legal Issues and Economic Exploitation of Open Government Data">
   <data key="d0">1</data>
 </edge>
 <edge source="Open Government" target="Openness">
@@ -38321,7 +37620,7 @@
 <edge source="Open Government Data Mash-Up" target="Licensing Of Open Government Data">
   <data key="d0">2</data>
 </edge>
-<edge source="Legal Rules" target="article_1475">
+<edge source="Legal Rules" target="Legal Rules Modelling Meets the Web">
   <data key="d0">1</data>
 </edge>
 <edge source="Legal Rules" target="Defeasible Logic">
@@ -38384,7 +37683,7 @@
 <edge source="Gdpr Rule Modelling" target="Legal Compliance Checking">
   <data key="d0">2</data>
 </edge>
-<edge source="Legal Knowledge Representation" target="article_1485">
+<edge source="Legal Knowledge Representation" target="Modificatory Provision Detection: a Hybrid NLP Apprach">
   <data key="d0">1</data>
 </edge>
 <edge source="Hate Speech" target="Legal Concepts">
@@ -38393,7 +37692,7 @@
 <edge source="Legal Concepts" target="10.3233/FAIA230981">
   <data key="d0">1</data>
 </edge>
-<edge source="Defeasible Logic" target="article_1487">
+<edge source="Defeasible Logic" target="OASIS LegalRuleML">
   <data key="d0">1</data>
 </edge>
 <edge source="Court Cases" target="Court Decisions">
@@ -38549,7 +37848,7 @@
 <edge source="Digital Signature" target="Ict Law">
   <data key="d0">2</data>
 </edge>
-<edge source="Ict Law" target="article_1497">
+<edge source="Ict Law" target="Remote Signatures for e‐Government: The Case of Municipal Certification in Italy">
   <data key="d0">1</data>
 </edge>
 <edge source="Cloud Computing&#10;Autonomic Computing&#10;Legislation Compliance Checking&#10;Optimization&#10;Quality Of Service&#10;Monitoring&#10;Service Migration&#10;Service Portability" target="10.1016/j.future.2016.11.025">
@@ -38723,7 +38022,7 @@
 <edge source="Legal Frameworks" target="Right-To-Know&#10;&#10;International Law">
   <data key="d0">2</data>
 </edge>
-<edge source="Right-To-Know&#10;&#10;International Law" target="article_1505">
+<edge source="Right-To-Know&#10;&#10;International Law" target="The right to know through the freedom of information and open data">
   <data key="d0">1</data>
 </edge>
 <edge source="European Case Law Identifier" target="Judicial Transparency">
@@ -38882,7 +38181,7 @@
 <edge source="Acquisition Process" target="Digitisation Process">
   <data key="d0">2</data>
 </edge>
-<edge source="Digitisation Process" target="article_1537">
+<edge source="Digitisation Process" target="CHANGES - Cultural Heritage Active Innovation for Next-Gen Sustainable Society">
   <data key="d0">1</data>
 </edge>
 <edge source="Bibliographic Ontology" target="Scientific Discourse">
@@ -38975,7 +38274,7 @@
 <edge source="Sociology" target="Publishing">
   <data key="d0">2</data>
 </edge>
-<edge source="Publishing" target="article_1582">
+<edge source="Publishing" target="Journal of Documentation">
   <data key="d0">1</data>
 </edge>
 <edge source="Openaire" target="European Open Science Cloud">
@@ -39263,7 +38562,7 @@
 <edge source="Grounded Theory Approach" target="10.1108/JD-07-2022-0146">
   <data key="d0">1</data>
 </edge>
-<edge source="Humanities&#10;Topic Modeling&#10;Retraction" target="article_1662">
+<edge source="Humanities&#10;Topic Modeling&#10;Retraction" target="Why arts and humanities publications get retracted: a topic modeling analysis of the retraction notices">
   <data key="d0">1</data>
 </edge>
 <edge source="Wikicite" target="Wikipedia Citations">
@@ -39287,7 +38586,7 @@
 <edge source="Italian" target="Morphological Analyser">
   <data key="d0">4</data>
 </edge>
-<edge source="Italian" target="article_1673">
+<edge source="Italian" target="AnIta Morphological Analyser for Italian (v1.3)">
   <data key="d0">1</data>
 </edge>
 <edge source="Italian" target="Derivation Graph">
@@ -39623,7 +38922,7 @@
 <edge source="Nlp Techniques" target="Linguistic Bio-Marker">
   <data key="d0">2</data>
 </edge>
-<edge source="Digital Linguistic Biomarker" target="article_1679">
+<edge source="Digital Linguistic Biomarker" target="Can speech-based measures support Developmental Language Disorder identification? An explorative study.">
   <data key="d0">1</data>
 </edge>
 <edge source="Assistive Technology" target="Clinical Applications Of Speech Technology">
@@ -39869,10 +39168,10 @@
 <edge source="Linguaggio Patologico" target="Trattamento Automatico Delle Lingue Naturali">
   <data key="d0">2</data>
 </edge>
-<edge source="Trattamento Automatico Delle Lingue Naturali" target="article_1694">
+<edge source="Trattamento Automatico Delle Lingue Naturali" target="Il farsi e disfarsi del linguaggio. Acquisizione, mutamento e destrutturazione della struttura sonora del linguaggio/Language acquisition and language loss. Acquisition, change and disorders of the language sound structure">
   <data key="d0">1</data>
 </edge>
-<edge source="Linguista" target="article_1695">
+<edge source="Linguista" target="Il ruolo del linguista nel trattamento automatico delle lingue.">
   <data key="d0">1</data>
 </edge>
 <edge source="Dialogue Design" target="Pragmatics">
@@ -39920,7 +39219,7 @@
 <edge source="Corpus" target="Parti Del Discorso">
   <data key="d0">2</data>
 </edge>
-<edge source="Parti Del Discorso" target="article_1697">
+<edge source="Parti Del Discorso" target="INDUZIONE DI CATEGORIE GRAMMATICALI E LESSICALI">
   <data key="d0">1</data>
 </edge>
 <edge source="Classico" target="Latino">
@@ -39986,7 +39285,7 @@
 <edge source="Nahutal" target="Cinese">
   <data key="d0">2</data>
 </edge>
-<edge source="Cinese" target="article_1698">
+<edge source="Cinese" target="La nozione di classico in linguistica. Atti del XXXVIII Convegno della Società Italiana di Glottologia">
   <data key="d0">1</data>
 </edge>
 <edge source="Dementia Screening" target="Linguistic Biomarkers">
@@ -40160,7 +39459,7 @@
 <edge source="Biochemistry" target="Genetics And Molecular Biology (All)">
   <data key="d0">4</data>
 </edge>
-<edge source="Genetics And Molecular Biology (All)" target="article_1704">
+<edge source="Genetics And Molecular Biology (All)" target="Marche linguistiche come indicatori del decadimento cognitivo">
   <data key="d0">1</data>
 </edge>
 <edge source="Genetics And Molecular Biology (All)" target="10.1016/j.maturitas.2015.05.013">
@@ -40181,13 +39480,13 @@
 <edge source="Probabilistic Graphical Models" target="Prominence Annotation">
   <data key="d0">2</data>
 </edge>
-<edge source="Prominence Annotation" target="article_1712">
+<edge source="Prominence Annotation" target="Prosodic prominence detection in Italian continuous speech using probabilistic graphical models">
   <data key="d0">1</data>
 </edge>
 <edge source="Dizionari" target="Atlanti">
   <data key="d0">2</data>
 </edge>
-<edge source="Atlanti" target="article_1713">
+<edge source="Atlanti" target="Quali risorse usa (o crea) il linguista?">
   <data key="d0">1</data>
 </edge>
 <edge source="Dependency Treebank" target="Dependency Rewriting Tool">
@@ -40220,7 +39519,7 @@
 <edge source="Document Embedding" target="Paragraph Vectors">
   <data key="d0">2</data>
 </edge>
-<edge source="Paragraph Vectors" target="article_1718">
+<edge source="Paragraph Vectors" target="Specialising Paragraph Vectors for Text Polarity Detection">
   <data key="d0">1</data>
 </edge>
 <edge source="Neural Models" target="Ensemble Models">
