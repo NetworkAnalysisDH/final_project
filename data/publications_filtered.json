@@ -5961,7 +5961,8 @@
             "type": "conference",
             "id": "11585/959618",
             "author": [
-                "Sartini Bruno, Baroncini Sofia"
+                "Bruno Sartini",
+                "Sofia Baroncini"
             ],
             "title": "A Comparative Study of Simple and Complex Art Interpretations in Linked Open Data Using ICON Ontology",
             "year": "2023",
@@ -6024,11 +6025,11 @@
             "type": "article",
             "id": "11585/925537",
             "author": [
-                "Sartini, Bruno",
-                "Baroncini, Sofia",
-                "van Erp, Marieke",
-                "Tomasi, Francesca",
-                "Gangemi, Aldo"
+                "Bruno Sartini",
+                "Sofia Baroncini",
+                "Marieke van Erp",
+                "Francesca Tomasi",
+                "Aldo Gangemi"
             ],
             "title": "ICON: an Ontology for Comprehensive Artistic Interpretations",
             "year": "2023",
@@ -6050,11 +6051,11 @@
             "type": "article",
             "id": "11585/922641",
             "author": [
-                "Baroncini, Sofia",
-                "Sartini, Bruno",
-                "van Erp, Marieke",
-                "Tomasi, Francesca",
-                "Gangemi, Aldo"
+                "Bruno Sartini",
+                "Sofia Baroncini",
+                "Marieke van Erp",
+                "Francesca Tomasi",
+                "Aldo Gangemi"
             ],
             "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in the semantic web",
             "year": "2023",
@@ -6074,9 +6075,9 @@
             "type": "conference",
             "id": "11585/899029",
             "author": [
-                "Sartini, B",
-                "van Erp, M",
-                "Gangemi, A"
+                "Bruno Sartini",
+                "Marieke van Erp",
+                "Aldo Gangemi"
             ],
             "title": "Marriage is a Peach and a Chalice: Modelling Cultural Symbolism on the Semantic Web",
             "year": "2021",
@@ -6099,10 +6100,10 @@
             "type": "poster",
             "id": "11585/925544",
             "author": [
-                "Sartini Bruno",
-                "Nesterov Andrei",
-                "Libbi Claudia",
-                "Brate Ryan",
+                "Bruno Sartini",
+                "Andrei Nesterov",
+                "Claudia Libbi",
+                "Ryan Brate",
                 "Shoilee Sarah Binta Alam",
                 "Daniil Savvina"
             ],
@@ -6141,11 +6142,11 @@
             "type": "article",
             "id": "1585/834976",
             "author": [
-                "Brancato, Dario",
-                "Corbellini, Milena",
-                "Italia, Paola",
-                "Pasqual, Valentina",
-                "Priore, Roberta"
+                "Dario Brancato",
+                "Milena Corbellini",
+                "Paola Italia",
+                "Valentina Pasqual",
+                "Roberta Priore"
             ],
             "title": "VaSto: un’edizione digitale interdisciplinare",
             "year": "2021",
@@ -6223,11 +6224,11 @@
             "type": "article",
             "id": "11585/916050",
             "author": [
-                "Zhang, Shibingfeng",
-                "Fernicola, Francesco",
-                "Garcea, Federico",
-                "Bonora, Paolo",
-                "Barron Cedeno, Alberto"
+                "Shibingfeng Zhang",
+                "Francesco Fernicola",
+                "Federico Garcea",
+                "Paolo Bonora",
+                "Alberto Barron Cedeno"
             ],
             "title": "AriEmozione 2.0: Identifying Emotions in Opera Verses and Arias",
             "year": "2022",
@@ -6268,8 +6269,8 @@
             "type": "article",
             "id": "11585/614498",
             "author": [
-                "Bartolini, Ilaria",
-                "Patella, Marco"
+                "Ilaria Bartolini",
+                "Marco Patella"
             ],
             "title": "A general framework for real-time analysis of massive multimedia streams",
             "year": "2017",
@@ -6291,9 +6292,9 @@
             "author": [
                 "Ceol, A.",
                 "Montanari, P.",
-                "Bartolini, I.",
+                "Ilaria Bartolini",
                 "Ciaccia, P.",
-                "Patella, M.",
+                "Marco Patella",
                 "Ceri, S.",
                 "Masseroli, M."
             ],
@@ -6312,8 +6313,8 @@
             "type": "conference",
             "id": "11585/614496",
             "author": [
-                "Bartolini, Ilaria",
-                "Patella, Marco"
+                "Ilaria Bartolini",
+                "Marco Patella"
             ],
             "title": "Comparing performances of big data stream processing platforms with RAM3S",
             "year": "2017",
@@ -6334,7 +6335,7 @@
             "type": "essay",
             "id": "11585/614497",
             "author": [
-                "Ilaria, Bartolini"
+                "Ilaria Bartolini"
             ],
             "title": "Image Querying",
             "year": "2017",
@@ -6352,8 +6353,8 @@
             "type": "conference",
             "id": "11585/621067",
             "author": [
-                "Ilaria, Bartolini",
-                "andrea di luzio"
+                "Ilaria Bartolini",
+                "Andrea Di Luzio"
             ],
             "title": "Towards Automatic Recognition of Narcolepsy with Cataplexy",
             "year": "2017",
@@ -6374,8 +6375,8 @@
             "type": "article",
             "id": "11585/614499",
             "author": [
-                "Bartolini, Ilaria",
-                "Patella, Marco"
+                "Ilaria Bartolini",
+                "Marco Patella"
             ],
             "title": "Windsurf: the best way to SURF: (and SIFT/BRISK/ORB/FREAK, too)",
             "year": "2017",
@@ -6393,13 +6394,13 @@
             "type": "article",
             "id": "11585/653402",
             "author": [
-                "Bartolini, Ilaria",
-                "Pizza, Fabio",
-                "Di Luzio, Andrea",
-                "Neccia, Giulia",
-                "Antelmi, Elena",
-                "Vandi, Stefano",
-                "Plazzi, Giuseppe"
+                "Ilaria Bartolini ",
+                "Fabio Pizza",
+                "Andrea Di Luzio",
+                "Giulia Neccia",
+                "Elena Antelmi",
+                "Stefano Vandi",
+                "Giuseppe Plazzi"
             ],
             "title": "Automatic detection of cataplexy",
             "year": "2018",
@@ -6461,9 +6462,9 @@
             "type": "essay",
             "id": "11585/614469",
             "author": [
-                "Ilaria, Bartolini",
-                "Paolo, Ciaccia",
-                "Marco, Patella"
+                "Ilaria Bartolini",
+                "Paolo Ciaccia",
+                "Marco Patella"
             ],
             "title": "Multimedia, Similarity, and Preferences: Adding Flexibility to Your Information Needs",
             "year": "2018",
@@ -6484,29 +6485,29 @@
             "type": "article",
             "id": "11585/635413",
             "author": [
-                "Andrisano, Oreste",
-                "Bartolini, Ilaria",
-                "Bellavista, Paolo",
-                "Boeri, Andrea",
-                "Bononi, Luciano",
-                "Borghetti, Alberto",
-                "Brath, Armando",
-                "Corazza, Giovanni Emanuele",
-                "Corradi, Antonio",
-                "De Miranda, Stefano",
-                "Fava, Fabio",
-                "Foschini, Luca",
-                "Leoni, Giovanni",
-                "Longo, Danila",
-                "Milano, Michela",
-                "Napolitano, Fabio",
-                "Nucci, Carlo Alberto",
-                "Pasolini, Gianni",
-                "Patella, Marco",
-                "Salmon Cinotti, Tullio",
-                "Tarchi, Daniele",
-                "Ubertini, Francesco",
-                "Vigo, Daniele"
+                "Oreste Andrisano",
+                "Ilaria Bartolini",
+                "Paolo Bellavista",
+                "Andrea Boeri",
+                "Luciano Bononi",
+                "Alberto Borghetti",
+                "Armando Brath",
+                "Giovanni Emanuele Corazza",
+                "Antonio Corradi",
+                "Stefano De Miranda",
+                "Fabio Fava",
+                "Luca Foschini",
+                "Giovanni Leoni",
+                "Danila Longo",
+                "Michela Milano",
+                "Fabio Napolitano",
+                "Carlo Alberto Nucci",
+                "Gianni Pasolini",
+                "Marco Patella",
+                "Tullio Salmon Cinotti",
+                "Daniele Tarchi",
+                "Francesco Ubertini",
+                "Daniele Vigo"
             ],
             "title": "The Need of Multidisciplinary Approaches and Engineering Tools for the Development and Implementation of the Smart City Paradigm",
             "year": "2018",
@@ -6539,7 +6540,7 @@
             "type": "conference",
             "id": "11585/711434",
             "author": [
-                "Bartolini, Ilaria"
+                "Ilaria Bartolini"
             ],
             "title": "2019 International Conference on Very Large Database PhD Workshop, VLDB-PhD 2019",
             "year": "2019",
@@ -6631,9 +6632,9 @@
             "type": "conference",
             "id": "11585/711477",
             "author": [
-                "Bartolini, Ilaria",
-                "Patella, Marco",
-                "Pascarella, Pietro"
+                "Ilaria Bartolini",
+                "Marco Patella",
+                "Pietro Pascarella"
             ],
             "title": "Multiple Instance Classification or: How I Learned to Evaluate Local Image Descriptors",
             "year": "2019",
@@ -6652,8 +6653,8 @@
             "type": "article",
             "id": "11585/711451",
             "author": [
-                "Bartolini, Ilaria",
-                "Patella, Marco"
+                "Ilaria Bartolini",
+                "Marco Patella"
             ],
             "title": "Real-Time Stream Processing in Social Networks with RAM^3S",
             "year": "2019",
@@ -6686,7 +6687,7 @@
                 "Mascalchi M.",
                 "Federico A.",
                 "Dotti M.T.",
-                "De Stefano N"
+                "De Stefano N."
             ],
             "title": "Relevance of brain lesion location for cognition in vascular mild cognitive impairment",
             "year": "2019",
@@ -6718,8 +6719,8 @@
             "type": "conference",
             "id": "11585/775759",
             "author": [
-                "Bartolini, I.",
-                "Patella, M."
+                "Ilaria Bartolini",
+                "Marco Patella"
             ],
             "title": "Rammed, or What RAM^3S Taught Us",
             "year": "2020",
@@ -6915,8 +6916,8 @@
             "type": "conference",
             "id": "11585/894752",
             "author": [
-                "Bartolini I.",
-                "Di Luzio A."
+                "Ilaria Bartolini",
+                "Andrea Di Luzio"
             ],
             "title": "Active E-Learning by Doing with ALDO",
             "year": "2022",
@@ -7010,7 +7011,7 @@
             "type": "article",
             "id": "11585/955111",
             "author": [
-                "Bartolini I.",
+                "Ilaria Bartolini",
                 "Moscato V.",
                 "Postiglione M.",
                 "Sperlì G.",
@@ -7034,8 +7035,8 @@
             "type": "conference",
             "id": "11585/955103",
             "author": [
-                "Bartolini I.",
-                "Patella M."
+                "Ilaria Bartolini",
+                "Marco Patella"
             ],
             "title": "From RAM3S to SPAF: Towards a Stream Processing Abstracting Framework",
             "year": "2023",
@@ -7419,7 +7420,7 @@
             "type": "article",
             "id": "1585/897490",
             "author": [
-                "Corazza M.",
+                "Michele Corazza",
                 "Tamburini F.",
                 "Valerio M.",
                 "Ferrara S."
@@ -7751,9 +7752,9 @@
             "type": "essay",
             "id": "11585/766545",
             "author": [
-                "Formilan, G.",
-                "Ferriani, S.",
-                "Cattani, G."
+                "G. Formilan",
+                "Simone Ferriani",
+                "G. Cattani"
             ],
             "title": "A methodological essay on the application of social sequence analysis to the study of creative trajectories",
             "year": "2020",
@@ -7775,14 +7776,14 @@
             "type": "abstract",
             "id": "11585/723911",
             "author": [
-                "Bentley, Frederick Scott",
-                "Rosado-Solomon, Emily",
-                "Perry-Smith, Jill",
-                "Ferriani, Simone",
-                "Godart, Frederic Clement",
-                "Grosser, Travis",
-                "Santoni, Simone",
-                "Sterling, Chris"
+                "Frederick Scott Bentley",
+                "Emily Rosado-Solomon",
+                "Jill Perry-Smith",
+                "Simone Ferriani",
+                "Frederic Clement Godart",
+                "Travis Grosser",
+                "Simone Santoni",
+                "Chris Sterling"
             ],
             "title": "A Multilevel Perspective on Social Networks and Creativity/Innovation",
             "year": "2018",
@@ -7803,10 +7804,10 @@
             "type": "trusteeship",
             "id": "11585/851706",
             "author": [
-                "simone ferriani",
-                "gino cattani",
-                "stoyan sgourev",
-                "frederic godart"
+                "Simone Ferriani",
+                "Gino Cattani",
+                "Stoyan Sgourev",
+                "Frederic Godart"
             ],
             "title": "Aesthetics and Style in Strategy",
             "year": "2021",
@@ -7829,7 +7830,7 @@
             "type": "article",
             "id": "11585/766547",
             "author": [
-                "Ferriani, S.",
+                "Simone Ferriani",
                 "Lazerson M.H.",
                 "Lorenzoni G."
             ],
@@ -7852,8 +7853,8 @@
             "type": "article",
             "id": "11585/955741",
             "author": [
-                "Cutolo, Donato",
-                "Ferriani, Simone"
+                "Donato Cutolo",
+                "Simone Ferriani"
             ],
             "title": "Atypicality: Toward an Integrative Framework in Organizational and Market Settings",
             "year": "2024",
@@ -7875,9 +7876,9 @@
             "type": "article",
             "id": "11585/614520",
             "author": [
-                "Cattani, Gino",
-                "Ferriani, Simone",
-                "Lanza, Andrea"
+                "Gino Cattani",
+                "Simone Ferriani",
+                "Andrea Lanza"
             ],
             "title": "Deconstructing the Outsider Puzzle: The Legitimation Journey of Novelty",
             "year": "2017",
@@ -7926,9 +7927,9 @@
             "type": "article",
             "id": "11585/681850",
             "author": [
-                "Aadland, Erik",
-                "Cattani, Gino",
-                "Ferriani, Simone"
+                "Erik Aadland",
+                "Gino Cattani",
+                "Simone Ferriani"
             ],
             "title": "Friends, Cliques and Gifts: Social Proximity and Recognition in Peer-Based Tournament Rituals",
             "year": "2019",
@@ -7956,9 +7957,9 @@
             "type": "article",
             "id": "11585/851701",
             "author": [
-                "Cattani, Gino",
-                "Colucci, Mariachiara",
-                "Ferriani, Simone"
+                "Gino Cattani",
+                "Mariachiara Colucci",
+                "Simone Ferriani"
             ],
             "title": "From the Margins to the Core of Haute Couture: The Entrepreneurial Journey of Coco Chanel",
             "year": "2023",
@@ -7980,8 +7981,8 @@
             "type": "article",
             "id": "11585/831034",
             "author": [
-                "simone ferriani",
-                "gino cattani"
+                "Simone Ferriani",
+                "Gino Cattani"
             ],
             "title": "How Outsiders Become Game Changers",
             "year": "2021",
@@ -8000,9 +8001,9 @@
             "type": "essay",
             "id": "11585/695367",
             "author": [
-                "Falchetti, Denise",
-                "Cattani, Gino",
-                "Ferriani, Simone"
+                "Denise Falchetti",
+                "Gino Cattani",
+                "Simone Ferriani"
             ],
             "title": "Innovators’ Acts of Framing and Audiences’ Structural Characteristics in Novelty Recognition",
             "year": "2020",
@@ -8032,7 +8033,7 @@
             "author": [
                 "Corbo L.",
                 "Corrado R.",
-                "Ferriani S."
+                "Simone Ferriani"
             ],
             "title": "Network pathways of peripheral firm entry: Empirical evidence from the global airline industry",
             "year": "2024",
@@ -8053,9 +8054,9 @@
             "type": "essay",
             "id": "11585/851699",
             "author": [
-                "Cattani, Gino",
-                "Deichmann, Dirk",
-                "Ferriani, Simone"
+                "Gino Cattani",
+                "Dirk Deichmann",
+                "Simone Ferriani"
             ],
             "title": "Novelty: Searching for, Seeing, and Sustaining it",
             "year": "2022",
@@ -8078,9 +8079,9 @@
             "type": "conference",
             "id": "11585/723888",
             "author": [
-                "Falchetti, Denise",
-                "Cattani, Gino",
-                "Ferriani, Simone"
+                "Denise Falchetti",
+                "Gino Cattani",
+                "Simone Ferriani"
             ],
             "title": "Overcoming the Liability of Novelty: The Power of Framing",
             "year": "2018",
@@ -8102,10 +8103,10 @@
             "type": "article",
             "id": "11585/782358",
             "author": [
-                "Aadland E.",
-                "Cattani G.",
-                "Falchetti D.",
-                "Ferriani S."
+                "Erik Aadland",
+                "Gino Cattani",
+                "Denise Falchetti",
+                "Simone Ferriani"
             ],
             "title": "Reflecting glory or deflecting stigma? The interplay between status and social proximity in peer evaluations",
             "year": "2020",
@@ -8126,9 +8127,9 @@
             "type": "article",
             "id": "11585/843015",
             "author": [
-                "Falchetti D.",
-                "Cattani G.",
-                "Ferriani S."
+                "Gino Cattani",
+                "Denise Falchetti",
+                "Simone Ferriani"
             ],
             "title": "Start with “Why,” but only if you have to: The strategic framing of novel ideas across different audiences",
             "year": "2022",
@@ -8150,8 +8151,8 @@
             "id": "11585/782356",
             "author": [
                 "Cutolo D.",
-                "Ferriani S.",
-                "Cattani G."
+                "Simone Ferriani",
+                "Gino Cattani"
             ],
             "title": "Tell me your story and i will tell your sales: A topic model analysis of narrative style and firm performance on Etsy",
             "year": "2020",
@@ -8173,8 +8174,8 @@
             "type": "article",
             "id": "11585/782354",
             "author": [
-                "Cattani, G.",
-                "Ferriani, S.",
+                "Simone Ferriani",
+                "Gino Cattani",
                 "Godart, F.",
                 "Sgourev, S."
             ],
@@ -8196,9 +8197,9 @@
             "type": "trusteeship",
             "id": "11585/782355",
             "author": [
-                "Cattani G.",
                 "Deichmann D.",
-                "Ferriani S."
+                "Simone Ferriani",
+                "Gino Cattani"
             ],
             "title": "The Generation, Recognition and Legitimation of Novelty",
             "year": "2021",
@@ -8220,9 +8221,9 @@
             "type": "essay",
             "id": "11585/640063",
             "author": [
-                "Aadland, E.",
-                "Cattani, G.",
-                "S. Ferriani"
+                "Erik Aadland",
+                "Gino Cattani",
+                "Simone Ferriani"
             ],
             "title": "The Social Structure of Consecration in Cultural Fields: The Influence of Status and Social Distance in Audience-Candidate Evaluative Processes",
             "year": "2018",
@@ -8247,9 +8248,9 @@
             "type": "conference",
             "id": "11585/723869",
             "author": [
-                "Aadland, Erik",
-                "Falchetti, Denise",
-                "Ferriani, Simone"
+                "Erik Aadland",
+                "Denise Falchetti",
+                "Simone Ferriani"
             ],
             "title": "The Socio-Cognitive Bases of Reward Allocation: The Interplay between Status and Social in Peer-Base",
             "year": "2019",
@@ -8271,11 +8272,11 @@
             "type": "conference",
             "id": "11585/894726",
             "author": [
-                "De Palma, Giuseppe",
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Trentin, Matteo",
-                "Zavattaro, Gianluigi"
+                "Giuseppe De Palma",
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Matteo Trentin",
+                "Gianluigi Zavattaro"
             ],
             "title": "A Declarative Approach to Topology-Aware Serverless Function-Execution Scheduling",
             "year": "2022",
@@ -8321,10 +8322,10 @@
             "type": "conference",
             "id": "11585/626247",
             "author": [
-                "Gabbrielli, Maurizio",
-                "Giallorenzo, Saverio",
-                "Lanese, Ivan",
-                "Zingaro, Stefano Pio"
+                "Maurizio Gabbrielli",
+                "Saverio Giallorenzo",
+                "Ivan Lanese",
+                "Stefano Pio Zingaro"
             ],
             "title": "A Language-based Approach for Interoperability of IoT Platforms",
             "year": "2018",
@@ -8368,12 +8369,12 @@
             "type": "conference",
             "id": "11585/998532",
             "author": [
-                "Giallorenzo, Saverio",
-                "Montesi, Fabrizio",
-                "Peressotti, Marco",
-                "Rademacher, Florian",
-                "Sachweh, Sabine",
-                "Wizenty, Philip"
+                "Saverio Giallorenzo",
+                "Fabrizio Montesi",
+                "Marco Peressotti",
+                "Florian Rademacher",
+                "Sabine Sachweh",
+                "Philip Wizenty"
             ],
             "title": "A Toolchain for Checking Domain- and Model-Driven Properties of Jolie Microservices",
             "year": "2024",
@@ -8419,11 +8420,11 @@
             "type": "conference",
             "id": "11585/998537",
             "author": [
-                "De Palma, Giuseppe",
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Trentin, Matteo",
-                "Zavattaro, Gianluigi"
+                "Giuseppe De Palma",
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Matteo Trentin",
+                "Gianluigi Zavattaro"
             ],
             "title": "An OpenWhisk Extension for Topology-Aware Allocation Priority Policies",
             "year": "2024",
@@ -8447,9 +8448,9 @@
             "type": "conference",
             "id": "11585/998538",
             "author": [
-                "Giallorenzo, Saverio",
-                "Montesi, Fabrizio",
-                "Gabbrielli, Maurizio"
+                "Saverio Giallorenzo",
+                "Fabrizio Montesi",
+                "Maurizio Gabbrielli"
             ],
             "title": "Applied choreographies",
             "year": "2018",
@@ -8470,9 +8471,9 @@
             "type": "conference",
             "id": "11585/653064",
             "author": [
-                "Giallorenzo, Saverio",
-                "Lanese, Ivan",
-                "Russo, Daniel"
+                "Saverio Giallorenzo",
+                "Ivan Lanese",
+                "Daniel Russo"
             ],
             "title": "ChIP: A choreographic integration process",
             "year": "2018",
@@ -8493,9 +8494,9 @@
             "type": "article",
             "id": "11585/953342",
             "author": [
-                "Giallorenzo, Saverio",
-                "Montesi, Fabrizio",
-                "Peressotti, Marco"
+                "Saverio Giallorenzo",
+                "Fabrizio Montesi",
+                "Marco Peressotti"
             ],
             "title": "Choral: Object-Oriented Choreographic Programming",
             "year": "2024",
@@ -8514,12 +8515,12 @@
             "type": "conference",
             "id": "11585/998486",
             "author": [
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Melis, Andrea",
-                "Montesi, Fabrizio",
-                "Peressotti, Marco",
-                "Prandini, Marco"
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Andrea Melis",
+                "Fabrizio Montesi",
+                "Marco Peressotti",
+                "Marco Prandini"
             ],
             "title": "Choreography-Defined Networks: A Case Study on DoS Mitigation",
             "year": "2024",
@@ -8546,10 +8547,10 @@
             "type": "article",
             "id": "11585/621026",
             "author": [
-                "Callegati, Franco",
-                "Giallorenzo, Saverio",
-                "Melis, Andrea",
-                "Prandini, Marco"
+                "Franco Callegati",
+                "Saverio Giallorenzo",
+                "Andrea Melis",
+                "Marco Prandini"
             ],
             "title": "Cloud-of-Things meets Mobility-as-a-Service: An insider threat perspective",
             "year": "2017",
@@ -8624,12 +8625,12 @@
             "type": "article",
             "id": "11585/933504",
             "author": [
-                "Berardi, Davide",
-                "Giallorenzo, Saverio",
-                "Melis, Andrea",
-                "Melloni, Simone",
-                "Onori, Loris",
-                "Prandini, Marco"
+                "Davide Berardi",
+                "Saverio Giallorenzo",
+                "Andrea Melis",
+                "Simone Melloni",
+                "Loris Onori",
+                "Marco Prandini"
             ],
             "title": "Data Flooding against Ransomware: Concepts and Implementations",
             "year": "2023",
@@ -8655,11 +8656,11 @@
             "type": "article",
             "id": "11585/588930",
             "author": [
-                "Mila, Dalla Preda",
-                "Maurizio, Gabbrielli",
-                "Saverio, Giallorenzo",
-                "Ivan, Lanese",
-                "Jacopo, Mauro"
+                "Mila Dalla Preda",
+                "Maurizio Gabbrielli",
+                "Saverio Giallorenzo",
+                "Ivan Lanese",
+                "Jacopo Mauro"
             ],
             "title": "Dynamic Choreographies: Theory And Implementation",
             "year": "2017",
@@ -8677,10 +8678,10 @@
             "type": "conference",
             "id": "11585/713706",
             "author": [
-                "Giallorenzo, S.",
-                "Montesi, Fabrizio",
-                "Safina, Larisa",
-                "Zingaro, S. P."
+                "Saverio Giallorenzo",
+                "Fabrizio Montesi",
+                "Larisa Safina",
+                " S. P. Zingaro"
             ],
             "title": "Formalising Domain-Driven Properties of Jolie Microservices",
             "year": "2019",
@@ -8702,11 +8703,11 @@
             "type": "conference",
             "id": "11585/695657",
             "author": [
-                "Callegati, Franco",
-                "Giallorenzo, Saverio",
-                "Gabbrielli, Maurizio",
-                "Melis, Andrea",
-                "Prandini, Marco"
+                "Franco Callegati",
+                "Saverio Giallorenzo",
+                "Maurizio Gabbrielli",
+                "Andrea Melis",
+                "Marco Prandini"
             ],
             "title": "Federated Platooning: Insider Threats and Mitigations",
             "year": "2019",
@@ -8727,11 +8728,11 @@
             "type": "article",
             "id": "11585/955211",
             "author": [
-                "Palma, Giuseppe De",
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Trentin, Matteo",
-                "Zavattaro, Gianluigi"
+                "Giuseppe De Palma",
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Matteo Trentin",
+                "Gianluigi Zavattaro"
             ],
             "title": "Formally Verifying Function Scheduling Properties in Serverless Applications",
             "year": "2023",
@@ -8750,16 +8751,16 @@
             "type": "conference",
             "id": "11585/995145",
             "author": [
-                "Vitali, M.",
-                "Soldani, J.",
-                "Amadini, R.",
-                "Brogi, A.",
-                "Forti, S.",
-                "Gazza, S.",
-                "Giallorenzo, S.",
-                "Plebani, P.",
-                "Ponce, F.",
-                "Zavattaro, G."
+                "M. Vitali",  
+                "J. Soldani",  
+                "R. Amadini",  
+                "A. Brogi",  
+                "S. Forti",  
+                "S. Gazza",  
+                "Saverio Giallorenzo",  
+                "P. Plebani",  
+                "F. Ponce",  
+                "G. Zavattaro"
             ],
             "title": "FREEDA: Failure-Resilient, Energy-aware, and Explainable Deployment of Microservice-based Applications over Cloud-IoT Infrastructures",
             "year": "2024",
@@ -8782,11 +8783,11 @@
             "type": "conference",
             "id": "11585/995599",
             "author": [
-                "De Palma, Giuseppe",
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Trentin, Matteo",
-                "Zavattaro, Gianluigi"
+                "Giuseppe De Palma",  
+                "Saverio Giallorenzo",  
+                "Jacopo Mauro",  
+                "Matteo Trentin",  
+                "Gianluigi Zavattaro"
             ],
             "title": "FunLess: Functions-as-a-Service for Private Edge Cloud Systems",
             "year": "2024",
@@ -8805,10 +8806,10 @@
             "type": "essay",
             "id": "11585/709855",
             "author": [
-                "Gabbrielli M.",
-                "Giallorenzo S.",
-                "Lanese I.",
-                "Mauro J."
+                "Saverio Giallorenzo",
+                "M. Gabbrielli",  
+                "I. Lanese",  
+                "J. Mauro"
             ],
             "title": "Guess Who’s Coming: Runtime Inclusion of Participants in Choreographies",
             "year": "2019",
@@ -8835,10 +8836,10 @@
             "type": "conference",
             "id": "11585/603632",
             "author": [
-                "Callegati, Franco",
-                "Giallorenzo, Saverio",
-                "Melis, Andrea",
-                "Prandini, Marco"
+                "Franco Callegati",  
+                "Saverio Giallorenzo",  
+                "Andrea Melis",  
+                "Marco Prandini"
             ],
             "title": "Insider Threats in Emerging Mobility-as-a-Service Scenarios",
             "year": "2017",
@@ -8880,10 +8881,11 @@
             "type": "conference",
             "id": "11585/830892",
             "author": [
-                "Giallorenzo S.",
-                "Montesi F.",
-                "Peressotti M.",
-                "Rademacher F.; Sachweh S."
+                "Saverio Giallorenzo",  
+                "F. Montesi",  
+                "M. Peressotti",  
+                "F. Rademacher",  
+                "S. Sachweh"
             ],
             "title": "Jolie and LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices",
             "year": "2021",
@@ -8904,10 +8906,10 @@
             "type": "article",
             "id": "11585/950020",
             "author": [
-                "Giallorenzo, S",
-                "Montesi, F",
-                "Peressotti, M",
-                "Rademacher, F"
+                "Saverio Giallorenzo",
+                "F. Montesi",  
+                "M. Peressotti",  
+                "F. Rademacher"
             ],
             "title": "LEMMA2Jolie: A tool to generate microservice APIs from domain models",
             "year": "2023",
@@ -8928,10 +8930,10 @@
             "type": "essay",
             "id": "11585/695947",
             "author": [
-                "Gabbrielli, Maurizio",
-                "Giallorenzo, Saverio",
-                "Lanese, Ivan",
-                "Zingaro, Stefano Pio"
+                "Maurizio Gabbrielli",  
+                "Saverio Giallorenzo",  
+                "Ivan Lanese",  
+                "Stefano Pio Zingaro"
             ],
             "title": "Linguistic Abstractions for Interoperability of IoT Platforms",
             "year": "2019",
@@ -8956,12 +8958,12 @@
             "type": "conference",
             "id": "11585/830890",
             "author": [
-                "Bacchiani L.",
-                "Bravetti M.",
-                "Giallorenzo S.",
-                "Mauro J.",
-                "Talevi I.",
-                "Zavattaro G."
+                "L. Bacchiani",  
+                "M. Bravetti",  
+                "Saverio Giallorenzo",  
+                "J. Mauro",  
+                "I. Talevi",  
+                "G. Zavattaro"
             ],
             "title": "Microservice Dynamic Architecture-Level Deployment Orchestration",
             "year": "2021",
@@ -9062,10 +9064,10 @@
             "type": "conference",
             "id": "11585/891873",
             "author": [
-                "SGiallorenzo S.",
-                "Montesi F.",
-                "Peressotti M.",
-                "Rademacher F."
+                "Saverio Giallorenzo",  
+                "F. Montesi",  
+                "M. Peressotti",  
+                "F. Rademacher"
             ],
             "title": "Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs",
             "year": "2022",
@@ -9116,12 +9118,12 @@
             "type": "conference",
             "id": "11585/695659",
             "author": [
-                "Gabbrielli M.",
-                "Giallorenzo S.",
-                "Lanese I.",
-                "Montesi F.",
-                "Peressotti M.",
-                "Zingaro S.P."
+                "M. Gabbrielli",  
+                "Saverio Giallorenzo",  
+                "I. Lanese",  
+                "F. Montesi",  
+                "M. Peressotti",  
+                "S.P. Zingaro"
             ],
             "title": "No more, no less: A formal model for serverless computing",
             "year": "2019",
@@ -9140,11 +9142,11 @@
             "type": "conference",
             "id": "11585/686792",
             "author": [
-                "Bravetti, Mario",
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Talevi, Iacopo",
-                "Zavattaro, Gianluigi"
+                "Mario Bravetti",  
+                "Saverio Giallorenzo",  
+                "Jacopo Mauro",  
+                "Iacopo Talevi",  
+                "Gianluigi Zavattaro"
             ],
             "title": "Optimal and automated deployment for microservices",
             "year": "2019",
@@ -9166,16 +9168,16 @@
             "type": "conference",
             "id": "11585/995149",
             "author": [
-                "Amadini R.",
-                "Gazza S.",
-                "Soldani J.",
-                "Vitali M.",
-                "Brogi A.",
-                "Forti S.",
-                "Giallorenzo S.",
-                "Plebani P.",
-                "Ponce F.",
-                "Zavattaro G."
+                "R. Amadini",  
+                "S. Gazza",  
+                "J. Soldani",  
+                "M. Vitali",  
+                "A. Brogi",  
+                "S. Forti",  
+                "S. Giallorenzo",  
+                "P. Plebani",  
+                "F. Ponce",  
+                "G. Zavattaro"
             ],
             "title": "Pick a Flavour: Towards Sustainable Deployment of Cloud-Edge Applications",
             "year": "2024",
@@ -9225,10 +9227,10 @@
             "type": "essay",
             "id": "11585/912512",
             "author": [
-                "Giallorenzo S.",
-                "Lanese I.",
-                "Mauro J.",
-                "Gabbrielli M."
+                "Saverio Giallorenzo",  
+                "I. Lanese",  
+                "J. Mauro",  
+                "M. Gabbrielli"
             ],
             "title": "Programming adaptive microservice applications: An AIOCJ tutorial",
             "year": "2017",
@@ -9250,11 +9252,11 @@
             "type": "article",
             "id": "11585/951135",
             "author": [
-                "Berardi, Davide",
-                "Giallorenzo, Saverio",
-                "Melis, Andrea",
-                "Melloni, Simone",
-                "Prandini, Marco"
+                "Davide Berardi",  
+                "Saverio Giallorenzo",  
+                "Andrea Melis",  
+                "Simone Melloni",  
+                "Marco Prandini"
             ],
             "title": "Ranflood: A mitigation tool based on the principles of data flooding against ransomware",
             "year": "2024",
@@ -9274,12 +9276,12 @@
             "type": "conference",
             "id": "11585/950021",
             "author": [
-                "De Palma, Giuseppe",
-                "Giallorenzo, Saverio",
-                "Laneve, Cosimo",
-                "Mauro, Jacopo",
-                "Trentin, Matteo",
-                "Zavattaro, Gianluigi"
+               "Giuseppe De Palma",  
+                "Saverio Giallorenzo",  
+                "Cosimo Laneve",  
+                "Jacopo Mauro",  
+                "Matteo Trentin",  
+                "Gianluigi Zavattaro"
             ],
             "title": "Serverless Scheduling Policies based on Cost Analysis",
             "year": "2023",
@@ -9298,11 +9300,11 @@
             "type": "conference",
             "id": "11585/621028",
             "author": [
-                "Callegati, Franco",
-                "Gabbrielli, Maurizio",
-                "Giallorenzo, Saverio",
-                "Melis, Andrea",
-                "Prandini, Marco"
+                "Franco Callegati",  
+                "Maurizio Gabbrielli",  
+                "Saverio Giallorenzo",  
+                "Andrea Melis",  
+                "Marco Prandini"
             ],
             "title": "Smart Mobility for All - A Global Federated Market for Mobility-as-a-Service Operators",
             "year": "2017",
@@ -9345,15 +9347,15 @@
         {
             "type": "conference",
             "id": "11585/995148",
-            "author": [
-                "Soldani J.",
-                "Amadini R.",
-                "Brogi A.",
-                "Forti S.",
-                "Giallorenzo S.",
-                "Plebani P.",
-                "Vitali M.",
-                "Zavattaro G."
+            "author": [ 
+                "J. Soldani",  
+                "R. Amadini",  
+                "A. Brogi",  
+                "S. Forti",  
+                "Saverio Giallorenzo",  
+                "P. Plebani",  
+                "M. Vitali",  
+                "G. Zavattaro"
             ],
             "title": "Towards Sustainable Deployment of Microservices over the Cloud-IoT Continuum, with FREEDA",
             "year": "2024",
@@ -9373,10 +9375,10 @@
             "type": "article",
             "id": "11585/830894",
             "author": [
-                "Giallorenzo, Saverio",
-                "Mauro, Jacopo",
-                "Poulsen, Martin Gyde",
-                "Siroky, Filip"
+                "Saverio Giallorenzo",  
+                "Jacopo Mauro",  
+                "Martin Gyde Poulsen",  
+                "Filip Siroky"
             ],
             "title": "Virtualization Costs: Benchmarking Containers and Virtual Machines Against Bare-Metal",
             "year": "2021",
@@ -9395,9 +9397,9 @@
             "type": "article",
             "id": "11585/950069",
             "author": [
-                "Ballestra, Luca Vincenzo",
-                "D’Innocenzo, Enzo",
-                "Guizzardi, Andrea"
+                "Luca Vincenzo Ballestra",  
+                "Enzo D’Innocenzo",  
+                "Andrea Guizzardi"
             ],
             "title": "A new bivariate approach for modeling the interaction between stock volatility and interest rate: An application to S&P500 returns and options",
             "year": "2024",
@@ -9418,9 +9420,9 @@
             "type": "article",
             "id": "11585/993574",
             "author": [
-                "Stacchini, Annalisa",
-                "Guizzardi, Andrea",
-                "Brasini, Sergio"
+                "Annalisa Stacchini",  
+                "Andrea Guizzardi",  
+                "Sergio Brasini"
             ],
             "title": "A Non-Compensatory Index of Community Participation in Cross-Border Tourism Development Processes",
             "year": "2024",
@@ -9440,9 +9442,9 @@
             "type": "article",
             "id": "11585/919047",
             "author": [
-                "Baggio R.",
-                "Guizzardi A.",
-                "Mariani M."
+                "R. Baggio",  
+                "Andrea Guizzardi",  
+                "M. Mariani"
             ],
             "title": "A social network analysis of interlocking directorates in the accommodation sector",
             "year": "2024",
@@ -9487,9 +9489,9 @@
             "type": "article",
             "id": "11585/882944",
             "author": [
-                "Guizzardi, Andrea",
-                "Mariani, MARCELLO MARIA",
-                "Stacchini, Annalisa"
+                "Andrea Guizzardi",  
+                "Marcello Maria Mariani",  
+                "Annalisa Stacchini"
             ],
             "title": "A temporal construal theory explanation of the price-quality relationship in online dynamic pricing",
             "year": "2022",
@@ -9510,9 +9512,9 @@
             "type": "article",
             "id": "11585/882945",
             "author": [
-                "Guizzardi, A.",
-                "Pons, F",
-                "Ranieri, E."
+                "Andrea Guizzardi",  
+                "F. Pons",  
+                "E. Ranieri"
             ],
             "title": "Advance booking and hotel price variability online: Any opportunity for business customers?",
             "year": "2017",
@@ -9533,9 +9535,9 @@
             "type": "article",
             "id": "11585/578943",
             "author": [
-                "Guizzardi, Andrea",
-                "Stacchini, Annalisa",
-                "Ranieri, Ercolino"
+                "Andrea Guizzardi",  
+                "Annalisa Stacchini",  
+                "Ercolino Ranieri"
             ],
             "title": "Best buy: what does it mean in corporate travel?",
             "year": "2017",
@@ -9555,10 +9557,10 @@
             "type": "article",
             "id": "11585/882946",
             "author": [
-                "guizzardi andrea",
-                "pons flavio",
-                "giovanni angelini",
-                "ercolino ranieri"
+                "Andrea Guizzardi",  
+                "Flavio Pons",  
+                "Giovanni Angelini",  
+                "Ercolino Ranieri"
             ],
             "title": "Big data from dynamic pricing: A smart approach to tourism demand forecasting",
             "year": "2021",
@@ -9580,9 +9582,9 @@
             "type": "article",
             "id": "11585/882947",
             "author": [
-                "ANDREA GUIZZARDI",
-                "ANNALISA STACCHINI",
-                "MICHELE COSTA"
+                "Andrea Guizzardi",  
+                "Annalisa Stacchini",  
+                "Michele Costa"
             ],
             "title": "Can sustainability drive tourism development in small rural areas? Evidences from the Adriatic",
             "year": "2022",
@@ -9604,9 +9606,9 @@
             "type": "article",
             "id": "11585/651057",
             "author": [
-                "Guizzardi, Andrea",
-                "Pons, Flavio Maria Emanuele",
-                "Ranieri, Ercolino"
+                "Andrea Guizzardi",  
+                "Flavio Maria Emanuele Pons",  
+                "Ercolino Ranieri"
             ],
             "title": "Competition patterns, spatial and advance booking effects in the accommodation market online",
             "year": "2019",
@@ -9627,8 +9629,8 @@
             "type": "article",
             "id": "11585/565708",
             "author": [
-                "Andrea, Guizzardi",
-                "Annalisa, Stacchini"
+                "Andrea Guizzardi",
+                "Annalisa Stacchini"
             ],
             "title": "Destinations strategic groups via Multivariate Competition-based IPA",
             "year": "2017",
@@ -9671,8 +9673,8 @@
             "type": "article",
             "id": "11585/703631",
             "author": [
-                "Mariani, Marcello M.",
-                "Guizzardi, Andrea"
+                "Marcello M. Mariani",
+                "Andrea Guizzardi"
             ],
             "title": "Does Designation as a UNESCO World Heritage Site Influence Tourist Evaluation of a Local Destination?",
             "year": "2020",
@@ -9695,8 +9697,8 @@
             "type": "article",
             "id": "11585/588850",
             "author": [
-                "Guizzardi, Andrea",
-                "Mariani, Marcello M."
+                "Marcello M. Mariani",
+                "Andrea Guizzardi"
             ],
             "title": "Environmental Impacts and Certification: Evidence from the Milan World Expo 2015",
             "year": "2017",
@@ -9716,9 +9718,9 @@
             "type": "article",
             "id": "11585/703636",
             "author": [
-                "Ballestra L.V.",
-                "Guizzardi A.",
-                "Palladini F."
+                "L.V. Ballestra",  
+                "Andrea Guizzardi",  
+                "F. Palladini"
             ],
             "title": "Forecasting and trading on the VIX futures market: A neural network approach based on open to close returns and coincident indicators",
             "year": "2019",
@@ -9740,9 +9742,9 @@
             "type": "article",
             "id": "11585/900046",
             "author": [
-                "Guizzardi, Andrea",
-                "Ballestra, Luca Vincenzo",
-                "D'Innocenzo, Enzo"
+                "Andrea Guizzardi",
+                "Luca Vincenzo Ballestra",
+                "Enzo D'Innocenzo"
             ],
             "title": "Hotel dynamic pricing, stochastic demand and covid-19",
             "year": "2022",
@@ -9764,8 +9766,8 @@
             "type": "article",
             "id": "11585/846117",
             "author": [
-                "Guizzardi, A",
-                "Stacchini, A"
+                "Andrea Guizzardi",
+                "A. Stacchini"
             ],
             "title": "Inbound Tourists in Italy: An Analysis of Individual Satisfaction in the Main Italian Destinations",
             "year": "2017",
@@ -9786,9 +9788,9 @@
             "type": "article",
             "id": "11585/963155",
             "author": [
-                "Ballestra, Luca Vincenzo",
-                "Guizzardi, Andrea",
-                "Mazzucchelli, Lorenzo"
+                "Luca Vincenzo Ballestra",
+                "Andrea Guizzardi",
+                "Lorenzo Mazzucchelli"
             ],
             "title": "Integrating narrow and wide framing disposition effect: A novel approach incorporating perceived risk and realized asset performance",
             "year": "2024",
@@ -9808,8 +9810,8 @@
             "type": "article",
             "id": "11585/846235",
             "author": [
-                "Guizzardi A.",
-                "Mariani M.M."
+                "Andrea Guizzardi",
+                "Marco M. Mariani"
             ],
             "title": "Introducing the Dynamic Destination Satisfaction Method: An Analytical Tool to Track Tourism Destination Satisfaction Trends with Repeated Cross-sectional Data",
             "year": "2021",
@@ -9850,9 +9852,9 @@
             "type": "article",
             "id": "11585/734949",
             "author": [
-                "Emili S.",
-                "Figini P.",
-                "Guizzardi A."
+                "S. Emili",
+                "P. Figini",
+                "Andrea Guizzardi"
             ],
             "title": "Modelling international monthly tourism demand at the micro destination level with climate indicators and web-traffic data",
             "year": "2020",
@@ -9873,7 +9875,7 @@
             "id": "11585/820326",
             "author": [
                 "A. Stacchini",
-                "A. Guizzardi",
+                "Andrea Guizzardi",
                 "M. Costa"
             ],
             "title": "Modelling perceived value as a driver of tourism development",
@@ -9958,11 +9960,11 @@
             "type": "article",
             "id": "11585/846115",
             "author": [
-                "Prayag G.",
-                "Chowdhury M.",
-                "Prajogo D.",
-                "Mariani M.",
-                "Guizzardi A."
+                "G. Prayag",
+                "M. Chowdhury",
+                "D. Prajogo",
+                "M. Mariani",
+                "Andrea Guizzardi"
             ],
             "title": "Residents’ perceptions of environmental certification, environmental impacts and support for the world expo 2015: the moderating effect of place attachment",
             "year": "2022",
@@ -9982,9 +9984,9 @@
             "type": "article",
             "id": "11585/967153",
             "author": [
-                "Guizzardi, Andrea",
-                "Ballestra, Luca Vincenzo",
-                "D’Innocenzo, Enzo"
+                "Andrea Guizzardi",
+                "Luca Vincenzo Ballestra",
+                "Enzo D’Innocenzo"
             ],
             "title": "Reverse engineering the last-minute on-line pricing practices: an application to hotels",
             "year": "2024",
@@ -10005,9 +10007,9 @@
             "type": "article",
             "id": "11585/916039",
             "author": [
-                "Ballestra, Luca Vincenzo",
-                "D’Innocenzo, Enzo",
-                "Guizzardi, Andrea"
+                "Andrea Guizzardi",
+                "Luca Vincenzo Ballestra",
+                "Enzo D’Innocenzo"
             ],
             "title": "Score-Driven Modeling with Jumps: An Application to S&P500 Returns and Options",
             "year": "2024",
@@ -10028,9 +10030,9 @@
             "type": "article",
             "id": "11585/893263",
             "author": [
-                "Stacchini, A.",
-                "Guizzardi, A.",
-                "Mariotti, A."
+                "A. Stacchini",
+                "Andrea Guizzardi",
+                "A. Mariotti"
             ],
             "title": "Smoothing down arbitrariness in planning: From SWOT to participatory decision making",
             "year": "2022",
@@ -10072,9 +10074,9 @@
             "type": "essay",
             "id": "11585/846469",
             "author": [
-                "Prayag, G.",
-                "Mariani, M.",
-                "Guizzardi, A"
+                "G. Prayag",
+                "M. Mariani",
+                "Andrea Guizzardi"
             ],
             "title": "The Influence of Place Attachment and a Certification of Event Sustainability on Residents’ Perceptions of Environmental Impacts and Event Support: An Abstract",
             "year": "2018",
@@ -10114,9 +10116,9 @@
             "type": "article",
             "id": "11585/893745",
             "author": [
-                "Stacchini, Annalisa",
-                "Guizzardi, Andrea",
-                "Costa, Michele"
+                "Annalisa Stacchini",
+                "Andrea Guizzardi",
+                "Michele Costa"
             ],
             "title": "The Value of Sustainable Tourism Destinations in the Eyes of Visitors",
             "year": "2022",
@@ -10136,9 +10138,9 @@
             "type": "article",
             "id": "11585/939918",
             "author": [
-                "Armillotta, Mirko",
-                "Fokianos, Konstantinos",
-                "Guizzardi, Andrea"
+                "Mirko Armillotta",
+                "Konstantinos Fokianos",
+                "Andrea Guizzardi"
             ],
             "title": "Unveiling Venice’s hotels competition networks from dynamic pricing digital market",
             "year": "2024",
@@ -10238,15 +10240,15 @@
             "type": "article",
             "id": "11585/732471",
             "author": [
-                "Kyndiah, Adrica",
-                "Leonardi, Francesca",
-                "Tarantino, Carolina",
-                "Cramer, Tobias",
-                "Millan-Solsona, Ruben",
-                "Garreta, Elena",
-                "Montserrat, Núria",
-                "Mas-Torrent, Marta",
-                "Gomila, Gabriel"
+                "Adrica Kyndiah",  
+                "Francesca Leonardi",  
+                "Carolina Tarantino",  
+                "Tobias Cramer",  
+                "Ruben Millan-Solsona",  
+                "Elena Garreta",  
+                "Núria Montserrat",  
+                "Marta Mas-Torrent",  
+                "Gabriel Gomila"
             ],
             "title": "Bioelectronic Recordings of Cardiomyocytes with Accumulation Mode Electrolyte Gated Organic Field Effect Transistors",
             "year": "2020",
@@ -10265,11 +10267,11 @@
             "type": "conference",
             "id": "11585/732472",
             "author": [
-                "Maggio A.",
-                "Giuliani L.",
-                "Calegari R.",
-                "Lombardi M.",
-                "Milano M."
+                "A. Maggio",  
+                "L. Giuliani",  
+                "R. Calegari",  
+                "M. Lombardi",
+                "Michela Milano"
             ],
             "title": "A geometric framework for fairness",
             "year": "2023",
@@ -10313,10 +10315,10 @@
             "type": "conference",
             "id": "11585/728105",
             "author": [
-                "Chisca D.S.",
-                "Lombardi M.",
-                "Milano M.",
-                "O'Sullivan B."
+                "D.S. Chisca",  
+                "M. Lombardi",  
+                "Michela Milano",  
+                "B. O'Sullivan"
             ],
             "title": "A Sampling-Free Anticipatory Algorithm for the Kidney Exchange Problem",
             "year": "2019",
@@ -10341,11 +10343,11 @@
             "type": "article",
             "id": "11585/694862",
             "author": [
-                "Borghesi A.",
-                "Bartolini A.",
-                "Lombardi M.",
-                "Milano M.",
-                "Benini L."
+                "A. Borghesi",  
+                "A. Bartolini",  
+                "M. Lombardi",  
+                "Michela Milano",  
+                "L. Benini"
             ],
             "title": "A semisupervised autoencoder-based approach for anomaly detection in high performance computing systems",
             "year": "2019",
@@ -10365,10 +10367,10 @@
             "type": "conference",
             "id": "11585/822500",
             "author": [
-                "Lombardi, Michele",
-                "Baldo, Federico",
-                "Borghesi, Andrea",
-                "Milano, Michela"
+                "Michele Lombardi",  
+                "Federico Baldo",  
+                "Andrea Borghesi",  
+                "Michela Milano"
             ],
             "title": "An Analysis of Regularized Approaches for Constrained Machine Learning",
             "year": "2021",
@@ -10392,10 +10394,10 @@
             "type": "article",
             "id": "11585/822501",
             "author": [
-                "Borghesi A.",
-                "Molan M.",
-                "Milano M.",
-                "Bartolini A."
+                "A. Borghesi",  
+                "M. Molan",  
+                "Michela Milano",  
+                "A. Bartolini"
             ],
             "title": "Anomaly Detection and Anticipation in High Performance Computing Systems",
             "year": "2022",
@@ -10414,11 +10416,11 @@
             "type": "conference",
             "id": "11585/696375",
             "author": [
-                "Borghesi, Andrea",
-                "Bartolini, Andrea",
-                "Lombardi, Michele",
-                "Milano, Michela",
-                "Benini, Luca"
+                "Andrea Borghesi",  
+                "Andrea Bartolini",  
+                "Michele Lombardi",  
+                "Michela Milano",  
+                "Luca Benini"
             ],
             "title": "Anomaly Detection Using Autoencoders in High Performance Computing Systems",
             "year": "2019",
@@ -10441,10 +10443,10 @@
             "type": "conference",
             "id": "11585/952623",
             "author": [
-                "Calegari R.",
-                "Castane G.G.",
-                "Milano M.",
-                "O'Sullivan B."
+               "R. Calegari",  
+                "G.G. Castane",  
+                "Michela Milano",  
+                "B. O'Sullivan"
             ],
             "title": "Assessing and Enforcing Fairness in the AI Lifecycle",
             "year": "2023",
@@ -10464,8 +10466,8 @@
             "type": "conference",
             "id": "111585/659049",
             "author": [
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "Boosting combinatorial problem modeling with Machine Learning",
             "year": "2018",
@@ -10484,11 +10486,11 @@
             "type": "conference",
             "id": "11585/760760",
             "author": [
-                "Borghesi, Andrea",
-                "Tagliavini, Giuseppe",
-                "Lombardi, Michele",
-                "Benini, Luca",
-                "Milano, Michela"
+                "Andrea Borghesi",  
+                "Giuseppe Tagliavini",  
+                "Michele Lombardi",  
+                "Luca Benini",  
+                "Michela Milano"
             ],
             "title": "Combining learning and optimization for transprecision computing",
             "year": "2020",
@@ -10508,10 +10510,10 @@
             "type": "conference",
             "id": "11585/995052",
             "author": [
-                "De Filippo A.",
-                "Milano M.",
-                "Presutti V.",
-                "Saffiotti A."
+               "A. De Filippo",  
+                "Michela Milano",  
+                "V. Presutti",  
+                "A. Saffiotti"
             ],
             "title": "CREAI 2022 - Preface to the First Workshop on Artificial Intelligence and Creativity",
             "year": "2022",
@@ -10526,10 +10528,10 @@
             "type": "conference",
             "id": "11585/995051",
             "author": [
-                "De Filippo A.",
-                "Milano M.",
-                "Presutti V.",
-                "Saffiotti A."
+                "A. De Filippo",  
+                "Michela Milano",  
+                "V. Presutti",  
+                "A. Saffiotti"
             ],
             "title": "CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity",
             "year": "2023",
@@ -10544,9 +10546,9 @@
             "type": "conference",
             "id": "11585/895899",
             "author": [
-                "De Filippo A.",
-                "Milano M.",
-                "Mello P."
+                "A. De Filippo",
+                "Michela Milano",
+                "P. Mello"
             ],
             "title": "Do You Like Dancing Robots? AI Can Tell You Why",
             "year": "2022",
@@ -10570,10 +10572,10 @@
             "type": "conference",
             "id": "11585/619647",
             "author": [
-                "Petraro, Alessandro",
-                "Caselli, Federico",
-                "Milano, Michela",
-                "Lippi, Marco"
+                "Alessandro Petraro",  
+                "Federico Caselli",  
+                "Michela Milano",  
+                "Marco Lippi"
             ],
             "title": "Driving behaviour clustering for realistic traffic micro-simulators",
             "year": "2017",
@@ -10594,9 +10596,9 @@
             "type": "article",
             "id": "11585/583559",
             "author": [
-                "Lombardi, Michele",
-                "Milano, Michela",
-                "Bartolini, Andrea"
+                "Michele Lombardi",
+                "Michela Milano",
+                "Andrea Bartolini"
             ],
             "title": "Empirical decision model learning",
             "year": "2017",
@@ -10646,10 +10648,10 @@
             "type": "conference",
             "id": "11585/962368",
             "author": [
-                "Misino E.",
-                "Calegari R.",
-                "Lombardi M.",
-                "Milano M."
+                "E. Misino",
+                "R. Calegari",
+                "M. Lombardi",
+                "Michela Milano"
             ],
             "title": "FAiRDAS: Fairness-Aware Ranking as Dynamic Abstract System",
             "year": "2023",
@@ -10669,17 +10671,17 @@
             "type": "essay",
             "id": "11585/995053",
             "author": [
-                "Helmberg H.",
-                "Lacalandra F.",
-                "Schmidt M.",
-                "Henriques C.",
-                "De Filippo A.",
-                "Lombardi M.",
-                "Milano M.",
-                "Ezran P.",
-                "Haddad Y.",
-                "Diekerhof M.",
-                "Madani M."
+                "H. Helmberg",  
+                "F. Lacalandra",  
+                "M. Schmidt",  
+                "C. Henriques",  
+                "A. De Filippo",  
+                "M. Lombardi",  
+                "Michela Milano",  
+                "P. Ezran",  
+                "Y. Haddad",  
+                "M. Diekerhof",  
+                "M. Madani"
             ],
             "title": "Finance, Regulations, Politics and Market Design",
             "year": "2021",
@@ -10700,9 +10702,9 @@
             "type": "conference",
             "id": "11585/710003",
             "author": [
-                "Borghesi, Andrea",
-                "Milano, Michela",
-                "Benini, Luca"
+                "Andrea Borghesi",
+                "Michela Milano",
+                "Luca Benini"
             ],
             "title": "Frequency Assignment in High Performance Computing Systems",
             "year": "2019",
@@ -10729,10 +10731,10 @@
             "type": "conference",
             "id": "11585/659042",
             "author": [
-                "Chisca, Danuta",
-                "Lombardi, Michele",
-                "Milano, Michela",
-                "O'Sullivan, Barry"
+                "Danuta Chisca",
+                "Michele Lombardi",
+                "Michela Milano",
+                "Barry O'Sullivan"
             ],
             "title": "From Offline to Online Kidney Exchange Optimization",
             "year": "2018",
@@ -10753,10 +10755,10 @@
             "type": "article",
             "id": "11585/894554",
             "author": [
-                "De Filippo, A",
-                "Borghesi, A",
-                "Boscarino, A",
-                "Milano, M"
+                "A. De Filippo",  
+                "A. Borghesi",  
+                "A. Boscarino",  
+                "Michele Milano"
             ],
             "title": "HADA: An automated tool for hardware dimensioning of AI applications",
             "year": "2022",
@@ -10778,9 +10780,9 @@
             "type": "article",
             "id": "11585/979616",
             "author": [
-                "Farooq, Emmen",
-                "Milano, Michela",
-                "Borghesi, Andrea"
+                "Emmen Farooq",
+                "Michela Milano",
+                "Andrea Borghesi"
             ],
             "title": "Harnessing federated learning for anomaly detection in supercomputer nodes",
             "year": "2024",
@@ -10800,9 +10802,9 @@
             "type": "conference",
             "id": "11585/727068",
             "author": [
-                "De Filippo, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "How to Tame Your Anticipatory Algorithm",
             "year": "2019",
@@ -10821,9 +10823,9 @@
             "type": "conference",
             "id": "11585/802160",
             "author": [
-                "De Filippo, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "Hybrid offline/online optimization under uncertainty",
             "year": "2020",
@@ -10873,7 +10875,9 @@
             "type": "conference",
             "id": "11585/861097",
             "author": [
-                "Silvestri M.; Lombardi M.; Milano M."
+                "M. Silvestri", 
+                "M. Lombardi",
+                "Michele Milano"
             ],
             "title": "Injecting Domain Knowledge in Neural Networks: A Controlled Experiment on a Constrained Problem",
             "year": "2021",
@@ -10922,9 +10926,9 @@
             "type": "article",
             "id": "11585/802158",
             "author": [
-                "De Filippo, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "Integrated Offline and Online Decision Making under Uncertainty",
             "year": "2021",
@@ -10944,10 +10948,10 @@
             "type": "preface",
             "id": "11585/995847",
             "author": [
-                "Calegari R.",
-                "Giannotti F.",
-                "Pratesi F.",
-                "Milano M."
+                "R. Calegari",  
+                "F. Giannotti",  
+                "F. Pratesi",  
+                "Michela Milano"
             ],
             "title": "Introduction to Special Issue on Trustworthy Artificial Intelligence",
             "year": "2024",
@@ -10963,8 +10967,8 @@
             "type": "conference",
             "id": "11585/988514",
             "author": [
-                "De Filippo A.",
-                "Milano M."
+                " A. De Filippo",
+                "Michela Milano"
             ],
             "title": "Large Language Models for Human-AI Co-Creation of Robotic Dance Performances",
             "year": "2024",
@@ -10984,10 +10988,10 @@
             "type": "conference",
             "id": "11585/728093",
             "author": [
-                "Chisca D.S.",
-                "Lombardi M.",
-                "Milano M.",
-                "O'Sullivan B."
+                "D.S. Chisca",
+                "M. Lombardi",
+                "Michela Milano",
+                "B. O'Sullivan"
             ],
             "title": "Logic-Based Benders Decomposition for Super Solutions: An Application to the Kidney Exchange Problem",
             "year": "2019",
@@ -11013,8 +11017,8 @@
             "type": "article",
             "id": "11585/689018",
             "author": [
-                "Borghesi, Andrea",
-                "Milano, Michela"
+                "Andrea Borghesi",
+                "Michela Milano"
             ],
             "title": "Merging Observed and Self-Reported Behaviour in Agent-Based Simulation: A Case Study on Photovoltaic Adoption",
             "year": "2019",
@@ -11036,9 +11040,9 @@
             "type": "conference",
             "id": "11585/659046",
             "author": [
-                "De Filippo, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "Methods for off-line/on-line optimization under uncertainty",
             "year": "2018",
@@ -11057,10 +11061,10 @@
             "type": "conference",
             "id": "11585/635303",
             "author": [
-                "Galassi Andrea",
-                "Lombardi Michele",
-                "Mello Paola",
-                "Milano Michela"
+                "Andrea Galassi",  
+                "Michele Lombardi",  
+                "Paola Mello",  
+                "Michela Milano"
             ],
             "title": "Model Agnostic Solution of CSPs via Deep Learning: A Preliminary Study",
             "year": "2018",
@@ -11082,9 +11086,9 @@
             "type": "conference",
             "id": "11585/676114",
             "author": [
-                "De Filippo, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "Off-Line and On-Line Optimization Under Uncertainty: A Case Study on Energy Management",
             "year": "2018",
@@ -11104,12 +11108,12 @@
             "type": "preface",
             "id": "11585/962308",
             "author": [
-                "Calegari R.",
-                "Aler A.",
-                "Gabriel T.",
-                "Castane G.",
-                "Dignum V.",
-                "Milano M."
+                "R. Calegari",  
+                "A. Aler",  
+                "T. Gabriel",  
+                "G. Castane",  
+                "V. Dignum",  
+                "Michela Milano"
             ],
             "title": "Preface: Fairness and Bias in AI: Insights from AEQUITAS 2023",
             "year": "2023",
@@ -11128,10 +11132,10 @@
             "type": "article",
             "id": "11585/651647",
             "author": [
-                "Borghesi, Andrea",
-                "Bartolini, Andrea",
-                "Milano, Michela",
-                "Benini, Luca"
+                "Andrea Borghesi",
+                "Andrea Bartolini",
+                "Michela Milano",
+                "Luca Benini"
             ],
             "title": "Pricing schemes for energy-efficient HPC systems: Design and exploration",
             "year": "2019",
@@ -11171,25 +11175,25 @@
             "type": "essay",
             "id": "11585/995054",
             "author": [
-                "Diekerhof M.",
-                "Monti A.",
-                "Lebedeva E.",
-                "Tkaczyk A.H.",
-                "Yuksel-Ergun I.",
-                "Zittel J.",
-                "Escudero L.F.",
-                "Soroudi A.",
-                "Helmberg C.",
-                "Kanovic Z.",
-                "Petkovic M.",
-                "Lacalandra F.",
-                "Frangioni A.",
-                "Lee J.",
-                "De Filippo A.",
-                "Lombardi M.",
-                "Milano M.",
-                "Ezran P.",
-                "Haddad Y."
+                "M. Diekerhof",  
+                "A. Monti",  
+                "E. Lebedeva",  
+                "A.H. Tkaczyk",  
+                "I. Yuksel-Ergun",  
+                "J. Zittel",  
+                "L.F. Escudero",  
+                "A. Soroudi",  
+                "C. Helmberg",  
+                "Z. Kanovic",  
+                "M. Petkovic",  
+                "F. Lacalandra",  
+                "A. Frangioni",  
+                "J. Lee",  
+                "A. De Filippo",  
+                "M. Lombardi",  
+                "Michela Milano",  
+                "P. Ezran",  
+                "Y. Haddad"
             ],
             "title": "Production and Demand Management",
             "year": "2021",
@@ -11235,10 +11239,10 @@
             "type": "conference",
             "id": "11585/611492",
             "author": [
-                "DE FILIPPO, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela",
-                "Borghetti, Alberto"
+                "Allegra De Filippo",  
+                "Michele Lombardi",  
+                "Michela Milano",  
+                "Alberto Borghetti"
             ],
             "title": "Robust Optimization for Virtual Power Plants",
             "year": "2017",
@@ -11260,11 +11264,11 @@
             "type": "article",
             "id": "11585/634977",
             "author": [
-                "Borghesi, Andrea",
-                "Bartolini, Andrea",
-                "Lombardi, Michele",
-                "Milano, Michela",
-                "Benini, Luca"
+                "Andrea Borghesi",
+                "Andrea Bartolini",
+                "Michele Lombardi",
+                "Michela Milano",
+                "Luca Benini"
             ],
             "title": "Scheduling-based power capping in high performance computing systems",
             "year": "2018",
@@ -11287,9 +11291,9 @@
             "type": "article",
             "id": "11585/614083",
             "author": [
-                "Chesani, Federico",
-                "Mello, Paola",
-                "Milano, Michela"
+                "Federico Chesani",
+                "Paola Mello",
+                "Michela Milano"
             ],
             "title": "Solving Mathematical Puzzles: A Challenging Competition for AI",
             "year": "2017",
@@ -11308,9 +11312,9 @@
             "type": "conference",
             "id": "11585/586807",
             "author": [
-                "Chesani, F.",
-                "Mello, P.",
-                "Milano M."
+                "F. Chesani",
+                "P. Mello",
+                "Michela Milano"
             ],
             "title": "Solving mathematical puzzles: A deep reasoning challenge. Position Paper",
             "year": "2017",
@@ -11345,10 +11349,10 @@
             "type": "conference",
             "id": "11585/998076",
             "author": [
-                "Braccini, M.",
-                "De Filippo, A.",
-                "Lombardi, M.",
-                "Milano, M."
+                "M. Braccini",
+                "A. De Filippo",
+                "M. Lombardi",
+                "Michela Milano"
             ],
             "title": "Swarm Intelligence: A Novel and Unconventional Approach to Dance Choreography Creation",
             "year": "2024",
@@ -11389,9 +11393,9 @@
             "type": "conference",
             "id": "11585/802162",
             "author": [
-                "De Filippo A.",
-                "Lombardi M.",
-                "Milano M."
+                "A. De Filippo",
+                "M. Lombardi",
+                "Michela Milano"
             ],
             "title": "The blind men and the elephant: Integrated offline/online optimization under uncertainty",
             "year": "2020",
@@ -11409,11 +11413,11 @@
             "type": "conference",
             "id": "11585/60927",
             "author": [
-                "Salvaro, M.",
-                "Kartsch, V.",
-                "Benatti, S.",
-                "Milano, M.",
-                "Benini, L."
+                "M. Salvaro",  
+                "V. Kartsch",  
+                "S. Benatti",  
+                "Michela Milano",  
+                "L. Benini"
             ],
             "title": "Towards a Novel HMI Paradigm Based on Mixed EEG and Indoor Localization Platforms",
             "year": "2017",
@@ -11436,11 +11440,11 @@
             "type": "conference",
             "id": "11585/988515",
             "author": [
-                "Spillo G.",
-                "De Filippo A.",
-                "Musto C.",
-                "Milano M.",
-                "Semeraro G."
+                "G. Spillo",
+                "A. De Filippo",
+                "C. Musto",
+                "Michela Milano",
+                "G. Semeraro"
             ],
             "title": "Towards Sustainability-aware Recommender Systems: Analyzing the Trade-off Between Algorithms Performance and Carbon Footprint",
             "year": "2023",
@@ -11462,12 +11466,12 @@
             "type": "conference",
             "id": "11585/944313",
             "author": [
-                "De Filippo, Allegra",
-                "Giuliani, Luca",
-                "Mancini, Eleonora",
-                "Borghesi, Andrea",
-                "Mello, Paola",
-                "Milano, Michela"
+                "Allegra De Filippo",  
+                "Luca Giuliani",  
+                "Eleonora Mancini",  
+                "Andrea Borghesi",  
+                "Paola Mello",  
+                "Michela Milano"
             ],
             "title": "Towards Symbiotic Creativity: A Methodological Approach to Compare Human and AI Robotic Dance Creations",
             "year": "2023",
@@ -11489,10 +11493,10 @@
             "type": "article",
             "id": "11585/988177",
             "author": [
-                "Silvestri, Mattia",
-                "De Filippo, Allegra",
-                "Lombardi, Michele",
-                "Milano, Michela"
+                "Mattia Silvestri",
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
             ],
             "title": "UNIFY: A unified policy designing framework for solving integrated Constrained Optimization and Machine Learning problems",
             "year": "2024",
@@ -11566,7 +11570,7 @@
             "author": [
                 "F. Casolari",
                 "A. Legnani Annichini",
-                "G. Spedicato"
+                "Giorgio Spedicato"
             ],
             "title": "Dante e Diritto. Un cammino tra storia e attualità",
             "year": "2022",
@@ -11613,7 +11617,7 @@
             "author": [
                 "F. Casolari",
                 "A. Legnani Annichini",
-                "G. Spedicato"
+                "Giorgio Spedicato"
             ],
             "title": "Premessa",
             "year": "2022",
@@ -11671,7 +11675,7 @@
             "id": "11585/959644",
             "author": [
                 "M. Santoro",
-                "C. Tartarini"
+                "Chiara Tartarini"
             ],
             "title": "Pierre Bourdieu. Il mercato dei beni simbolici e altri scritti sull'arte",
             "year": "2023",
@@ -11692,8 +11696,8 @@
             "type": "article",
             "id": "11585/721126",
             "author": [
-                "Bee, Marco",
-                "Trapin, Luca"
+                "Marco Bee",
+                "Luca Trapin"
             ],
             "title": "A characteristic function-based approach to Approximate Maximum Likelihood Estimation",
             "year": "2018",
@@ -11711,9 +11715,9 @@
             "type": "article",
             "id": "11585/714992",
             "author": [
-                "Bee, Marco",
-                "Riccaboni, Massimo",
-                "Trapin, Luca"
+                "Marco Bee",
+                "Luca Trapin",
+                "Massimo Riccaboni",
             ],
             "title": "An extreme value analysis of the last century crises across industries in the US economy",
             "year": "2017",
@@ -11732,8 +11736,8 @@
             "type": "article",
             "id": "11585/721124",
             "author": [
-                "Bee, Marco",
-                "Trapin, Luca"
+                "Marco Bee",
+                "Luca Trapin"
             ],
             "title": "Estimating and Forecasting Conditional Risk Measures with Extreme Value Theory: A Review",
             "year": "2018",
@@ -11752,9 +11756,9 @@
             "type": "article",
             "id": "11585/809107",
             "author": [
-                "Bee, M.",
-                "Hambuckers, J.",
-                "Trapin, L."
+                "Julien Hambuckers",
+                "Marco Bee",
+                "Luca Trapin"
             ],
             "title": "Estimating large losses in insurance analytics and operational risk using the g-and-h distribution",
             "year": "2021",
@@ -11774,9 +11778,9 @@
             "type": "article",
             "id": "11585/714985",
             "author": [
-                "Bee, Marco",
-                "Hambuckers, Julien",
-                "Trapin, Luca"
+                "Julien Hambuckers",
+                "Marco Bee",
+                "Luca Trapin"
             ],
             "title": "Estimating Value-at-Risk for the g-and-h distribution: an indirect inference approach",
             "year": "2019",
@@ -11797,8 +11801,8 @@
             "type": "article",
             "id": "11585/714994",
             "author": [
-                "Dupuis, Debbie J",
-                "Trapin, Luca"
+                "Debbie J. Dupuis",
+                "Luca Trapin"
             ],
             "title": "Ground-level ozone: Evidence of increasing serial dependence in the extremes",
             "year": "2019",
@@ -11818,9 +11822,9 @@
             "type": "article",
             "id": "11585/790533",
             "author": [
-                "Buccheri, Giuseppe",
-                "Pirino, Davide",
-                "Trapin, Luca"
+                "Giuseppe Buccheri",
+                "Davide Pirino",
+                "Luca Trapin"
             ],
             "title": "Managing liquidity with portfolio staleness",
             "year": "2021",
@@ -11839,10 +11843,10 @@
             "type": "article",
             "id": "11585/666213",
             "author": [
-                "Corsi, Fulvio",
-                "Lillo, Fabrizio",
-                "Pirino, Davide",
-                "Trapin, Luca"
+                "Fulvio Corsi",  
+                "Fabrizio Lillo",  
+                "Davide Pirino",  
+                "Luca Trapin"
             ],
             "title": "Measuring the propagation of financial distress with Granger-causality tail risk networks",
             "year": "2018",
@@ -11871,8 +11875,8 @@
             "type": "article",
             "id": "11585/925597",
             "author": [
-                "Dupuis, Debbie J.",
-                "Trapin, Luca"
+                "Debbie J. Dupuis",
+                "Luca Trapin"
             ],
             "title": "Mixed-frequency extreme value regression: Estimating the effect of mesoscale convective systems on extreme rainfall intensity",
             "year": "2023",
@@ -11891,9 +11895,9 @@
             "type": "article",
             "id": "11585/914684",
             "author": [
-                "Dupuis, Debbie J.",
-                "Engelke, Sebastian",
-                "Trapin, Luca"
+                "Debbie J. Dupuis",
+                "Sebastian Engelke",
+                "Luca Trapin"
             ],
             "title": "Modeling panels of extremes",
             "year": "2023",
@@ -11912,9 +11916,9 @@
             "type": "article",
             "id": "11585/714963",
             "author": [
-                "Bee, Marco",
-                "Dupuis, Debbie J.",
-                "Trapin, Luca"
+                "Marco Bee",
+                "Debbie J. Dupuis",
+                "Luca Trapin"
             ],
             "title": "Realized extreme quantile: A joint model for conditional quantiles and measures of volatility with EVT refinements",
             "year": "2018",
@@ -11934,9 +11938,9 @@
             "type": "article",
             "id": "11585/714981",
             "author": [
-                "Bee, Marco",
-                "Dupuis, Debbie J.",
-                "Trapin, Luca"
+                "Marco Bee",
+                "Debbie J. Dupuis",
+                "Luca Trapin"
             ],
             "title": "Realized peaks over threshold: A time-varying extreme value approach with high-frequency-based measures",
             "year": "2019",
@@ -11957,9 +11961,9 @@
             "type": "article",
             "id": "11585/714988",
             "author": [
-                "Bee, Marco",
-                "Dupuis, Debbie J.",
-                "Trapin, Luca"
+                "Marco Bee",
+                "Debbie J. Dupuis",
+                "Luca Trapin"
             ],
             "title": "Realizing the extremes: Estimation of tail-risk measures from a high-frequency perspective",
             "year": "2016",
@@ -11979,8 +11983,8 @@
             "type": "article",
             "id": "11585/790517",
             "author": [
-                "Dupuis, Debbie J.",
-                "Trapin, Luca"
+                "Debbie J. Dupuis",
+                "Luca Trapin"
             ],
             "title": "Structural change to the persistence of the urban heat island",
             "year": "2020",
@@ -11999,10 +12003,10 @@
             "type": "article",
             "id": "11585/809125",
             "author": [
-                "Bee, M.",
-                "Hambuckers, J.",
-                "Santi, F.",
-                "Trapin, L."
+                "J. Hambuckers",
+                "F. Santi",
+                "Marco Bee",
+                "Luca Trapin"
             ],
             "title": "Testing a parameter restriction on the boundary for the g-and-h distribution: a simulated approach",
             "year": "2021",
@@ -12022,9 +12026,9 @@
             "type": "article",
             "id": "11585/914687",
             "author": [
-                "Pirino, Davide",
-                "Pollastri, Alessandro",
-                "Trapin, Luca"
+                "Davide Pirino",
+                "Alessandro Pollastri",
+                "Luca Trapin"
             ],
             "title": "Testing liquidity: A statistical theory based on asset staleness",
             "year": "2022",
