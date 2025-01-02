@@ -250,6 +250,8 @@ def export_analysis_to_pandas(G):
     # Prepare global metrics (Network-level metrics)
     global_metrics = {
         "Network Density": nx.density(G),
+        "Number of Nodes": len(G.nodes),
+        "Number of Edges": len(G.edges),
         "Average Clustering Coefficient": nx.average_clustering(G),
         "Number of Connected Components": len(list(nx.connected_components(G))),
         "Is Connected": is_connected,
