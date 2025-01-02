@@ -10391,1227 +10391,1328 @@
     {
         "type": "conference",
         "author": [
-            "Bonora, Paolo",
-            "Dello Buono, Martina",
-            "Giovannetti, Francesca",
-            "Tomasi, Francesca"
+          "Paolo Bonora",
+          "Martina Dello Buono",
+          "Francesca Giovannetti",
+          "Francesca Tomasi"
         ],
         "title": "Tell Me the Truth. Validating the Semantic Alignment between the Annotation User Interface and the Knowledge Base",
-        "year": 2023,
-        "keywords": [ "Semantic Alignment",
-            "Annotation User Interface"
+        "year": "2023",
+        "keywords": [
+          "Semantic Alignment",
+          "Annotation User Interface"
         ],
         "url": "https://dh2023.adho.org/",
         "doi": "10.5281/zenodo.7961822",
         "pages": "202-204"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Martina Dello Buono,",
-            "Tomasi, Francesca"
+          "Martina Dello Buono",
+          "Francesca Tomasi"
         ],
-        "title": "\u00c5\u0161ivadharma Database CMS. HTML and graph as a starting point for digital editions",
-        "year": 2023,
-        "keywords": [ "Digital Scholarly Editing; Text Encoding; HTML; Graph Database; CMS"
+        "title": "Åśivadharma Database CMS. HTML and graph as a starting point for digital editions",
+        "year": "2023",
+        "keywords": [
+          "Digital Scholarly Editing",
+          "Text Encoding",
+          "HTML",
+          "Graph Database",
+          "CMS"
         ],
         "pages": "65-70"
-    },
-    {
+      },
+      {
         "type": "misc",
         "author": [
-            "Bonora, Paolo",
-            "Tomasi, Francesca",
-            "Vitale, Tommaso",
-            "Giovannetti, Francesca",
-            "Giagnolini, Lucia"
+          "Paolo Bonora",
+          "Francesca Tomasi",
+          "Tommaso Vitale",
+          "Francesca Giovannetti",
+          "Lucia Giagnolini"
         ],
         "title": "Digital Library (FICLIT)",
-        "year": 2022,
-        "keywords": [ "Omeka",
-            "IIIF",
-            "Mirador",
-            "Cultural Heritage ontologies",
-            "Metadata",
-            "Archival founds and collections"
+        "year": "2022",
+        "keywords": [
+          "Omeka",
+          "IIIF",
+          "Mirador",
+          "Cultural Heritage ontologies",
+          "Metadata",
+          "Archival founds and collections"
         ],
         "url": "https://dl.ficlit.unibo.it/s/lib/page/home"
-    },
-    {
+      },
+      {
         "type": "misc",
         "author": [
-            "Giovannetti, Francesca",
-            "Tomasi, Francesca"
+          "Francesca Giovannetti",
+          "Francesca Tomasi"
         ],
         "title": "LIFT - Linked Data from TEI",
-        "year": 2020,
-        "keywords": [ "TEI",
-            "Python",
-            "knowledge graph",
-            "digital edition"
+        "year": "2020",
+        "keywords": [
+          "TEI",
+          "Python",
+          "knowledge graph",
+          "digital edition"
         ],
         "url": "https://projects.dharc.unibo.it/lift/"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Tomasi, F.",
-            "Giovannetti, F"
+          "Francesca Tomasi",
+          "Francesca Giovannetti"
         ],
         "title": "Linked data from TEI (LIFT): A Teaching Tool for TEI to Linked Data Transformation",
-        "year": 2022,
+        "year": "2022",
         "journal": "DIGITAL HUMANITIES QUARTERLY",
-        "volume": 16,
-        "keywords": [ "TEI",
-            "RDF",
-            "Scholarly tools",
-            "Python"
+        "volume": "16",
+        "keywords": [
+          "TEI",
+          "RDF",
+          "Scholarly tools",
+          "Python"
         ],
         "url": "http://www.digitalhumanities.org/dhq/vol/16/2/000605/000605.html",
         "pages": "1-14",
-        "number": 2
-    },
-    {
+        "number": "2"
+      },
+      {
         "type": "article",
         "author": [
-            "Daquino, Marilena",
-            "Giovannetti, Francesca",
-            "Tomasi, Francesca"
+          "Marilena Daquino",
+          "Francesca Giovannetti",
+          "Francesca Tomasi"
         ],
         "title": "Linked Data per le edizioni scientifiche digitali. Il workflow di pubblicazione dell'edizione semantica del quaderno di appunti di Paolo Bufalini",
-        "year": 2019,
+        "year": "2019",
         "journal": "UMANISTICA DIGITALE",
-        "volume": 7,
-        "keywords": [ "TEI; Linked Open Data; Ontologies; Digital scholarly editions; Semantic publishing"
+        "volume": "7",
+        "keywords": [
+          "TEI",
+          "Linked Open Data",
+          "Ontologies",
+          "Digital scholarly editions",
+          "Semantic publishing"
         ],
         "url": "https://umanisticadigitale.unibo.it/article/view/9091",
         "doi": "10.6092/issn.2532-8816/9091",
         "pages": "49-75"
-    },
-    {
+      },      
+      {
         "type": "book",
         "author": [
-            "Tomasi, Francesca",
-            "Daquino, Marilena",
-            "Giovannetti, Francesca",
-            "Martina Dello Buono,"
+          "Francesca Tomasi",
+          "Marilena Daquino",
+          "Francesca Giovannetti",
+          "Martina Dello Buono"
         ],
         "title": "Paolo Bufalini. Appunti (1981-1991)",
         "year": 2020,
-        "keywords": [ "Contemporary literature",
-            "Knowledge organization",
-            "Intertextuality",
-            "Intratextuality",
-            "Text encoding",
-            "Semantic Digital Edition"
+        "keywords": [
+          "Contemporary literature",
+          "Knowledge organization",
+          "Intertextuality",
+          "Intratextuality",
+          "Text encoding",
+          "Semantic Digital Edition"
         ],
         "url": "https://amsacta.unibo.it/id/eprint/6415/",
         "doi": "10.6092/unibo/amsacta/6415",
         "pages": "1-200"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Bonora, Paolo",
-            "Dello Buono, Martina",
-            "Giovannetti, Francesca",
-            "Tomasi, Francesca"
+          "Paolo Bonora",
+          "Martina Dello Buono",
+          "Francesca Giovannetti",
+          "Francesca Tomasi"
         ],
         "title": "Tell Me the Truth. Validating the Semantic Alignment between the Annotation User Interface and the Knowledge Base",
         "year": 2023,
-        "keywords": [ "Semantic Alignment",
-            "Annotation User Interface"
+        "keywords": [
+          "Semantic Alignment",
+          "Annotation User Interface"
         ],
         "url": "https://dh2023.adho.org/",
         "doi": "10.5281/zenodo.7961822",
         "pages": "202-204"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Giovannetti, Francesca"
+          "Francesca Giovannetti"
         ],
         "title": "The Critical Apparatus Ontology (CAO): Modelling the TEI Critical Apparatus as a Knowledge Graph",
         "year": 2021,
         "volume": 15,
-        "keywords": [ "Critical Apparatus",
-            "Digital Scholarly Edition",
-            "Knowledge Graph",
-            "Modelling",
-            "TEI"
+        "keywords": [
+          "Critical Apparatus",
+          "Digital Scholarly Edition",
+          "Knowledge Graph",
+          "Modelling",
+          "TEI"
         ],
         "url": "https://kups.ub.uni-koeln.de/55230/",
         "pages": "125-139"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Tomasi, Francesca",
-            "Giovannetti, Francesca"
+          "Francesca Tomasi",
+          "Francesca Giovannetti"
         ],
         "title": "The Linked Finding Aid as a Platform for Textual Research: The Case Study of the Giuseppe Raimondi Archive",
         "year": 2021,
         "volume": 3019,
-        "keywords": [ "Digital Finding Aid",
-            "Linked Open Data",
-            "Writers, Archives"
+        "keywords": [
+          "Digital Finding Aid",
+          "Linked Open Data",
+          "Writers, Archives"
         ],
         "url": "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf",
         "pages": "104-113"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Martinez Pandiani, D. S.",
-            "Pescarin, S"
-        ],
-        "title": "BEYOND STATIC COLORS: AN INTERACTIVE PARTICIPATORY DESIGN PERSPECTIVE ON COLOR-CENTRIC EXPERIENCES",
-        "year": 2022,
-        "journal": "INTERNATIONAL JOURNAL OF CONSERVATION SCIENCE",
-        "volume": 13,
-        "keywords": [ "Civic education; Color heritage; Cultural artifacts; Digital hermeneutics; Interactive design"
-        ],
-        "url": "https://ijcs.ro/volume-13-2022/#Specialissue1",
-        "pages": "1691-1704"
-    },
-    {
-        "type": "article",
-        "author": [
-            "Delfina Sol Martinez Pandiani,",
-            "Lazzari, Nicolas",
-            "Marieke van Erp, & Valentina Presutti"
+          "Delfina Sol Martinez Pandiani",
+          "Nicolas Lazzari",
+          "Marieke van Erp",
+          "Valentina Presutti"
         ],
         "title": "Hypericons for interpretability: decoding abstract concepts in visual data",
         "year": 2023,
         "journal": "INTERNATIONAL JOURNAL OF DIGITAL HUMANITIES",
         "volume": 5,
-        "keywords": [ "Computer vision, Explainability, Hermeneutics, Stable diffusion, Cultural heritage, Computational visual studies"
+        "keywords": [
+          "Computer vision",
+          "Explainability",
+          "Hermeneutics",
+          "Stable diffusion",
+          "Cultural heritage",
+          "Computational visual studies"
         ],
         "url": "https://link.springer.com/article/10.1007/s42803-023-00077-8",
         "doi": "10.1007/s42803-023-00077-8",
         "pages": "451-490",
         "number": "2-3"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Daga, Enrico",
-            "Asprino, Luigi",
-            "Damiano, Rossana",
-            "Daquino, Marilena",
-            "Agudo, Belen Diaz",
-            "Gangemi, Aldo",
-            "Kuflik, Tsvi",
-            "Lieto, Antonio",
-            "Maguire, Mark",
-            "Marras, Anna Maria",
-            "Pandiani, Delfina Martinez",
-            "Mulholland, Paul",
-            "Peroni, Silvio",
-            "Pescarin, Sofia",
-            "Wecker, Alan"
+          "Enrico Daga",
+          "Luigi Asprino",
+          "Rossana Damiano",
+          "Marilena Daquino",
+          "Belen Diaz Agudo",
+          "Aldo Gangemi",
+          "Tsvi Kuflik",
+          "Antonio Lieto",
+          "Mark Maguire",
+          "Anna Maria Marras",
+          "Delfina Sol Martinez Pandiani",
+          "Paul Mulholland",
+          "Silvio Peroni",
+          "Sofia Pescarin",
+          "Alan Wecker"
         ],
         "title": "Integrating Citizen Experiences in Cultural Heritage Archives: Requirements, State of the Art, and Challenges",
         "year": 2022,
         "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
         "volume": 15,
-        "keywords": [ "Cultural heritage",
-            "semantic web",
-            "citizen curation"
+        "keywords": [
+          "Cultural heritage",
+          "semantic web",
+          "citizen curation"
         ],
         "url": "https://dl.acm.org/doi/10.1145/3477599",
         "doi": "10.1145/3477599",
         "pages": "1-35",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Valentina Anita Carriero,",
-            "Ciroku, Fiorela",
-            "Jacopo de Berardinis,",
-            "Delfina Sol Martinez Pandiani,",
-            "Mero\u00f1o-Pe\u00f1uela, Albert",
-            "Poltronieri, Andrea",
-            "Presutti, Valentina"
+          "Valentina Anita Carriero",
+          "Fiorela Ciroku",
+          "Jacopo de Berardinis",
+          "Delfina Sol Martinez Pandiani",
+          "Albert Meroño-Peñuela",
+          "Andrea Poltronieri",
+          "Valentina Presutti"
         ],
         "title": "Semantic Integration of MIR Datasets with the Polifonia Ontology Network",
         "year": 2021,
-        "keywords": [ "Semantic Web",
-            "Music Information Retrieval",
-            "Computational Musicology"
+        "keywords": [
+          "Semantic Web",
+          "Music Information Retrieval",
+          "Computational Musicology"
         ],
         "url": "https://archives.ismir.net/ismir2021/latebreaking/000020.pdf"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Pescarin, S.",
-            "Martinez Pandiani, D. S"
+          "Sofia Pescarin",
+          "Delfina Sol Martinez Pandiani"
         ],
         "title": "The Impact of Story Structure, Meaningfulness, and Concentration in Serious Games",
         "year": 2022,
         "journal": "INFORMATION",
         "volume": 13,
-        "keywords": [ "VR; serious games; meaningfulness; concentration; abstract concepts; game design"
+        "keywords": [
+          "VR",
+          "serious games",
+          "meaningfulness",
+          "concentration",
+          "abstract concepts",
+          "game design"
         ],
         "url": "https://www.mdpi.com/2078-2489/13/12/567",
         "doi": "10.3390/info13120567",
         "pages": "1-16",
         "number": 12
-    },
-    {
+      },      
+      {
         "type": "conference",
         "author": [
-            "Priore, Roberta",
-            "Nava, Beatrice"
+          "Roberta Priore",
+          "Beatrice Nava"
         ],
         "title": "Codificare (al)l'Infinito",
         "year": 2023,
-        "keywords": [ "Authorial Philology; DSE; Leopardi"
+        "keywords": [
+          "Authorial Philology",
+          "DSE",
+          "Leopardi"
         ],
         "url": "https://www.aiucd.it/atti-convegno-aiucd-2023/",
         "pages": "421-423"
-    },
-    {
+      },
+      {
         "type": "inbook",
         "author": [
-            "Priore, Roberta"
+          "Roberta Priore"
         ],
         "title": "Dai 'Pensieri di varia filosofia e bella letteratura' a 'Digitalzibaldone'. Con una nuova proposta di edizione digitale",
         "year": 2023,
-        "keywords": [ "Leopardi; Zibaldone; edizioni"
+        "keywords": [
+          "Leopardi",
+          "Zibaldone",
+          "edizioni"
         ],
         "url": "https://wydawnictwo.uksw.edu.pl/ksiegarnia/1190-leopardi-oltre-la-letteratura-lo-zibaldone-nella-cultura-contemporanea.html",
         "pages": "179-193"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Priore, Roberta"
+          "Roberta Priore"
         ],
         "title": "Le prime cento pagine dello Zibaldone di pensieri di Giacomo Leopardi: studio critico per una datazione",
         "year": 2020,
         "journal": "L'ELLISSE",
         "volume": 15,
-        "keywords": [ "Leopardi. Authorial Philology. Zibaldone. datazione"
+        "keywords": [
+          "Leopardi",
+          "Authorial Philology",
+          "Zibaldone",
+          "datazione"
         ],
         "url": "https://www.lerma.it/libro/9788891323323/toc/6230",
         "doi": "10.48255/J.LELLIS.15.II.2020.04",
         "pages": "71-101",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Priore, Roberta",
-            "Italia, Paola"
+          "Roberta Priore",
+          "Paola Italia"
         ],
         "title": "Leopardi: Wiki Leopardi, Leopardi Ecdosys, Leopardi 3D",
         "year": 2021,
         "journal": "GRISELDAONLINE",
         "volume": 20,
-        "keywords": [ "Leopardi",
-            "Edizioni digitali",
-            "Idilli",
-            "Reflectance Transformation Imaging (RTI)"
+        "keywords": [
+          "Leopardi",
+          "Edizioni digitali",
+          "Idilli",
+          "Reflectance Transformation Imaging (RTI)"
         ],
         "url": "https://griseldaonline.unibo.it/article/view/12420",
         "doi": "10.6092/issn.1721-4777/12420",
         "pages": "65-75",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Priore, Roberta"
+          "Roberta Priore"
         ],
         "title": "Review of BATTERSHILL, Claire, Helen SOUTHWORTH, Alice STAVELEY, Michael WIDNER, Elizabeth Willson GORDON, Nicola WILSON. 2017. Scholarly Adventures in Digital Humanities: Making the Modernist Archives Publishing Project",
         "year": 2019,
         "journal": "TEXTUAL CULTURES",
-        "volume": "12:2",
-        "keywords": [ "Digital humanities; designing and theorizing; MAPProjecy; Hogart Press"
+        "volume": 12,
+        "keywords": [
+          "Digital humanities",
+          "designing and theorizing",
+          "MAPProjecy",
+          "Hogart Press"
         ],
         "pages": "154-155"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Priore, Roberta"
+          "Roberta Priore"
         ],
         "title": "Review of ITALIA, Paola, Claudia BONSI. 2016. Edizioni Critiche Digitali: Digital Critical Editions",
         "year": 2019,
         "journal": "TEXTUAL CULTURES",
-        "volume": "12:2",
-        "keywords": [ "Digital humanities; Scholar editions; Digital archive"
+        "volume": 12,
+        "keywords": [
+          "Digital humanities",
+          "Scholar editions",
+          "Digital archive"
         ],
         "doi": "10.13133/9788893770033",
         "pages": "163-165"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Brancato, Dario",
-            "Corbellini, Milena",
-            "Italia, Paola",
-            "Pasqual, Valentina",
-            "Priore, Roberta"
+          "Dario Brancato",
+          "Milena Corbellini",
+          "Paola Italia",
+          "Valentina Pasqual",
+          "Roberta Priore"
         ],
         "title": "VaSto: un'edizione digitale interdisciplinare",
         "year": 2021,
-        "journal": "MAGAZ\u00c8N",
+        "journal": "MAGAZÈN",
         "volume": 2,
-        "keywords": [ "Digital scholarly editing. Authorial philology. Censorship. Benedetto Varchi. Renaissance history. Italian Renaissance literature"
+        "keywords": [
+          "Digital scholarly editing",
+          "Authorial philology",
+          "Censorship",
+          "Benedetto Varchi",
+          "Renaissance history",
+          "Italian Renaissance literature"
         ],
         "url": "https://edizionicafoscari.unive.it/it/edizioni4/riviste/magazen/2021/1/vasto-unedizione-digitale-interdisciplinare/",
         "doi": "10.30687/mag/2724-3923/2021/03/006",
         "pages": "139-169",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Sartini Bruno, Baroncini Sofia"
+          "Bruno Sartini",
+          "Sofia Baroncini"
         ],
         "title": "A Comparative Study of Simple and Complex Art Interpretations in Linked Open Data Using ICON Ontology",
         "year": 2023,
         "volume": 3540,
-        "keywords": [ "Iconographical and iconological interpretations",
-            "Artworks",
-            "Semantic Web",
-            "Ontologies"
+        "keywords": [
+          "Iconographical and iconological interpretations",
+          "Artworks",
+          "Semantic Web",
+          "Ontologies"
         ],
         "url": "https://ceur-ws.org/Vol-3540/",
         "pages": "1-12"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Sartini, Bruno",
-            "Vogelmann, Valentin",
-            "Marieke van Erp,",
-            "Gangemi, Aldo"
+          "Bruno Sartini",
+          "Valentin Vogelmann",
+          "Marieke van Erp",
+          "Aldo Gangemi"
         ],
         "title": "Comparing Symbolism Across Asian Cultural Contexts Using Graph Similarity Measures",
         "year": 2022,
-        "keywords": [ "Symbolism",
-            "Similarity Metric",
-            "Quantitative Cultural Analysis"
+        "keywords": [
+          "Symbolism",
+          "Similarity Metric",
+          "Quantitative Cultural Analysis"
         ],
         "url": "https://dh2022.dhii.asia/abstracts/567",
         "pages": "358-361"
-    },
-    {
+      },
+      {
         "type": "book",
         "author": [
-            "Sartini, Bruno"
+          "Bruno Sartini"
         ],
         "title": "Connecting works of art within the semantic web of symbolic meanings",
         "year": 2023,
-        "keywords": [ "Symbolism; Linked Open Data; Semantic Web; Cultural Heritage; Knowledge Graph; Ontology Engineering"
+        "keywords": [
+          "Symbolism",
+          "Linked Open Data",
+          "Semantic Web",
+          "Cultural Heritage",
+          "Knowledge Graph",
+          "Ontology Engineering"
         ],
         "url": "http://amsdottorato.unibo.it/id/eprint/11020",
         "doi": "10.48676/unibo/amsdottorato/11020",
         "pages": "1-236"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Sartini, Bruno",
-            "Baroncini, Sofia",
-            "van Erp, Marieke",
-            "Tomasi, Francesca",
-            "Gangemi, Aldo"
+          "Bruno Sartini",
+          "Sofia Baroncini",
+          "Marieke van Erp",
+          "Francesca Tomasi",
+          "Aldo Gangemi"
         ],
         "title": "ICON: an Ontology for Comprehensive Artistic Interpretations",
         "year": 2023,
         "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
         "volume": 16,
-        "keywords": [ "iconology",
-            "iconography",
-            "art interpretation",
-            "Ontologies",
-            "cultural heritage",
-            "semantic web"
+        "keywords": [
+          "iconology",
+          "iconography",
+          "art interpretation",
+          "Ontologies",
+          "cultural heritage",
+          "semantic web"
         ],
         "url": "https://dl.acm.org/doi/10.1145/3594724",
         "doi": "10.1145/3594724",
         "pages": "1-38",
         "number": 3
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Baroncini, Sofia",
-            "Sartini, Bruno",
-            "Van Erp, Marieke",
-            "Tomasi, Francesca",
-            "Gangemi, Aldo"
+          "Sofia Baroncini",
+          "Bruno Sartini",
+          "Marieke van Erp",
+          "Francesca Tomasi",
+          "Aldo Gangemi"
         ],
-        "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in\u00c2\u00a0the semantic web",
+        "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in the semantic web",
         "year": 2023,
         "journal": "JOURNAL OF DOCUMENTATION",
         "volume": 79,
-        "keywords": [ "Knowledge graph evaluation",
-            "Iconology",
-            "Iconography",
-            "Visual works"
+        "keywords": [
+          "Knowledge graph evaluation",
+          "Iconology",
+          "Iconography",
+          "Visual works"
         ],
         "url": "https://www.emerald.com/insight/content/doi/10.1108/JD-09-2022-0207/full/html",
         "doi": "10.1108/JD-09-2022-0207",
         "pages": "115-136",
         "number": 7
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Sartini, B.",
-            "Van Erp, M.",
-            "Gangemi, A"
+          "Bruno Sartini",
+          "Marieke van Erp",
+          "Aldo Gangemi"
         ],
         "title": "Marriage is a Peach and a Chalice: Modelling Cultural Symbolism on the Semantic Web",
         "year": 2021,
-        "keywords": [ "knowledge graph; linked data; ontology; semantic web; symbolism"
+        "keywords": [
+          "knowledge graph",
+          "linked data",
+          "ontology",
+          "semantic web",
+          "symbolism"
         ],
         "url": "https://dl.acm.org/doi/10.1145/3460210.3493552",
         "doi": "10.1145/3460210.3493552",
         "pages": "201-208"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Bruno, Sartini",
-            "Andrei, Nesterov",
-            "Claudia, Libbi",
-            "Ryan, Brate",
-            "Shoilee Sarah Binta Alam,",
-            "Savvina, Daniil"
+          "Bruno Sartini",
+          "Andrei Nesterov",
+          "Claudia Libbi",
+          "Ryan Brate",
+          "Shoilee Sarah Binta Alam",
+          "Daniil Savvina"
         ],
         "title": "Multivocal Exhibition: a user-centric application to explore symbolic interpretations of artefacts from different cultural perspectives",
         "year": 2023,
-        "keywords": [ "Linked Open Data; Symbolism; Virtual Reality; Cultural Heritage"
+        "keywords": [
+          "Linked Open Data",
+          "Symbolism",
+          "Virtual Reality",
+          "Cultural Heritage"
         ],
         "url": "https://spice-h2020.eu/conference/papers/posters/ExICE23_paper_7072.pdf"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Bruno Sartini, Aldo Gangemi"
+          "Bruno Sartini",
+          "Aldo Gangemi"
         ],
         "title": "Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures",
         "year": 2021,
-        "keywords": [ "Symbolism; Knowledge Graphs; Cultural Heritage; Semantic Web"
+        "keywords": [
+          "Symbolism",
+          "Knowledge Graphs",
+          "Cultural Heritage",
+          "Semantic Web"
         ],
         "pages": "576-580"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Carriero, Valentina Anita",
-            "Mariani, Fabio",
-            "Nuzzolese, Andrea Giovanni",
-            "Pasqual, Valentina",
-            "Presutti, Valentina"
+          "Valentina Anita Carriero",
+          "Fabio Mariani",
+          "Andrea Giovanni Nuzzolese",
+          "Valentina Pasqual",
+          "Valentina Presutti"
         ],
         "title": "Agile Knowledge Graph Testing with TESTaLOD",
         "year": 2019,
         "volume": 2456,
-        "keywords": [ "Knowledge Graph testing",
-            "eXtreme design",
-            "ArCo"
+        "keywords": [
+          "Knowledge Graph testing",
+          "eXtreme design",
+          "ArCo"
         ],
         "url": "https://ceur-ws.org/Vol-2456",
         "doi": "10.13140/RG.2.2.25162.18885",
         "pages": "221-224"
-    },
-    {
+      },
+      {
         "type": "misc",
         "author": [
-            "Massari, Arcangelo",
-            "Mariani, Fabio",
-            "Persiani, Simone",
-            "Peroni, Silvio"
+          "Arcangelo Massari",
+          "Fabio Mariani",
+          "Simone Persiani",
+          "Silvio Peroni"
         ],
         "title": "oc_meta",
         "year": 2022,
-        "keywords": [ "semantic publishing",
-            "scholarly metadata",
-            "provenance",
-            "change-tracking",
-            "open science"
+        "keywords": [
+          "semantic publishing",
+          "scholarly metadata",
+          "provenance",
+          "change-tracking",
+          "open science"
         ],
         "url": "https://github.com/opencitations/oc_meta"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Massari, Arcangelo",
-            "Mariani, Fabio",
-            "Heibi, Ivan",
-            "Peroni, Silvio",
-            "Shotton, David"
+          "Arcangelo Massari",
+          "Fabio Mariani",
+          "Ivan Heibi",
+          "Silvio Peroni",
+          "David Shotton"
         ],
         "title": "OpenCitations Meta",
         "year": 2023,
         "journal": "QUANTITATIVE SCIENCE STUDIES",
         "volume": 5,
-        "keywords": [ "bibliographic metadata",
-            "change-tracking",
-            "OpenCitations",
-            "open science",
-            "provenance",
-            "scholarly citations"
+        "keywords": [
+          "bibliographic metadata",
+          "change-tracking",
+          "OpenCitations",
+          "open science",
+          "provenance",
+          "scholarly citations"
         ],
         "url": "https://doi.org/10.1162/qss_a_00292",
         "doi": "10.1162/qss_a_00292",
         "pages": "50-75",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Fabbri, F.",
-            "Collina, F.",
-            "Barzaghi, S"
+          "Federico Fabbri",
+          "Fabio Collina",
+          "Sebastian Barzaghi"
         ],
         "title": "AI and chatbots as a storytelling tool to personalize the visitor experience. The case of National Museum of Ravenna.",
         "year": 2023,
-        "keywords": [ "Artificial Intelligence",
-            "Machine learning",
-            "Chatbots",
-            "Museum"
+        "keywords": [
+          "Artificial Intelligence",
+          "Machine learning",
+          "Chatbots",
+          "Museum"
         ]
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Barzaghi, Sebastian",
-            "Palmirani, Monica",
-            "Peroni, Silvio"
+          "Sebastian Barzaghi",
+          "Monica Palmirani",
+          "Silvio Peroni"
         ],
         "title": "Development of an ontology for modelling medieval manuscripts: the case of Progetto IRNERIO",
         "year": 2020,
         "journal": "UMANISTICA DIGITALE",
         "volume": 9,
-        "keywords": [ "Medieval Manuscripts Ontology",
-            "MeMO",
-            "ontology engineering",
-            "medieval manuscripts",
-            "Progetto IRNERIO"
+        "keywords": [
+          "Medieval Manuscripts Ontology",
+          "MeMO",
+          "ontology engineering",
+          "medieval manuscripts",
+          "Progetto IRNERIO"
         ],
         "url": "https://umanisticadigitale.unibo.it/article/view/11187",
         "doi": "10.6092/issn.2532-8816/11187",
         "pages": "117-140",
         "number": 9
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Barzaghi, S.",
-            "Collina, F.",
-            "Fabbri, F.",
-            "Giacomini, F.",
-            "Bordignon, A.",
-            "Balzani, R.",
-            "Bitelli, G.",
-            "Bonifazi, F.",
-            "Cipriani, L.",
-            "Colitti, S.",
-            "Daquino, M.",
-            "Fanini, B.",
-            "Fantini, F.",
-            "Ferdani, D.",
-            "Fiorini, G.",
-            "Formia, E.",
-            "Forte, A.",
-            "Girelli, V. A.",
-            "Gualandi, B.",
-            "Heibi, I.",
-            "Iannucci, A.",
-            "Manganelli del F\u00e0, R.",
-            "Massari, A.",
-            "Moretti, A.",
-            "Peroni, S.",
-            "Pescarin, S.",
-            "Renda, G.",
-            "Ronchi, D.",
-            "Sullini, M.",
-            "Tini, M. A.",
-            "Tomasi, F.",
-            "Travaglini, L.",
-            "Vittuari, L"
+          "Sebastian Barzaghi",
+          "Fabio Collina",
+          "Federico Fabbri",
+          "Fabio Giacomini",
+          "Alberto Bordignon",
+          "Riccardo Balzani",
+          "Giovanni Bitelli",
+          "Francesco Bonifazi",
+          "Luca Cipriani",
+          "Simone Colitti",
+          "Marilena Daquino",
+          "Bruno Fanini",
+          "Federico Fantini",
+          "Davide Ferdani",
+          "Gabriele Fiorini",
+          "Enrico Formia",
+          "Alessandro Forte",
+          "Vittorio Antonio Girelli",
+          "Bruno Gualandi",
+          "Ivan Heibi",
+          "Andrea Iannucci",
+          "Riccardo Manganelli del Fà",
+          "Arcangelo Massari",
+          "Andrea Moretti",
+          "Silvio Peroni",
+          "Sofia Pescarin",
+          "Giulia Renda",
+          "Daniele Ronchi",
+          "Marco Sullini",
+          "Marco Antonio Tini",
+          "Francesca Tomasi",
+          "Luca Travaglini",
+          "Luca Vittuari"
         ],
         "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
         "year": 2023,
-        "keywords": [ "digital cultural heritage",
-            "digital twins",
-            "photogrammetry",
-            "preservation of temporary exhibitions",
-            "structured light scanning"
+        "keywords": [
+          "digital cultural heritage",
+          "digital twins",
+          "photogrammetry",
+          "preservation of temporary exhibitions",
+          "structured light scanning"
         ]
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Barzaghi, S.",
-            "Collina, F.",
-            "Fabbri, F.",
-            "Giacomini, F.",
-            "Bordignon, A.",
-            "Balzani, R.",
-            "Bitelli, G.",
-            "Bonifazi, F.",
-            "Cipriani, L.",
-            "Colitti, S.",
-            "Daquino, M.",
-            "Fanini, B.",
-            "Fantini, F.",
-            "Ferdani, D.",
-            "Fiorini, G.",
-            "Formia, E.",
-            "Forte, A.",
-            "Girelli, V. A.",
-            "Gualandi, B.",
-            "Heibi, I.",
-            "Iannucci, A.",
-            "Manganelli del F\u00e0, R.",
-            "Massari, A.",
-            "Moretti, A.",
-            "Peroni, S.",
-            "Pescarin, S.",
-            "Renda, G.",
-            "Ronchi, D.",
-            "Sullini, M.",
-            "Tini, M. A.",
-            "Tomasi, F.",
-            "Travaglini, L.",
-            "Vittuari, L"
-        ],
-        "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
-        "year": 2023,
-        "keywords": [ "digital cultural heritage",
-            "digital twins",
-            "photogrammetry",
-            "preservation of temporary exhibitions",
-            "structured light scanning"
-        ]
-    },
-    {
-        "type": "conference",
-        "author": [
-            "Renda, Giulia",
-            "Grasso, Marco",
-            "Daquino, Marilena"
+          "Giulia Renda",
+          "Marco Grasso",
+          "Marilena Daquino"
         ],
         "title": "From ontology design to user-centred interfaces for music heritage",
         "year": 2023,
-        "keywords": [ "Computer Science - Human-Computer Interaction; Computer Science - Human-Computer Interaction; Computer Science - Information Theory; Mathematics - Information Theory"
+        "keywords": [
+          "Computer Science - Human-Computer Interaction",
+          "Computer Science - Human-Computer Interaction",
+          "Computer Science - Information Theory",
+          "Mathematics - Information Theory"
         ],
         "url": "http://arxiv.org/abs/2306.12973v1",
         "doi": "10.48550/arXiv.2306.12973",
         "pages": "168-172"
-    },
-    {
+      },      
+      {
         "type": "misc",
         "author": [
-            "Marilena Daquino, Giulia Renda"
+          "Marilena Daquino",
+          "Giulia Renda"
         ],
         "title": "MELODY",
         "year": 2023,
-        "keywords": [ "data visualization",
-            "linked open data"
+        "keywords": [
+          "data visualization",
+          "linked open data"
         ],
         "url": "https://github.com/polifonia-project/dashboard"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Renda, Giulia",
-            "Daquino, Marilena",
-            "Presutti, Valentina"
+          "Giulia Renda",
+          "Marilena Daquino",
+          "Valentina Presutti"
         ],
         "title": "Melody: A Platform for Linked Open Data Visualisation and Curated Storytelling",
         "year": 2023,
-        "keywords": [ "data visualization, linked open data, storytelling, design thinking, ontology design"
+        "keywords": [
+          "data visualization",
+          "linked open data",
+          "storytelling",
+          "design thinking",
+          "ontology design"
         ],
         "url": "https://dl.acm.org/doi/proceedings/10.1145/3603163",
         "doi": "10.1145/3603163.3609035",
         "pages": "1-8"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Anna Sofia Lippolis,",
-            "Davide Maria Apolloni,",
-            "Corbellini, Milena",
-            "Giagnolini, Lucia",
-            "Mangialardo, Francesca",
-            "Carlo Teo Pedretti,",
-            "Peruch, Eleonora",
-            "Renda, Giulia",
-            "Spadoni, Mattia"
+          "Anna Sofia Lippolis",
+          "Davide Maria Apolloni",
+          "Milena Corbellini",
+          "Lucia Giagnolini",
+          "Francesca Mangialardo",
+          "Carlo Teo Pedretti",
+          "Eleonora Peruch",
+          "Giulia Renda",
+          "Mattia Spadoni"
         ],
         "title": "The Digital WHOmanities Project: Best Practices for Digital Pedagogy in the Pandemic Era",
         "year": 2021,
         "journal": "UMANISTICA DIGITALE",
         "volume": 10,
-        "keywords": [ "digital pedagogy",
-            "digital humanities",
-            "distance learning",
-            "university of bologna",
-            "education"
+        "keywords": [
+          "digital pedagogy",
+          "digital humanities",
+          "distance learning",
+          "university of bologna",
+          "education"
         ],
         "url": "https://umanisticadigitale.unibo.it/article/view/11829",
         "doi": "10.6092/issn.2532-8816/11829",
         "pages": "451-460",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "tomasi, Francesca"
+          "Francesca Tomasi"
         ],
         "title": "AIUCD. Un portale concettuale per le Digital Humanities in Italia",
         "year": 2021,
         "journal": "GRISELDAONLINE",
         "volume": 20,
-        "keywords": [ "Digital Humanities",
-            "Aiucd",
-            "Digital Scholarly Research",
-            "Project-oriented method"
+        "keywords": [
+          "Digital Humanities",
+          "Aiucd",
+          "Digital Scholarly Research",
+          "Project-oriented method"
         ],
         "url": "https://griseldaonline.unibo.it/article/view/12375",
         "doi": "10.6092/issn.1721-4777/12375",
         "pages": "205-212",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Ciotti, F.",
-            "Peroni, S.",
-            "Tomasi, F.",
-            "Vitali, F"
+          "Francesco Ciotti",
+          "Silvio Peroni",
+          "Francesca Tomasi",
+          "Fabio Vitali"
         ],
         "title": "An OWL 2 Formal Ontology for the Text Encoding Initiative",
         "year": 2016,
-        "keywords": [ "Ontologies",
-            "Formal models",
-            "Earmark"
+        "keywords": [
+          "Ontologies",
+          "Formal models",
+          "Earmark"
         ],
         "url": "http://dh2016.adho.org/abstracts/149",
         "pages": "151-153"
-    },
-    {
+      },
+      {
         "type": "inbook",
         "author": [
-            "Tomasi, Francesca"
+          "Francesca Tomasi"
         ],
         "title": "Analisi del testo letterario e nuove tecnologie",
         "year": 2015,
-        "keywords": [ "text retrieval",
-            "text analysis",
-            "text mining"
+        "keywords": [
+          "text retrieval",
+          "text analysis",
+          "text mining"
         ],
         "pages": "135-140"
-    },
-    {
+      },
+      {
         "type": "inbook",
         "author": [
-            "Barbera, M.",
-            "Meschini, F.",
-            "Morbidoni, C.",
-            "Tomasi, F"
+          "Michele Barbera",
+          "Francesco Meschini",
+          "Carlo Morbidoni",
+          "Francesca Tomasi"
         ],
         "title": "Annotating digital libraries and electronic editions in a collaborative and semantic perspective.",
         "year": 2013,
-        "volume": "354 CCIS",
-        "keywords": [ "ONTOLOGIES; OPEN ANNOTATION COLLABORATION; LINKED DATA; SEMLIB; TEI"
+        "volume": 354,
+        "keywords": [
+          "ONTOLOGIES",
+          "OPEN ANNOTATION COLLABORATION",
+          "LINKED DATA",
+          "SEMLIB",
+          "TEI"
         ],
         "doi": "10.1007/978-3-642-35834-0_7",
         "pages": "45-56"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Lana, M.",
-            "Ciotti, F.",
-            "Magro, D.",
-            "Peroni, S.",
-            "Tomasi, F.",
-            "Vitali, F"
+          "Michela Lana",
+          "Francesco Ciotti",
+          "Diego Magro",
+          "Silvio Peroni",
+          "Francesca Tomasi",
+          "Fabio Vitali"
         ],
         "title": "Annotating texts with ontologies, from geography to persons and events",
         "year": 2014,
-        "keywords": [ "ONTOLOGIES; annotation; geolat"
+        "keywords": [
+          "ONTOLOGIES",
+          "annotation",
+          "geolat"
         ],
         "url": "http://dharchive.org/sessions.php?c=DH2014",
         "pages": "494-496"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Silvio, Peroni",
-            "Tomasi, Francesca"
+          "Silvio Peroni",
+          "Francesca Tomasi"
         ],
         "title": "Approaching Digital Humanities at the University: a Cultural Challenge",
         "year": 2022,
         "journal": "JOURNAL OF ART HISTORIOGRAPHY",
         "volume": 27,
-        "keywords": [ "Digital Humanities",
-            "Computational Thinking",
-            "Master Degree",
-            "PhD Degree",
-            "University of Bologna"
+        "keywords": [
+          "Digital Humanities",
+          "Computational Thinking",
+          "Master Degree",
+          "PhD Degree",
+          "University of Bologna"
         ],
         "url": "https://arthistoriography.wordpress.com/27s-dec22/",
         "doi": "10.1108/JD-05-2016-0065",
         "pages": "1-11",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Francesca, Tomasi"
+          "Francesca Tomasi"
         ],
         "title": "Archival Finding Aids in Linked Open Data between description and interpretation",
         "year": 2023,
         "journal": "JLIS.IT",
         "volume": 14,
-        "keywords": [ "Semantic Web; Digital Hermeneutics; Interpretation; Trustworthiness; Digital Humanities"
+        "keywords": [
+          "Semantic Web",
+          "Digital Hermeneutics",
+          "Interpretation",
+          "Trustworthiness",
+          "Digital Humanities"
         ],
         "url": "https://www.jlis.it/index.php/jlis/article/view/557",
         "doi": "10.36253/jlis.it-557",
         "pages": "134-146",
         "number": 3
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Tomasi, Francesca"
+          "Francesca Tomasi"
         ],
         "title": "Archivi di persona in Linked Open Data. Il modello concettuale come strumento di integrazione nei GLAMs",
         "year": 2017,
         "journal": "AIB STUDI",
         "volume": 57,
-        "keywords": [ "ontologies",
-            "linked open data",
-            "personal archives",
-            "integration",
-            "heterogeneity"
+        "keywords": [
+          "ontologies",
+          "linked open data",
+          "personal archives",
+          "integration",
+          "heterogeneity"
         ],
         "url": "https://aibstudi.aib.it/article/view/11647/11002",
         "doi": "10.2426/aibstudi-11647",
         "pages": "283-310",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Sofia, Baroncini",
-            "Marilena, Daquino",
-            "Francesca, Tomasi"
+          "Sofia Baroncini",
+          "Marilena Daquino",
+          "Francesca Tomasi"
         ],
         "title": "Are domain-specific theoretical approaches valuable for the application of new computational methods? The case study of Erwin Panofsky's artworks interpretations and the semantic web",
         "year": 2023,
-        "keywords": [ "iconology",
-            "iconography",
-            "semantic web",
-            "linked open data",
-            "Erwin Panofsky"
+        "keywords": [
+          "iconology",
+          "iconography",
+          "semantic web",
+          "linked open data",
+          "Erwin Panofsky"
         ],
         "url": "https://zenodo.org/record/8321994",
         "doi": "10.5281/zenodo.8321994",
         "pages": "1-14"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Tomasi, Francesca",
-            "Daquino, Marilena",
-            "Giagnolini, Lucia"
+          "Francesca Tomasi",
+          "Marilena Daquino",
+          "Lucia Giagnolini"
         ],
         "title": "ARTchives: a Linked Open Data Native Catalogue of Art Historians' Archives",
         "year": 2021,
-        "keywords": [ "Linked Open Data \u00b7 Art History \u00b7 Archives"
+        "keywords": [
+          "Linked Open Data",
+          "Art History",
+          "Archives"
         ],
         "url": "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_10.pdf",
         "pages": "14-21"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Daquino, Marilena",
-            "Wigham, Mari",
-            "Daga, Enrico",
-            "Giagnolini, Lucia",
-            "Tomasi, Francesca"
+          "Marilena Daquino",
+          "Mari Wigham",
+          "Enrico Daga",
+          "Lucia Giagnolini",
+          "Francesca Tomasi"
         ],
         "title": "CLEF. A Linked Open Data native system for Crowdsourcing",
         "year": 2023,
         "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
         "volume": 16,
-        "keywords": [ "Crowdsourcing",
-            "Linked Data",
-            "Cultural Heritage"
+        "keywords": [
+          "Crowdsourcing",
+          "Linked Data",
+          "Cultural Heritage"
         ],
         "url": "https://dl.acm.org/doi/10.1145/3594721",
         "doi": "10.1145/3594721",
         "pages": "1-17",
         "number": 3
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Tomasi, Francesca",
-            "Vitali, Fabio"
+          "Francesca Tomasi",
+          "Fabio Vitali"
         ],
         "title": "Collaborative annotations in shared environments",
         "year": 2013,
-        "keywords": [ "DIGITAL HUMANITIES; METADATA; ONTOLOGIES; VOCABULARY; ANNOTATION TOOLS; collaboration environment"
+        "keywords": [
+          "DIGITAL HUMANITIES",
+          "METADATA",
+          "ONTOLOGIES",
+          "VOCABULARY",
+          "ANNOTATION TOOLS",
+          "collaboration environment"
         ],
         "doi": "10.1145/2494266.2494323",
         "pages": "283-284"
-    },
-    {
+      },      
+      {
         "type": "misc",
         "author": [
-            "Agosti, M.",
-            "Tomasi, F"
+          "Maristella Agosti",
+          "Francesca Tomasi"
         ],
         "title": "Collaborative Research Practices and Shared Infrastructures for Humanities Computing",
         "year": 2014,
-        "keywords": [ "DIGITAL HUMANITIES; digital philology; digital cultural heritage"
+        "keywords": [
+          "DIGITAL HUMANITIES",
+          "digital philology",
+          "digital cultural heritage"
         ],
         "pages": "1-288"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Valentina Anita Carriero,",
-            "Daquino, Marilena",
-            "Tomasi, Francesca"
+          "Valentina Anita Carriero",
+          "Marilena Daquino",
+          "Francesca Tomasi"
         ],
         "title": "Convergenze semantiche tra musei, archivi e biblioteche. Ontologie per le relazioni interpersonali",
         "year": 2019,
         "journal": "JLIS.IT",
         "volume": 10,
-        "keywords": [ "Ontology modelling; Cultural Heritage; Archival Science; Semantic relationship"
+        "keywords": [
+          "Ontology modelling",
+          "Cultural Heritage",
+          "Archival Science",
+          "Semantic relationship"
         ],
         "url": "https://www.jlis.it/article/view/12499",
         "doi": "10.4403/jlis.it-12499",
         "pages": "72-91",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "inbook",
         "author": [
-            "Tomasi, Francesca",
-            "Alessandra Di Tella,"
+          "Francesca Tomasi",
+          "Alessandra Di Tella"
         ],
         "title": "Cronologia della letteratura italiana",
         "year": 2021,
-        "keywords": [ "letteratura italiana",
-            "cronologia"
+        "keywords": [
+          "letteratura italiana",
+          "cronologia"
         ],
         "pages": "254-272"
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Pasqual, Valentina",
-            "Tomasi, Francesca"
+          "Valentina Pasqual",
+          "Francesca Tomasi"
         ],
         "title": "Data narratives with Linked Open Data, the case of mythLOD storytelling",
         "year": 2023,
-        "keywords": [ "Semantic Collection",
-            "Linked Open Data",
-            "Mythologiae",
-            "Storytelling",
-            "Digital Hermeneutics"
+        "keywords": [
+          "Semantic Collection",
+          "Linked Open Data",
+          "Mythologiae",
+          "Storytelling",
+          "Digital Hermeneutics"
         ],
         "doi": "10.5281/zenodo.8107673",
         "pages": "283-284"
-    },
-    {
+      },
+      {
         "type": "misc",
         "author": [
-            "Tomasi, F.",
-            "Vitali, F"
+          "Francesca Tomasi",
+          "Fabio Vitali"
         ],
         "id": "https://hdl.handle.net/11585/192729",
         "title": "DH-CASE 2013 - Collaborative Annotations in Shared Environments: Metadata, Vocabularies and Techniques in the Digital Humanities",
         "year": 2013,
-        "keywords": [ "OPEN ANNOTATION COLLABORATION; DIGITAL EDITIONS; LINKED DATA; ONTOLOGIES; MARKUP LANGUAGES; TEI - Text Encoding Initiative"],
+        "keywords": [
+          "OPEN ANNOTATION COLLABORATION",
+          "DIGITAL EDITIONS",
+          "LINKED DATA",
+          "ONTOLOGIES",
+          "MARKUP LANGUAGES",
+          "TEI - Text Encoding Initiative"
+        ],
         "pages": "1-113"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Tomasi, F"
+          "Francesca Tomasi"
         ],
         "title": "Digital editions as a new model of conceptual authority data",
         "year": 2013,
         "journal": "JLIS.IT",
         "volume": 4,
-        "keywords": [ "Authority data; DIGITAL EDITIONS; LINKED DATA; SEMANTIC INDEXING"
+        "keywords": [
+          "Authority data",
+          "DIGITAL EDITIONS",
+          "LINKED DATA",
+          "SEMANTIC INDEXING"
         ],
         "url": "https://www.jlis.it/article/view/8808",
         "doi": "10.4403/jlis.it-8808",
         "pages": "21-44",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Tomasi, Francesca"
+          "Francesca Tomasi"
         ],
         "title": "DIGITAL HUMANITIES AND DIGITAL KNOWLEDGE (DHDK). International second cycle/Master degree",
         "year": 2018,
         "journal": "UMANISTICA DIGITALE",
         "volume": 2,
-        "keywords": [ "learning areas ; programme catalogue ; professional figures ; digital humanities ; stakeholders and partnerships"],
+        "keywords": [
+          "learning areas",
+          "programme catalogue",
+          "professional figures",
+          "digital humanities",
+          "stakeholders and partnerships"
+        ],
         "url": "https://umanisticadigitale.unibo.it/article/view/7862/7777",
         "doi": "10.6092/issn.2532-8816/7862",
         "pages": "225-231"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Daquino, M.",
-            "Tomasi, F"
+          "Marilena Daquino",
+          "Francesca Tomasi"
         ],
         "title": "Digital Humanities e Library and Information Science",
         "year": 2016,
         "journal": "BIBLIOTHECAE.IT",
         "volume": 5,
-        "keywords": [ "Knowledge Organization",
-            "Ontologies",
-            "ermeneutica",
-            "metodologia",
-            "classificazione"
+        "keywords": [
+          "Knowledge Organization",
+          "Ontologies",
+          "ermeneutica",
+          "metodologia",
+          "classificazione"
         ],
         "url": "https://bibliothecae.unibo.it/article/view/6109",
         "doi": "10.6092/issn.2283-9364/6109",
         "pages": "130-150",
         "number": 1
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Tomasi, Francesca"
+          "Francesca Tomasi"
         ],
         "title": "Digital humanities e organizzazione della conoscenza: una pratica di insegnamento nel LODLAM",
         "year": 2020,
         "journal": "AIB STUDI",
         "volume": 60,
-        "keywords": [ "linked open data; LAM; knowledge organization; DHDK"
+        "keywords": [
+          "linked open data",
+          "LAM",
+          "knowledge organization",
+          "DHDK"
         ],
         "url": "https://aibstudi.aib.it/article/view/12068",
         "doi": "10.2426/aibstudi-12068",
         "pages": "411-425",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "misc",
         "author": [
-            "Bonora, Paolo",
-            "Tomasi, Francesca",
-            "Vitale, Tommaso",
-            "Giovannetti, Francesca",
-            "Giagnolini, Lucia"
+          "Paolo Bonora",
+          "Francesca Tomasi",
+          "Tommaso Vitale",
+          "Francesca Giovannetti",
+          "Lucia Giagnolini"
         ],
         "title": "Digital Library (FICLIT)",
         "year": 2022,
-        "keywords": [ "Omeka",
-            "IIIF",
-            "Mirador",
-            "Cultural Heritage ontologies",
-            "Metadata",
-            "Archival founds and collections"
+        "keywords": [
+          "Omeka",
+          "IIIF",
+          "Mirador",
+          "Cultural Heritage ontologies",
+          "Metadata",
+          "Archival founds and collections"
         ],
         "url": "https://dl.ficlit.unibo.it/s/lib/page/home"
-    },
-    {
+      },
+      {
         "type": "article",
         "author": [
-            "Bonora, P.",
-            "Giagnolini, L.",
-            "Di Tella, A.",
-            "Tomasi, F"
+          "Paolo Bonora",
+          "Lucia Giagnolini",
+          "Alessandra Di Tella",
+          "Francesca Tomasi"
         ],
         "title": "Digital Library di dipartimento: da collettore di risorse digitali a strumento per la ricerca, la didattica e la terza missione",
         "year": 2023,
         "journal": "BIBLIOTHECAE.IT",
         "volume": 12,
-        "keywords": [ "Digital library",
-            "biblioteche universitarie",
-            "digitalizzazione",
-            "digital curation",
-            "mostre virtuali",
-            "digital texts"
+        "keywords": [
+          "Digital library",
+          "biblioteche universitarie",
+          "digitalizzazione",
+          "digital curation",
+          "mostre virtuali",
+          "digital texts"
         ],
         "url": "https://bibliothecae.unibo.it/article/view/18712",
         "doi": "10.6092/issn.2283-9364/18712",
         "pages": "443-463",
         "number": 2
-    },
-    {
+      },
+      {
         "type": "conference",
         "author": [
-            "Barzaghi, S.",
-            "Collina, F.",
-            "Fabbri, F.",
-            "Giacomini, F.",
-            "Bordignon, A.",
-            "Balzani, R.",
-            "Bitelli, G.",
-            "Bonifazi, F.",
-            "Cipriani, L.",
-            "Colitti, S.",
-            "Daquino, M.",
-            "Fanini, B.",
-            "Fantini, F.",
-            "Ferdani, D.",
-            "Fiorini, G.",
-            "Formia, E.",
-            "Forte, A.",
-            "Girelli, V. A.",
-            "Gualandi, B.",
-            "Heibi, I.",
-            "Iannucci, A.",
-            "Manganelli del F\u00e0, R.",
-            "Massari, A.",
-            "Moretti, A.",
-            "Peroni, S.",
-            "Pescarin, S.",
-            "Renda, G.",
-            "Ronchi, D.",
-            "Sullini, M.",
-            "Tini, M. A.",
-            "Tomasi, F.",
-            "Travaglini, L.",
-            "Vittuari, L"
+          "Sebastian Barzaghi",
+          "Fabio Collina",
+          "Federico Fabbri",
+          "Fabio Giacomini",
+          "Alberto Bordignon",
+          "Riccardo Balzani",
+          "Giovanni Bitelli",
+          "Francesco Bonifazi",
+          "Luca Cipriani",
+          "Simone Colitti",
+          "Marilena Daquino",
+          "Bruno Fanini",
+          "Federico Fantini",
+          "Davide Ferdani",
+          "Gabriele Fiorini",
+          "Enrico Formia",
+          "Alessandro Forte",
+          "Vittorio Antonio Girelli",
+          "Bruno Gualandi",
+          "Ivan Heibi",
+          "Andrea Iannucci",
+          "Riccardo Manganelli del Fà",
+          "Arcangelo Massari",
+          "Andrea Moretti",
+          "Silvio Peroni",
+          "Sofia Pescarin",
+          "Giulia Renda",
+          "Daniele Ronchi",
+          "Marco Sullini",
+          "Marco Antonio Tini",
+          "Francesca Tomasi",
+          "Luca Travaglini",
+          "Luca Vittuari"
         ],
         "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
         "year": 2023,
-        "keywords": [ "digital cultural heritage",
-            "digital twins",
-            "photogrammetry",
-            "preservation of temporary exhibitions",
-            "structured light scanning"
+        "keywords": [
+          "digital cultural heritage",
+          "digital twins",
+          "photogrammetry",
+          "preservation of temporary exhibitions",
+          "structured light scanning"
         ]
-    },
-    {
+      }, {
         "type": "article",
         "author": [
-            "Tomasi, F"
+            "Francesca Tomasi"
         ],
         "title": "Discipline umanistiche e informatica. Quale futuro per l'integrazione?",
         "year": 2015,
         "journal": "LABOUR & LAW ISSUES",
         "volume": 1,
-        "keywords": [ "DIGITAL HUMANITIES; social; web skills profiles; cross disciplinary"],
+        "keywords": [ "DIGITAL HUMANITIES", "social", "web skills profiles", "cross disciplinary"],
         "url": "http://labourlaw.unibo.it/article/view/5009",
         "doi": "10.6092/issn.2421-2695/5009",
         "pages": "31-48",
@@ -11620,55 +11721,45 @@
     {
         "type": "inbook",
         "author": [
-            "Tomasi, F"
+            "Francesca Tomasi"
         ],
         "title": "Edizioni o archivi digitali? Knowledge sites e apporti disciplinari",
         "year": 2016,
-        "keywords": [ "digital humanities",
-            "objects' lifecycle"
-        ],
+        "keywords": [ "digital humanities", "objects' lifecycle"],
         "url": "http://www.editricesapienza.it/node/7479",
         "pages": "129-136"
     },
     {
         "type": "misc",
         "author": [
-            "Dionigi, I.",
-            "Citti, F.",
-            "Condello, F.",
-            "Neri, C.",
-            "Pasetti, L.",
-            "Pieri, B.",
-            "Tomasi, F.",
-            "Ziosi, A"
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Camillo Neri",
+            "Lucia Pasetti",
+            "Bruna Pieri",
+            "Francesca Tomasi",
+            "Antonio Ziosi"
         ],
         "title": "Esodi",
         "year": 2014,
-        "keywords": [ "LETTERATURA GRECA; LETTERATURA LATINA; BIBBIA; FORTUNA DEI CLASSICI; ESODO"
-        ],
+        "keywords": [ "LETTERATURA GRECA", "LETTERATURA LATINA", "BIBBIA", "FORTUNA DEI CLASSICI", "ESODO"],
         "url": "http://www.permanenza.unibo.it/eventi/esodi.-i-classici-xiii-edizione",
         "pages": "1-278"
     },
     {
         "type": "article",
         "author": [
-            "; Ciotti, Tomasi F.",
-            "; Daquino, F.",
-            "; Lana, M.",
-            ", M"
+            "Francesca Tomasi",
+            "Fabio Ciotti",
+            "Francesca Daquino",
+            "Marina Lana"
         ],
-        "title": "Esplorare semanticamente collezioni culturali: uno studio di fattibilit\u00e0",
+        "title": "Esplorare semanticamente collezioni culturali: uno studio di fattibilità",
         "year": 2015,
         "journal": "AIDA INFORMAZIONI",
         "volume": "XXXIII",
-        "keywords": [ "data modelling",
-            "facets",
-            "context",
-            "cultural heritage",
-            "interpretation",
-            "provenance",
-            "authoritativeness"
-        ],
+        "keywords": [ "data modelling", "facets", "context", "cultural heritage", "interpretation", "provenance", "authoritativeness"],
         "doi": "10.4399/97888548899278",
         "pages": "125-143",
         "number": "3/4"
@@ -11676,16 +11767,15 @@
     {
         "type": "inbook",
         "author": [
-            "Catarci, Tiziana",
-            "Guercio, Mariella",
-            "Santucci, Giuseppe",
-            "Tomasi, Francesca"
+            "Tiziana Catarci",
+            "Mariella Guercio",
+            "Giuseppe Santucci",
+            "Francesca Tomasi"
         ],
         "title": "Evaluating Cultural Heritage Information Access Systems",
         "year": 2014,
         "volume": 385,
-        "keywords": [ "DIGITAL LIBRARIES AND ARCHIVES; digital cultural heritage; DIGITAL HUMANITIES; COMPUTER SCIENCE; archival studies"
-        ],
+        "keywords": [ "DIGITAL LIBRARIES AND ARCHIVES", "digital cultural heritage", "DIGITAL HUMANITIES", "COMPUTER SCIENCE", "archival studies"],
         "url": "http://link.springer.com/book/10.1007%2F978-3-642-54347-0",
         "doi": "10.1007/978-3-642-54347-0_2",
         "pages": "7-16"
@@ -11693,21 +11783,16 @@
     {
         "type": "article",
         "author": [
-            "Giagnolini, Lucia",
-            "Daquino, Marilena",
-            "Mambelli, Francesca",
-            "Tomasi, Francesca"
+            "Lucia Giagnolini",
+            "Marilena Daquino",
+            "Francesca Mambelli",
+            "Francesca Tomasi"
         ],
         "title": "Exploratory methods for relation discovery in archival data",
         "year": 2023,
         "journal": "DIGITAL SCHOLARSHIP IN THE HUMANITIES",
         "volume": 38,
-        "keywords": [ "ARTchives",
-            "archival artistic data",
-            "Linked Open Data",
-            "Data Analysis",
-            "Deterministic rules"
-        ],
+        "keywords": [ "ARTchives", "archival artistic data", "Linked Open Data", "Data Analysis", "Deterministic rules"],
         "url": "https://doi.org/10.1093/llc/fqac036",
         "doi": "10.1093/llc/fqac036",
         "pages": "111-126",
@@ -11716,20 +11801,13 @@
     {
         "type": "conference",
         "author": [
-            "Sofia, Baroncini",
-            "Daquino, Marilena",
-            "Tomasi, Francesca"
+            "Baroncini Sofia",
+            "Marilena Daquino",
+            "Francesca Tomasi"
         ],
         "title": "Exploring iconographical and iconological content in semantic data through art historians' interpretations",
         "year": 2023,
-        "keywords": [ "Data exploration",
-            "dynamic digital collections",
-            "iconography",
-            "iconology",
-            "art history",
-            "art interpretation",
-            "Linked Open Data"
-        ],
+        "keywords": [ "Data exploration", "dynamic digital collections", "iconography", "iconology", "art history", "art interpretation", "Linked Open Data"],
         "url": "https://www.aiucd.it/atti-convegno-aiucd-2023/",
         "doi": "10.6092/unibo/amsacta/7721",
         "pages": "9-14"
@@ -11737,61 +11815,49 @@
     {
         "type": "conference",
         "author": [
-            "Daquino, Marilena",
-            "Pasqual, Valentina",
-            "Tomasi, Francesca",
-            "Vitali, Fabio"
+            "Marilena Daquino",
+            "Valentina Pasqual",
+            "Francesca Tomasi",
+            "Fabio Vitali"
         ],
         "title": "Expressing Without Asserting in the Arts",
         "year": 2022,
         "volume": 3160,
-        "keywords": [ "Conjectures",
-            "GLAM",
-            "Provenance",
-            "Uncertainty",
-            "RDF"
-        ],
+        "keywords": [ "Conjectures", "GLAM", "Provenance", "Uncertainty", "RDF"],
         "url": "http://ceur-ws.org/Vol-3160/",
         "pages": "1-9"
     },
     {
         "type": "article",
         "author": [
-            "Italia, P.",
-            "Tomasi, F"
+            "Paolo Italia",
+            "Francesca Tomasi"
         ],
         "title": "Filologia digitale. Fra teoria, metodologia e tecnica",
         "year": 2015,
         "journal": "ECDOTICA",
         "volume": "11 (2014)",
-        "keywords": [ "digital scholarly infrastructure; web environment; bibliographic codes; ambienti collaborativi; Authorial Philology"
-        ],
+        "keywords": [ "digital scholarly infrastructure", "web environment", "bibliographic codes", "ambienti collaborativi", "Authorial Philology"],
         "pages": "112-130"
     },
     {
         "type": "misc",
         "author": [
-            "Centro studi La permanenza del classico,",
-            "(, .",
-            "Dionigi, Ivano",
-            "Citti, Francesco",
-            "Condello, Federico",
-            "DAL CHIELE, Elisa",
-            "Neri, Camillo",
-            "Pasetti, Lucia",
-            "Pellacani, Daniele",
-            "Pieri, Bruna",
-            "Tomasi, Francesca",
-            "Ziosi, Antonio",
-            "), "
+            "Centro studi La permanenza del classico",
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Elisa Dal Chiele",
+            "Camillo Neri",
+            "Lucia Pasetti",
+            "Daniele Pellacani",
+            "Bruna Pieri",
+            "Francesca Tomasi",
+            "Antonio Ziosi"
         ],
         "title": "Follia",
         "year": 2016,
-        "keywords": [ "Letteratura Greca",
-            "Letteratura Latina",
-            "Letteratura biblica",
-            "Follia"
-        ],
+        "keywords": [ "Letteratura Greca", "Letteratura Latina", "Letteratura biblica", "Follia"],
         "url": "www.permanenza.unibo.it/eventi/folli.-i-classici-xv-edizione",
         "pages": "1-240",
         "number": 1
@@ -11799,20 +11865,14 @@
     {
         "type": "article",
         "author": [
-            "Francesca, Tomasi",
-            "Fabio, Ciotti"
+            "Francesca Tomasi",
+            "Fabio Ciotti"
         ],
         "title": "Formal ontologies, Linked Data and TEI Semantics",
         "year": 2016,
         "journal": "JOURNAL OF THE TEXT ENCODING INITIATIVE",
         "volume": 9,
-        "keywords": [ "linked data",
-            "Ontologies",
-            "Semantic Web",
-            "XML semantics",
-            "modeling",
-            "text encoding theory"
-        ],
+        "keywords": [ "linked data", "Ontologies", "Semantic Web", "XML semantics", "modeling", "text encoding theory"],
         "url": "http://jtei.revues.org/1480",
         "doi": "10.4000/jtei.1480",
         "pages": "1-23"
@@ -11820,85 +11880,62 @@
     {
         "type": "misc",
         "author": [
-            "Dionigi, Ivano",
-            "Citti, Francesco",
-            "Condello, Federico",
-            "Elisa Dal Chiele,",
-            "Floridi, Lucia",
-            "Neri, Camillo",
-            "Pasetti, Lucia",
-            "Pellacani, Daniele",
-            "Pieri, Bruna",
-            "Russotti, Ambra",
-            "Tomasi, Francesca",
-            "Tripaldi, Daniele",
-            "Ziosi, Antonio"
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Elisa Dal Chiele",
+            "Lucia Floridi",
+            "Camillo Neri",
+            "Lucia Pasetti",
+            "Daniele Pellacani",
+            "Bruna Pieri",
+            "Ambra Russotti",
+            "Francesca Tomasi",
+            "Daniele Tripaldi",
+            "Antonio Ziosi"
         ],
         "title": "Giustizia",
         "year": 2020,
-        "keywords": [ "Giustizia",
-            "dike",
-            "Esiodo",
-            "Pindaro",
-            "Platone",
-            "Eschilo",
-            "Cicerone",
-            "Aulo Gellio",
-            "Pelagio",
-            "Dante",
-            "Leibniz",
-            "Ecclesiaste",
-            "Vangelo di Luca",
-            "Apocalisse"
-        ],
+        "keywords": [ "Giustizia", "dike", "Esiodo", "Pindaro", "Platone", "Eschilo", "Cicerone", "Aulo Gellio", "Pelagio", "Dante", "Leibniz", "Ecclesiaste", "Vangelo di Luca", "Apocalisse"],
         "url": "https://sol.unibo.it/SebinaOpac/resource/giustizia/UBO7820249",
         "pages": "1-254"
     },
     {
         "type": "misc",
         "author": [
-            "Tomasi, Francesca",
-            "Spadini, Elena",
-            "Voegler, Georg"
+            "Francesca Tomasi",
+            "Elena Spadini",
+            "Georg Voegler"
         ],
         "title": "Graph Data-Models and Semantic Web Technologies in Scholarly Digital Editing",
         "year": 2021,
         "volume": 15,
-        "keywords": [ "Digital edition",
-            "Semantic Web",
-            "Graph data model"
-        ],
+        "keywords": [ "Digital edition", "Semantic Web", "Graph data model"],
         "url": "https://www.i-d-e.de/publikationen/schriften/bd-15-graph-data-models/",
         "pages": "1-214"
     },
     {
         "type": "misc",
         "author": [
-            "Daquino, M.",
-            "Peroni, S.",
-            "Tomasi, F"
+            "Marilena Daquino",
+            "Stefano Peroni",
+            "Francesca Tomasi"
         ],
         "title": "HiCo, Historical Context Ontology Documentation",
         "year": 2014,
-        "keywords": [ "Ontology documentation; CULTURAL HERITAGE"
-        ],
+        "keywords": [ "Ontology documentation", "CULTURAL HERITAGE"],
         "url": "http://purl.org/emmedi/hico"
     },
     {
         "type": "inbook",
         "author": [
-            "Daquino, Marilena",
-            "Tomasi, Francesca"
+            "Marilena Daquino",
+            "Francesca Tomasi"
         ],
         "title": "Historical Context Ontology (HiCO): A Conceptual Model for Describing Context Information of Cultural Heritage Objects",
         "year": 2015,
         "volume": 544,
-        "keywords": [ "FRBR",
-            "TEI",
-            "Linked Open Data",
-            "Scholarly editions",
-            "Authoritativeness"
-        ],
+        "keywords": [ "FRBR", "TEI", "Linked Open Data", "Scholarly editions", "Authoritativeness"],
         "url": "http://link.springer.com/chapter/10.1007%2F978-3-319-24129-6_37#",
         "doi": "10.1007/978-3-319-24129-6_37",
         "pages": "424-436"
@@ -11906,63 +11943,56 @@
     {
         "type": "misc",
         "author": [
-            "Dionigi, I.",
-            "Citti, F.",
-            "Condello, F.",
-            "Dal Chiele, E.",
-            "Neri, C.",
-            "Pasetti, L.",
-            "Pellacani, D.",
-            "Pieri, B.",
-            "Tomasi, F.",
-            "Ziosi, A"
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Elisa Dal Chiele",
+            "Camillo Neri",
+            "Lucia Pasetti",
+            "Daniele Pellacani",
+            "Bruna Pieri",
+            "Francesca Tomasi",
+            "Antonio Ziosi"
         ],
         "title": "Homo sum",
         "year": 2015,
-        "keywords": [ "LETTERATURA GRECA; LETTERATURA LATINA; FORTUNA DEI CLASSICI"
-        ],
+        "keywords": [ "LETTERATURA GRECA", "LETTERATURA LATINA", "FORTUNA DEI CLASSICI"],
         "url": "http://www.permanenza.unibo.it/eventi/nuovo-evento-test",
         "pages": "1-232"
     },
     {
         "type": "misc",
         "author": [
-            "Francesca, Tomasi",
-            "Roberto Rosselli Del Turco,",
-            "Anna Maria Tammaro,"
+            "Francesca Tomasi",
+            "Roberto Rosselli Del Turco",
+            "Anna Maria Tammaro"
         ],
         "title": "Humanities and Their Methods in the Digital Ecosystem",
         "year": 2015,
-        "keywords": [ "digital humanities"
-        ],
+        "keywords": [ "digital humanities"],
         "url": "http://dl.acm.org/citation.cfm?id=2802612",
         "pages": "1-150"
     },
     {
         "type": "book",
         "author": [
-            "Tomasi, Francesca",
-            "Gian Mario Anselmi,"
+            "Francesca Tomasi",
+            "Gian Mario Anselmi"
         ],
         "title": "I passaggi e la cronologia ragionata della letteratura italiana",
         "year": 2021,
-        "keywords": [ "Letteratura italiana",
-            "Cronologia ragionata",
-            "Autori",
-            "Generi",
-            "Opere"
-        ],
+        "keywords": [ "Letteratura italiana", "Cronologia ragionata", "Autori", "Generi", "Opere"],
         "url": "https://www.patroneditore.com/volumi/9788855535236/i-passaggi-e-la-cronologia-ragionata-della-letteratura-italiana",
         "pages": "185-272"
     },
     {
         "type": "article",
         "author": [
-            "Sartini, Bruno",
-            "Baroncini, Sofia",
-            "van Erp, Marieke",
-            "Tomasi, Francesca",
-            "Gangemi, Aldo"
+            "Bruno Sartini",
+            "Sofia Baroncini",
+            "Marieke van Erp",
+            "Francesca Tomasi",
+            "Aldo Gangemi"
         ],
         "title": "ICON: an Ontology for Comprehensive Artistic Interpretations",
         "year": 2023,
@@ -11983,7 +12013,7 @@
     {
         "type": "inbook",
         "author": [
-            "Tomasi, Francesca"
+            "Francesca Tomasi"
         ],
         "title": "Il digitale come strumento critico",
         "year": 2023,
@@ -11998,17 +12028,17 @@
     {
         "type": "misc",
         "author": [
-            "Dionigi, I.",
-            "Citti, F.",
-            "Condello, F.",
-            "Dal Chiele, E.",
-            "Neri, C.",
-            "Pasetti, L.",
-            "Pellacani, D.",
-            "Pieri, B.",
-            "Russotti, A.",
-            "Tomasi, F.",
-            "Ziosi, A"
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Elisa Dal Chiele",
+            "Camillo Neri",
+            "Lucia Pasetti",
+            "Daniele Pellacani",
+            "Bruna Pieri",
+            "Ambra Russotti",
+            "Francesca Tomasi",
+            "Antonio Ziosi"
         ],
         "title": "Il potere",
         "year": 2018,
@@ -12029,19 +12059,19 @@
     {
         "type": "misc",
         "author": [
-            "Dionigi, Ivano",
-            "Citti, Francesco",
-            "Condello, Federico",
-            "Elisa Dal Chiele,",
-            "Floridi, Lucia",
-            "Neri, Camillo",
-            "Pasetti, Lucia",
-            "Pellacani, Daniele",
-            "Pieri, Bruna",
-            "Russotti, Ambra",
-            "Tomasi, Francesca",
-            "Tripaldi, Daniele",
-            "Ziosi, Antonio"
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Elisa Dal Chiele",
+            "Lucia Floridi",
+            "Camillo Neri",
+            "Lucia Pasetti",
+            "Daniele Pellacani",
+            "Bruna Pieri",
+            "Ambra Russotti",
+            "Francesca Tomasi",
+            "Daniele Tripaldi",
+            "Antonio Ziosi"
         ],
         "title": "In principio",
         "year": 2021,
@@ -12060,7 +12090,7 @@
     {
         "type": "article",
         "author": [
-            "Tomasi, Francesca"
+            "Francesca Tomasi"
         ],
         "title": "Informatica umanistica. Andata e ... ritorno",
         "year": 2015,
@@ -12073,13 +12103,13 @@
     {
         "type": "article",
         "author": [
-            "Baroncini, Sofia",
-            "Sartini, Bruno",
-            "Van Erp, Marieke",
-            "Tomasi, Francesca",
-            "Gangemi, Aldo"
+            "Sofia Baroncini",
+            "Bruno Sartini",
+            "Marieke van Erp",
+            "Francesca Tomasi",
+            "Aldo Gangemi"
         ],
-        "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in\u00a0the semantic web",
+        "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in the semantic web",
         "year": 2023,
         "journal": "JOURNAL OF DOCUMENTATION",
         "volume": 79,
@@ -12096,9 +12126,9 @@
     {
         "type": "article",
         "author": [
-            "Daquino, M.",
-            "Pasqual, V.",
-            "Tomasi, F"
+            "Marilena Daquino",
+            "Valentina Pasqual",
+            "Francesca Tomasi"
         ],
         "title": "Knowledge representation of digital hermeneutics of archival and literary sources",
         "year": 2020,
@@ -12114,7 +12144,7 @@
     {
         "type": "article",
         "author": [
-            "Tomasi, Francesca"
+            "Francesca Tomasi"
         ],
         "title": "L'edizione delle carte degli scrittori: l'archivio letterario incontra il (nativo) digitale",
         "year": 2021,
@@ -12132,22 +12162,22 @@
     {
         "type": "misc",
         "author": [
-            "Dionigi, I.",
-            "Citti, F.",
-            "Condello, F.",
-            "Dal Chiele, E.",
-            "Pasetti, L.",
-            "Pellacani, D.",
-            "Pieri, B.",
-            "Tomasi, F.",
-            "Ziosi, A.",
-            "Neri, C"
+            "Ivano Dionigi",
+            "Francesco Citti",
+            "Federico Condello",
+            "Elisa Dal Chiele",
+            "Lucia Pasetti",
+            "Daniele Pellacani",
+            "Bruna Pieri",
+            "Francesca Tomasi",
+            "Antonio Ziosi",
+            "Camillo Neri"
         ],
-        "title": "La felicit\u00e0",
+        "title": "La felicità",
         "year": 2017,
         "keywords": [ "52.42 EMOZIONI. Piacere",
             "divertimento",
-            "felicit\u00e0",
+            "felicità",
             "gioia",
             "estasi",
             "letteratura biblica",
@@ -12160,8 +12190,8 @@
     {
         "type": "article",
         "author": [
-            "Tomasi, F.",
-            "Daquino, M"
+            "Francesca Tomasi",
+            "Marilena Daquino"
         ],
         "title": "La Fototeca Zeri in Linked Open Data",
         "year": 2017,
@@ -12178,8 +12208,8 @@
     {
         "type": "misc",
         "author": [
-            "Rossi, F.",
-            "Tomasi, F"
+            "Francesco Rossi",
+            "Francesca Tomasi"
         ],
         "title": "La metodologia della ricerca umanistica nell'ecosistema digitale",
         "year": 2014,
