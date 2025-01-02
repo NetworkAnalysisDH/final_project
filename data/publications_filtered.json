@@ -144,11 +144,11 @@
             {
                 "type": "conference",
                 "author": [
-                    "Grieco, Giuseppe",
-                    "Heibi, Ivan",
-                    "Massari, Arcangelo",
-                    "Moretti, Arianna",
-                    "Peroni, Silvio"
+                    "Grieco Giuseppe",
+                    "Heibi Ivan",
+                    "Massari Arcangelo",
+                    "Moretti Arianna",
+                    "Peroni Silvio"
                 ],
                 "title": "Enabling Portability and Reusability of Open Science Infrastructures",
                 "year": 2022,
@@ -173,9 +173,9 @@
             {
                 "type": "article",
                 "author": [
-                    "Heibi, Ivan",
-                    "Peroni, Silvio",
-                    "Shotton, David"
+                   "Heibi Ivan",
+                    "Peroni Silvio",
+                    "Shotton David"
                 ],
                 "title": "Enabling text search on SPARQL endpoints through OSCAR",
                 "year": 2019,
@@ -198,8 +198,8 @@
             {
                 "type": "conference",
                 "author": [
-                    "Massari, Arcangelo",
-                    "Heibi, Ivan"
+                    "Arcangelo Massari",
+                    "Ivan Heibi"
                 ],
                 "title": "How to structure citations data and bibliographic metadata in the OpenCitations accepted",
                     "year": 2022,
@@ -12599,10 +12599,10 @@
         {
             "type": "conference",
             "author": [
-                "Massari, Arcangelo",
-                "Peroni, Silvio",
-                "Tomasi, Francesca",
-                "Heibi, Ivan"
+                "Arcangelo Massari",
+                "Silvio Peroni",
+                "Francesca Tomasi",
+                "Ivan Heibi"
             ],
             "title": "Representing provenance and track changes of cultural heritage metadata in RDF: a survey of existing approaches",
             "year": 2023,
