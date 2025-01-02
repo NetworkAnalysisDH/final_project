@@ -1406,32 +1406,7 @@
                   "isbn": "9781614999096",
                   "pages": "159--172"
                 },              
-                {
-                    "type": "inproceedings",
-                    "author": [
-                        "Valentina Anita Carriero",
-                        "Aldo Gangemi",
-                        "Maria Letizia Mancinelli",
-                        "Ludovica Marinucci",
-                        "Andrea Giovanni Nuzzolese",
-                        "Valentina Presutti",
-                        "Chiara Veninata"
-                    ],
-                    "title": "ArCo ontology network and LOD on Italian Cultural Heritage",
-                    "year": 2019,
-                    "publisher": "CEUR-WS",
-                    "volume": 2375,
-                    "booktitle": "CEUR Workshop Proceedings",
-                    "keywords": [
-                        "ArCo",
-                        "Ontology",
-                        "Ontology network",
-                        "Cultural heritage",
-                        "Linked Data",
-                        "Knowledge Graphs"
-                    ],
-                    "pages": "97--102"
-                },
+              
                 {
                     "type": "article",
                     "author": [
@@ -8609,32 +8584,15 @@
             "isbn": "9781450379564",
             "pages": "10--18"
         },
-        {
-            "type": "conference",
-            "id": "11585/995052",
-            "author": [
-                "A. De Filippo",
-                "Michela Milano",
-                "V. Presutti",
-                "A. Saffiotti"
-            ],
-            "title": "CREAI 2022 - Preface to the First Workshop on Artificial Intelligence and Creativity",
-            "year": "2022",
-            "publisher": "CEUR-WS",
-            "address": "Udine",
-            "volume": "3278",
-            "booktitle": "CEUR Workshop Proceedings",
-            "keywords": "Artificial Intelligence Creativity",
-            "pages": "1--3"
-        },
+       
         {
             "type": "conference",
             "id": "11585/995051",
             "author": [
-                "A. De Filippo",
+                "Alessandro De Filippo",
                 "Michela Milano",
-                "V. Presutti",
-                "A. Saffiotti"
+                "Valentina Presutti",
+                "Anastasios Saffiotti"
             ],
             "title": "CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity",
             "year": "2023",
@@ -8649,9 +8607,9 @@
             "type": "conference",
             "id": "11585/895899",
             "author": [
-                "A. De Filippo",
+                "Alessandro De Filippo",
                 "Michela Milano",
-                "P. Mello"
+                "Paolo Mello"
             ],
             "title": "Do You Like Dancing Robots? AI Can Tell You Why",
             "year": "2022",
@@ -9070,7 +9028,7 @@
             "type": "conference",
             "id": "11585/988514",
             "author": [
-                " A. De Filippo",
+                "Alessandro De Filippo",
                 "Michela Milano"
             ],
             "title": "Large Language Models for Human-AI Co-Creation of Robotic Dance Performances",
@@ -9091,15 +9049,15 @@
             "type": "conference",
             "id": "11585/728093",
             "author": [
-                "D.S. Chisca",
-                "M. Lombardi",
+                "Dan S. Chisca",
+                "Maria Lombardi",
                 "Michela Milano",
-                "B. O'Sullivan"
+                "Brendan O'Sullivan"
             ],
             "title": "Logic-Based Benders Decomposition for Super Solutions: An Application to the Kidney Exchange Problem",
             "year": "2019",
             "publisher": "Springer",
-            "address": "usa",
+            "address": "USA",
             "volume": "11802",
             "booktitle": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
             "keywords": [
@@ -9211,11 +9169,11 @@
             "type": "preface",
             "id": "11585/962308",
             "author": [
-                "R. Calegari",
-                "A. Aler",
-                "T. Gabriel",
-                "G. Castane",
-                "V. Dignum",
+              "Rocco Calegari",
+                "Alberto Aler",
+                "Tomás Gabriel",
+                "Gonzalo Castane",
+                "Virginia Dignum",
                 "Michela Milano"
             ],
             "title": "Preface: Fairness and Bias in AI: Insights from AEQUITAS 2023",
@@ -9278,25 +9236,25 @@
             "type": "essay",
             "id": "11585/995054",
             "author": [
-                "M. Diekerhof",
-                "A. Monti",
-                "E. Lebedeva",
-                "A.H. Tkaczyk",
-                "I. Yuksel-Ergun",
-                "J. Zittel",
-                "L.F. Escudero",
-                "A. Soroudi",
-                "C. Helmberg",
-                "Z. Kanovic",
-                "M. Petkovic",
-                "F. Lacalandra",
-                "A. Frangioni",
-                "J. Lee",
-                "A. De Filippo",
-                "M. Lombardi",
+                "Markus Diekerhof",
+                "Andrea Monti",
+                "Elena Lebedeva",
+                "Andrzej H. Tkaczyk",
+                "Irem Yuksel-Ergun",
+                "Jannik Zittel",
+                "Luis F. Escudero",
+                "Alireza Soroudi",
+                "Christian Helmberg",
+                "Zoran Kanovic",
+                "Milan Petkovic",
+                "Francesco Lacalandra",
+                "Alessandra Frangioni",
+                "John Lee",
+                "Alessandro De Filippo",
+                "Marco Lombardi",
                 "Michela Milano",
-                "P. Ezran",
-                "Y. Haddad"
+                "Paul Ezran",
+                "Yasmine Haddad"
             ],
             "title": "Production and Demand Management",
             "year": 2021,
@@ -14054,7 +14012,7 @@
         ],
         "url": "https://umanisticadigitale.unibo.it"
     },
-   
+
         
     {
         "type": "article",
