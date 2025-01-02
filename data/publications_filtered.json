@@ -1759,93 +1759,7 @@
                     "pages": "451--490",
                     "number": "2-3"
                 },
-                {
-                    "type": "book",
-                    "author": [
-                        "Vincenzo A. Carriero",
-                        "Luigi Asprino",
-                        "Rajarshi Biswas",
-                        "Carlo d'Amato",
-                        "Ilaria Celino",
-                        "James Domingue",
-                        "Michel Dumontier",
-                        "Marieke van Erp",
-                        "Holger Paulheim",
-                        "Alessandro Polleres",
-                        "Valentina Presutti",
-                        "Stefan Rudolph",
-                        "Heiko Sack",
-                        "Nadia Abbas",
-                        "Khalid Alghamdi",
-                        "Mohammad Alinam",
-                        "Francesco Alloatti",
-                        "Giovani Amaral",
-                        "Mathieu Beno",
-                        "Felix Bensmann",
-                        "Ling Cai",
-                        "Rebecca Capshaw",
-                        "Alexandre Dadoun",
-                        "Simona de Giorgis",
-                        "Hugues Delva",
-                        "Vincent Emonet",
-                        "Pablo E. Arias",
-                        "Omar Fallatah",
-                        "Sebastian Ferrada",
-                        "Maria G. Ocaña",
-                        "Marios Georgiou",
-                        "Giorgi A. Gesese",
-                        "Fiona Gillis-Webber",
-                        "Francesco Giovannetti",
-                        "M. Giovanni Buey",
-                        "Ignacio Harrando",
-                        "Ishai Heibi",
-                        "Valeria Horta",
-                        "Lukas Huber",
-                        "Francesco Igne",
-                        "Maha Jaradeh",
-                        "Nassim Keshan",
-                        "Antoaneta Koleva",
-                        "Bader Koteich",
-                        "Kei Kurniawan",
-                        "Ming Liu",
-                        "Chao Ma",
-                        "Leen Maas",
-                        "Monica Mansfield",
-                        "Francesco Mariani",
-                        "Emanuele Marzi",
-                        "Sara Mesbah",
-                        "Maneet Mistry",
-                        "Ana C. M. Tirado",
-                        "Anh Nguyen",
-                        "Vinh B. Nguyen",
-                        "Amira Oelen",
-                        "Valentina Pasqual",
-                        "Michele Porena",
-                        "Julius Portisch",
-                        "Katrina Pustu-Iren",
-                        "Ana R. Mendez",
-                        "Sina Roshankish",
-                        "Ali Sakor",
-                        "Jose Salas",
-                        "Timothy Schleider",
-                        "Miao Shi",
-                        "Giorgio Spinaci",
-                        "Chen Sun",
-                        "Torben Tietz",
-                        "Mohamed T. Dhouib",
-                        "Alessandro Umbrico",
-                        "Willem van den Berg",
-                        "Wei Xu"
-                    ],
-                    "title": "Knowledge graphs evolution and preservation",
-                    "year": 2020,
-                    "keywords": [
-                        "semantic web",
-                        "ISWS",
-                        "knowledge preservation",
-                        "knowledge graph"
-                    ]
-                },
+                
                 {
                     "type": "conference",
                     "author": [
@@ -14110,21 +14024,7 @@
         ],
         "url": "http://projects.dharc.unibo.it/musow/"
     },
-    {
-        "type": "inbook",
-        "author": [
-            "Marilena Daquino"
-        ],
-        "title": "Photo Archives in Linked Open Data - The Federico Zeri's Archive Case Study",
-        "year": 2017,
-        "volume": 10180,
-        "keywords": [
-            "Linked open data; Ontology development; Photo archives; Theoretical Computer Science; Computer Science (all)"
-        ],
-        "url": "http://springerlink.com/content/0302-9743/copyright/2005/",
-        "doi": "10.1007/978-3-319-58694-6_34",
-        "pages": "219-223"
-    },
+   
     {
         "type": "misc",
         "author": [
@@ -14154,27 +14054,7 @@
         ],
         "url": "https://umanisticadigitale.unibo.it"
     },
-    {
-        "type": "conference",
-        "author": [
-            "Angelo Di Iorio",
-            "Andrea Giovanni Nuzzolese",
-            "Silvio Peroni",
-            "Francesco Poggi",
-            "Fabio Vitali",
-            "Paolo Ciancarini"
-        ],
-        "title": "Analysing and Discovering Semantic Relations in Scholarly Data",
-        "year": 2017,
-        "journal": "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE",
-        "volume": 733,
-        "keywords": [
-            "Computer Science (all); Mathematics (all)"
-        ],
-        "url": "http://www.springer.com/series/7899",
-        "doi": "10.1007/978-3-319-68130-6_1",
-        "pages": "3-19"
-    },    
+   
         
     {
         "type": "article",
