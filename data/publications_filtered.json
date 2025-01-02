@@ -140,55 +140,7 @@
             ],
             "pages": "1448--1454"
         },        
-        {
-            
-                "type": "conference",
-                "author": [
-                    "Barzaghi, Stefano",
-                    "Collina, Fabio",
-                    "Fabbri, Francesco",
-                    "Giacomini, Francesco",
-                    "Bordignon, Alberto",
-                    "Balzani, Riccardo",
-                    "Bitelli, Gianluigi",
-                    "Bonifazi, Federico",
-                    "Cipriani, Luca",
-                    "Colitti, Stefano",
-                    "Daquino, Marilena",
-                    "Fanini, Barbara",
-                    "Fantini, Fabio",
-                    "Ferdani, Daniele",
-                    "Fiorini, Gianluca",
-                    "Formia, Enrico",
-                    "Forte, Andrea",
-                    "Girelli, Vito Alberto",
-                    "Gualandi, Barbara",
-                    "Heibi, Ivan",
-                    "Iannucci, Andrea",
-                    "Manganelli del Fà, Roberto",
-                    "Massari, Arcangelo",
-                    "Moretti, Arianna",
-                    "Peroni, Silvio",
-                    "Pescarin, Silvia",
-                    "Renda, Giovanni",
-                    "Ronchi, Daniele",
-                    "Sullini, Martina",
-                    "Tini, Maria Antonella",
-                    "Tomasi, Federico",
-                    "Travaglini, Lorenzo",
-                    "Vittuari, Laura"
-                ],
-                "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
-                "year": 2023,
-                "booktitle": "GCH23 - Eurographics Workshop on Graphics and Cultural Heritage",
-                "keywords": [
-                    "digital cultural heritage",
-                    "digital twins",
-                    "photogrammetry",
-                    "preservation of temporary exhibitions",
-                    "structured light scanning"
-                ]
-            },
+      
             {
                 "type": "conference",
                 "author": [
@@ -4081,54 +4033,7 @@
                           "number": 2
                         },
         
-    {
-        "type": "Conference Paper",
-        "author": [
-            "Susanna Barzaghi",
-            "Francesca Collina",
-            "Federico Fabbri",
-            "Francesca Giacomini",
-            "Andrea Bordignon",
-            "Roberto Balzani",
-            "Gabriele Bitelli",
-            "Federico Bonifazi",
-            "Luca Cipriani",
-            "Stefano Colitti",
-            "Mara Daquino",
-            "Bruno Fanini",
-            "Francesco Fantini",
-            "Daniele Ferdani",
-            "Guido Fiorini",
-            "Elisabetta Formia",
-            "Ambra Forte",
-            "Valentina A. Girelli",
-            "Beatrice Gualandi",
-            "Iman Heibi",
-            "Alessia Iannucci",
-            "Rosita Manganelli del Fà",
-            "Arcangelo Massari",
-            "Alessio Moretti",
-            "Silvio Peroni",
-            "Sofia Pescarin",
-            "Giulia Renda",
-            "Davide Ronchi",
-            "Matteo Sullini",
-            "Marta A. Tini",
-            "Francesca Tomasi",
-            "Laura Travaglini",
-            "Luca Vittuari"
-        ],
-        "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
-        "year": 2023,
-        "booktitle": "GCH23 - Eurographics Workshop on Graphics and Cultural Heritage",
-        "keywords": [
-            "Data Analysis",
-            "Digital twins",
-            "Photogrammetry",
-            "Preservation of temporary exhibitions",
-            "Structured light scanning"
-        ]
-    },
+   
     {
         "type": "Journal Article",
         "author": [
@@ -4209,29 +4114,7 @@
         "doi": "10.1016/j.daach.2023.e00309",
         "pages": "1--22"
     },
-    {
-        "type": "Journal Article",
-        "author": [
-            "Sofia Pescarin",
-            "Dolores Soledad Martinez Pandiani"
-        ],
-        "title": "The Impact of Story Structure, Meaningfulness, and Concentration in Serious Games",
-        "year": 2022,
-        "journal": "INFORMATION",
-        "volume": 13,
-        "keywords": [
-            "VR",
-            "serious games",
-            "meaningfulness",
-            "concentration",
-            "abstract concepts",
-            "game design"
-        ],
-        "url": "https://www.mdpi.com/2078-2489/13/12/567",
-            "doi": "10.3390/info13120567",
-            "pages": "1--16",
-            "number": 12
-    },
+   
     {
         "type": "Conference Paper",
         "author": [
@@ -11184,26 +11067,6 @@
             "author": [
                 "Luigi Asprino",
                 "Valentina Anita Carriero",
-                "Valentina Presutti"
-            ],
-            "title": "Extraction of common conceptual components from multiple ontologies",
-            "year": 2021,
-            "keywords": [
-                "ontology design patterns",
-                "conceptual components",
-                "empirical knowledge engineering",
-                "knowledge extraction",
-                "ontology usability"
-            ],
-            "url": "https://dl.acm.org/doi/10.1145/3460210.3493542",
-            "doi": "10.1145/3460210.3493542",
-            "pages": "185-192"
-        },
-        {
-            "type": "conference",
-            "author": [
-                "Luigi Asprino",
-                "Valentina Anita Carriero",
                 "Claudio Colonna",
                 "Valentina Presutti"
             ],
@@ -11316,24 +11179,7 @@
             "doi": "10.1007/978-3-031-47243-5_17",
             "pages": "302-322"
         },
-        {
-            "type": "conference",
-            "author": [
-                "Valentina Anita Carriero",
-                "Paul Groth",
-                "Valentina Presutti"
-            ],
-            "title": "Towards improving Wikidata reuse with emerging patterns",
-            "year": 2022,
-            "volume": 3262,
-            "keywords": [
-                "ontology design patterns",
-                "wikidata",
-                "empirical knowledge engineering"
-            ],
-            "url": "https://ceur-ws.org/Vol-3262/paper2.pdf",
-            "pages": "1-12"
-        },
+    
         {
             "type": "book",
             "author": [
@@ -11497,22 +11343,7 @@
             "url": "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf",
             "pages": "104-113"
         },
-        {
-            "type": "article",
-            "author": [
-                "Delfina Sol Martinez Pandiani",
-                "Sofia Pescarin"
-            ],
-            "title": "BEYOND STATIC COLORS: AN INTERACTIVE PARTICIPATORY DESIGN PERSPECTIVE ON COLOR-CENTRIC EXPERIENCES",
-            "year": 2022,
-            "journal": "INTERNATIONAL JOURNAL OF CONSERVATION SCIENCE",
-            "volume": 13,
-            "keywords": [
-                "Civic education; Color heritage; Cultural artifacts; Digital hermeneutics; Interactive design"
-            ],
-            "url": "https://ijcs.ro/volume-13-2022/#Specialissue1",
-            "pages": "1691-1704"
-        },
+      
         {
             "type": "article",
             "author": [
