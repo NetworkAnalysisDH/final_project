@@ -13337,33 +13337,7 @@
         ],
         "pages": "549-560"
     },
-    {
-        "type": "conference",
-        "author": [
-            "Vojtěch Malínek",
-            "Tomasz Umerle",
-            "Mikko Tolonen",
-            "Agnieszka Karlińska",
-            "Matteo Romanello",
-            "Giovanni Colavizza",
-            "Silvio Peroni",
-            "Dorota Siwecka",
-            "Jakub Łubocki",
-            "Nanette Rißler-Pipka",
-            "David Lindemann",
-            "Penny Labropoulou",
-            "Christiane Klaes"
-        ],
-        "title": "Fostering Collaboration to Enable Bibliodata-driven Research in the Humanities",
-        "year": 2023,
-        "keywords": [
-            "bibliographic analysis",
-            "cultural analytics",
-            "citations"
-        ],
-        "doi": "10.5281/zenodo.8107517",
-        "pages": "445-448"
-    },
+   
     {
         "type": "article",
         "author": [
@@ -14053,31 +14027,7 @@
         "pages": "1-47",
         "number": 1
     },
-    {
-        "type": "inbook",
-        "author": [
-            "Riccardo Fini",
-            "Monica Bartolini",
-            "Stefano Benigni",
-            "Paolo Ciancarini",
-            "Angelo Di Iorio",
-            "Alan Johnson",
-            "Marcello Maria Mariani",
-            "Silvio Peroni",
-            "Francesco Poggi",
-            "Einar Rasmussen",
-            "Riccardo Silvi",
-            "Maurizio Sobrero",
-            "Laura Toschi"
-        ],
-        "title": "Collaborative practices and multidisciplinary research: The dialogue between entrepreneurship, management, and data science",
-        "year": 2018,
-        "keywords": [
-            "Entrepreneurship; Data science; University-Industry Collaborations; Technology Innovation Management; Scientometrics; Strategy; Business Performance Analytics"
-        ],
-        "doi": "10.1007/978-3-319-90548-8_7",
-        "pages": "129-152"
-    },
+  
     {
         "type": "conference",
         "author": [
