@@ -9,7 +9,7 @@ from collections import defaultdict
 
 # Absolute path to the JSON file
 base_path = os.path.abspath("data")
-file_path = os.path.join(base_path, "publications_filtered.json")
+file_path = os.path.join(base_path, "publications.json")
 
 def load_publications(file_path):
     # Load the JSON file
@@ -322,4 +322,3 @@ if __name__ == "__main__":
     # save the adjacency matrix to a CSV file
     adjacency_matrix_output_path = os.path.join(output_dir, "adjacency_matrix.csv")
     export_adjacency_matrix(graph, adjacency_matrix_output_path)
-

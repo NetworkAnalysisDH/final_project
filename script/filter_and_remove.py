@@ -3,8 +3,8 @@ import json
 
 # Load the JSON file
 base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data"))
-file_path = os.path.join(base_path, "publications.json")
-output_file_path = os.path.join(base_path, "publications_filtered.json")
+file_path = os.path.join(base_path, "publications_filtered_fixed1.json")
+output_file_path = os.path.join(base_path, "publications.json")
 
 def load_publications(file_path):
     # Load the JSON file
