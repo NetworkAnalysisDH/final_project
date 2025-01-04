@@ -1,19 +1,29 @@
 import json
 import networkx as nx
 import matplotlib.pyplot as plt
+import os
 
-# Carregando dados de membros e projetos
-with open('members.json') as f:
-    members_data = json.load(f)
-    
-with open('projects.json') as f:
+base_path = os.path.dirname(os.path.abspath(__file__))
+
+# Define the file paths for the JSON files
+authors_file_path = os.path.join(base_path, 'data', 'authors.json')
+projects_file_path = os.path.join(base_path, 'data', 'projects.json')
+
+# Open and load the authors.json file
+with open(authors_file_path, 'r') as f:
+    authors_data = json.load(f)
+
+# Open and load the projects.json file
+with open(projects_file_path, 'r') as f:
     projects_data = json.load(f)
 
 G = nx.Graph()
 
 # Add nodes for each member in the graph
-for member in members_data["members"]:
-    G.add_node(member["members_id"], label=member["name"], type='member')
+for member in authors_data["members"]:
+    orcid_id = member.get("ORCID_ID", None)  # Use None if 'ORCID_ID' is missing
+    if orcid_id:
+        G.add_node(orcid_id, label=member["name"], type='member')
 
 # Add edges based on projects
 for project in projects_data["projects"]:
@@ -23,7 +33,7 @@ for project in projects_data["projects"]:
     for participant in project["participants"]:
         G.add_edge(participant, project_id)  
 
-# Counting the pairs of members that are in the same project
+# Counting the pairs of authors that are in the same project
 member_pairs = {}
 for project in projects_data["projects"]:
     participants = project["participants"]
