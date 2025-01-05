@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Critica Delle Varianti" />
+    <node id="Benedetto Varchi" />
+    <node id="Machine Learning" />
+    <node id="Legal Design" />
+    <node id="Visualization" />
+    <node id="Knowledge Graph" />
+    <node id="Information Systems" />
+    <node id="Rdf" />
+    <node id="Cultural Heritage" />
+    <node id="Computer Vision And Pattern Recognition" />
+    <node id="Open Citations" />
+    <node id="Ontology Design Patterns" />
+    <node id="Software Engineering" />
+    <node id="Deep Learning" />
+    <node id="Authorial Philology" />
+    <node id="Ontologies" />
+    <node id="Ontology Engineering" />
+    <node id="Semantics" />
+    <node id="Frame Semantics" />
+    <node id="Computer Networks And Communications" />
+    <node id="Philology" />
+    <node id="Linked Open Data" />
+    <node id="Microservices" />
+    <node id="Linked Data" />
+    <node id="Italian Philology" />
+    <node id="Manzoni" />
+    <node id="Opencitations" />
+    <node id="Computer Science Applications" />
+    <node id="Dante" />
+    <node id="Giacomo Leopardi" />
+    <node id="Bibliometrics" />
+    <node id="Carlo Emilio Gadda" />
+    <node id="Artificial Intelligence" />
+    <node id="Archives" />
+    <node id="Natural Language Processing" />
+    <node id="Big Data" />
+    <node id="Semantic Publishing" />
+    <node id="Francesco Petrarca" />
+    <node id="Alessandro Manzoni" />
+    <node id="Semantic Web" />
+    <edge source="Critica Delle Varianti" target="Authorial Philology">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Critica Delle Varianti" target="Italian Philology">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Critica Delle Varianti" target="Francesco Petrarca">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Critica Delle Varianti" target="Giacomo Leopardi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Critica Delle Varianti" target="Carlo Emilio Gadda">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Critica Delle Varianti" target="Alessandro Manzoni">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Critica Delle Varianti" target="Philology">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benedetto Varchi" target="Authorial Philology">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Benedetto Varchi" target="Italian Philology">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benedetto Varchi" target="Archives">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benedetto Varchi" target="Francesco Petrarca">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benedetto Varchi" target="Giacomo Leopardi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benedetto Varchi" target="Alessandro Manzoni">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Machine Learning" target="Artificial Intelligence">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Machine Learning" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Machine Learning" target="Software Engineering">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Machine Learning" target="Semantics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Machine Learning" target="Natural Language Processing">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Machine Learning" target="Deep Learning">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Machine Learning" target="Bibliometrics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Machine Learning" target="Archives">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Legal Design" target="Artificial Intelligence">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Legal Design" target="Visualization">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Legal Design" target="Ontologies">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Legal Design" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Visualization" target="Natural Language Processing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Visualization" target="Semantics">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Semantic Web">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Frame Semantics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Ontology Engineering">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Linked Data">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Cultural Heritage">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Semantics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Ontologies">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Linked Open Data">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Information Systems" target="Computer Science Applications">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Information Systems" target="Computer Vision And Pattern Recognition">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Information Systems" target="Computer Networks And Communications">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Information Systems" target="Software Engineering">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rdf" target="Opencitations">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Rdf" target="Linked Data">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Rdf" target="Open Citations">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rdf" target="Semantic Web">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rdf" target="Ontologies">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cultural Heritage" target="Ontologies">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Cultural Heritage" target="Linked Data">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Cultural Heritage" target="Linked Open Data">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Cultural Heritage" target="Semantic Web">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Cultural Heritage" target="Semantics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cultural Heritage" target="Ontology Engineering">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Computer Vision And Pattern Recognition" target="Computer Science Applications">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Computer Vision And Pattern Recognition" target="Computer Networks And Communications">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Computer Vision And Pattern Recognition" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Computer Vision And Pattern Recognition" target="Artificial Intelligence">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Open Citations" target="Opencitations">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Open Citations" target="Linked Open Data">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ontology Design Patterns" target="Ontologies">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontology Design Patterns" target="Software Engineering">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontology Design Patterns" target="Frame Semantics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontology Design Patterns" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Software Engineering" target="Ontologies">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Software Engineering" target="Microservices">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Deep Learning" target="Bibliometrics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Deep Learning" target="Natural Language Processing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Authorial Philology" target="Manzoni">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Authorial Philology" target="Francesco Petrarca">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Authorial Philology" target="Italian Philology">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Authorial Philology" target="Giacomo Leopardi">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Authorial Philology" target="Carlo Emilio Gadda">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Authorial Philology" target="Philology">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Authorial Philology" target="Alessandro Manzoni">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Authorial Philology" target="Archives">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ontologies" target="Semantic Web">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Ontologies" target="Linked Data">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Ontologies" target="Linked Open Data">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Ontologies" target="Ontology Engineering">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontologies" target="Natural Language Processing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontologies" target="Semantic Publishing">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Ontologies" target="Archives">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ontologies" target="Computer Networks And Communications">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontology Engineering" target="Frame Semantics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontology Engineering" target="Linked Data">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ontology Engineering" target="Linked Open Data">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ontology Engineering" target="Semantic Web">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Semantics" target="Artificial Intelligence">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Frame Semantics" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Computer Networks And Communications" target="Computer Science Applications">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Computer Networks And Communications" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Philology" target="Linked Open Data">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Philology" target="Manzoni">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Philology" target="Alessandro Manzoni">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Philology" target="Archives">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Linked Open Data" target="Semantic Web">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Linked Open Data" target="Semantic Publishing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Linked Open Data" target="Archives">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Linked Open Data" target="Natural Language Processing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Linked Data" target="Opencitations">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Linked Data" target="Semantic Web">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Linked Data" target="Semantic Publishing">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Italian Philology" target="Francesco Petrarca">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Italian Philology" target="Giacomo Leopardi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Italian Philology" target="Carlo Emilio Gadda">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Italian Philology" target="Archives">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Italian Philology" target="Alessandro Manzoni">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Manzoni" target="Dante">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Opencitations" target="Semantic Publishing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Opencitations" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Computer Science Applications" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Computer Science Applications" target="Artificial Intelligence">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Giacomo Leopardi" target="Francesco Petrarca">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Giacomo Leopardi" target="Carlo Emilio Gadda">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Giacomo Leopardi" target="Alessandro Manzoni">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Giacomo Leopardi" target="Archives">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Bibliometrics" target="Natural Language Processing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Carlo Emilio Gadda" target="Alessandro Manzoni">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Artificial Intelligence" target="Semantic Web">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Artificial Intelligence" target="Natural Language Processing">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Artificial Intelligence" target="Archives">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Artificial Intelligence" target="Big Data">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Archives" target="Semantic Web">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Archives" target="Francesco Petrarca">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Archives" target="Alessandro Manzoni">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Semantic Publishing" target="Semantic Web">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Francesco Petrarca" target="Alessandro Manzoni">
+      <data key="d0">2</data>
+    </edge>
+  </graph>
+</graphml>
