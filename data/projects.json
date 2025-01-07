@@ -3,176 +3,205 @@
     {
         "project_id": 1,
         "name": "ArCo",
+        "release_year": "2019",
         "description": "Ontology",
-        "participants": [4, 21, 29, 30]
+        "participants": ["Valentina Presutti","Valentina Anita Carriero", "Andrea Giovanni Nuzzolese", "Aldo Gangemi"]
     },
     {
         "project_id": 2,
         "name": "ARTchives",
+        "release_year": "2019",
         "description": "The Inventory of Art Historians’ Archives",
-        "participants": [17, 19, 31]
+        "participants": ["Francesca Tomasi", "Marilena Daquino", "Francesca Mambelli"]
     },
     {
         "project_id": 3,
         "name": "CATARSI",
+        "release_year": null,
         "description": "automatic analysis of scholarly documents",
-        "participants": [24, 27]
+        "participants": ["Ivan Heibi", "Silvio Peroni"]
     },
     {
         "project_id": 4,
         "name": "CLEF",
+        "release_year": "2022", 
         "description": "DCrowdsourcing Linked Open Entities via web Forms",
-        "participants": [19, 32]
+        "participants": ["Marilena Daquino", "Sebastiano Giacomini"]
     },
     {
         "project_id": 5,
         "name": "DHDKey!",
+        "release_year": "2020",
         "description": "projects, dataset, DHDK classes",
-        "participants": [11, 24, 17]
+        "participants": ["Fabio Mariani", "Silvio Peroni", "Francesca Tomasi"]
     },
     {
         "project_id": 6,
         "name": "Digital Library (FICLIT)",
+        "release_year": "2022",
         "description": "Digital Library (FICLIT)",
-        "participants": []
+        "participants": ["Francesca Tomasi", "Francesca Giovannetti", "Paolo Bonora", "Martina Dello Buono"]
     },
     {
         "project_id": 7,
         "name": "DocuDipity",
+        "release_year": null,
         "description": "Document visualization, information interfaces and presentation, reading patterns",
-        "participants": [33, 20, 24, 26, 34]
+        "participants": ["Francesco Poggi", "Angelo Di Iorio", "Silvio Peroni", "Fabio Vitali", "Paolo Ciancarini"]
     },
     {
         "project_id": 8,
         "name": "Edizione nazionale delle opere di Aldo Moro",
+        "release_year": null,
         "description": "Knowledge organization, Text encoding, Critical digital edition",
-        "participants": [12, 35, 17, 26, 21]
+        "participants": ["Sebastian Barzaghi", "Francesco Paolucci", "Francesca Tomasi", "Fabio Vitali", "Aldo Gangemi"]
     },
     {
         "project_id": 9,
         "name": "Framester",
+        "release_year": "2016",
         "description": "a large-scale factual-linguistic knowledge graph based on frame semantics",
-        "participants": [21, 36, 37, 29]
+        "participants": ["Aldo Gangemi", "Mehwish Alam", "Luigi Asprino", "Valentina Presutti"]
     },
     {
         "project_id": 10,
         "name": "FRED",
+        "release_year": "2017",
         "description": "state-of-the-art knowledge graph extraction from text",
-        "participants": [21, 36, 37, 30, 29, 38]
+        "participants": ["Aldo Gangemi", "Mehwish Alam", "Luigi Asprino", "Andrea Giovanni Nuzzolese", "Valentina Presutti", "Diego Reforgiato Recupero"]
     },
     {
         "project_id": 11,
         "name": "KNOT",
+        "release_year": "2023",
         "description": "Patrimoni culturali digitali degli Atenei", 
-        "participants": [56, 19, 17]
+        "participants": ["Laurent Fintoni", "Marilena Daquino", "Francesca Tomasi"]
     },
     {
         "project_id": 12,
         "name": "Leggo Manzoni",
+        "release_year": "2024",
         "description": "Digital Philology, Italian Literature, Alessandro Manzoni, I Promessi Sposi", 
-        "participants": [22, 17, 39, 40, 41, 42, 9]
+        "participants": ["Paola Maria Carmela Italia", "Francesca Tomasi", "Maria Levchenko", "Giulia Menna", "Matilde Passafaro", "Beatrice Nava",  "Ersilia Russo", "Martina Dello Buono"]
     },
     {
         "project_id": 13,
         "name": "LIFT - Linked data from TEI ",
+        "release_year": "2020",
         "description": "Digital edition, Knowledge graph, Linked Open Data, TEI, Transformation",
-        "participants": [6, 17]
+        "participants": ["Francesca Giovannetti", "Francesca Tomasi"]
     },
     {
         "project_id": 14,
         "name": "mAuth",
+        "release_year": "2018",
         "description": "mining Authoritativeness in Art History", 
-        "participants": [19, 17]
+        "participants": ["Marilena Daquino", "Francesca Tomasi"]
     },
     {
         "project_id": 15,
         "name": "MELODY",
+        "release_year": "2022",
         "description": "Make mE a Linked Open Data storY",
-        "participants": [14, 17]
+        "participants": ["Giulia Renda", "Francesca Tomasi"]
     },
     {
         "project_id": 16,
         "name": "mythLOD",
+        "release_year": "2021",
         "description": "Semantic Collection, Linked Open Data, Mythologiae, Canonical Citations, Digital Hermeneutics",
-        "participants": [2, 17]
+        "participants": ["Valentina Pasqual", "Francesca Tomasi"]
     },
     {
         "project_id": 17,
         "name": "musoW 2.0",
+        "release_year": "2021",
         "description": "the online catalogue of Music Heritage on the web", 
-        "participants": [19]
+        "participants": ["Marilena Daquino"]
     },
     {
         "project_id": 18,
         "name": "ODI",
+        "release_year": "2023",
         "description": "uno studio su Il Castello dei Destini incrociati di Italo Calvino", 
-        "participants": [43, 2, 17]
+        "participants": ["Enrica Bruno", "Valentina Pasqual", "Francesca Tomasi"]
     },
     {
-        "project_id": 19,
+        "project_id": "19",
         "name": "OpenCitations Enhancement Project",
+        "release_year": null,
         "description": "infrastructure, open citation data, interfaces for citation data", 
-        "participants": [17, 27, 24, 44]
+        "participants": ["Marilena Daquino", "Ivan Heibi", "Silvio Peroni", "David M. Shotton"]
     },
     {
         "project_id": 20,
         "name": "Open Biomedical Citations in Context Corpus",
+        "release_year": null,
         "description": "in-text reference pointers, open citation data, citation contexts", 
-        "participants": [27, 24, 45, 44, 46]
+        "participants": ["Ivan Heibi", "Silvio Peroni", "Vincent Larivière", "David M. Shotton", "Ludo Waltman"]
     },
     {
         "project_id": 21,
         "name": "Philoeditor",
+        "release_year": "2023",
         "description": "Digital Philology, Italian Literature, Authorial Philology, Alessandro Manzoni, I Promessi Sposi, Collodi, Le avventure di Pinocchio",
-        "participants": [22, 17, 26, 47, 20, 48, 9]
+        "participants": ["Paola Maria Carmela Italia", "Francesca Tomasi", "Fabio Vitali", "Claudia Bonsi", "Angelo Di Iorio", "Teresa Gargano", "Ersilia Russo"]
     },
     {
         "project_id": 22,
         "name": "Ragu",
+        "release_year": "2022",
         "description": "Reti e Archivi del Gusto", 
-        "participants": [49, 50, 14, 17]
+        "participants": ["Mila Fumini", "Giulia Manganelli", "Giulia Renda", "Francesca Tomasi"]
     },
     {
         "project_id": 23,
         "name": "Semantic Digital Edition of Paolo Bufalini’s notebook",
+        "release_year": "2020",
         "description": "Contemporary literature, Knowledge organization, Intertextuality, Intratextuality, Text encoding, Semantic Digital Edition",
-        "participants": [6, 19, 17, 5]
+        "participants": ["Francesca Giovannetti", "Marilena Daquino", "Francesca Tomasi", "Martina Dello Buono"]
     },
     {
         "project_id": 24,
         "name": "Semantic Digital Edition of Vespasiano da Bisticci’s Letters",
+        "release_year": "2020",
         "description": "Renaissance, Creative industries, Semantic Digital Edition",
-        "participants": [19, 17]
+        "participants": ["Marilena Daquino", "Francesca Tomasi", "Sebastian Barzaghi"]
     },
     {
         "project_id": 25,
         "name": "Śivadharma database",
+        "release_year": "2024",
         "description": "Digital Edition, Sanskrit sources, Linked Open Data, Semantic web, Data visualization",
-        "participants": [5, 17]
+        "participants": ["Martina Dello Buono", "Francesca Tomasi"]
     },
     {
         "project_id": 26,
         "name": "SPICE",
+        "release_year": "2023",
         "description": "Social cohesion, Participation, and Inclusion through Cultural Engagement", 
-        "participants": [21, 24, 51, 19, 7, 52, 53, 19]
+        "participants": ["Aldo Gangemi", "Stefano De Giorgis", "Delfina Sol Martinez Pandiani", "Marilena Daquino", "Silvio Peroni", "Sofia Pescarin", "Bruno Sartini", "Francesca Tomasi"]
     },
     {
         "project_id": 27,
         "name": "SSE - Smart Structured Editor",
+        "release_year": null,
         "description": "Templates, Authoring, Collaborative Editing, Technical documentation, Versioning", 
-        "participants": [26, 20, 54]
+        "participants": ["Fabio Vitali", "Angelo Di Iorio", "Alessandro Capone"]
     },
     {
         "project_id": 28,
         "name": "VASTO",
+        "release_year": "2020",
         "description": "Digital edition, Varchi, Storia fiorentina, EVT2, XML/TEI", 
-        "participants": [55, 22, 17]
+        "participants": ["Dario Brancato", "Paola Maria Carmela Italia", "Francesca Tomasi", "Valentina Pasqual", "Roberta Priore"]
     },
     {
         "project_id": 29,
         "name": "ZERI & LODE",
+        "release_year": "2014",
         "description": "Arts and Photography, Ontology Development, Linked Open Data", 
-        "participants": [19, 31, 17, 24, 26]
+        "participants": ["Marilena Daquino", "Francesca Mambelli", "Francesca Tomasi", "Silvio Peroni", "Fabio Vitali"]
     }
     ]
 }
