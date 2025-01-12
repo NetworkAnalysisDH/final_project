@@ -7,8 +7,8 @@ from pyvis.network import Network
 import pandas as pd
 from community import community_louvain
 
-# Absolute path to the JSON file
-base_path = "/Users/carlamenegat/Documents/GitHub/final_project/Information-Modeling-and-Web-Technologies/final_project"
+# Relative path to the JSON file
+base_path = os.path.dirname(os.path.abspath(__file__)) 
 file_path = os.path.join(base_path, "data", "publications.json")
 
 def load_publications(file_path):
@@ -197,17 +197,47 @@ if __name__ == "__main__":
     graph = create_cooccurrence_network(publications)
     filtered_graph = filter_graph_by_degree_centrality(graph)
     analyze_network(filtered_graph)
-    output_file = os.path.join(base_path, "network", "stats_relevance_keyword_cooccurrence.graphml")
-    export_to_gephi(filtered_graph, output_file)
+    
+    # Creating separate graphs for each measure and exporting to .graphml
+    output_folder = os.path.join(base_path, "network", "keyword")
+    os.makedirs(output_folder, exist_ok=True)
+    
+    # Degree Centrality Graph
+    degree_centrality_graph = nx.Graph()
+    degree_centrality = nx.degree_centrality(filtered_graph)
+    for node, centrality in degree_centrality.items():
+        degree_centrality_graph.add_node(node, centrality=centrality)
+    nx.write_graphml(degree_centrality_graph, os.path.join(output_folder, "degree_centrality.graphml"))
+    
+    # Betweenness Centrality Graph
+    betweenness_centrality_graph = nx.Graph()
+    betweenness_centrality = nx.betweenness_centrality(filtered_graph)
+    for node, centrality in betweenness_centrality.items():
+        betweenness_centrality_graph.add_node(node, centrality=centrality)
+    nx.write_graphml(betweenness_centrality_graph, os.path.join(output_folder, "betweenness_centrality.graphml"))
+    
+    # Closeness Centrality Graph
+    closeness_centrality_graph = nx.Graph()
+    closeness_centrality = nx.closeness_centrality(filtered_graph)
+    for node, centrality in closeness_centrality.items():
+        closeness_centrality_graph.add_node(node, centrality=centrality)
+    nx.write_graphml(closeness_centrality_graph, os.path.join(output_folder, "closeness_centrality.graphml"))
+    
+    # Eigenvector Centrality Graph
+    eigenvector_centrality_graph = nx.Graph()
+    eigenvector_centrality = nx.eigenvector_centrality(filtered_graph)
+    for node, centrality in eigenvector_centrality.items():
+        eigenvector_centrality_graph.add_node(node, centrality=centrality)
+    nx.write_graphml(eigenvector_centrality_graph, os.path.join(output_folder, "eigenvector_centrality.graphml"))
+    
+    # Exporting CSV reports to the 'report/keyword' folder
+    report_folder = os.path.join(base_path, "report", "keyword")
+    os.makedirs(report_folder, exist_ok=True)
+    
+    # Node-level CSV export
     node_df, global_metrics_df = export_analysis_to_pandas(filtered_graph)
-    output_dir = os.path.join(base_path, "Report")
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    node_df.to_csv(os.path.join(output_dir, "stats_relevance_node_level_analysis.csv"), index=False)
-    global_metrics_df.to_csv(os.path.join(output_dir, "stats_relevance_global_metrics.csv"), index=False)
-    adjacency_matrix_output_path = os.path.join(output_dir, "stats_relevance_adjacency_matrix.csv")
-    export_adjacency_matrix(filtered_graph, adjacency_matrix_output_path)
-    output_file_gml = os.path.join(base_path, "network", "stats_relevance_keyword_cooccurrence.gml")
-    export_to_gml(filtered_graph, output_file_gml)
-
-print(f"Loading file from: {file_path}")
+    node_df.to_csv(os.path.join(report_folder, "node_analysis.csv"), index=False)
+    global_metrics_df.to_csv(os.path.join(report_folder, "global_metrics.csv"), index=False)
+    
+    # Adjacency matrix export
+    export_adjacency_matrix(filtered_graph, os.path.join(report_folder, "adjacency_matrix.csv"))

@@ -45,45 +45,6 @@ closeness_centrality = nx.closeness_centrality(G)
 eigenvector_centrality = nx.eigenvector_centrality(G, max_iter=1000)
 clustering_coefficient = nx.clustering(G)
 
-# Additional network analysis
-def analyze_network(G):
-    print("\n--- Network Analysis ---")
-    print(f"Number of nodes: {G.number_of_nodes()}")
-    print(f"Number of edges: {G.number_of_edges()}")
-    print(f"Average degree: {sum(dict(G.degree()).values()) / G.number_of_nodes():.2f}")
-    
-    print("\n--- Centrality Measures ---")
-    centrality_measures = {
-        "Degree Centrality": degree_centrality,
-        "Betweenness Centrality": betweenness_centrality,
-        "Closeness Centrality": closeness_centrality,
-        "Eigenvector Centrality": eigenvector_centrality
-    }
-    
-    for measure_name, measure_dict in centrality_measures.items():
-        print(f"\nTop 5 nodes by {measure_name}:")
-        for node, score in sorted(measure_dict.items(), key=lambda x: -x[1])[:5]:
-            print(f"{node}: {score:.4f}")
-    
-    print("\n--- Community Detection ---")
-    partition = community_louvain.best_partition(G)
-    modularity = community_louvain.modularity(partition, G)
-    print(f"Modularity: {modularity:.4f}")
-    print(f"Number of communities: {len(set(partition.values()))}")
-    
-    print("\n--- Cohesion and Structure ---")
-    if nx.is_connected(G):
-        print(f"Network diameter: {nx.diameter(G)}")
-    else:
-        print("The network is not connected.")
-    
-    print(f"Network density: {nx.density(G):.4f}")
-    print(f"Number of connected components: {nx.number_connected_components(G)}")
-    print(f"Average clustering coefficient: {nx.average_clustering(G):.4f}")
-    print(f"Assortativity: {nx.degree_assortativity_coefficient(G):.4f}")
-
-    return partition
-
 # Export functions
 def export_to_graphml(G, filename):
     # Add centrality measures as node attributes
@@ -99,10 +60,6 @@ def export_to_graphml(G, filename):
     
     nx.write_graphml(G, filename)
 
-def export_adjacency_matrix(G, filename):
-    adj_matrix = nx.to_pandas_adjacency(G)
-    adj_matrix.to_csv(filename)
-
 def export_node_metrics(G, filename):
     node_metrics = pd.DataFrame({
         'Node': list(G.nodes()),
@@ -115,26 +72,72 @@ def export_node_metrics(G, filename):
     })
     node_metrics.to_csv(filename, index=False)
 
+def export_graph_for_measure(G, centrality_measure, filename, centrality_dict):
+    # Set node sizes or colors based on the centrality measure
+    node_sizes = [centrality_dict[node] * 1000 for node in G.nodes()]
+    
+    # Create a graph and plot it
+    plt.figure(figsize=(10, 10))
+    pos = nx.spring_layout(G)
+    nx.draw(G, pos, with_labels=True, node_size=node_sizes, font_size=10, node_color=node_sizes, cmap=plt.cm.Blues)
+    plt.title(f"{centrality_measure} of Authors")
+    plt.savefig(filename)
+    plt.close()
+
 def export_global_metrics(G, filename):
-    global_metrics = pd.DataFrame({
-        'Metric': ['Number of Nodes', 'Number of Edges', 'Average Degree', 'Density', 'Number of Connected Components', 'Average Clustering Coefficient', 'Assortativity'],
-        'Value': [G.number_of_nodes(), G.number_of_edges(), sum(dict(G.degree()).values()) / G.number_of_nodes(), nx.density(G), nx.number_connected_components(G), nx.average_clustering(G), nx.degree_assortativity_coefficient(G)]
-    })
-    global_metrics.to_csv(filename, index=False)
+    # Calculate global network metrics
+    density = nx.density(G)
+    diameter = nx.diameter(G) if nx.is_connected(G) else "Inf"  # Only compute diameter if the graph is connected
+    average_degree = sum(dict(G.degree()).values()) / len(G.nodes())
+    average_clustering = nx.average_clustering(G)
+    average_shortest_path_length = nx.average_shortest_path_length(G) if nx.is_connected(G) else "Inf"
+    
+    global_metrics = {
+        'Density': density,
+        'Diameter': diameter,
+        'Average Degree': average_degree,
+        'Average Clustering Coefficient': average_clustering,
+        'Average Shortest Path Length': average_shortest_path_length
+    }
+    
+    # Save global metrics to CSV
+    global_metrics_df = pd.DataFrame(global_metrics, index=[0])
+    global_metrics_df.to_csv(filename, index=False)
 
 # Output directories
-network_dir = 'network'
-report_dir = '/Users/carlamenegat/Documents/GitHub/final_project/Information-Modeling-and-Web-Technologies/final_project/report'
+network_dir = 'network/social'
+report_dir = 'report/social'
 os.makedirs(network_dir, exist_ok=True)
 os.makedirs(report_dir, exist_ok=True)
 
-# Analyze network
-partition = analyze_network(G)
+# Export graphs and metrics for each measure in .graphml format
+export_to_graphml(G, f'{network_dir}/general_projects_author_collaboration_network.graphml')
 
-# Export files
-export_to_graphml(G, f'{network_dir}/projects_author_collaboration_network.graphml')
-export_adjacency_matrix(G, f'{report_dir}/projects_adjacency_matrix.csv')
+# Export graph for each centrality measure as a .graphml file
+G_degree_centrality = G.copy()
+nx.set_node_attributes(G_degree_centrality, degree_centrality, 'degree_centrality')
+export_to_graphml(G_degree_centrality, f'{network_dir}/degree_centrality_graph.graphml')
+
+G_betweenness_centrality = G.copy()
+nx.set_node_attributes(G_betweenness_centrality, betweenness_centrality, 'betweenness_centrality')
+export_to_graphml(G_betweenness_centrality, f'{network_dir}/betweenness_centrality_graph.graphml')
+
+G_closeness_centrality = G.copy()
+nx.set_node_attributes(G_closeness_centrality, closeness_centrality, 'closeness_centrality')
+export_to_graphml(G_closeness_centrality, f'{network_dir}/closeness_centrality_graph.graphml')
+
+G_eigenvector_centrality = G.copy()
+nx.set_node_attributes(G_eigenvector_centrality, eigenvector_centrality, 'eigenvector_centrality')
+export_to_graphml(G_eigenvector_centrality, f'{network_dir}/eigenvector_centrality_graph.graphml')
+
+G_clustering_coefficient = G.copy()
+nx.set_node_attributes(G_clustering_coefficient, clustering_coefficient, 'clustering_coefficient')
+export_to_graphml(G_clustering_coefficient, f'{network_dir}/clustering_coefficient_graph.graphml')
+
+# Export node metrics CSV
 export_node_metrics(G, f'{report_dir}/projects_node_metrics.csv')
+
+# Export global metrics CSV
 export_global_metrics(G, f'{report_dir}/projects_global_metrics.csv')
 
 print("All files have been saved successfully!")
