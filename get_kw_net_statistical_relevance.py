@@ -177,10 +177,6 @@ def export_analysis_to_pandas(G):
     global_metrics_df = pd.DataFrame(global_metrics, index=[0])
     return node_df, global_metrics_df
 
-def export_to_gml(G, output_path):
-    nx.write_gml(G, output_path)
-    print(f"Graph exported to: {output_path}")
-
 if __name__ == "__main__":
     publications = load_publications(file_path)
     duplicates = find_duplicates(publications)
