@@ -1,0 +1,1154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d8" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d7" for="node" attr.name="clustering_coefficient" attr.type="double" />
+  <key id="d6" for="node" attr.name="community" attr.type="long" />
+  <key id="d5" for="node" attr.name="clustering_coefficient" attr.type="long" />
+  <key id="d4" for="node" attr.name="eigenvector_centrality" attr.type="double" />
+  <key id="d3" for="node" attr.name="closeness_centrality" attr.type="double" />
+  <key id="d2" for="node" attr.name="betweenness_centrality" attr.type="double" />
+  <key id="d1" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Ilaria Burattini">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="Valentina Pasqual">
+      <data key="d0">3</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.0005707762557077625</data>
+      <data key="d3">0.2869930828699308</data>
+      <data key="d4">0.08887715250346258</data>
+      <data key="d7">0.7</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Beatrice Nava">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2927909229279092</data>
+      <data key="d4">0.1520261231341644</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Valentina Anita Carriero">
+      <data key="d0">1</data>
+      <data key="d1">0.0410958904109589</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.24358236445263037</data>
+      <data key="d4">0.030343247719310008</data>
+      <data key="d7">1.0</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Martina Dello Buono">
+      <data key="d0">4</data>
+      <data key="d1">0.136986301369863</data>
+      <data key="d2">0.006024860476915272</data>
+      <data key="d3">0.31168065989100013</data>
+      <data key="d4">0.1895827671701491</data>
+      <data key="d7">0.5777777777777777</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Francesca Giovannetti">
+      <data key="d0">3</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.00044393708777270413</data>
+      <data key="d3">0.2927909229279092</data>
+      <data key="d4">0.09413276994704883</data>
+      <data key="d7">0.8333333333333334</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Delfina Sol Martinez Pandiani">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.33705001592863965</data>
+      <data key="d4">0.16414986114017197</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Roberta Priore">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.28417942519473544</data>
+      <data key="d4">0.08420825295220034</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Ersilia Russo">
+      <data key="d0">2</data>
+      <data key="d1">0.1506849315068493</data>
+      <data key="d2">0.0041600227102510205</data>
+      <data key="d3">0.3150684931506849</data>
+      <data key="d4">0.21850546095215453</data>
+      <data key="d7">0.6363636363636364</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Bruno Sartini">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.33705001592863965</data>
+      <data key="d4">0.16414986114017197</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Fabio Mariani">
+      <data key="d0">1</data>
+      <data key="d1">0.0273972602739726</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.29577858540676544</data>
+      <data key="d4">0.06842072545918146</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Sebastian Barzaghi">
+      <data key="d0">2</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.00029897803870406603</data>
+      <data key="d3">0.3256887794366631</data>
+      <data key="d4">0.1268470539504898</data>
+      <data key="d7">0.9</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Sara Amayeh">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">7</data>
+    </node>
+    <node id="Giulia Renda">
+      <data key="d0">2</data>
+      <data key="d1">0.0410958904109589</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2814204016491555</data>
+      <data key="d4">0.054152124861000996</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Giulia Manganelli">
+      <data key="d0">1</data>
+      <data key="d1">0.0410958904109589</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2814204016491555</data>
+      <data key="d4">0.054152124861000996</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Francesca Tomasi">
+      <data key="d0">19</data>
+      <data key="d1">0.4383561643835616</data>
+      <data key="d2">0.19652551279263616</data>
+      <data key="d3">0.4831050228310502</data>
+      <data key="d4">0.443511410937013</data>
+      <data key="d7">0.17338709677419356</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Giovanni Colavizza">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">9</data>
+    </node>
+    <node id="Marilena Daquino">
+      <data key="d0">10</data>
+      <data key="d1">0.2191780821917808</data>
+      <data key="d2">0.04737956319006548</data>
+      <data key="d3">0.38139870223503963</data>
+      <data key="d4">0.2547614110603454</data>
+      <data key="d7">0.30833333333333335</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Angelo Di Iorio">
+      <data key="d0">3</data>
+      <data key="d1">0.136986301369863</data>
+      <data key="d2">0.013454011741682976</data>
+      <data key="d3">0.3256887794366631</data>
+      <data key="d4">0.18751044581981616</data>
+      <data key="d7">0.5111111111111111</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Aldo Gangemi">
+      <data key="d0">5</data>
+      <data key="d1">0.2191780821917808</data>
+      <data key="d2">0.09461748930927012</data>
+      <data key="d3">0.38139870223503963</data>
+      <data key="d4">0.22826284025603136</data>
+      <data key="d7">0.35</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Paola Maria Carmela Italia">
+      <data key="d0">3</data>
+      <data key="d1">0.1917808219178082</data>
+      <data key="d2">0.011351803532168829</data>
+      <data key="d3">0.3256887794366631</data>
+      <data key="d4">0.24149825396147845</data>
+      <data key="d7">0.45054945054945056</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Monica Palmirani">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">11</data>
+    </node>
+    <node id="Silvio Peroni">
+      <data key="d0">7</data>
+      <data key="d1">0.2328767123287671</data>
+      <data key="d2">0.062428124471503484</data>
+      <data key="d3">0.38648401826484013</data>
+      <data key="d4">0.2536989020424128</data>
+      <data key="d7">0.3161764705882353</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Fabio Tamburini">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+    </node>
+    <node id="Fabio Vitali">
+      <data key="d0">5</data>
+      <data key="d1">0.2054794520547945</data>
+      <data key="d2">0.03788444347805078</data>
+      <data key="d3">0.37644547233588327</data>
+      <data key="d4">0.2619592812943102</data>
+      <data key="d7">0.3523809523809524</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Ivan Heibi">
+      <data key="d0">3</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.0012049720953830542</data>
+      <data key="d3">0.26113785017894603</data>
+      <data key="d4">0.06438535465474102</data>
+      <data key="d7">0.8</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Tommaso Vitale">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">13</data>
+    </node>
+    <node id="Valentina Presutti">
+      <data key="d0">3</data>
+      <data key="d1">0.0821917808219178</data>
+      <data key="d2">0.00038051750380517496</data>
+      <data key="d3">0.24988190836088806</data>
+      <data key="d4">0.04046507955029878</data>
+      <data key="d7">0.8</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Andrea Giovanni Nuzzolese">
+      <data key="d0">2</data>
+      <data key="d1">0.0821917808219178</data>
+      <data key="d2">0.00038051750380517496</data>
+      <data key="d3">0.24988190836088806</data>
+      <data key="d4">0.04046507955029878</data>
+      <data key="d7">0.8</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Francesca Mambelli">
+      <data key="d0">2</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.30836490819003204</data>
+      <data key="d4">0.11912922499234396</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Sebastiano Giacomini">
+      <data key="d0">1</data>
+      <data key="d1">0.0136986301369863</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.23955620966828936</data>
+      <data key="d4">0.0250011944173735</data>
+      <data key="d5">0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Francesco Poggi">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2635118306351183</data>
+      <data key="d4">0.07651418667748897</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Paolo Ciancarini">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2635118306351183</data>
+      <data key="d4">0.07651418667748897</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Francesco Paolucci">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.31168065989100013</data>
+      <data key="d4">0.10408011980563782</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Luigi Asprino">
+      <data key="d0">2</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.24774616555438472</data>
+      <data key="d4">0.03775337638468531</data>
+      <data key="d7">1.0</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Mehwish Alam">
+      <data key="d0">2</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.24774616555438472</data>
+      <data key="d4">0.03775337638468531</data>
+      <data key="d7">1.0</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Diego Reforgiato Recupero">
+      <data key="d0">1</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.24774616555438472</data>
+      <data key="d4">0.03775337638468531</data>
+      <data key="d7">1.0</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="Maria Levchenko">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2927909229279092</data>
+      <data key="d4">0.1520261231341644</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Giulia Menna">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2927909229279092</data>
+      <data key="d4">0.1520261231341644</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Matilde Passafaro">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2927909229279092</data>
+      <data key="d4">0.1520261231341644</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Sara Obbiso">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">14</data>
+    </node>
+    <node id="Enrica Bruno">
+      <data key="d0">1</data>
+      <data key="d1">0.0273972602739726</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2787144362486828</data>
+      <data key="d4">0.05224559325386643</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="David M. Shotton">
+      <data key="d0">2</data>
+      <data key="d1">0.0684931506849315</data>
+      <data key="d2">0.0012049720953830542</data>
+      <data key="d3">0.26113785017894603</data>
+      <data key="d4">0.06438535465474102</data>
+      <data key="d7">0.8</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Vincent Larivière">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.24774616555438472</data>
+      <data key="d4">0.04161842050988903</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Ludo Waltman">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.24774616555438472</data>
+      <data key="d4">0.04161842050988903</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Claudia Bonsi">
+      <data key="d0">1</data>
+      <data key="d1">0.0821917808219178</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2988278491738455</data>
+      <data key="d4">0.1472212643476731</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Teresa Gargano">
+      <data key="d0">1</data>
+      <data key="d1">0.0821917808219178</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2988278491738455</data>
+      <data key="d4">0.1472212643476731</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Mila Fumini">
+      <data key="d0">1</data>
+      <data key="d1">0.0410958904109589</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2814204016491555</data>
+      <data key="d4">0.05415212486100101</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Stefano De Giorgis">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.33705001592863965</data>
+      <data key="d4">0.16414986114017197</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Sofia Pescarin">
+      <data key="d0">1</data>
+      <data key="d1">0.0958904109589041</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.33705001592863965</data>
+      <data key="d4">0.16414986114017197</data>
+      <data key="d7">1.0</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="Alessandro Capone">
+      <data key="d0">1</data>
+      <data key="d1">0.0273972602739726</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.23955620966828936</data>
+      <data key="d4">0.04410848581234081</data>
+      <data key="d7">1.0</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="Dario Brancato">
+      <data key="d0">1</data>
+      <data key="d1">0.0547945205479452</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.28417942519473544</data>
+      <data key="d4">0.08420825295220033</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Laurent Fintoni">
+      <data key="d0">1</data>
+      <data key="d1">0.0273972602739726</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2869930828699308</data>
+      <data key="d4">0.06852495382507336</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Marco Grasso">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">15</data>
+    </node>
+    <node id="Paolo Bonora">
+      <data key="d0">1</data>
+      <data key="d1">0.0410958904109589</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.2814204016491555</data>
+      <data key="d4">0.07136583580219684</data>
+      <data key="d7">1.0</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="Ilaria Bartolini">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">16</data>
+    </node>
+    <node id="Ekaterina Baskakova">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">17</data>
+    </node>
+    <node id="Simona Caraceni">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">18</data>
+    </node>
+    <node id="Michele Corazza">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">19</data>
+    </node>
+    <node id="Daniele Donati">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">20</data>
+    </node>
+    <node id="Daniele Ferdani">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">21</data>
+    </node>
+    <node id="Simone Ferriani">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+    </node>
+    <node id="Saverio Giallorenzo">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">23</data>
+    </node>
+    <node id="Andrea Guizzardi">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">24</data>
+    </node>
+    <node id="Giulio Iovine">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">25</data>
+    </node>
+    <node id="Francesca Leonardi">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">26</data>
+    </node>
+    <node id="Michela Milano">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">27</data>
+    </node>
+    <node id="Alberto Musso">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">28</data>
+    </node>
+    <node id="Matteo Romanello">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">29</data>
+    </node>
+    <node id="Giorgio Spedicato">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">30</data>
+    </node>
+    <node id="Elina Stepanyan">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">6</data>
+    </node>
+    <node id="Chiara Tartarini">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="Luca Trapin">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="Annafelicia Zufrano">
+      <data key="d0">0</data>
+      <data key="d1">0.0</data>
+      <data key="d2">0.0</data>
+      <data key="d3">0.0</data>
+      <data key="d4">1.3396076535724497e-25</data>
+      <data key="d5">0</data>
+      <data key="d6">4</data>
+    </node>
+    <edge source="Valentina Pasqual" target="Francesca Tomasi">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Valentina Pasqual" target="Enrica Bruno">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Pasqual" target="Dario Brancato">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Pasqual" target="Paola Maria Carmela Italia">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Pasqual" target="Roberta Priore">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Paola Maria Carmela Italia">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Francesca Tomasi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Maria Levchenko">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Giulia Menna">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Ersilia Russo">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Beatrice Nava" target="Martina Dello Buono">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Anita Carriero" target="Valentina Presutti">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Anita Carriero" target="Andrea Giovanni Nuzzolese">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Anita Carriero" target="Aldo Gangemi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Francesca Tomasi">
+      <data key="d8">4</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Francesca Giovannetti">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Paolo Bonora">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Paola Maria Carmela Italia">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Maria Levchenko">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Giulia Menna">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Ersilia Russo">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Martina Dello Buono" target="Marilena Daquino">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Giovannetti" target="Francesca Tomasi">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Francesca Giovannetti" target="Paolo Bonora">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Giovannetti" target="Marilena Daquino">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Aldo Gangemi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Stefano De Giorgis">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Marilena Daquino">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Silvio Peroni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Bruno Sartini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Delfina Sol Martinez Pandiani" target="Francesca Tomasi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Roberta Priore" target="Dario Brancato">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Roberta Priore" target="Paola Maria Carmela Italia">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Roberta Priore" target="Francesca Tomasi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Paola Maria Carmela Italia">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Francesca Tomasi">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Maria Levchenko">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Giulia Menna">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Fabio Vitali">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Claudia Bonsi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Angelo Di Iorio">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ersilia Russo" target="Teresa Gargano">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Bruno Sartini" target="Aldo Gangemi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Bruno Sartini" target="Stefano De Giorgis">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Bruno Sartini" target="Marilena Daquino">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Bruno Sartini" target="Silvio Peroni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Bruno Sartini" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Bruno Sartini" target="Francesca Tomasi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Mariani" target="Silvio Peroni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Mariani" target="Francesca Tomasi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Sebastian Barzaghi" target="Francesco Paolucci">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Sebastian Barzaghi" target="Francesca Tomasi">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Sebastian Barzaghi" target="Fabio Vitali">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Sebastian Barzaghi" target="Aldo Gangemi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Sebastian Barzaghi" target="Marilena Daquino">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Giulia Renda" target="Francesca Tomasi">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Giulia Renda" target="Mila Fumini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Giulia Renda" target="Giulia Manganelli">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Giulia Manganelli" target="Mila Fumini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Giulia Manganelli" target="Francesca Tomasi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Marilena Daquino">
+      <data key="d8">7</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Francesca Mambelli">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Silvio Peroni">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Paolo Bonora">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Francesco Paolucci">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Fabio Vitali">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Aldo Gangemi">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Laurent Fintoni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Paola Maria Carmela Italia">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Maria Levchenko">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Giulia Menna">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Enrica Bruno">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Claudia Bonsi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Angelo Di Iorio">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Teresa Gargano">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Mila Fumini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Stefano De Giorgis">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesca Tomasi" target="Dario Brancato">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Francesca Mambelli">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Sebastiano Giacomini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Laurent Fintoni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Ivan Heibi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Silvio Peroni">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Marilena Daquino" target="David M. Shotton">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Aldo Gangemi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Stefano De Giorgis">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Marilena Daquino" target="Fabio Vitali">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Francesco Poggi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Silvio Peroni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Fabio Vitali">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Paolo Ciancarini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Paola Maria Carmela Italia">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Claudia Bonsi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Teresa Gargano">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Angelo Di Iorio" target="Alessandro Capone">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Valentina Presutti">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Andrea Giovanni Nuzzolese">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Francesco Paolucci">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Fabio Vitali">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Mehwish Alam">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Luigi Asprino">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Diego Reforgiato Recupero">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Stefano De Giorgis">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Silvio Peroni">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Aldo Gangemi" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Maria Levchenko">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Giulia Menna">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Fabio Vitali">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Claudia Bonsi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Teresa Gargano">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Paola Maria Carmela Italia" target="Dario Brancato">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Ivan Heibi">
+      <data key="d8">3</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Francesco Poggi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Fabio Vitali">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Paolo Ciancarini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="David M. Shotton">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Vincent Larivière">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Ludo Waltman">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Stefano De Giorgis">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Silvio Peroni" target="Francesca Mambelli">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Francesco Poggi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Paolo Ciancarini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Francesco Paolucci">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Claudia Bonsi">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Teresa Gargano">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Alessandro Capone">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Fabio Vitali" target="Francesca Mambelli">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ivan Heibi" target="David M. Shotton">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Ivan Heibi" target="Vincent Larivière">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Ivan Heibi" target="Ludo Waltman">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Valentina Presutti" target="Andrea Giovanni Nuzzolese">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Valentina Presutti" target="Mehwish Alam">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Valentina Presutti" target="Luigi Asprino">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Valentina Presutti" target="Diego Reforgiato Recupero">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Andrea Giovanni Nuzzolese" target="Mehwish Alam">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Andrea Giovanni Nuzzolese" target="Luigi Asprino">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Andrea Giovanni Nuzzolese" target="Diego Reforgiato Recupero">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Francesco Poggi" target="Paolo Ciancarini">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Luigi Asprino" target="Mehwish Alam">
+      <data key="d8">2</data>
+    </edge>
+    <edge source="Luigi Asprino" target="Diego Reforgiato Recupero">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Mehwish Alam" target="Diego Reforgiato Recupero">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Maria Levchenko" target="Giulia Menna">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Maria Levchenko" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Giulia Menna" target="Matilde Passafaro">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="David M. Shotton" target="Vincent Larivière">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="David M. Shotton" target="Ludo Waltman">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Vincent Larivière" target="Ludo Waltman">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Claudia Bonsi" target="Teresa Gargano">
+      <data key="d8">1</data>
+    </edge>
+    <edge source="Stefano De Giorgis" target="Sofia Pescarin">
+      <data key="d8">1</data>
+    </edge>
+  </graph>
+</graphml>
