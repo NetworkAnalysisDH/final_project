@@ -42,24 +42,39 @@ G_filtered = nx.Graph([(u, v, d) for u, v, d in G.edges(data=True) if d["weight"
 nx.write_gml(G_filtered, os.path.join(network_dir, "coauthorship_network_filtered.gml"))
 
 # Compute network metrics for both graphs
-def compute_metrics(G, filename):
-    """Compute network centrality metrics and save them to a CSV file."""
+def compute_metrics(G, filename_prefix):
+    """Compute network centrality metrics and save them to CSV and GML files."""
     metrics = {
-        "Author": list(G.nodes()),
-        "Degree Centrality": list(nx.degree_centrality(G).values()),
-        "Betweenness Centrality": list(nx.betweenness_centrality(G).values()),
-        "Closeness Centrality": list(nx.closeness_centrality(G).values()),
-        "Eigenvector Centrality": list(nx.eigenvector_centrality(G, max_iter=1000).values()),
-        "Clustering Coefficient": list(nx.clustering(G).values()),
+        "degree_centrality": nx.degree_centrality(G),
+        "betweenness_centrality": nx.betweenness_centrality(G),
+        "closeness_centrality": nx.closeness_centrality(G),
+        "eigenvector_centrality": nx.eigenvector_centrality(G, max_iter=1000),
+        "clustering_coefficient": nx.clustering(G),
     }
 
-    # Convert to DataFrame and save as CSV
+    # Convert the dictionary of dictionaries into a DataFrame
     df = pd.DataFrame(metrics)
-    df.to_csv(filename, index=False)
-    print(f"Metrics saved to {filename}")
+    df.index.name = "Author"  # Set author names as index
+    
+    # Save DataFrame to CSV
+    csv_filename = os.path.join(report_dir, f"{filename_prefix}_metrics.csv")
+    df.to_csv(csv_filename)
+    print(f"Metrics saved to {csv_filename}")
+
+    # Generate a separate GML file for each metric
+    for metric_name, values in metrics.items():
+        G_metric = G.copy()
+
+        # Assign the metric values as node attributes (ensuring valid key names)
+        nx.set_node_attributes(G_metric, values, name=metric_name)
+
+        # Save as GML file
+        gml_filename = os.path.join(network_dir, f"{filename_prefix}_{metric_name}.gml")
+        nx.write_gml(G_metric, gml_filename)
+        print(f"GML file saved: {gml_filename}")
 
 # Compute and save metrics for both networks
-compute_metrics(G, os.path.join(report_dir, "coauthorship_metrics_full.csv"))
-compute_metrics(G_filtered, os.path.join(report_dir, "coauthorship_metrics_filtered.csv"))
+compute_metrics(G, "coauthorship_full")
+compute_metrics(G_filtered, "coauthorship_filtered")
 
 print("GML files and metric CSVs successfully generated.")

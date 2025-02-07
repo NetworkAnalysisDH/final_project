@@ -1,4 +1,4 @@
-Author,Degree Centrality,Betweenness Centrality,Closeness Centrality,Eigenvector Centrality,Clustering Coefficient
+Author,degree_centrality,betweenness_centrality,closeness_centrality,eigenvector_centrality,clustering_coefficient
 Oscar Corcho,0.004728132387706856,0.0,0.2681743548082589,0.0019023382187477445,1.0
 Fajar J. Ekaputra,0.004728132387706856,0.0,0.2681743548082589,0.0019023382187477445,1.0
 Ivan Heibi,0.12371946414499607,0.04083082721785376,0.31802947242726876,0.12073530899328071,0.299526375959497
