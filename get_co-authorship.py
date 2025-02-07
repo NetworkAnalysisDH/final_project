@@ -35,13 +35,7 @@ for publication in publications_data["publications"]:
 # Save the full co-authorship network in GML format
 nx.write_gml(G, os.path.join(network_dir, "coauthorship_network.gml"))
 
-# Create a subgraph with only collaborations of at least 3 publications
-G_filtered = nx.Graph([(u, v, d) for u, v, d in G.edges(data=True) if d["weight"] >= 3])
-
-# Save the filtered network in GML format
-nx.write_gml(G_filtered, os.path.join(network_dir, "coauthorship_network_filtered.gml"))
-
-# Compute network metrics for both graphs
+# Compute network metrics for graphs
 def compute_metrics(G, filename_prefix):
     """Compute network centrality metrics and save them to CSV and GML files."""
     metrics = {
@@ -75,6 +69,5 @@ def compute_metrics(G, filename_prefix):
 
 # Compute and save metrics for both networks
 compute_metrics(G, "coauthorship_full")
-compute_metrics(G_filtered, "coauthorship_filtered")
 
 print("GML files and metric CSVs successfully generated.")
