@@ -114,10 +114,10 @@
         {
             "type": "conference",
             "author": [
-                "Grieco, Giuseppe",
+                "Giuseppe Grieco",
                 "Ivan Heibi",
-                "Massari, Arcangelo",
-                "Moretti, Arianna",
+                "Arcangelo Massari",
+                "Arianna Moretti",
                 "Silvio Peroni"
             ],
             "title": "Enabling Portability and Reusability of Open Science Infrastructures",
@@ -168,7 +168,7 @@
         {
             "type": "conference",
             "author": [
-                "Massari, Arcangelo",
+                "Arcangelo Massari",
                 "Ivan Heibi"
             ],
             "title": "How to structure citations data and bibliographic metadata in the OpenCitations accepted",
@@ -192,7 +192,7 @@
                 "Vincenzo A. Carriero",
                 "Luigi Asprino",
                 "Ritwik Biswas",
-                "Caterina d\u2019Amato",
+                "Caterina d'Amato",
                 "Ignazio Celino",
                 "James Domingue",
                 "Michel Dumontier",
@@ -213,13 +213,13 @@
                 "Roger Capshaw",
                 "Alexandre Dadoun",
                 "Stefano de Giorgis",
-                "H\u00e9l\u00e8ne Delva",
-                "Val\u00e9rie Emonet",
+                "Helene Delva",
+                "Valérie Emonet",
                 "Paulo E. Arias",
                 "Omar Fallatah",
                 "Samuel Ferrada",
                 "Marios Georgiou",
-                "George A. Gesese",
+                "Giovanni Andrea Gesese",
                 "Franco Gillis-Webber",
                 "Francesca Giovannetti",
                 "Matthieu G. Buey",
@@ -252,7 +252,7 @@
                 "Antonio R. Mendez",
                 "Shirin Roshankish",
                 "Amira Sakor",
-                "Jos\u00e9 Salas",
+                "José Salas",
                 "Thomas Schleider",
                 "Min Shi",
                 "Giuseppe Spinaci",
@@ -1006,7 +1006,7 @@
                 "Andrea Giovanni Nuzzolese",
                 "Francesco Sanmarchi",
                 "Luana Bulla",
-                "Misael Mongiov\u00ec",
+                "Misael Mongiovi",
                 "Aldo Gangemi",
                 "Paola Rucci"
             ],
@@ -1487,7 +1487,7 @@
             "author": [
                 "Delfina Sol Martinez Pandiani",
                 "Nicolas Lazzari",
-                "Marieke van Erp",
+                "Marieke Van Erp",
                 "Valentina Presutti"
             ],
             "title": "Hypericons for interpretability: decoding abstract concepts in visual data",
@@ -1974,7 +1974,7 @@
             "author": [
                 "Mehwish Alam",
                 "Diego Reforgiato Recupero",
-                "Maria Mongiov\u00ec",
+                "Maria Mongiovi",
                 "Aldo Gangemi",
                 "Petar Ristoski"
             ],
@@ -1995,7 +1995,7 @@
             "author": [
                 "Mehwish Alam",
                 "Diego Reforgiato Recupero",
-                "Maria Mongiov\u00ec",
+                "Maria Mongiovi",
                 "Aldo Gangemi",
                 "Petar Ristoski"
             ],
@@ -2642,7 +2642,7 @@
                 "Matteo Farina",
                 "Sergey Masyagin",
                 "Giancarlo Succi",
-                "Svetlana Yermolaieva",
+                "Svitlana Yermolaieva",
                 "Natalia Zagvozkina"
             ],
             "title": "Non Verbal Communication in Software Engineering - An Empirical Study",
@@ -2955,7 +2955,7 @@
         {
             "type": "conference",
             "author": [
-                "Paolo Ciancarin",
+                "Paolo Ciancarini",
                 "Andrea Loretti",
                 "Marcello Missiroli",
                 "Andrea Schinoppi"
@@ -3220,7 +3220,7 @@
                 "Roberto Navigli",
                 "Maria-Esther Vidal",
                 "Pascal Hitzler",
-                "Rapha\u00ebl Troncy",
+                "Raphael Troncy",
                 "Laura Hollink",
                 "Anna Tordai",
                 "Mehwish Alam"
@@ -3522,7 +3522,7 @@
                 "Ludo Waltman",
                 "Kerry W. Boyack",
                 "Giovanni Colavizza",
-                "Niels J. van Eck"
+                "Niels J. Van Eck"
             ],
             "title": "A principled methodology for comparing relatedness measures for clustering publications",
             "year": 2020,
@@ -3546,7 +3546,7 @@
                 "Paul Mulholland",
                 "Enrico Daga",
                 "Marilena Daquino",
-                "Lily D\u00edaz-Kommonen",
+                "Lily Diaz-Kommonen",
                 "Aldo Gangemi",
                 "Tsvi Kulfik",
                 "Alan J. Wecker",
@@ -3887,7 +3887,7 @@
                 "Shibingfeng Zhang",
                 "Federico Garcea",
                 "Paolo Bonora",
-                "Alberto Barron-Cedeno"
+                "Alberto Barron Cedeno"
             ],
             "title": "AriEmozione: identifying emotions in opera verses",
             "year": 2020,
@@ -3926,13 +3926,13 @@
             "type": "poster",
             "id": "11585/589353",
             "author": [
-                "Ceol, A.",
+                "Arnaud Ceol",
                 "Piero Montanari",
                 "Ilaria Bartolini",
                 "Paolo Ciaccia",
                 "Marco Patella",
-                "Ceri, S.",
-                "Masseroli, M."
+                "Stefano Ceri",
+                "Marco Masseroli"
             ],
             "title": "Advanced analysis in a genome browser: molecular interactions and pattern similarity search",
             "year": 2017,
@@ -4030,7 +4030,7 @@
             "type": "article",
             "id": "11585/653402",
             "author": [
-                "Ilaria Bartolini ",
+                "Ilaria Bartolini",
                 "Fabio Pizza",
                 "Andrea Di Luzio",
                 "Giulia Neccia",
@@ -4070,7 +4070,7 @@
                 "Selina Fenoglietto",
                 "Donatella Firmani",
                 "Sergio Greco",
-                "Francesco Isgr\u00f2",
+                "Francesco Isgro",
                 "Dario Maio",
                 "Davide Martinenghi",
                 "Maristella Matera",
@@ -4408,8 +4408,8 @@
                 "Arthur Zimek",
                 "Fabio Carrara",
                 "Ilaria Bartolini",
-                "Martin Aum\u00fcller",
-                "Bj\u00f6rn \u00de\u00f3r J\u00f3nsson",
+                "Martin Aumuller",
+                "Bjorn der Jhonsson",
                 "Rasmus Pagh"
             ],
             "title": "Similarity Search and Applications - 13th International Conference, SISAP 2020, Copenhagen, Denmark, September 30 - October 2, 2020, Proceedings",
@@ -4577,7 +4577,7 @@
                 "Ilaria Bartolini",
                 "Vincenzo Moscato",
                 "Marco Postiglione",
-                "Giancarlo Sperl\u00ec",
+                "Giancarlo Sperli",
                 "Andrea Vignali"
             ],
             "title": "COSINER: COntext SImilarity data augmentation for Named Entity Recognition",
@@ -4599,7 +4599,7 @@
             "type": "article",
             "id": "11585/896423",
             "author": [
-                "Tom\u00e1s Skopal",
+                "Tomas Skopal",
                 "Fabrizio Falchi",
                 "Jakub Lokoc",
                 "Maria Luisa Sapino",
@@ -4650,8 +4650,8 @@
                 "Ilaria Bartolini",
                 "Vincenzo Moscato",
                 "Van Engers, Tom",
-                "Postiglione M.",
-                "Giancarlo Sperl\u00ec",
+                "Marco Postiglione",
+                "Giancarlo Sperli",
                 "Andrea Vignali"
             ],
             "title": "Data augmentation via context similarity: An application to biomedical Named Entity Recognition",
@@ -4765,7 +4765,7 @@
             "id": "11585/801475",
             "author": [
                 "Michele Corazza",
-                "Stefano Menin",
+                "Stefano Menini",
                 "Elena Cabrio",
                 "Sara Tonelli",
                 "Serena Villata"
@@ -4860,7 +4860,7 @@
             "author": [
                 "Michele Corazza",
                 "Fabio Tamburini",
-                "Miguel Val\u00e9rio",
+                "Miguel Valerio",
                 "Silvia Ferrara"
             ],
             "title": "Contextual Unsupervised Clustering of Signs for Ancient Writing Systems",
@@ -5248,7 +5248,7 @@
                 "Alessio Claroni",
                 "Mathilde Callet Dubost",
                 "Carlo Ugo de Girolamo",
-                "Andr\u00e8s Boix Palop",
+                "Andres Boix Palop",
                 "Maria Belen Gonzalez Fernandez",
                 "Marc Vilalta Reixavh",
                 "Valentina Orioli"
@@ -5296,7 +5296,7 @@
                 "Bruno Gualandi",
                 "Ivan Heibi",
                 "Andrea Iannucci",
-                "Riccardo Manganelli del F\u00e0",
+                "Riccardo Manganelli del Fa",
                 "Andrea Massari",
                 "Andrea Moretti",
                 "Stefano Peroni",
@@ -5380,7 +5380,7 @@
                 "Simone Ferriani",
                 "Gino Cattani",
                 "Stoyan Sgourev",
-                "Frederic Godart"
+                "Frederic Clement Godart"
             ],
             "title": "Aesthetics and Style in Strategy",
             "year": 2021,
@@ -6100,7 +6100,7 @@
                 "Saverio Giallorenzo",
                 "Fabrizio Montesi",
                 "Larisa Safina",
-                " S. P. Zingaro"
+                "Stefano Pio Zingaro"
             ],
             "title": "Formalising Domain-Driven Properties of Jolie Microservices",
             "year": 2019,
@@ -6223,7 +6223,7 @@
             "type": "trusteeship",
             "id": "11585/784563",
             "author": [
-                "Lu\u00eds Cruz-Filipe",
+                "Luis Cruz-Filipe",
                 "Saverio Giallorenzo",
                 "Fabrizio Montesi",
                 "Marco Peressotti",
@@ -6678,7 +6678,7 @@
             "id": "11585/893223",
             "author": [
                 "Luca Vincenzo Ballestra",
-                "Enzo DInnocenzo",
+                "Enzo D'Innocenzo",
                 "Andrea Guizzardi"
             ],
             "title": "A statistical approach to evaluate last minute pricing decisions in the online hotel market",
@@ -6881,7 +6881,7 @@
             "type": "article",
             "id": "11585/703631",
             "author": [
-                "Marcello M. Mariani",
+                "Marcello Maria Mariani",
                 "Andrea Guizzardi"
             ],
             "title": "Does Designation as a UNESCO World Heritage Site Influence Tourist Evaluation of a Local Destination?",
@@ -6905,7 +6905,7 @@
             "type": "article",
             "id": "11585/588850",
             "author": [
-                "Marcello M. Mariani",
+                "Marcello Maria Mariani",
                 "Andrea Guizzardi"
             ],
             "title": "Environmental Impacts and Certification: Evidence from the Milan World Expo 2015",
@@ -6997,7 +6997,7 @@
             "id": "11585/846235",
             "author": [
                 "Andrea Guizzardi",
-                "Marco M. Mariani"
+                "Marco Mariani"
             ],
             "title": "Introducing the Dynamic Destination Satisfaction Method: An Analytical Tool to Track Tourism Destination Satisfaction Trends with Repeated Cross-sectional Data",
             "year": 2021,
@@ -7915,7 +7915,7 @@
             "type": "conference",
             "id": "11585/728093",
             "author": [
-                "Dan S. Chisca",
+                "Daniela Sofia Chisca",
                 "Maria Lombardi",
                 "Michela Milano",
                 "Brendan O'Sullivan"
@@ -8037,7 +8037,7 @@
             "author": [
                 "Rocco Calegari",
                 "Alberto Aler",
-                "Tom\u00e1s Gabriel",
+                "Tomás Gabriel",
                 "Gonzalo Castane",
                 "Virginia Dignum",
                 "Michela Milano"
@@ -8084,7 +8084,7 @@
             "author": [
                 "Roberta Calegari",
                 "Andrea Aler Tubella",
-                "Gabriel Gonz\u00e1lez Casta\u00f1e",
+                "Gabriel González Castane",
                 "Virginia Dignum",
                 "Michela Milano"
             ],
@@ -8405,16 +8405,16 @@
             "type": "ractabst",
             "id": "11585/959095",
             "author": [
-                "Vojt\u011bch Mal\u00ednek",
+                "Vojtoch Malunek",
                 "Tomasz Umerle",
                 "Mikko Tolonen",
-                "Agnieszka Karli\u0144ska",
+                "Agnieszka Karlizska",
                 "Matteo Romanello",
                 "Giovanni Colavizza",
                 "Silvio Peroni",
                 "Dorota Siwecka",
-                "Jakub \u0141ubocki",
-                "Nanette Ri\u00dfler-Pipka",
+                "Jakub Maciej Nubocki",
+                "Nanette Riuler-Pipka",
                 "David Lindemann",
                 "Penny Labropoulou",
                 "Christiane Klaes"
@@ -8486,7 +8486,7 @@
                 "Marinella Pigozzi",
                 "Chiara Tartarini",
                 "Alex Barbanti",
-                "Giulia Cal\u00ec",
+                "Giulia Cala",
                 "Ilenia Carrozza",
                 "Ilaria Chia",
                 "Laura Coppa",
@@ -9980,7 +9980,7 @@
             "author": [
                 "Bruno Sartini",
                 "Valentin Vogelmann",
-                "Marieke van Erp",
+                "Marieke Van Erp",
                 "Aldo Gangemi"
             ],
             "title": "Comparing Symbolism Across Asian Cultural Contexts Using Graph Similarity Measures",
@@ -10012,7 +10012,7 @@
             "author": [
                 "Bruno Sartini",
                 "Sofia Baroncini",
-                "Marieke van Erp",
+                "Marieke Van Erp",
                 "Francesca Tomasi",
                 "Aldo Gangemi"
             ],
@@ -10038,7 +10038,7 @@
             "author": [
                 "Sofia Baroncini",
                 "Bruno Sartini",
-                "Marieke van Erp",
+                "Marieke Van Erp",
                 "Francesca Tomasi",
                 "Aldo Gangemi"
             ],
@@ -10061,7 +10061,7 @@
             "type": "conference",
             "author": [
                 "Bruno Sartini",
-                "Marieke van Erp",
+                "Marieke Van Erp",
                 "Aldo Gangemi"
             ],
             "title": "Marriage is a Peach and a Chalice: Modelling Cultural Symbolism on the Semantic Web",
@@ -10941,19 +10941,19 @@
         {
             "type": "misc",
             "author": [
-                "Dionigi, Ivano",
-                "Citti, Francesco",
-                "Condello, Federico",
-                "Elisa Dal Chiele,",
-                "Floridi, Lucia",
-                "Neri, Camillo",
-                "Pasetti, Lucia",
-                "Pellacani, Daniele",
-                "Pieri, Bruna",
-                "Russotti, Ambra",
+                "Ivano Dionigi",
+                "Francesco Citti",
+                "Federico Condello",
+                "Elisa Dal Chiele",
+                "Lucia Floridi",
+                "Camillo Neri",
+                "Lucia Pasetti",
+                "Daniele Pellacani",
+                "Bruna Pieri",
+                "Ambra Russotti",
                 "Francesca Tomasi",
-                "Tripaldi, Daniele",
-                "Ziosi, Antonio"
+                "Daniele Tripaldi",
+                "Antonio Ziosi"
             ],
             "title": "Patria, patrie",
             "year": 2019,
@@ -10987,19 +10987,19 @@
         {
             "type": "inbook",
             "author": [
-                "Condello, F.",
-                "Citti, F.",
-                "Dal Chiele, E.",
-                "Floridi, L.",
-                "Neri, C.",
-                "Pasetti, L.",
-                "Pellacani, D.",
-                "Pieri, B.",
-                "Pirovano, L.",
-                "Russotti, A.",
+                "Federico Condello",
+                "Francesco Citti",
+                "Elisa Dal Chiele",
+                "Lucia Floridi",
+                "Camillo Neri",
+                "Lucia Pasetti",
+                "Daniele Pellacani",
+                "Bruna Pieri",
+                "Luca Pirovano",
+                "Ambra Russotti",
                 "Francesca Tomasi",
-                "Tripaldi, D.",
-                "Ziosi, A"
+                "Daniele Tripaldi",
+                "Antonio Ziosi"
             ],
             "title": "Premessa",
             "year": 2021,
@@ -11013,7 +11013,7 @@
         {
             "type": "conference",
             "author": [
-                "Massari, Arcangelo",
+                "Arcangelo Massari",
                 "Silvio Peroni",
                 "Francesca Tomasi",
                 "Ivan Heibi"
@@ -11048,7 +11048,7 @@
             "type": "conference",
             "author": [
                 "Francesca Tomasi",
-                "Barabucci, G.",
+                "Gioele Barabucci",
                 "Fabio Vitali"
             ],
             "title": "Supporting Complexity and Conjectures in Cultural Heritage Descriptions",
@@ -11112,7 +11112,7 @@
         {
             "type": "conference",
             "author": [
-                "Martina Dello Buono,",
+                "Martina Dello Buono",
                 "Francesca Tomasi"
             ],
             "title": "\u015aivadharma Database CMS. HTML and graph as a starting point for digital editions",
@@ -11141,14 +11141,14 @@
         {
             "type": "article",
             "author": [
-                "Gianrocco, Lazzari",
+                "Gianrocco Lazzari",
                 "Giovanni Colavizza",
-                "Fabio, Bortoluzzi",
-                "Davide, Drago",
-                "Andrea, Erboso",
-                "Francesca, Zugno",
-                "Fr\u00e9d\u00e9ric, Kaplan",
-                "Marcel, Salath\u00e9"
+                "Fabio Bortoluzzi",
+                "Davide Drago",
+                "Andrea Erboso",
+                "Francesca Zugno",
+                "Frederic Kaplan",
+                "Marcel Salatha"
             ],
             "title": "A digital reconstruction of the 1630,1631 large plague outbreak in Venice",
             "year": 2020,
@@ -11165,7 +11165,7 @@
         {
             "type": "article",
             "author": [
-                "Spinaci, Gianmarco",
+                "Gianmarco Spinaci",
                 "Giovanni Colavizza",
                 "Silvio Peroni"
             ],
@@ -11203,24 +11203,24 @@
         {
             "type": "misc",
             "author": [
-                "Umerle, Tomasz",
+                "Tomasz Umerle",
                 "Giovanni Colavizza",
-                "Herden, El\u017cbieta",
+                "Herden, Elabieta",
                 "Jagersma, Rindert",
-                "Kir\u00e0ly, P\u00e9ter",
+                "Kirely, Peter",
                 "Koper, Beata",
                 "Lahti, Leo",
-                "Lindemann, David",
-                "Jakub Maciej \u0141ubocki,",
-                "Mal\u00ednek, Vojt\u011bch",
+                "David Lindemann",
+                "Jakub Maciej Nubocki",
+                "Vojtoch Malunek",
                 "Milanova, Alexandra",
-                "P\u00e9ter, R\u00f3bert",
-                "Ri\u00dfler-Pipka, Nanette",
-                "Romanello, Matteo",
+                "Peter, Rubert",
+                "Nanette Riuler-Pipka",
+                "Matteo Romanello",
                 "Roszkowski, Marcin",
-                "Siwecka, Dorota",
-                "Tolonen, Mikko",
-                "Vimr, Ond\u0159ej"
+                "Dorota Siwecka",
+                "Mikko Tolonen",
+                "Vimr, Ondoej"
             ],
             "title": "An Analysis of the Current Bibliographical Data Landscape in the Humanities. A Case for the Joint Bibliodata Agendas of Public Stakeholders",
             "year": 2022,
@@ -11233,7 +11233,7 @@
             "type": "conference",
             "author": [
                 "Lamers, W. S.",
-                "van Eck, N. J.",
+                "Niels J. Van Eck",
                 "Giovanni Colavizza"
             ],
             "title": "An appraisal of publication embedding techniques in the context of conventional bibliometric relatedness measures",
@@ -11247,7 +11247,7 @@
         {
             "type": "conference",
             "author": [
-                "Todorov, K",
+                "Konstantin Todorov",
                 "Giovanni Colavizza"
             ],
             "title": "An Assessment of the Impact of OCR Noise on Language Models",
@@ -11279,9 +11279,9 @@
         {
             "type": "article",
             "author": [
-                "Tobias, Blanke",
+                "Blanke Tobias",
                 "Giovanni Colavizza",
-                "van Hout Zarah,"
+                "Zarah van Hout"
             ],
             "title": "An open educational resource to introduce data analysis in Python for the Humanities",
             "year": 2023,
@@ -11314,7 +11314,7 @@
             "type": "article",
             "author": [
                 "Giovanni Colavizza",
-                "Blanke, T.",
+                "Blanke Tobias",
                 "Jeurgens, C.",
                 "Noordegraaf, J"
             ],
@@ -11352,7 +11352,7 @@
             "author": [
                 "Madge, J.",
                 "Giovanni Colavizza",
-                "Hetherington, J.",
+                "John Hetherington",
                 "Guo, W.",
                 "Wilson, A"
             ],
@@ -11370,11 +11370,11 @@
         {
             "type": "conference",
             "author": [
-                "van Strien, D.",
+                "Daniel van Strien",
                 "Beelen, K.",
-                "Ardanuy, M. C.",
+                "Marta Coll Ardanuy",
                 "Hosseini, K.",
-                "McGillivray, B.",
+                "Brian McGillivray",
                 "Giovanni Colavizza"
             ],
             "title": "Assessing the impact of OCR quality on downstream Natural Language Processing tasks",
@@ -11409,7 +11409,7 @@
                 "Giovanni Colavizza",
                 "Timothy Smith",
                 "Brendan Finucane",
-                "Micha\u0142 \u0141ukasz Ostachowski",
+                "Micha Lukasz Ostachowski",
                 "Simone Scalet",
                 "John Perkins",
                 "James Morgan",
@@ -11434,7 +11434,7 @@
                 "Steven Claeyssens",
                 "Giovanni Colavizza",
                 "Nuno Freire",
-                "J\u00f6rg Lehmann",
+                "Jurg Lehmann",
                 "Clemens Neudeker",
                 "Giulia Osti",
                 "Daniel van Strien"
@@ -11456,7 +11456,7 @@
             "author": [
                 "Diana Rodrigues Alves",
                 "Giovanni Colavizza",
-                "Fr\u00e9d\u00e9ric Kaplan"
+                "Frederic Kaplan"
             ],
             "title": "Deep Reference Mining From Scholarly Literature in the Arts and Humanities",
             "year": 2018,
@@ -11534,7 +11534,7 @@
                 "Giovanni Colavizza",
                 "Xiaoyong Dong",
                 "Michele Bazzi",
-                "Mikl\u00f3s Cucuringu"
+                "Miklos Cucuringu"
             ],
             "title": "Local2Global: a distributed approach for scaling representation learning on graphs",
             "year": 2023,
@@ -11749,7 +11749,7 @@
             "author": [
                 "Giovanni Colavizza",
                 "Klaus W. Boyack",
-                "Niels J. van Eck",
+                "Niels J. Van Eck",
                 "Ludo Waltman"
             ],
             "title": "The Closer the Better: Similarity of Publication Pairs at Different Cocitation Levels",
@@ -11768,7 +11768,7 @@
             "author": [
                 "Giovanni Colavizza",
                 "Matteo Romanello",
-                "Fr\u00e9d\u00e9ric Kaplan"
+                "Frederic Kaplan"
             ],
             "title": "The references of references: a method to enrich humanities library catalogs with citation data",
             "year": 2018,
@@ -12423,7 +12423,7 @@
                 "Stefano De Giorgis",
                 "Aldo Gangemi",
                 "Chiara Lucifora",
-                "Misael Mongiov\u00ec"
+                "Misael Mongiovi"
             ],
             "title": "Comparing User Perspectives in a Virtual Reality Cultural Heritage Environment",
             "year": 2023,
@@ -12439,7 +12439,7 @@
                 "Stefano De Giorgis",
                 "Aldo Gangemi",
                 "Chiara Lucifora",
-                "Misael Mongiov\u00ec"
+                "Misael Mongiovi"
             ],
             "title": "Comparing User Perspectives in a Virtual Reality Cultural Heritage Environment",
             "year": 2023,
@@ -12475,7 +12475,7 @@
                 "Stefano De Giorgis",
                 "Aldo Gangemi",
                 "Lucia Marinucci",
-                "Misael Mongiov\u00ec"
+                "Misael Mongiovi"
             ],
             "title": "Detection of Morality in Tweets Based on the Moral Foundation Theory",
             "year": 2023,
@@ -12585,7 +12585,7 @@
         {
             "type": "conference",
             "author": [
-                "Misael Mongiov\u00ec",
+                "Misael Mongiovi",
                 "Aldo Gangemi"
             ],
             "title": "Graph-based retrieval for claim verification over cross-document evidence",
@@ -12601,7 +12601,7 @@
         {
             "type": "conference",
             "author": [
-                "Misael Mongiov\u00ec",
+                "Misael Mongiovi",
                 "Aldo Gangemi"
             ],
             "title": "Graph-based Retrieval for Claim Verification over Cross-document Evidence",
@@ -12671,7 +12671,7 @@
         {
             "type": "article",
             "author": [
-                "Gambarelli, G.",
+                "Gianluca Gambarelli",
                 "Aldo Gangemi"
             ],
             "title": "PRIVAFRAME: A Frame-Based Knowledge Graph for Sensitive Personal Data",
@@ -12689,9 +12689,9 @@
         {
             "type": "article",
             "author": [
-                "Daga, E",
+                "Enrico Daga",
                 "Aldo Gangemi",
-                "Motta, E"
+                "Enrico Motta"
             ],
             "title": "Reasoning with Data Flows and Policy Propagation Rules",
             "year": 2018,
@@ -12713,8 +12713,8 @@
             "type": "article",
             "author": [
                 "Flores, Jorge Garcia",
-                "Meza, Iv\u00e0n",
-                "Colin, \u00c9milie",
+                "Meza, Ivan",
+                "Colin, Emilie",
                 "Gardent, Claire",
                 "Aldo Gangemi",
                 "Pineda, Luis A"
@@ -12737,7 +12737,7 @@
         {
             "type": "conference",
             "author": [
-                "Poltronieri, Andrea",
+                "Andrea Poltronieri",
                 "Aldo Gangemi"
             ],
             "title": "The HaMSE Ontology: Using Semantic Technologies to support Music Representation Interoperability and Musicological Analysis",
@@ -12755,7 +12755,7 @@
         {
             "type": "conference",
             "author": [
-                "Poltronieri, A.",
+                "Andrea Poltronieri",
                 "Aldo Gangemi"
             ],
             "title": "The HaMSE Ontology: Using Semantic Technologies to support Music Representation Interoperability and Musicological Analysis",
@@ -12794,7 +12794,7 @@
         {
             "type": "conference",
             "author": [
-                "Poltronieri, Andrea",
+                "Andrea Poltronieri",
                 "Aldo Gangemi"
             ],
             "title": "The Music Note Ontology",
@@ -12847,9 +12847,9 @@
         {
             "type": "conference",
             "author": [
-                "Bulla, L.",
+                "Luana Bulla",
                 "Aldo Gangemi",
-                "Mongiovi, M"
+                "Misael Mongiovi"
             ],
             "title": "Towards Distribution-shift Robust Text Classification of Emotional Content",
             "year": 2023,
@@ -12926,8 +12926,8 @@
                 "Authorial Philology",
                 "Italian Philology",
                 "Critica delle Varianti",
-                "St\u00e9phane Mallarm\u00e9",
-                "Paul Val\u00e9ry",
+                "Stéphane Mallarmá",
+                "Paul Valéry",
                 "Gianfranco Contini",
                 "Benedetto Croce",
                 "Lanfranco Caretti",
@@ -12953,7 +12953,7 @@
                 "critica genetica",
                 "Authorial Philology",
                 "Gianfranco Contini",
-                "Paul Val\u00e9ry",
+                "Paul Valéry",
                 "Benedetto Croce"
             ],
             "url": "https://journals.openedition.org/genesis/4497",
@@ -13230,8 +13230,8 @@
                 "critica delle varianti",
                 "critica genetica",
                 "Authorial Philology",
-                "Mallarm\u00e9",
-                "Val\u00e9ry",
+                "Mallarmá",
+                "Valéry",
                 "Proust"
             ],
             "pages": "33-48",
@@ -14376,7 +14376,7 @@
             "type": "inbook",
             "author": [
                 "Selda Ulutas Aydogan",
-                "M\u00fcnster Sander",
+                "Munster Sander",
                 "Dino Girardi",
                 "Monica Palmirani",
                 "Fabio Vitali"
@@ -14827,11 +14827,11 @@
         {
             "type": "article",
             "author": [
-                "L. Robaldo",
-                "C. Bartolini",
+                "Livio Robaldo",
+                "Cesare Bartolini",
                 "Monica Palmirani",
-                "A. Rossi",
-                "M. Martoni",
+                "Arianna Rossi",
+                "Michele Martoni",
                 "G. Lenzini"
             ],
             "title": "Formalizing GDPR Provisions in Reified I/O Logic: The DAPRECO Knowledge Base",
@@ -15000,9 +15000,9 @@
         {
             "type": "inbook",
             "author": [
-                "V\u00edctor Rodr\u00edguez-Doncel",
+                "Victor Rodriguez-Doncel",
                 "Monica Palmirani",
-                "Micha\u0142 Araszkiewicz",
+                "Michae Araszkiewicz",
                 "Pompeu Casanovas",
                 "Ugo Pagallo",
                 "Giovanni Sartor"
@@ -15287,7 +15287,7 @@
                 "Luca Cervone",
                 "Octavian Bujor",
                 "Arantxa Arsuaga Lecuona",
-                "Alberto Boada Garc\u00eda",
+                "Alberto Boada Garcia",
                 "Luigi Di Caro",
                 "Giovanni Siragusa"
             ],
@@ -15982,7 +15982,7 @@
                 "Maribel Acosta",
                 "Silvio Peroni",
                 "Sahar Vahdati",
-                "Anna-Lisa Gentile",
+                "Anna Lisa Gentile",
                 "Tassilo Pellegrini",
                 "Jan-Christoph Kalo"
             ],
@@ -16277,7 +16277,7 @@
         {
             "type": "conference",
             "author": [
-                "Alejandra Gonz\u00e0lez Beltr\u00e0n",
+                "Alejandra Gonzalez-Beltran",
                 "Francesco Osborne",
                 "Silvio Peroni",
                 "Sahar Vahdati"
@@ -16297,7 +16297,7 @@
         {
             "type": "misc",
             "author": [
-                "Alejandra Gonz\u00e0lez Beltr\u00e0n",
+                "Alejandra Gonzalez-Beltran",
                 "Francesco Osborne",
                 "Silvio Peroni",
                 "Sahar Vahdati"
@@ -16318,7 +16318,7 @@
         {
             "type": "misc",
             "author": [
-                "Alejandra Gonz\u00e0lez-Beltr\u00e0n",
+                "Alejandra Gonzalez-Beltran",
                 "Francesco Osborne",
                 "Silvio Peroni"
             ],
@@ -16338,7 +16338,7 @@
         {
             "type": "inbook",
             "author": [
-                "A Cioffi",
+                "Alessia Cioffi",
                 "Silvio Peroni"
             ],
             "title": "Structured References from PDF Articles: Assessing the Tools for Bibliographic Reference Extraction and Parsing",
@@ -16371,7 +16371,7 @@
             "type": "conference",
             "author": [
                 "Silvio Peroni",
-                "David Shotton"
+                "David M. Shotton"
             ],
             "title": "The SPAR Ontologies",
             "year": 2018,
@@ -16392,9 +16392,9 @@
         {
             "type": "inbook",
             "author": [
-                "EA dos Santos",
+                "Erika Alves dos Santos",
                 "Silvio Peroni",
-                "ML Mucheroni"
+                "Marcos Luiz Mucheroni"
             ],
             "title": "The Way We Cite: Common Metadata Used Across Disciplines for Defining Bibliographic References",
             "year": 2022,
@@ -16734,7 +16734,7 @@
             "author": [
                 "Michele Corazza",
                 "Fabio Tamburini",
-                "Miguel Val\u00e9rio",
+                "Miguel Valerio",
                 "Silvia Ferrara"
             ],
             "title": "Contextual Unsupervised Clustering of Signs for Ancient Writing Systems",
@@ -16931,7 +16931,7 @@
         {
             "type": "article",
             "author": [
-                "Laura Calz\u00e0",
+                "Laura Calze",
                 "Gloria Gagliardi",
                 "Rema Rossini Favretti",
                 "Fabio Tamburini"
@@ -16954,7 +16954,7 @@
                 "Daniela Beltrami",
                 "Gloria Gagliardi",
                 "Rema Rossini Favretti",
-                "Laura Calz\u00e0",
+                "Laura Calze",
                 "Fabio Tamburini",
                 "Enrico Ghidoni"
             ],
@@ -17156,7 +17156,7 @@
                 "Rema Rossini Favretti",
                 "Enrico Ghidoni",
                 "Fabio Tamburini",
-                "Laura Calz\u00e0"
+                "Laura Calze"
             ],
             "title": "Speech Analysis by Natural Language Processing Techniques: A Possible Tool for Very Early Detection of Cognitive Decline?",
             "year": 2018,
@@ -17213,7 +17213,7 @@
                 "Silvia Ferrara",
                 "Barbara Montecchi",
                 "Fabio Tamburini",
-                "Miguel Val\u00e9rio"
+                "Miguel Valerio"
             ],
             "title": "The mathematical values of fraction signs in the Linear A script: A computational, statistical and typological approach",
             "year": 2021,
