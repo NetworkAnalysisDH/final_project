@@ -932,7 +932,7 @@
             "title": "Research Articles in Simplified HTML: A Web-first format for HTML-based scholarly articles",
             "year": 2017,
             "journal": "PEERJ. COMPUTER SCIENCE.",
-            "volume": "2017",
+            "volume": 2017,
             "keywords": [
                 "Digital Publishing",
                 "Document conversion",
@@ -1257,7 +1257,7 @@
                 "Valentina Presutti"
             ],
             "title": "Classifying Sequences by Combining Context-Free Grammars and OWL Ontologies",
-            "year": "2023",
+            "year": 2023,
             "publisher": "Springer",
             "address": "Cham",
             "volume": "13870",
@@ -5362,7 +5362,7 @@
             "year": 2018,
             "address": "Chicago, IL",
             "booktitle": "Academy of Management Proceedings",
-            "volume": "2018",
+            "volume": 2018,
             "keywords": [
                 "network",
                 "creativity",
@@ -7522,7 +7522,7 @@
                 "Michela Milano"
             ],
             "title": "Boosting combinatorial problem modeling with Machine Learning",
-            "year": "2018",
+            "year": 2018,
             "publisher": "International Joint Conferences on Artificial Intelligence",
             "address": "Sweden",
             "booktitle": "IJCAI International Joint Conference on Artificial Intelligence",
@@ -7545,7 +7545,7 @@
                 "Michela Milano"
             ],
             "title": "Combining learning and optimization for transprecision computing",
-            "year": "2020",
+            "year": 2020,
             "journal": "17TH ACM INTERNATIONAL CONFERENCE ON COMPUTING FRONTIERS 2020 (CF 2020)",
             "address": "Catania, Italy",
             "booktitle": "Proceedings of the 17th ACM International Conference on Computing Frontiers",
@@ -7568,7 +7568,7 @@
                 "Anastasios Saffiotti"
             ],
             "title": "CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity",
-            "year": "2023",
+            "year": 2023,
             "publisher": "CEUR-WS",
             "address": "Roma",
             "volume": "3519",
@@ -7585,7 +7585,7 @@
                 "Paolo Mello"
             ],
             "title": "Do You Like Dancing Robots? AI Can Tell You Why",
-            "year": "2022",
+            "year": 2022,
             "publisher": "IOS Press BV",
             "address": "Vienna",
             "booktitle": "PAIS 2022",
@@ -7612,7 +7612,7 @@
                 "Marco Lippi"
             ],
             "title": "Driving behaviour clustering for realistic traffic micro-simulators",
-            "year": "2017",
+            "year": 2017,
             "publisher": "European Council for Modelling and Simulation",
             "address": "hun",
             "booktitle": "Proceedings - 31st European Conference on Modelling and Simulation, ECMS 2017",
@@ -7635,7 +7635,7 @@
                 "Andrea Bartolini"
             ],
             "title": "Empirical decision model learning",
-            "year": "2017",
+            "year": 2017,
             "journal": "ARTIFICIAL INTELLIGENCE",
             "volume": "244",
             "keywords": [
@@ -7673,7 +7673,7 @@
                 "Mojtaba Madani"
             ],
             "title": "Finance, Regulations, Politics and Market Design",
-            "year": "2021",
+            "year": 2021,
             "publisher": "Springer Nature",
             "booktitle": "AIRO Springer Series",
             "volume": "4",
@@ -7696,7 +7696,7 @@
                 "Luca Benini"
             ],
             "title": "Frequency Assignment in High Performance Computing Systems",
-            "year": "2019",
+            "year": 2019,
             "publisher": "Springer",
             "address": "ita",
             "volume": "11946",
@@ -7726,7 +7726,7 @@
                 "Barry O'Sullivan"
             ],
             "title": "From Offline to Online Kidney Exchange Optimization",
-            "year": "2018",
+            "year": 2018,
             "publisher": "IEEE",
             "address": "Volos, Greece",
             "booktitle": "IEEE 30th International Conference on Tools with Artificial Intelligence, ICTAI 2018, 5-7 November 2018, Volos, Greece",
@@ -7750,7 +7750,7 @@
                 "Michele Milano"
             ],
             "title": "HADA: An automated tool for hardware dimensioning of AI applications",
-            "year": "2022",
+            "year": 2022,
             "journal": "KNOWLEDGE-BASED SYSTEMS",
             "volume": "251",
             "keywords": [
@@ -7774,7 +7774,7 @@
                 "Michela Milano"
             ],
             "title": "How to Tame Your Anticipatory Algorithm",
-            "year": "2019",
+            "year": 2019,
             "publisher": "International Joint Conferences on Artificial Intelligence",
             "address": "Macao",
             "booktitle": "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence",
@@ -7795,7 +7795,7 @@
                 "Michela Milano"
             ],
             "title": "Hybrid offline/online optimization under uncertainty",
-            "year": "2020",
+            "year": 2020,
             "publisher": "IOS Press BV",
             "address": "esp",
             "booktitle": "Frontiers in Artificial Intelligence and Applications",
@@ -7921,7 +7921,7 @@
                 "Brendan O'Sullivan"
             ],
             "title": "Logic-Based Benders Decomposition for Super Solutions: An Application to the Kidney Exchange Problem",
-            "year": "2019",
+            "year": 2019,
             "publisher": "Springer",
             "address": "USA",
             "volume": "11802",
@@ -7948,7 +7948,7 @@
                 "Michela Milano"
             ],
             "title": "Merging Observed and Self-Reported Behaviour in Agent-Based Simulation: A Case Study on Photovoltaic Adoption",
-            "year": "2019",
+            "year": 2019,
             "journal": "APPLIED SCIENCES-BASEL",
             "keywords": [
                 "simulation model",
@@ -7972,7 +7972,7 @@
                 "Michela Milano"
             ],
             "title": "Methods for off-line/on-line optimization under uncertainty",
-            "year": "2018",
+            "year": 2018,
             "publisher": "International Joint Conferences on Artificial Intelligence",
             "address": "Sweden",
             "booktitle": "IJCAI International Joint Conference on Artificial Intelligence",
@@ -7994,7 +7994,7 @@
                 "Michela Milano"
             ],
             "title": "Model Agnostic Solution of CSPs via Deep Learning: A Preliminary Study",
-            "year": "2018",
+            "year": 2018,
             "publisher": "Springer Verlag",
             "address": "nld",
             "booktitle": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
@@ -8018,7 +8018,7 @@
                 "Michela Milano"
             ],
             "title": "Off-Line and On-Line Optimization Under Uncertainty: A Case Study on Energy Management",
-            "year": "2018",
+            "year": 2018,
             "journal": "INTEGRATION OF CONSTRAINT PROGRAMMING, ARTIFICIAL INTELLIGENCE, AND OPERATIONS RESEARCH, CPAIOR 2018",
             "address": "Delft, Netherlands",
             "booktitle": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
@@ -8043,7 +8043,7 @@
                 "Michela Milano"
             ],
             "title": "Preface: Fairness and Bias in AI: Insights from AEQUITAS 2023",
-            "year": "2023",
+            "year": 2023,
             "publisher": "Sun SITE Central Europe (CEUR), Technical University of Aachen (RWTH)",
             "booktitle": "CEUR Workshop Proceedings",
             "volume": "3523",
@@ -8065,7 +8065,7 @@
                 "Luca Benini"
             ],
             "title": "Pricing schemes for energy-efficient HPC systems: Design and exploration",
-            "year": "2019",
+            "year": 2019,
             "journal": "INTERNATIONAL JOURNAL OF HIGH PERFORMANCE COMPUTING APPLICATIONS",
             "volume": "33",
             "keywords": [
@@ -8388,7 +8388,7 @@
                 "Michela Milano"
             ],
             "title": "User-aware electricity price optimization for the competitive market",
-            "year": "2017",
+            "year": 2017,
             "journal": "ENERGIES",
             "volume": "10",
             "keywords": [
@@ -8420,7 +8420,7 @@
                 "Christiane Klaes"
             ],
             "title": "Fostering Collaboration to Enable Bibliodata-driven Research in the Humanities",
-            "year": "2023",
+            "year": 2023,
             "address": "Graz, Austria",
             "booktitle": "Digital Humanities 2023: Book of Abstracts",
             "keywords": [
@@ -8440,7 +8440,7 @@
                 "Giorgio Spedicato"
             ],
             "title": "Dante e Diritto. Un cammino tra storia e attualit\u00e0",
-            "year": "2022",
+            "year": 2022,
             "publisher": "Mucchi Editore",
             "volume": "4",
             "keywords": [
@@ -8523,7 +8523,7 @@
                 "Chiara Tartarini"
             ],
             "title": "Pierre Bourdieu. Il mercato dei beni simbolici e altri scritti sull'arte",
-            "year": "2023",
+            "year": 2023,
             "publisher": "Meltemi",
             "keywords": [
                 "Bourdieu",
@@ -8545,7 +8545,7 @@
                 "Luca Trapin"
             ],
             "title": "A characteristic function-based approach to Approximate Maximum Likelihood Estimation",
-            "year": "2018",
+            "year": 2018,
             "volume": "47",
             "keywords": [
                 "Characteristic function",
@@ -8565,7 +8565,7 @@
                 "Massimo Riccaboni"
             ],
             "title": "An extreme value analysis of the last century crises across industries in the US economy",
-            "year": "2017",
+            "year": 2017,
             "journal": "JOURNAL OF ECONOMIC DYNAMICS & CONTROL",
             "volume": "81",
             "keywords": [
@@ -8585,7 +8585,7 @@
                 "Luca Trapin"
             ],
             "title": "Estimating and Forecasting Conditional Risk Measures with Extreme Value Theory: A Review",
-            "year": "2018",
+            "year": 2018,
             "journal": "RISKS",
             "volume": "6",
             "keywords": [
@@ -8606,7 +8606,7 @@
                 "Luca Trapin"
             ],
             "title": "Estimating large losses in insurance analytics and operational risk using the g-and-h distribution",
-            "year": "2021",
+            "year": 2021,
             "journal": "QUANTITATIVE FINANCE",
             "volume": "21",
             "keywords": [
