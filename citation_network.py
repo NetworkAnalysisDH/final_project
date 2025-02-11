@@ -52,8 +52,8 @@ net = Network(height="800px", width="100%", notebook=True)
 # Add nodes and edges with size and color based on centrality and weight
 for node in G_subgraph.nodes():
     centrality = eigenvector_centrality[node]
-    # Set node color to blue instead of gray
-    net.add_node(node, size=100 * centrality, color='blue' if node != max(eigenvector_centrality, key=eigenvector_centrality.get) else 'pink')
+    # Set node color to green instead of gray
+    net.add_node(node, size=100 * centrality, color='green' if node != max(eigenvector_centrality, key=eigenvector_centrality.get) else 'pink')
 
 # Add edges with weight as a threshold for visual clarity
 for u, v, data in G_subgraph.edges(data=True):
@@ -67,4 +67,4 @@ net.physics = False
 net.show_buttons(filter_=['physics'])  # This allows you to turn physics on/off if needed in the interface
 
 # Show the interactive network (this saves the visualization as an HTML file)
-net.show("keyword_network_blue_nodes.html")
+net.show("keyword_network_nodes.html")
