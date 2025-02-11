@@ -104,7 +104,7 @@
             "volume": 13,
             "keywords": [
                 "REST API",
-                "OpenCitations",
+                "Open citations",
                 "citation data",
                 "SPARQL endpoint",
                 "RDF",
@@ -17426,8 +17426,8 @@
             "volume": 10180,
             "keywords": [
                 "SPACIN",
-                "OpenCitations",
-                "OpenCitations Corpus",
+                "Open citations",
+                "Open citations Corpus",
                 "Semantic Publishing",
                 "citation data"
             ],
@@ -17469,7 +17469,7 @@
             "volume": 2,
             "keywords": [
                 "open citations",
-                "OpenCitations",
+                "Open citations",
                 "COCI",
                 "CROCI"
             ],
@@ -17518,7 +17518,7 @@
                 "Incorrect DOI",
                 "Open citations",
                 "Crossref",
-                "OpenCitations"
+                "Open citations"
             ],
             "url": "https://link.springer.com/10.1007/s11192-022-04367-w",
             "doi": "10.1007/s11192-022-04367-w",
@@ -17637,7 +17637,7 @@
                 "Citation analysis",
                 "COCI",
                 "Open citation data",
-                "OpenCitations",
+                "Open citations",
                 "Scholarly communication"
             ],
             "url": "https://link.springer.com/article/10.1007/s11192-019-03311-9",
@@ -17659,8 +17659,8 @@
             "keywords": [
                 "OCC",
                 "Open citation data",
-                "OpenCitations",
-                "OpenCitations corpus",
+                "Open citations",
+                "Open citations corpus",
                 "Public domain",
                 "SPAR ontologies",
                 "Theoretical Computer Science",
@@ -17730,7 +17730,7 @@
             "keywords": [
                 "bibliographic metadata",
                 "infrastructure service",
-                "OpenCitations",
+                "Open citations",
                 "OpenCitations Corpus",
                 "OpenCitations Data Model",
                 "OpenCitations Index",
@@ -17754,7 +17754,7 @@
             "year": 2022,
             "volume": 3220,
             "keywords": [
-                "OpenCitations",
+                "Open citations",
                 "open citation data",
                 "open bibliographic metadata",
                 "Semantic Web"
@@ -17775,7 +17775,7 @@
             "journal": "INTERNATIONAL JOURNAL OF DIGITAL CURATION",
             "volume": 17,
             "keywords": [
-                "OpenCitations",
+                "Open citations",
                 "citation data",
                 "Open Science Infrastructure"
             ],
@@ -17796,7 +17796,7 @@
             "volume": 10959,
             "keywords": [
                 "Free-text search",
-                "OpenCitations",
+                "Open citations",
                 "OpenCitations Corpus",
                 "OSCAR",
                 "Scholarly data",
@@ -17995,7 +17995,7 @@
             "year": 2022,
             "keywords": [
                 "change-tracking",
-                "OpenCitations",
+                "Open citations",
                 "provenance",
                 "RDF",
                 "time-traversal query"
