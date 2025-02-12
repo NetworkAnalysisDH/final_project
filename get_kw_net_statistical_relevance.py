@@ -203,28 +203,28 @@ if __name__ == "__main__":
     degree_centrality = nx.degree_centrality(filtered_graph)
     for node, centrality in degree_centrality.items():
         degree_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(degree_centrality_graph, os.path.join(output_folder, "degree_centrality.graphml"))
+    nx.write_graphml(degree_centrality_graph, os.path.join(output_folder, "kw_degree_centrality.graphml"))
     
     # Betweenness Centrality Graph
     betweenness_centrality_graph = nx.Graph()
     betweenness_centrality = nx.betweenness_centrality(filtered_graph)
     for node, centrality in betweenness_centrality.items():
         betweenness_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(betweenness_centrality_graph, os.path.join(output_folder, "betweenness_centrality.graphml"))
+    nx.write_graphml(betweenness_centrality_graph, os.path.join(output_folder, "kw_betweenness_centrality.graphml"))
     
     # Closeness Centrality Graph
     closeness_centrality_graph = nx.Graph()
     closeness_centrality = nx.closeness_centrality(filtered_graph)
     for node, centrality in closeness_centrality.items():
         closeness_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(closeness_centrality_graph, os.path.join(output_folder, "closeness_centrality.graphml"))
+    nx.write_graphml(closeness_centrality_graph, os.path.join(output_folder, "kw_closeness_centrality.graphml"))
     
     # Eigenvector Centrality Graph
     eigenvector_centrality_graph = nx.Graph()
     eigenvector_centrality = nx.eigenvector_centrality(filtered_graph)
     for node, centrality in eigenvector_centrality.items():
         eigenvector_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(eigenvector_centrality_graph, os.path.join(output_folder, "eigenvector_centrality.graphml"))
+    nx.write_graphml(eigenvector_centrality_graph, os.path.join(output_folder, "kw_eigenvector_centrality.graphml"))
     
     # Exporting CSV reports to the 'report/keyword' folder
     report_folder = os.path.join(base_path, "report", "keyword")
@@ -232,8 +232,8 @@ if __name__ == "__main__":
     
     # Node-level CSV export
     node_df, global_metrics_df = export_analysis_to_pandas(filtered_graph)
-    node_df.to_csv(os.path.join(report_folder, "node_analysis.csv"), index=False)
-    global_metrics_df.to_csv(os.path.join(report_folder, "global_metrics.csv"), index=False)
+    node_df.to_csv(os.path.join(report_folder, "kw_node_analysis_statiscal_relevance.csv"), index=False)
+    global_metrics_df.to_csv(os.path.join(report_folder, "kw_global_metrics_statistical_relevance.csv"), index=False)
     
     # Adjacency matrix export
-    export_adjacency_matrix(filtered_graph, os.path.join(report_folder, "adjacency_matrix.csv"))
+    export_adjacency_matrix(filtered_graph, os.path.join(report_folder, "kw_adjacency_matrix_statistical_relevance.csv"))
