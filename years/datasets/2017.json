@@ -1,0 +1,2100 @@
+{
+    "publications": [
+        {
+            "author": [
+                "Luigi Asprino",
+                "Aldo Gangemi",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Alessandro Russo"
+            ],
+            "title": "A Knowledge Management System for Assistive Robotics",
+            "year": 2017,
+            "publisher": "CEUR-WS.org",
+            "booktitle": "Proceedings of the 1st International Workshop on Application of Semantic Web technologies in Robotics co-located with 14th ESWC (ANSWER 2017)",
+            "abstract": "In this paper we demonstrate how to use an ontology network in order to fill the gap between knowledge and robots' abilities. The demonstration is focused on two components of the knowledge management system of MARIO robots. These components are the MARIO Ontology Network (i.e. MON) that organises knowledge in MARIO and an Object-RDF mapper, called Lizard, that dynamically generates APIs on top of the MON to enable the interaction between software components that implement robot's abilities and the MON itself.",
+            "keywords": [
+                "Companion Robots",
+                "Ontology",
+                "Semantic Web"
+            ],
+            "url": "http://ceur-ws.org/Vol-1935/paper-06.pdf",
+            "pages": "46--50"
+        },
+        {
+            "type": "Journal Article",
+            "author": [
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Aldo Gangemi",
+                "Silvio Peroni",
+                "Paolo Ciancarini"
+            ],
+            "title": "Aemoo: Linked Data exploration based on Knowledge Patterns",
+            "year": 2017,
+            "journal": "SEMANTIC WEB",
+            "volume": 8,
+            "keywords": [
+                "analysis of Linked Data",
+                "Exploratory search",
+                "knowledge exploration",
+                "Knowledge Patterns",
+                "visual exploration",
+                "Information Systems",
+                "Computer Science Applications",
+                "Computer Vision and Pattern Recognition",
+                "Computer Networks and Communications"
+            ],
+            "doi": "10.3233/SW-160222",
+            "pages": "87--112",
+            "number": 1
+        },
+        {
+            "type": "Journal Article",
+            "author": [
+                "Angelo Di Iorio",
+                "Andrea Giovanni Nuzzolese",
+                "Silvio Peroni",
+                "Francesco Poggi",
+                "Fabio Vitali",
+                "Paolo Ciancarini"
+            ],
+            "title": "Analysing and Discovering Semantic Relations in Scholarly Data",
+            "year": 2017,
+            "publisher": "Springer Verlag",
+            "journal": "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE",
+            "volume": 733,
+            "booktitle": "Communications in Computer and Information Science",
+            "keywords": [
+                "Computer Science",
+                "Mathematics"
+            ],
+            "url": "http://www.springer.com/series/7899",
+            "doi": "10.1007/978-3-319-68130-6_1",
+            "isbn": "9783319681290",
+            "pages": "3--19"
+        },
+        {
+            "type": "Conference Paper",
+            "author": [
+                "Luigi Asprino",
+                "Aldo Gangemi",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Diego Reforgiato Recupero",
+                "Alessandro Russo"
+            ],
+            "title": "Autonomous Comprehensive Geriatric Assessment",
+            "year": 2017,
+            "booktitle": "Proceedings of the 1st International Workshop on Application of Semantic Web technologies in Robotics co-located with 14th ESWC (ANSWER 2017)",
+            "keywords": [
+                "Comprehensive Geriatric Assessment",
+                "Ontology Network",
+                "Ontology",
+                "Robotics"
+            ],
+            "url": "http://ceur-ws.org/Vol-1935/paper-05.pdf",
+            "pages": "41--45"
+        },
+        {
+            "type": "Conference Paper",
+            "author": [
+                "Luigi Asprino",
+                "Aldo Gangemi",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Alessandro Russo"
+            ],
+            "title": "Knowledge-driven Support for Reminiscence on Companion Robots",
+            "year": 2017,
+            "publisher": "CEUR-WS.org",
+            "booktitle": "Proceedings of the 1st International Workshop on Application of Semantic Web technologies in Robotics co-located with 14th ESWC (ANSWER 2017)",
+            "abstract": "In this paper we present our work towards the development of an application for personalized reminiscence therapy in people with dementia. The reminiscence process aims at recalling personal memories by combining user-specific knowledge, dialogue-based human-robot interaction and multimedia content. The application is part of a robotic software framework for companion robots, investigated in the EU MARIO project and under evaluation in different dementia care settings.",
+            "keywords": [
+                "Reminiscence",
+                "Companion Robots",
+                "Semantic Web",
+                "Ontology"
+            ],
+            "url": "http://ceur-ws.org/Vol-1935/paper-07.pdf",
+            "pages": "51--55"
+        },
+        {
+            "type": "Journal Article",
+            "author": [
+                "Sergio Consoli",
+                "Valentina Presutti",
+                "Diego Reforgiato Recupero",
+                "Andrea Giovanni Nuzzolese",
+                "Silvio Peroni",
+                "Misael Mongiovi",
+                "Aldo Gangemi"
+            ],
+            "title": "Producing Linked Data for Smart Cities: The Case of Catania",
+            "year": 2017,
+            "journal": "BIG DATA RESEARCH",
+            "volume": 7,
+            "keywords": [
+                "Data modeling",
+                "Interoperability",
+                "Linked Open Data for smart cities",
+                "RDF data processing",
+                "Semantics and eGovernment",
+                "Management Information Systems",
+                "Information Systems",
+                "Computer Science Applications",
+                "Computer Vision and Pattern Recognition",
+                "Information Systems and Management"
+            ],
+            "doi": "10.1016/j.bdr.2016.10.001",
+            "pages": "1--15"
+        },
+        {
+            "type": "Journal Article",
+            "author": [
+                "Silvio Peroni",
+                "Francesco Osborne",
+                "Angelo Di Iorio",
+                "Andrea Giovanni Nuzzolese",
+                "Francesco Poggi",
+                "Fabio Vitali",
+                "Enrico Motta"
+            ],
+            "title": "Research Articles in Simplified HTML: A Web-first format for HTML-based scholarly articles",
+            "year": 2017,
+            "journal": "PEERJ. COMPUTER SCIENCE.",
+            "volume": 2017,
+            "keywords": [
+                "Digital Publishing",
+                "Document conversion",
+                "RASH",
+                "Semantic Publishing",
+                "Semantic Web",
+                "XSLT",
+                "Computer Science (all)"
+            ],
+            "url": "https://peerj.com/articles/cs-132/",
+            "doi": "10.7717/peerj-cs.132",
+            "pages": "1--35",
+            "number": 10
+        },
+        {
+            "type": "Book Chapter",
+            "author": [
+                "Giorgia Lodi",
+                "Luigi Asprino",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Aldo Gangemi",
+                "Diego Reforgiato Recupero",
+                "Chiara Veninata",
+                "Annarita Orsini"
+            ],
+            "title": "Semantic Web for Cultural Heritage Valorisation",
+            "year": 2017,
+            "publisher": "S. Hai-Jew",
+            "address": "Kansas",
+            "booktitle": "Data Analytics in Digital Humanities",
+            "keywords": [
+                "Linked Open Data",
+                "Ontology",
+                "Semantic Web",
+                "Cultural Heritage"
+            ],
+            "url": "https://doi.org/10.1007/978-3-319-54499-1_1",
+            "doi": "10.1007/978-3-319-54499-1_1",
+            "isbn": "978-3-319-54498-4",
+            "pages": "3--37"
+        },
+        {
+            "type": "Journal Article",
+            "author": [
+                "Aldo Gangemi",
+                "Valentina Presutti",
+                "Diego Reforgiato Recupero",
+                "Andrea Giovanni Nuzzolese",
+                "Francesco Draicchio",
+                "Misael Mongiovi"
+            ],
+            "title": "Semantic Web Machine Reading with FRED",
+            "year": 2017,
+            "journal": "SEMANTIC WEB",
+            "volume": "8",
+            "keywords": [
+                "event extraction",
+                "knowledge extraction",
+                "Linked Data",
+                "Machine reading",
+                "Semantic Web"
+            ],
+            "doi": "10.3233/SW-170255",
+            "pages": "49--79"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Diego Reforgiato Recupero",
+                "Mehwish Alam",
+                "Aldo Gangemi",
+                "Valentina Presutti"
+            ],
+            "title": "Frame Semantic Parsing using Framester Knowledge Graphs",
+            "year": 2017,
+            "publisher": "CEUR Workshop Proceedings",
+            "address": "Aachen",
+            "booktitle": "2017 ISWC Posters and Demonstrations and Industry Tracks",
+            "keywords": [
+                "Dependency parsing",
+                "Knowledge graphs",
+                "Semantic parsing"
+            ],
+            "pages": "1--4"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luigi Asprino",
+                "Valentina Presutti",
+                "Aldo Gangemi",
+                "Paolo Ciancarini"
+            ],
+            "title": "Frame-Based Ontology Alignment",
+            "year": 2017,
+            "publisher": "AAAI Press",
+            "booktitle": "Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence",
+            "keywords": [
+                "Artificial Intelligence",
+                "Natural Language Processing",
+                "Web semantics"
+            ],
+            "isbn": "978-1-57735-785-8",
+            "pages": "4905--4906"
+        },
+        {
+            "type": "conference paper",
+            "author": [
+                "Luigi Asprino",
+                "Valentina Presutti",
+                "Aldo Gangemi"
+            ],
+            "title": "Matching Ontologies Using a Frame-Driven Approach",
+            "year": 2017,
+            "volume": "10180",
+            "booktitle": "Knowledge Engineering and Knowledge Management - EKAW 2016 Satellite Events, EKM and Drift-an-LOD, Bologna, Italy, November 19,23, 2016, Revised Selected Papers",
+            "keywords": [
+                "Frame",
+                "Semantics",
+                "Ontology Matching",
+                "Integration",
+                "Interoperability"
+            ],
+            "url": "https://doi.org/10.1007/978-3-319-58694-6_9",
+            "doi": "10.1007/978-3-319-58694-6_9",
+            "isbn": "978-3-319-58694-6",
+            "pages": "101--104"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Marilena Daquino"
+            ],
+            "title": "Photo Archives in Linked Open Data - The Federico Zeri's Archive Case Study",
+            "year": 2017,
+            "publisher": "Springer Verlag",
+            "address": "Cham",
+            "volume": "10180",
+            "booktitle": "KNOWLEDGE ENGINEERING AND KNOWLEDGE MANAGEMENT",
+            "keywords": [
+                "Linked open data",
+                "Ontology development",
+                "Photo archives",
+                "Theoretical Computer Science",
+                "Computer Science"
+            ],
+            "url": "http://springerlink.com/content/0302-9743/copyright/2005/",
+            "doi": "10.1007/978-3-319-58694-6_34",
+            "isbn": "9783319586939",
+            "pages": "219--223"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Alberto Meloni",
+                "Diego Reforgiato Recupero",
+                "Aldo Gangemi"
+            ],
+            "title": "AMR2FRED, A Tool for Translating Abstract Meaning Representation to Motif-Based Linguistic Knowledge Graph",
+            "year": 2017,
+            "booktitle": "Proceedings of the Extended Semantic Web Conference (ESWC2017)",
+            "keywords": [
+                "AMR",
+                "FRED",
+                "Knowledge extraction",
+                "Formal translation"
+            ],
+            "doi": "10.1007/978-3-319-70407-4_9",
+            "pages": "43--47"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Mehwish Alam",
+                "Diego Reforgiato Recupero",
+                "Maria Mongiovi",
+                "Aldo Gangemi",
+                "Petar Ristoski"
+            ],
+            "title": "Event-based knowledge reconciliation using frame embeddings and frame similarity",
+            "year": 2017,
+            "journal": "KNOWLEDGE-BASED SYSTEMS",
+            "volume": "135",
+            "keywords": [
+                "Knowledge reconciliation",
+                "Frame embeddings",
+                "Framester"
+            ],
+            "doi": "10.1016/j.knosys.2017.08.014",
+            "pages": "192--203"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Mehwish Alam",
+                "Diego Reforgiato Recupero",
+                "Maria Mongiovi",
+                "Aldo Gangemi",
+                "Petar Ristoski"
+            ],
+            "title": "Frame Embeddings for Event-Based Knowledge Reconciliation",
+            "year": 2017,
+            "publisher": "CEUR Workshop Proceedings",
+            "address": "Aachen",
+            "booktitle": "2017 ISWC Posters and Demonstrations and Industry Tracks, ISWC-P and D-Industry 2017",
+            "keywords": [
+                "Co-reference resolution",
+                "Embeddings",
+                "Knowledge graph",
+                "Similarity detection"
+            ],
+            "pages": "13--18"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Paolo Ciancarini",
+                "Francesco Poggi",
+                "Davide Rossi",
+                "Alberto Sillitti"
+            ],
+            "title": "Analyzing and predicting concurrency bugs in open source systems",
+            "year": 2017,
+            "publisher": "Institute of Electrical and Electronics Engineers Inc.",
+            "volume": 2017,
+            "booktitle": "Proceedings of the International Joint Conference on Neural Networks",
+            "keywords": [
+                "Concurrency",
+                "Defects",
+                "Open source",
+                "Prediction model",
+                "Software",
+                "Artificial Intelligence"
+            ],
+            "url": "http://ieeexplore.ieee.org/abstract/document/7965923/",
+            "doi": "10.1109/IJCNN.2017.7965923",
+            "isbn": "9781509061815",
+            "pages": "721--728"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Marcello Missiroli",
+                "Daniel Russo",
+                "Paolo Ciancarini"
+            ],
+            "title": "Cooperative Thinking, or: Computational Thinking Meets Agile",
+            "year": 2017,
+            "publisher": "IEEE",
+            "booktitle": "Software Engineering Education and Training (CSEE&T), 2017 IEEE 30th Conference on",
+            "keywords": [
+                "Software engineering",
+                "computational thinking",
+                "agile software development"
+            ],
+            "doi": "10.1109/CSEET.2017.37",
+            "isbn": "978-1-5386-2536-1",
+            "pages": "187--191"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Ryohei Nakatsu",
+                "Matthias Rauterberg",
+                "Paolo Ciancarini"
+            ],
+            "title": "Handbook of Digital Games and Entertainment Technologies",
+            "year": 2017,
+            "publisher": "Springer",
+            "address": "Singapore",
+            "keywords": [
+                "Entertainment",
+                "artificial intelligence"
+            ],
+            "isbn": "978-981-4560-49-8",
+            "pages": "5--8"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Daniel Russo",
+                "Paolo Ciancarini",
+                "Tommaso Falasconi",
+                "Massimo Tomasi"
+            ],
+            "title": "Software Quality Concerns in the Italian Bank Sector: The Emergence of a Meta-Quality Dimension",
+            "year": 2017,
+            "publisher": "IEEE",
+            "booktitle": "IEEE/ACM 39th International Conference on Software Engineering",
+            "keywords": [
+                "Banking",
+                "Companies",
+                "Software quality",
+                "Software engineering",
+                "ISO Standards",
+                "Information systems"
+            ],
+            "pages": "63--72"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Marcello Missiroli",
+                "Daniel Russo",
+                "Paolo Ciancarini"
+            ],
+            "title": "Teaching Test-First Programming: Assessment and Solutions",
+            "year": 2017,
+            "publisher": "IEEE",
+            "booktitle": "Computer Software and Applications Conference (COMPSAC), 2017 IEEE 41st Annual",
+            "keywords": [
+                "Agile software development",
+                "Testing",
+                "Software engineering"
+            ],
+            "doi": "10.1109/COMPSAC.2017.229",
+            "isbn": "978-1-5386-0367-3",
+            "pages": "420--425"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Daniel Russo",
+                "Paolo Ciancarini"
+            ],
+            "title": "Towards Antifragile Software Architectures",
+            "year": 2017,
+            "journal": "PROCEDIA COMPUTER SCIENCE",
+            "volume": "109",
+            "keywords": [
+                "Complex Systems",
+                "Software Engineering",
+                "Antifragility",
+                "Software Architecture"
+            ],
+            "doi": "10.1016/j.procs.2017.05.426",
+            "pages": "929--934"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luigi Asprino"
+            ],
+            "title": "Addressing Knowledge Integration with a Frame-Driven Approach",
+            "year": 2017,
+            "volume": "10180",
+            "booktitle": "Proceedings of the 20th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2016) - Satellite Events",
+            "keywords": [
+                "Knowledge integration",
+                "Semantic Web",
+                "Frame Semantics"
+            ],
+            "doi": "10.1007/978-3-319-58694-6_32",
+            "isbn": "978-3-319-58694-6",
+            "pages": "205--210"
+        },
+        {
+            "type": "article",
+            "id": "11585/614498",
+            "author": [
+                "Ilaria Bartolini",
+                "Marco Patella"
+            ],
+            "title": "A general framework for real-time analysis of massive multimedia streams",
+            "year": 2017,
+            "journal": "MULTIMEDIA SYSTEMS",
+            "volume": "PP",
+            "keywords": [
+                "Massive Multimedia streams",
+                "Streams processing",
+                "Face detection/recognition",
+                "Big data platforms"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s00530-017-0566-5",
+            "doi": "10.1007/s00530-017-0566-5",
+            "pages": "1--16"
+        },
+        {
+            "type": "poster",
+            "id": "11585/589353",
+            "author": [
+                "Arnaud Ceol",
+                "Piero Montanari",
+                "Ilaria Bartolini",
+                "Paolo Ciaccia",
+                "Marco Patella",
+                "Stefano Ceri",
+                "Marco Masseroli"
+            ],
+            "title": "Advanced analysis in a genome browser: molecular interactions and pattern similarity search",
+            "year": 2017,
+            "address": "Barcelona",
+            "booktitle": "Proceeding of the 25th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2017)",
+            "keywords": [
+                "Genomic computing",
+                "genome browser",
+                "similarity search"
+            ],
+            "url": "https://www.iscb.org/cms_addon/conferences/ngs2017/posters.php"
+        },
+        {
+            "type": "conference",
+            "id": "11585/614496",
+            "author": [
+                "Ilaria Bartolini",
+                "Marco Patella"
+            ],
+            "title": "Comparing performances of big data stream processing platforms with RAM3S",
+            "year": 2017,
+            "publisher": "CEUR-WS",
+            "address": "Squillace Lido",
+            "volume": 2037,
+            "booktitle": "25th Italian Symposium on Advanced Database Systems, SEBD 2017",
+            "keywords": [
+                "Data platform",
+                "Data stream processing",
+                "Massive data streams",
+                "Stream processing",
+                "Big data"
+            ],
+            "pages": "137--145"
+        },
+        {
+            "type": "essay",
+            "id": "11585/614497",
+            "author": [
+                "Ilaria Bartolini"
+            ],
+            "title": "Image Querying",
+            "year": 2017,
+            "publisher": "Springer",
+            "address": "HEIDELBERG",
+            "booktitle": "Encyclopedia of Database Systems",
+            "keywords": [
+                "Image query processing"
+            ],
+            "doi": "10.1007/978-1-4899-7993-3_1440-2",
+            "isbn": "978-1-4899-7993-3",
+            "pages": "1--6"
+        },
+        {
+            "type": "conference",
+            "id": "11585/621067",
+            "author": [
+                "Ilaria Bartolini",
+                "Andrea Di Luzio"
+            ],
+            "title": "Towards Automatic Recognition of Narcolepsy with Cataplexy",
+            "year": 2017,
+            "publisher": "Association for Computing Machinery, Inc (ACM)",
+            "address": "Salzburg, Austria",
+            "booktitle": "Proceedings of the 15th International Conference on Advances in Mobile Computing & Multimedia",
+            "keywords": [
+                "Automatic video content analysis",
+                "Motor behaviour patterns",
+                "Mobile multimedia technologies"
+            ],
+            "url": "https://dl.acm.org/citation.cfm?id=3151875",
+            "doi": "10.1145/3151848.3151875",
+            "isbn": "978-1-4503-5300-7",
+            "pages": "97--101"
+        },
+        {
+            "type": "article",
+            "id": "11585/614499",
+            "author": [
+                "Ilaria Bartolini",
+                "Marco Patella"
+            ],
+            "title": "Windsurf: the best way to SURF: (and SIFT/BRISK/ORB/FREAK, too)",
+            "year": 2017,
+            "journal": "MULTIMEDIA SYSTEMS",
+            "volume": "PP",
+            "keywords": [
+                "Content-based image retrieval",
+                "Indexing; Salient point descriptors"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s00530-017-0567-4",
+            "doi": "10.1007/s00530-017-0567-4",
+            "pages": "1--18"
+        },
+        {
+            "type": "article",
+            "id": "11585/614520",
+            "author": [
+                "Gino Cattani",
+                "Simone Ferriani",
+                "Andrea Lanza"
+            ],
+            "title": "Deconstructing the Outsider Puzzle: The Legitimation Journey of Novelty",
+            "year": 2017,
+            "journal": "ORGANIZATION SCIENCE",
+            "volume": 28,
+            "keywords": [
+                "outsiders",
+                "insiders",
+                "jolts",
+                "audiences",
+                "agency",
+                "legitimacy",
+                "novelty field",
+                "historical study",
+                "longitude",
+                "John Harrison",
+                "chronometer"
+            ],
+            "url": "https://pubsonline.informs.org/doi/abs/10.1287/orsc.2017.1161",
+            "doi": "10.1287/orsc.2017.1161",
+            "pages": "965--992"
+        },
+        {
+            "type": "article",
+            "id": "11585/621026",
+            "author": [
+                "Franco Callegati",
+                "Saverio Giallorenzo",
+                "Andrea Melis",
+                "Marco Prandini"
+            ],
+            "title": "Cloud-of-Things meets Mobility-as-a-Service: An insider threat perspective",
+            "year": 2017,
+            "publisher": "Elsevier Ltd",
+            "volume": "in press",
+            "keywords": [
+                "Cloud-of-Things",
+                "Federated platforms",
+                "Insider threat",
+                "Internet-of-Things",
+                "Mobility-as-a-Service",
+                "Computer Science (all)",
+                "Law"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0167404817302134",
+            "doi": "10.1016/j.cose.2017.10.006",
+            "pages": "1--19"
+        },
+        {
+            "type": "article",
+            "id": "11585/588930",
+            "author": [
+                "Mila Dalla Preda",
+                "Maurizio Gabbrielli",
+                "Saverio Giallorenzo",
+                "Ivan Lanese",
+                "Jacopo Mauro"
+            ],
+            "title": "Dynamic Choreographies: Theory And Implementation",
+            "year": 2017,
+            "journal": "LOGICAL METHODS IN COMPUTER SCIENCE",
+            "volume": 13,
+            "keywords": [
+                "Computer Science - Programming Languages",
+                "Computer Science - Logic in Computer Science"
+            ],
+            "url": "https://lmcs.episciences.org/3263",
+            "doi": "10.23638/LMCS-13(2:1)2017",
+            "pages": "1--57"
+        },
+        {
+            "type": "conference",
+            "id": "11585/603632",
+            "author": [
+                "Franco Callegati",
+                "Saverio Giallorenzo",
+                "Andrea Melis",
+                "Marco Prandini"
+            ],
+            "title": "Insider Threats in Emerging Mobility-as-a-Service Scenarios",
+            "year": 2017,
+            "publisher": "AIS Electronic Library (AISeL)",
+            "address": "Hilton Waikoloa Village, Hawaii, USA",
+            "booktitle": "Proceedings of 50th Hawaii International Conference on System Sciences, HICSS 2017",
+            "keywords": [
+                "Insider Threat",
+                "MaaS",
+                "Security"
+            ],
+            "url": "http://aisel.aisnet.org/hicss-50/",
+            "isbn": "978-0-9981331-0-2",
+            "pages": "1--12"
+        },
+        {
+            "type": "essay",
+            "id": "11585/695644",
+            "author": [
+                "Nicola Dragoni",
+                "Saverio Giallorenzo",
+                "Alberto Lluch-Lafuente",
+                "Manuel Mazzara",
+                "Fabrizio Montesi",
+                "Ruslan Mustafin",
+                "Larisa Safina"
+            ],
+            "title": "Microservices: Yesterday, Today, and Tomorrow",
+            "year": 2017,
+            "publisher": "Springer",
+            "address": "Cham",
+            "booktitle": "Present and Ulterior Software Engineering",
+            "keywords": [
+                "Microservices",
+                "Software Engineering",
+                "Software Architecture",
+                "Service-Oriented Architectures"
+            ],
+            "url": "https://doi.org/10.1007/978-3-319-67425-4_12",
+            "doi": "10.1007/978-3-319-67425-4_12",
+            "pages": "195--216"
+        },
+        {
+            "type": "essay",
+            "id": "11585/912512",
+            "author": [
+                "Saverio Giallorenzo",
+                "Ivano Lanese",
+                "Jacopo Mauro",
+                "Michele Gabbrielli"
+            ],
+            "title": "Programming adaptive microservice applications: An AIOCJ tutorial",
+            "year": 2017,
+            "publisher": "River Publishers",
+            "booktitle": "Behavioural Types: from Theory to Tools",
+            "keywords": [
+                "Automation & Control Systems",
+                "Computer Science",
+                "Artificial Intelligence Computer Science",
+                "Software Engineering",
+                "Model Checking"
+            ],
+            "url": "https://www.riverpublishers.com/research_details.php?book_id=439",
+            "doi": "10.13052/rp-9788793519817",
+            "isbn": "9788793519817",
+            "pages": "147--168"
+        },
+        {
+            "type": "conference",
+            "id": "11585/621028",
+            "author": [
+                "Franco Callegati",
+                "Maurizio Gabbrielli",
+                "Saverio Giallorenzo",
+                "Andrea Melis",
+                "Marco Prandini"
+            ],
+            "title": "Smart Mobility for All - A Global Federated Market for Mobility-as-a-Service Operators",
+            "year": 2017,
+            "publisher": "IEEE Computer Society",
+            "address": "Yokohama, Japan",
+            "booktitle": "2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC)",
+            "keywords": [
+                "Mobility-as-a-Service",
+                "Microservices",
+                "Federated Platforms"
+            ],
+            "isbn": "978-1-5386-1525-6",
+            "pages": "1018--1025"
+        },
+        {
+            "type": "article",
+            "id": "11585/882945",
+            "author": [
+                "Andrea Guizzardi",
+                "Francesco Pons",
+                "Elena Ranieri"
+            ],
+            "title": "Advance booking and hotel price variability online: Any opportunity for business customers?",
+            "year": 2017,
+            "journal": "INTERNATIONAL JOURNAL OF HOSPITALITY MANAGEMENT",
+            "volume": 64,
+            "keywords": [
+                "Price variability",
+                "Hotel competition",
+                "Best available rate (BAR)",
+                "Revenue management",
+                "Procurement strategies",
+                "Customer response"
+            ],
+            "doi": "10.1016/j.ijhm.2017.05.002",
+            "pages": "85--93"
+        },
+        {
+            "type": "article",
+            "id": "11585/578943",
+            "author": [
+                "Andrea Guizzardi",
+                "Annalisa Stacchini",
+                "Ercolino Ranieri"
+            ],
+            "title": "Best buy: what does it mean in corporate travel?",
+            "year": 2017,
+            "journal": "CURRENT ISSUES IN TOURISM",
+            "volume": 20,
+            "keywords": [
+                "flexibility cost",
+                "air fares",
+                "cost management",
+                "reservation changes",
+                "decision tree"
+            ],
+            "doi": "10.1080/13683500.2015.1133571",
+            "pages": "129--134"
+        },
+        {
+            "type": "article",
+            "id": "11585/565708",
+            "author": [
+                "Andrea Guizzardi",
+                "Annalisa Stacchini"
+            ],
+            "title": "Destinations strategic groups via Multivariate Competition-based IPA",
+            "year": 2017,
+            "journal": "TOURISM MANAGEMENT",
+            "volume": 58,
+            "keywords": [
+                "Destinations' competitiveness",
+                "Strategic groups",
+                "Multivariate clustering"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0261517716301820",
+            "doi": "10.1016/j.tourman.2016.10.004",
+            "pages": "40--50"
+        },
+        {
+            "type": "article",
+            "id": "11585/588850",
+            "author": [
+                "Marcello Maria Mariani",
+                "Andrea Guizzardi"
+            ],
+            "title": "Environmental Impacts and Certification: Evidence from the Milan World Expo 2015",
+            "year": 2017,
+            "journal": "INTERNATIONAL JOURNAL OF CONTEMPORARY HOSPITALITY MANAGEMENT",
+            "volume": 29,
+            "keywords": [
+                "Mega-event",
+                "Expo 2015",
+                "environmental certification",
+                "environmental impacts",
+                "resident attitude"
+            ],
+            "doi": "10.1108/IJCHM-09-2015-0491",
+            "pages": "1052--1071"
+        },
+        {
+            "type": "article",
+            "id": "11585/846117",
+            "author": [
+                "Andrea Guizzardi",
+                "Alessandra Stacchini"
+            ],
+            "title": "Inbound Tourists in Italy: An Analysis of Individual Satisfaction in the Main Italian Destinations",
+            "year": 2017,
+            "journal": "ALMATOURISM",
+            "volume": 8,
+            "keywords": [
+                "Tourist satisfaction",
+                "Italian Destinations",
+                "Tourist Expenditure",
+                "Length of Stay",
+                "Inbound Market"
+            ],
+            "url": "https://almatourism.unibo.it/article/view/6769",
+            "doi": "10.6092/issn.2036-5195/6769",
+            "pages": "198--216"
+        },
+        {
+            "type": "conference",
+            "id": "11585/619647",
+            "author": [
+                "Alessandro Petraro",
+                "Federico Caselli",
+                "Michela Milano",
+                "Marco Lippi"
+            ],
+            "title": "Driving behaviour clustering for realistic traffic micro-simulators",
+            "year": 2017,
+            "publisher": "European Council for Modelling and Simulation",
+            "address": "hun",
+            "booktitle": "Proceedings - 31st European Conference on Modelling and Simulation, ECMS 2017",
+            "keywords": [
+                "Agent-based modelling",
+                "Clustering Algorithms",
+                "Traffic Micro Simulators",
+                "Modeling and Simulation"
+            ],
+            "doi": "10.7148/2017-0018",
+            "isbn": "9780993244049",
+            "pages": "18--24"
+        },
+        {
+            "type": "article",
+            "id": "11585/583559",
+            "author": [
+                "Michele Lombardi",
+                "Michela Milano",
+                "Andrea Bartolini"
+            ],
+            "title": "Empirical decision model learning",
+            "year": 2017,
+            "journal": "ARTIFICIAL INTELLIGENCE",
+            "volume": "244",
+            "keywords": [
+                "Artificial neural networks",
+                "Combinatorial optimization",
+                "Complex systems",
+                "Constraint programming",
+                "Decision trees",
+                "Local search",
+                "Machine Learning",
+                "Mixed integer non-linear programming",
+                "SAT modulo theories",
+                "Language and Linguistics",
+                "Linguistics and Language",
+                "Artificial Intelligence"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0004370216000126",
+            "doi": "10.1016/j.artint.2016.01.005",
+            "pages": "343--367"
+        },
+        {
+            "type": "conference",
+            "id": "11585/611492",
+            "author": [
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano",
+                "Alberto Borghetti"
+            ],
+            "title": "Robust Optimization for Virtual Power Plants",
+            "year": 2017,
+            "address": "Bari, Italy",
+            "booktitle": "Proceedings of AI*IA 2017",
+            "keywords": [
+                "Stochastic",
+                "Optimization",
+                "Energy Systems"
+            ],
+            "doi": "10.1007/978-3-319-70169-1_2",
+            "isbn": [
+                "978-3-319-70168-4",
+                "978-3-319-70169-1"
+            ],
+            "pages": "17--30"
+        },
+        {
+            "type": "article",
+            "id": "11585/614083",
+            "author": [
+                "Federico Chesani",
+                "Paola Mello",
+                "Michela Milano"
+            ],
+            "title": "Solving Mathematical Puzzles: A Challenging Competition for AI",
+            "year": 2017,
+            "journal": "AI MAGAZINE",
+            "volume": 38,
+            "keywords": [
+                "Artificial Intelligence",
+                "mathematical puzzles",
+                "challenge"
+            ],
+            "url": "https://doi.org/10.1609/aimag.v38i3.2736",
+            "doi": "10.1609/aimag.v38i3.2736",
+            "pages": "83--96"
+        },
+        {
+            "type": "conference",
+            "id": "11585/586807",
+            "author": [
+                "Francesco Chesani",
+                "Paolo Mello",
+                "Michela Milano"
+            ],
+            "title": "Solving mathematical puzzles: A deep reasoning challenge. Position Paper",
+            "year": 2017,
+            "address": "Genova, Italy",
+            "booktitle": "2016 AI*IA Workshop on Deep Understanding and Reasoning: A Challenge for Next-Generation Intelligent Agents, URANIA 2016",
+            "volume": 1802,
+            "keywords": [
+                "Artificial intelligence",
+                "Deep reasoning",
+                "Mathematical puzzle"
+            ],
+            "url": "http://ceur-ws.org/Vol-1802/",
+            "pages": "44--49"
+        },
+        {
+            "type": "conference",
+            "id": "11585/60927",
+            "author": [
+                "Marco Salvaro",
+                "Valentina Kartsch",
+                "Stefano Benatti",
+                "Michela Milano",
+                "Luca Benini"
+            ],
+            "title": "Towards a Novel HMI Paradigm Based on Mixed EEG and Indoor Localization Platforms",
+            "year": 2017,
+            "publisher": "The Institute of Electrical and Electronics Engineers",
+            "address": "Genova, Italy",
+            "booktitle": "2017 First New Generation of CAS NGCAS 2017, Proceedings",
+            "keywords": [
+                "EEG",
+                "Indoor location",
+                "HMI",
+                "wearable",
+                "android"
+            ],
+            "url": "https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8049744",
+            "doi": "10.1109/NGCAS.2017.74",
+            "isbn": "978-1-5090-6447-2",
+            "pages": "217--220"
+        },
+        {
+            "type": "article",
+            "id": "11585/611490",
+            "author": [
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
+            ],
+            "title": "User-aware electricity price optimization for the competitive market",
+            "year": 2017,
+            "journal": "ENERGIES",
+            "volume": "10",
+            "keywords": [
+                "Business model definition",
+                "Customer behavior modeling",
+                "Electricity tariff optimization",
+                "Computer Science (all)"
+            ],
+            "url": "https://www.mdpi.com/1996-1073/10/9/1378",
+            "doi": "10.3390/en10091378",
+            "pages": "1--23"
+        },
+        {
+            "type": "article",
+            "id": "11585/714992",
+            "author": [
+                "Marco Bee",
+                "Luca Trapin",
+                "Massimo Riccaboni"
+            ],
+            "title": "An extreme value analysis of the last century crises across industries in the US economy",
+            "year": 2017,
+            "journal": "JOURNAL OF ECONOMIC DYNAMICS & CONTROL",
+            "volume": "81",
+            "keywords": [
+                "Financial crisis",
+                "Extreme value theory",
+                "Change-points detection",
+                "U.S. economy"
+            ],
+            "doi": "10.1016/j.jedc.2017.01.012",
+            "pages": "65--78"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "[recensione a] R. Ruggiero, Machiavelli e la crisi dell'analogia, Bologna, Il Mulino, 2015",
+            "year": 2017,
+            "journal": "FILOLOGIA E CRITICA",
+            "volume": "XLII/2017",
+            "keywords": [
+                "Machiavelli",
+                "guerre d'Italia",
+                "Rinascimento"
+            ],
+            "pages": "171-173"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "Archivi di persona in Linked Open Data. Il modello concettuale come strumento di integrazione nei GLAMs",
+            "year": 2017,
+            "journal": "AIB STUDI",
+            "volume": 57,
+            "keywords": [
+                "ontologies",
+                "linked open data",
+                "personal archives",
+                "integration",
+                "heterogeneity"
+            ],
+            "url": "https://aibstudi.aib.it/article/view/11647/11002",
+            "doi": "10.2426/aibstudi-11647",
+            "pages": "283-310",
+            "number": 2
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Ivano Dionigi",
+                "Francesco Citti",
+                "Federico Condello",
+                "Elisa Dal Chiele",
+                "Lucia Pasetti",
+                "Daniele Pellacani",
+                "Bruna Pieri",
+                "Francesca Tomasi",
+                "Antonio Ziosi",
+                "Camillo Neri"
+            ],
+            "title": "La felicit\u00e0",
+            "year": 2017,
+            "id": "https://hdl.handle.net/11585/604905",
+            "keywords": [
+                "Emozioni",
+                "Piacere",
+                "divertimento",
+                "felicit\u00e0",
+                "gioia",
+                "estasi",
+                "letteratura biblica",
+                "letteratura greca",
+                "letteratura latina"
+            ],
+            "pages": "1-200"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi",
+                "Marilena Daquino"
+            ],
+            "title": "La Fototeca Zeri in Linked Open Data",
+            "year": 2017,
+            "journal": "AIB STUDI",
+            "volume": 57,
+            "keywords": [
+                "Linked Open Data",
+                "Photo Archive",
+                "Ontology development"
+            ],
+            "url": "http://aibstudi.aib.it/article/view/11569",
+            "pages": "109-112",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "La preservazione del contenuto degli oggetti culturali: formalizzare la provenance",
+            "year": 2017,
+            "journal": "BIBLIOTHECAE.IT",
+            "volume": 6,
+            "keywords": [
+                "Ontologie",
+                "preservazione",
+                "provenienza",
+                "atto interpretativo"
+            ],
+            "url": "https://bibliothecae.unibo.it/article/view/7531",
+            "doi": "10.6092/issn.2283-9364/7531",
+            "pages": "17-40",
+            "number": 2
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi",
+                "Marilena Daquino"
+            ],
+            "title": "Linked Cultural Objects: dagli standard di catalogazione ai modelli per il web of data. Spunti di riflessione dalla Fototeca Zeri",
+            "year": 2017,
+            "journal": "UMANISTICA DIGITALE",
+            "volume": 1,
+            "keywords": [
+                "Archives",
+                "CIDOC-CRM",
+                "FRBR",
+                "Fotografia",
+                "Ontologies",
+                "Semantic Web"
+            ],
+            "doi": "10.6092/issn.2532-8816/7195",
+            "pages": "29-43"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "L'informazione digitale e il Web semantico. Il caso delle scholarly digital editions",
+            "year": 2017,
+            "keywords": [
+                "rappresentazione dati",
+                "web semantico",
+                "linked open data",
+                "Philology",
+                "lettere",
+                "Vespasiano da Bisticci"
+            ],
+            "pages": "157-174"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Giovanni Colavizza",
+                "Klaus W. Boyack",
+                "Niels J. Van Eck",
+                "Ludo Waltman"
+            ],
+            "title": "Exploring the similarity of articles co-cited at different levels",
+            "year": 2017,
+            "keywords": [
+                "Citation and co-citation analysis; Natural language processing"
+            ],
+            "pages": "549-560"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Klaus W. Boyack",
+                "Niels J. Van Eck",
+                "Giovanni Colavizza",
+                "Ludo Waltman"
+            ],
+            "title": "Reference behavior in the full text of scientific articles: A large-scale analysis",
+            "year": 2017,
+            "keywords": [
+                "Analysis of full text; Databases and electronic publications; Journals"
+            ],
+            "pages": "787-798"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Giovanni Colavizza"
+            ],
+            "title": "The structural role of the core literature in history",
+            "year": 2017,
+            "journal": "SCIENTOMETRICS",
+            "volume": 113,
+            "keywords": [
+                "Bibliographic coupling; Core literature; History; Humanities; Intellectual landscapes; Network connectivity"
+            ],
+            "doi": "10.1007/s11192-017-2550-4",
+            "pages": "1787-1809",
+            "number": 3
+        },
+        {
+            "type": "article",
+            "author": [
+                "Massimiliano Franceschet",
+                "Giovanni Colavizza"
+            ],
+            "title": "TimeRank: A dynamic approach to rate scholars using citations",
+            "year": 2017,
+            "journal": "JOURNAL OF INFORMETRICS",
+            "volume": 11,
+            "keywords": [
+                "Bibliometric indicators; Citation timing; Dynamic networks; Elo system; Ranking of scholars"
+            ],
+            "doi": "10.1016/j.joi.2017.09.003",
+            "pages": "1128-1141",
+            "number": 4
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Marilena Daquino",
+                "Enrico Daga",
+                "Mathieu d'Aquin",
+                "Aldo Gangemi",
+                "Simon Holland",
+                "Robin Laney",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Paul Mulholland"
+            ],
+            "title": "Characterizing the Landscape of Musical Data on the Web: state of the art and challenges",
+            "year": 2017,
+            "keywords": [
+                "Online catalogue",
+                "Music data",
+                "Linked Open Data"
+            ],
+            "pages": "57-68"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Marilena Daquino"
+            ],
+            "title": "Le professioni del lavoro digitale",
+            "year": 2017,
+            "keywords": [
+                "Lavoro digitale",
+                "digital skills",
+                "digital humanities"
+            ],
+            "pages": "107-122"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Anastasia Dimou",
+                "Sahar Vahdati",
+                "Angelo Di Iorio",
+                "Christoph Lange",
+                "Ruben Verborgh",
+                "Erik Mannens"
+            ],
+            "title": "Challenges as enablers for high quality linked data: Insights from the semantic publishing challenge",
+            "year": 2017,
+            "journal": "PEERJ. COMPUTER SCIENCE.",
+            "volume": 2017,
+            "keywords": [
+                "Challenge; Linked Data; Linked Data publishing; Semantic Publishing; Semantic Web; Survey; Computer Science (all)"
+            ],
+            "url": "https://peerj.com/articles/cs-105/",
+            "doi": "10.7717/peerj-cs.105",
+            "pages": "1-47",
+            "number": 1
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Gianmarco Spinaci",
+                "Silvio Peroni",
+                "Angelo Di Iorio",
+                "Francesco Poggi",
+                "Fabio Vitali"
+            ],
+            "title": "The rash javascript editor (raje): A wordprocessor for writing web-first scholarly articles",
+            "year": 2017,
+            "keywords": [
+                "HTML-based scholarly articles; RAJE; RASH; RASH framework; Research Article in Simplified HTML; Research communication; Web-first format; Software; Information Systems; Computer Science Applications; Computer Vision and Pattern Recognition"
+            ],
+            "doi": "10.1145/3103010.3103018",
+            "pages": "85-94"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luigi Asprino",
+                "Valentina Presutti",
+                "Aldo Gangemi",
+                "Paolo Ciancarini"
+            ],
+            "title": "Frame-Based Ontology Alignment",
+            "year": 2017,
+            "keywords": [
+                "Artificial Intelligence",
+                "Natural Language Processing",
+                "Web semantics"
+            ],
+            "pages": "4905-4906"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Mero\u00f1o-Pe\u00f1uela, A",
+                "Hoekstra, R",
+                "Aldo Gangemi",
+                "Bloem, P",
+                "de Valk, R",
+                "Stringer, B",
+                "Janssen, B",
+                "de Boer, V",
+                "Allik, A",
+                "Schlobach, S"
+            ],
+            "title": "The MIDI Linked Data Cloud",
+            "year": 2017,
+            "keywords": [
+                "Linked data",
+                "MIDI",
+                "Music interoperability"
+            ],
+            "doi": "10.1007/978-3-319-68204-4_16",
+            "pages": "156-164"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Aldo Gangemi",
+                "Silvio Peroni",
+                "David M. Shotton",
+                "Fabio Vitali"
+            ],
+            "title": "The Publishing Workflow Ontology (PWO)",
+            "year": 2017,
+            "journal": "SEMANTIC WEB",
+            "volume": 8,
+            "keywords": [
+                "ODP; publishing process; PWO; workflow description; Information Systems; Computer Science Applications; Computer Vision and Pattern Recognition; Computer Networks and Communications"
+            ],
+            "doi": "10.3233/SW-160230",
+            "pages": "703-718",
+            "number": 5
+        },
+        {
+            "type": "article",
+            "author": [
+                "PAOLA MARIA CARMELA,"
+            ],
+            "title": "Carte geo-grafiche. Prosatori al lavoro",
+            "year": 2017,
+            "journal": "AUTOGRAFO",
+            "volume": 57,
+            "keywords": [
+                "Autografi",
+                "manoscritti",
+                "Authorial Philology",
+                "critica genetica",
+                "Ariosto",
+                "Gadda",
+                "Manzoni",
+                "Bassani"
+            ],
+            "pages": "23-37",
+            "number": "xxv"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Come lavorava Gadda",
+            "year": 2017,
+            "keywords": [
+                "Authorial Philology",
+                "Letteratura italiana",
+                "Letteratura moderna e contemporanea",
+                "Italian Philology",
+                "Carlo Emilio Gadda",
+                "manoscritti",
+                "varianti d'autore",
+                "critica delle varianti"
+            ],
+            "pages": "0-144"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Mariano Flammini",
+                "Claudia Bonsi",
+                "Chiara Ciano",
+                "Valeria Giliberti",
+                "Emanuele Pontecorvo",
+                "Paola Maria Carmela Italia",
+                "Eugenio Delre",
+                "Michele Ortolani"
+            ],
+            "title": "Confocal Terahertz Imaging of Ancient Manuscripts",
+            "year": 2017,
+            "journal": "JOURNAL OF INFRARED, MILLIMETER, AND TERAHERTZ WAVES",
+            "volume": 38,
+            "keywords": [
+                "Confocal microscopy; Diffraction limit; Ink; Paper; Schottky diode detector; Terahertz; Radiation; Instrumentation; Condensed Matter Physics; Electrical and Electronic Engineering"
+            ],
+            "url": "http://www.springer.com/engineering/electronics/journal/10762",
+            "doi": "10.1007/s10762-016-0338-x",
+            "pages": "435-442",
+            "number": 4
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Filologia editoriale e canone. Testi, Collane, Opere in raccolta dalla carta al digitale",
+            "year": 2017,
+            "journal": "PRASSI ECDOTICHE DELLA MODERNIT\u00c0 LETTERARIA",
+            "volume": 2,
+            "keywords": [
+                "Filologia editoriale; edizioni critiche; edizioni critiche digitali; testi in raccolta; opere complete"
+            ],
+            "url": "https://riviste.unimi.it/index.php/PEML/article/view/8918",
+            "doi": "10.13130/2499-6637/8918",
+            "pages": "1-18"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Il lettore di Bassani e il \u201ccaso Deliliers\u201d",
+            "year": 2017,
+            "keywords": [
+                "Letteratura italiana",
+                "Letteratura moderna e contemporanea",
+                "Giorgio Bassani",
+                "Filologia editoriale"
+            ],
+            "pages": "75-85"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Per un'ecdotica dei carteggi",
+            "year": 2017,
+            "journal": "PARAGONE. LETTERATURA",
+            "volume": "n. 129-130-131",
+            "keywords": [
+                "Epistolari",
+                "Lettere",
+                "Carteggi",
+                "Giacomo Leopardi",
+                "Ecdotica"
+            ],
+            "pages": "39-46"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Rec. a Carlo Alberto Chiesa, Un mestiere semplice. Ricordi di un libraio antiquario, Milano, Officina Libraria, 2016 (\u201cSine Titulo\u201d, n. 2)",
+            "year": 2017,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": "n. 67",
+            "keywords": [
+                "Bibliofilia",
+                "Antiquaria",
+                "Philology"
+            ],
+            "pages": "81-86"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Recensione a L'Eterno accade, L'officina letteraria di Luigi Fallacara",
+            "year": 2017,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": "n. 66 (gennaio-aprile 2017)",
+            "keywords": [
+                "Letteratura Italiana",
+                "Letteratura Moderna e Contemporanea",
+                "Luigi Fallacara",
+                "Italian Philology",
+                "Authorial Philology"
+            ],
+            "pages": "79-84"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Recensione a Peter Shillingsburg, Textuality and knowledge, The Pennsylvania State University Press, University Park, Pennsylvania, USA, 2017, pp. 240.",
+            "year": 2017,
+            "journal": "ECDOTICA",
+            "volume": 14,
+            "keywords": [
+                "Textual Studies",
+                "Digital Humanities",
+                "Scholarly Editions",
+                "Ecdotica"
+            ],
+            "pages": "208-218"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Arianna Rossi",
+                "Monica Palmirani"
+            ],
+            "title": "A Visualization Approach for Adaptive Consent in the European Data Protection Framework",
+            "year": 2017,
+            "keywords": [
+                "Privacy",
+                "privacy policies",
+                "data protection",
+                "visualization",
+                "icons",
+                "GDPR",
+                "transparency",
+                "informed consent",
+                "usability",
+                "legal design"
+            ],
+            "url": "http://conferences.computer.org/cedem/2017/papers/6719a159.pdf",
+            "doi": "10.1109/CeDEM.2017.23",
+            "pages": "159-170"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Martynas Mockus",
+                "Monica Palmirani"
+            ],
+            "title": "Legal Ontology for Open Government Data Mashups",
+            "year": 2017,
+            "keywords": [
+                "open government data mash-up",
+                "licensing of open government data",
+                "legal ontology"
+            ],
+            "url": "http://conferences.computer.org/cedem/2017/papers/6719a113.pdf",
+            "pages": "1-12"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Tommaso Agnoloni",
+                "Lorenzo Bacci",
+                "Ginevra Peruginelli",
+                "Marc van Opijnen",
+                "Jos van den Oever",
+                "Monica Palmirani",
+                "Luca Cervone",
+                "Octavian Bujor",
+                "Arantxa Arsuaga Lecuona",
+                "Alberto Boada Garcia",
+                "Luigi Di Caro",
+                "Giovanni Siragusa"
+            ],
+            "title": "Linking European Case Law: BO-ECLI Parser, an Open Framework for the Automatic Extraction of Legal Links",
+            "year": 2017,
+            "volume": 302,
+            "keywords": [
+                "natural language processing",
+                "Natural Language Processing",
+                "legal references",
+                "case law databases",
+                "linked open data"
+            ],
+            "url": "http://ebooks.iospress.nl/volumearticle/48052",
+            "doi": "10.3233/978-1-61499-838-9-113",
+            "pages": "113-118"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Marc van Opijnen",
+                "Ginevra Peruginelli",
+                "Eleni Kefali",
+                "Monica Palmirani"
+            ],
+            "title": "Online Publication of Court Decisions in Europe",
+            "year": 2017,
+            "journal": "LEGAL INFORMATION MANAGEMENT",
+            "volume": 17,
+            "keywords": [
+                "court cases",
+                "court decisions",
+                "electronic publishing",
+                "data protection",
+                "Open Data",
+                "European Union"
+            ],
+            "url": "https://ec.europa.eu/justice/grants1/calls/just_2014_jacc_ag_e-ju_en.htm",
+            "doi": "10.1017/S1472669617000299",
+            "pages": "136-145",
+            "number": 3
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Marc van Opijnen",
+                "Monica Palmirani",
+                "Fabio Vitali",
+                "Tommaso Agnoloni"
+            ],
+            "title": "Towards ECLI 2.0",
+            "year": 2017,
+            "volume": "P6082",
+            "keywords": [
+                "European Case Law Identifier",
+                "Legal Semantic Web",
+                "Judicial Transparency",
+                "Open Data"
+            ],
+            "url": "http://conferences.computer.org/cedem/2017/papers/6719a135.pdf",
+            "pages": "1-9"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Silvio Peroni",
+                "Monica Palmirani",
+                "Fabio Vitali"
+            ],
+            "title": "UNDO: The United Nations system document ontology",
+            "year": 2017,
+            "journal": "LECTURE NOTES IN COMPUTER SCIENCE",
+            "volume": 10588,
+            "keywords": [
+                "Akoma ntoso",
+                "Judicial documents",
+                "Normative documents",
+                "OWL 2 DL",
+                "Parliamentary documents",
+                "UNDO",
+                "United Nations",
+                "Theoretical Computer Science",
+                "Computer Science (all)"
+            ],
+            "url": "http://springerlink.com/content/0302-9743/copyright/2005/",
+            "doi": "10.1007/978-3-319-68204-4_18",
+            "pages": "175-183"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Silvio Peroni"
+            ],
+            "title": "A simplified agile methodology for ontology development",
+            "year": 2017,
+            "volume": 10161,
+            "keywords": [
+                "Agile ontology development methodology",
+                "Conceptual modelling",
+                "Knowledge engineering",
+                "Ontology engineering",
+                "OWL Ontologies",
+                "SAMOD",
+                "Test-driven development",
+                "Theoretical Computer Science",
+                "Computer Science (all)"
+            ],
+            "url": "http://springerlink.com/content/0302-9743/copyright/2005/",
+            "doi": "10.1007/978-3-319-54627-8_5",
+            "pages": "55-69"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Silvio Peroni"
+            ],
+            "title": "Automating semantic publishing",
+            "year": 2017,
+            "journal": "DATA SCIENCE",
+            "volume": 1,
+            "keywords": [
+                "Semantic Publishing"
+            ],
+            "doi": "10.3233/DS-170012",
+            "pages": "155-173",
+            "number": "1-2"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Silvio Peroni",
+                "David M. Shotton",
+                "Fabio Vitali"
+            ],
+            "title": "Building Citation Networks with SPACIN",
+            "year": 2017,
+            "volume": 10180,
+            "keywords": [
+                "SPACIN",
+                "Open citations",
+                "Open citations Corpus",
+                "Semantic Publishing",
+                "citation data"
+            ],
+            "doi": "10.1007/978-3-319-58694-6_23",
+            "pages": "162-166"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Silvio Peroni",
+                "Fabio Vitali"
+            ],
+            "title": "Interfacing fast-fashion design industries with Semantic Web technologies: The case of Imperial Fashion",
+            "year": 2017,
+            "journal": "JOURNAL OF WEB SEMANTICS",
+            "volume": 44,
+            "keywords": [
+                "Data conversion",
+                "Data reengineering",
+                "Data visualisation",
+                "Fast-fashion design",
+                "Ontology",
+                "OWL",
+                "Semantic Web",
+                "Software",
+                "Human-Computer Interaction",
+                "Computer Networks and Communications"
+            ],
+            "url": "http://www.elsevier.com/inca/publications/store/6/7/1/3/2/2/index.htt",
+            "doi": "10.1016/j.websem.2017.06.001",
+            "pages": "37-53"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Silvio Peroni",
+                "David M. Shotton",
+                "Fabio Vitali"
+            ],
+            "title": "One year of the OpenCitations corpus: Releasing RDF-based scholarly citation data into the public domain",
+            "year": 2017,
+            "journal": "LECTURE NOTES IN COMPUTER SCIENCE",
+            "volume": 10588,
+            "keywords": [
+                "OCC",
+                "Open citation data",
+                "Open citations",
+                "Open citations corpus",
+                "Public domain",
+                "SPAR ontologies",
+                "Theoretical Computer Science",
+                "Computer Science (all)"
+            ],
+            "url": "http://springerlink.com/content/0302-9743/copyright/2005/",
+            "doi": "10.1007/978-3-319-68204-4_19",
+            "pages": "184-192"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Alejandra Gonzalez-Beltran",
+                "Francesco Osborne",
+                "Silvio Peroni",
+                "Sahar Vahdati"
+            ],
+            "title": "SAVE-SD 2017: Third Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data",
+            "year": 2017,
+            "keywords": [
+                "scholarly data",
+                "semantics",
+                "analytics",
+                "visualization"
+            ],
+            "url": "http://doi.acm.org/10.1145/3041021.3055257",
+            "doi": "10.1145/3041021.3055257",
+            "pages": "1681-1682"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Alejandra Gonzalez-Beltran",
+                "Francesco Osborne",
+                "Silvio Peroni"
+            ],
+            "title": "Semantics, Analytics, Visualization. Enhancing Scholarly Data",
+            "year": 2017,
+            "volume": 9792,
+            "keywords": [
+                "SAVE-SD",
+                "semantics",
+                "analytics",
+                "visualization",
+                "scholarly data"
+            ],
+            "doi": "10.1007/978-3-319-53637-8",
+            "pages": "1-153"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Silvia Mirri",
+                "Silvio Peroni",
+                "Paola Salomoni",
+                "Fabio Vitali",
+                "Vincenzo Rubano"
+            ],
+            "title": "Towards accessible graphs in HTML-based scientific articles",
+            "year": 2017,
+            "keywords": [
+                "Accessibility in education",
+                "Accessibility in scientific documents",
+                "Accessible graphs",
+                "RASH",
+                "Computer Networks and Communications",
+                "Computer Science Applications",
+                "Computer Vision and Pattern Recognition",
+                "Hardware and Architecture",
+                "Communication"
+            ],
+            "doi": "10.1109/CCNC.2017.7983287",
+            "pages": "1067-1072"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Michele Malavasi",
+                "Elisabetta Turri",
+                "Marco Roberto Motolese",
+                "Rainer Marxer",
+                "Jean Farwer",
+                "Henrik Christensen",
+                "Luca Desideri",
+                "Fabio Tamburini",
+                "Peter Green"
+            ],
+            "title": "An Innovative Speech-Based Interface to Control AAL and IoT Solutions to Help People with Speech and Motor Disability",
+            "year": 2017,
+            "volume": 426,
+            "keywords": [
+                "Voice recognition",
+                "Smarthome",
+                "Disability",
+                "Internet of things (IoT)",
+                "Environmental Control",
+                "Speech disability"
+            ],
+            "url": "http://www.springer.com/la/book/9783319542829",
+            "doi": "10.1007/978-3-319-54283-6_20",
+            "pages": "269-278"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Roberto Basili",
+                "Silvia Brambilla",
+                "Danilo Croce",
+                "Fabio Tamburini"
+            ],
+            "title": "Developing a Large Scale FrameNet for Italian: the IFrameNet Experience",
+            "year": 2017,
+            "keywords": [
+                "Lexical Resources",
+                "FrameNet",
+                "Italian",
+                "IFrameNet"
+            ],
+            "url": "http://ceur-ws.org/Vol-2006/paper079.pdf",
+            "pages": "59-64"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Daniela Beltrami",
+                "Gloria Gagliardi",
+                "Rema Rossini Favretti",
+                "Laura Calze",
+                "Fabio Tamburini",
+                "Enrico Ghidoni"
+            ],
+            "title": "Linguistic markers during spontaneous speech for detecting Mild Cognitive Impairment",
+            "year": 2017,
+            "journal": "ALZHEIMER'S & DEMENTIA",
+            "volume": 13,
+            "keywords": [
+                "Dementia",
+                "Mild Cognitive Impairment",
+                "linguistic markers"
+            ],
+            "doi": "10.1016/j.jalz.2017.06.509",
+            "pages": "479-479",
+            "number": 7
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Fabio Tamburini"
+            ],
+            "title": "Quali risorse usa (o crea) il linguista?",
+            "year": 2017,
+            "keywords": [
+                "corpora",
+                "dizionari",
+                "atlanti"
+            ],
+            "pages": "137-140"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Fabio Tamburini"
+            ],
+            "title": "Semgrex-Plus (v1.0)",
+            "year": 2017,
+            "keywords": [
+                "Parsing",
+                "Dependency Treebank",
+                "Dependency Rewriting Tool"
+            ],
+            "url": "https://github.com/ftamburin/Semgrex-Plus.git"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Fabio Tamburini"
+            ],
+            "title": "Semgrex-Plus: a Tool for Automatic Dependency-Graph Rewriting",
+            "year": 2017,
+            "keywords": [
+                "Parsing",
+                "Dependency Treebank",
+                "Dependency Rewriting"
+            ],
+            "url": "http://aclweb.org/anthology/W/W17/W17-6528.pdf",
+            "pages": "248-254"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Ilaria Basile",
+                "Fabio Tamburini"
+            ],
+            "title": "Towards Quantum Language Models",
+            "year": 2017,
+            "keywords": [
+                "Natural Language Processing",
+                "Stochastic Models",
+                "Quantum Probability Theory",
+                "Language Models"
+            ],
+            "url": "http://aclweb.org/anthology/D/D17/D17-1196.pdf",
+            "pages": "1841-1850"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Marilena Daquino",
+                "Francesca Mambelli",
+                "Silvio Peroni",
+                "Francesca Tomasi",
+                "Fabio Vitali"
+            ],
+            "title": "Enhancing Semantic Expressivity in the Cultural Heritage Domain: Exposing the Zeri Photo Archive as Linked Open Data",
+            "year": 2017,
+            "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
+            "volume": 10,
+            "keywords": [
+                "Information systems",
+                "Digital libraries and archives",
+                "Applied computing",
+                "Fine arts",
+                "Document metadata"
+            ],
+            "doi": "10.1145/3051487",
+            "pages": "1-21",
+            "number": 4
+        }
+    ]
+}

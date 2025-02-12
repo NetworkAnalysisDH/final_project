@@ -1,0 +1,2515 @@
+{
+    "publications": [
+        {
+            "type": "article",
+            "author": [
+                "Ivan Heibi",
+                "Silvio Peroni"
+            ],
+            "title": "A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield 1998 et al.'s case",
+            "year": 2021,
+            "journal": "SCIENTOMETRICS",
+            "volume": 126,
+            "keywords": [
+                "Citation analysis",
+                "Retraction",
+                "Science of Science",
+                "Topic modeling"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s11192-021-04097-5",
+            "doi": "10.1007/s11192-021-04097-5",
+            "pages": "8433--8470",
+            "number": 10
+        },
+        {
+            "type": "conference",
+            "id": "11585_809880",
+            "author": [
+                "Ivan Heibi",
+                "Silvio Peroni",
+                "Luca Pareschi",
+                "Paolo Ferri"
+            ],
+            "title": "MITAO: a tool for enabling scholars in the Humanities to use Topic Modelling in their studies",
+            "year": 2021,
+            "publisher": "Associazione per l\u2019Informatica Umanistica e la Cultura Digitale",
+            "address": "Firenze",
+            "booktitle": "AIUCD 2021 - DHs for society: e-quality, participation, rights and values in the Digital Age. Book of extended abstracts of the 10th national conference",
+            "keywords": [
+                "topic modelling",
+                "MITAO",
+                "tool"
+            ],
+            "url": [
+                "http://arxiv.org/abs/2011.13886",
+                "https://aiucd2021.labcd.unipi.it/en/home-english/"
+            ],
+            "isbn": "978-88-942535-5-9",
+            "pages": "175--182"
+        },
+        {
+            "type": "Book Chapter",
+            "author": [
+                "Valentina Anita Carriero",
+                "Aldo Gangemi",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti"
+            ],
+            "title": "An ontology design pattern for representing recurrent situations",
+            "year": 2021,
+            "publisher": "IOS Press",
+            "address": "Amsterdam",
+            "volume": "51",
+            "booktitle": "Advances in Pattern-Based Ontology Engineering",
+            "keywords": [
+                "Recurrent Situations"
+            ],
+            "url": "https://ebooks.iospress.nl/volumearticle/56702",
+            "doi": "10.3233/SSW210013",
+            "isbn": "9781643681757",
+            "pages": "166--182"
+        },
+        {
+            "type": "Journal Article",
+            "author": [
+                "Valentina Anita Carriero",
+                "Aldo Gangemi",
+                "Maria Letizia Mancinelli",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Chiara Veninata"
+            ],
+            "title": "Pattern-based design applied to cultural heritage knowledge graphs",
+            "year": 2021,
+            "journal": "SEMANTIC WEB",
+            "volume": "12",
+            "keywords": [
+                "Cultural heritage knowledge graph",
+                "ontology design patterns",
+                "ontology testing",
+                "ontology evaluation"
+            ],
+            "url": "https://content.iospress.com/articles/semantic-web/sw200422",
+            "doi": "10.3233/SW-200422",
+            "pages": "313--357",
+            "number": 2
+        },
+        {
+            "type": "article",
+            "author": [
+                "Erik Boetto",
+                "Maria Pia Fantini",
+                "Aldo Gangemi",
+                "Davide Golinelli",
+                "Manfredi Greco",
+                "Andrea Giovanni Nuzzolese",
+                "Valentina Presutti",
+                "Flavia Rallo"
+            ],
+            "title": "Using Altmetrics for Detecting Impactful Research in Quasi-zero-day Time-windows: the Case of COVID-19",
+            "year": 2021,
+            "journal": "SCIENTOMETRICS",
+            "volume": "126",
+            "keywords": [
+                "Altmetrics"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s11192-020-03809-7",
+            "doi": "10.1007/s11192-020-03809-7",
+            "pages": "1189--1215",
+            "number": "2"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luigi Asprino",
+                "Valentina Anita Carriero",
+                "Valentina Presutti"
+            ],
+            "title": "Extraction of common conceptual components from multiple ontologies",
+            "year": 2021,
+            "publisher": "Association for Computational Linguistics",
+            "address": "New York",
+            "booktitle": "Proceedings of the 11th on Knowledge Capture Conference",
+            "keywords": [
+                "ontology design patterns",
+                "conceptual components",
+                "empirical knowledge engineering",
+                "knowledge extraction",
+                "ontology usability"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3460210.3493542",
+            "doi": "10.1145/3460210.3493542",
+            "isbn": "9781450384575",
+            "pages": "185--192"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luigi Asprino",
+                "Valentina Anita Carriero",
+                "Christian Colonna",
+                "Valentina Presutti"
+            ],
+            "title": "OPLaX: Annotating ontology design patterns at conceptual and instance level",
+            "year": 2021,
+            "publisher": "CEUR-WS",
+            "volume": "3011",
+            "booktitle": "WOP 2021 - Workshop on Ontology Design and Patterns 2021",
+            "keywords": [
+                "Conceptual components",
+                "Linked data visualization",
+                "Ontology design patterns",
+                "Pattern instances",
+                "Patterns annotation"
+            ],
+            "url": "https://ceur-ws.org/Vol-3011/",
+            "pages": "1--13"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Valentina Anita Carriero",
+                "Fiorela Ciroku",
+                "Jacopo de Berardinis",
+                "Delfina Sol Martinez Pandiani",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "Semantic Integration of MIR Datasets with the Polifonia Ontology Network",
+            "year": 2021,
+            "booktitle": "ISMIR Late Breaking Demo Session of the 22nd Int. Society for Music Information Retrieval Conference",
+            "keywords": [
+                "Semantic Web",
+                "Music Information Retrieval",
+                "Computational Musicology"
+            ],
+            "url": "https://archives.ismir.net/ismir2021/latebreaking/000020.pdf"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Mehwish Alam",
+                "Aldo Gangemi",
+                "Valentina Presutti",
+                "Diego Reforgiato Recupero"
+            ],
+            "title": "Semantic role labeling for knowledge graph extraction from text",
+            "year": 2021,
+            "journal": "PROGRESS IN ARTIFICIAL INTELLIGENCE",
+            "volume": "10",
+            "keywords": [
+                "Dependency parsing",
+                "Frame semantics",
+                "Framester",
+                "Role oriented knowledge graphs",
+                "Semantic role labeling"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s13748-021-00241-7",
+            "doi": "10.1007/s13748-021-00241-7",
+            "pages": "309--320",
+            "number": 3
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Sandra Costa"
+            ],
+            "title": "Davanti alla 'Trasfigurazione'. Spazi, allestimenti, atmosfere.",
+            "year": 2021,
+            "publisher": "BUP",
+            "address": "Bologna",
+            "booktitle": "Raffaello. Mito e percezione",
+            "keywords": [
+                "Raffaello",
+                "Museologia",
+                "Fruizione pubblica"
+            ],
+            "isbn": "978-88-6923-887-1",
+            "pages": "111--131"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Daniele Benati",
+                "Sonia Cavicchioli",
+                "Sandra Costa",
+                "Marzia Faietti"
+            ],
+            "title": "Raffaello. Mito e percezione",
+            "year": 2021,
+            "publisher": "BUP",
+            "address": "Bologna",
+            "volume": 10,
+            "keywords": [
+                "Raffaello",
+                "Storia dell'arte",
+                "Restauro",
+                "Raccolte d'arte"
+            ]
+        },
+        {
+            "type": "book",
+            "author": [
+                "Alison Clear",
+                "Allen Parrish",
+                "John Impagliazzo",
+                "Pearl Wang",
+                "Paolo Ciancarini",
+                "Ernesto Cuadros-Vargas",
+                "Stephen Frezza",
+                "Judith Gal-Ezer",
+                "Shingo Takada",
+                "Arnold Pears",
+                "Heikki Topi"
+            ],
+            "title": "Computing Curricula 2020",
+            "year": 2021,
+            "publisher": "ACM",
+            "address": "New York City",
+            "abstract": "A task force of fifty people from twenty countries, with a fifteen-member steering committee carrying",
+            "keywords": [
+                "Informatica"
+            ],
+            "url": "https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf",
+            "doi": "10.1145/3467967",
+            "isbn": "9781450390590",
+            "pages": "1--205"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Paolo Ciancarini",
+                "Marcello Missiroli",
+                "Simone Zani"
+            ],
+            "title": "Empirical Evaluation of Agile Teamwork",
+            "year": 2021,
+            "publisher": "Springer Science and Business Media Deutschland GmbH",
+            "volume": "1439",
+            "booktitle": "Communications in Computer and Information Science",
+            "keywords": [
+                "Agile",
+                "Essence",
+                "Teamwork quality"
+            ],
+            "doi": "10.1007/978-3-030-85347-1_11",
+            "isbn": "978-3-030-85347-1",
+            "pages": "141--155"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Giancarlo Succi",
+                "Sergey Masyagin",
+                "Vladimir Ivanov",
+                "Ilyuza Gizzatullina",
+                "Shokhista Ergasheva",
+                "Paolo Ciancarini"
+            ],
+            "title": "Empirical Research on Customer Communication Challenges in the Companies Adopting Agile Practices",
+            "year": 2021,
+            "volume": 2,
+            "booktitle": "Proceedings of the 23rd International Conference on Enterprise Information Systems - Volume 2: ICEIS",
+            "keywords": [
+                "software engineering"
+            ],
+            "url": "https://www.scitepress.org/Link.aspx?doi=10.5220/0010526401390150",
+            "doi": "10.5220/0010526401390150",
+            "isbn": "978-989-758-509-8",
+            "pages": "139--150"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Paolo Ciancarini",
+                "Matteo Farina",
+                "Sergey Masyagin",
+                "Giancarlo Succi",
+                "Svitlana Yermolaieva",
+                "Natalia Zagvozkina"
+            ],
+            "title": "Non Verbal Communication in Software Engineering - An Empirical Study",
+            "year": 2021,
+            "journal": "IEEE ACCESS",
+            "volume": 9,
+            "keywords": [
+                "empirical studies",
+                "non verbal communication",
+                "software development",
+                "Software engineering"
+            ],
+            "url": "https://ieeexplore.ieee.org/document/9416658",
+            "doi": "10.1109/ACCESS.2021.3075983",
+            "pages": "71942--71953"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Paolo Ciancarini",
+                "Marco Farina",
+                "Sergey Masyagin",
+                "Giancarlo Succi",
+                "Svitlana Yermolaieva",
+                "Natalia Zagvozkina"
+            ],
+            "title": "Root Causes Of Interaction Issues In Agile Software Development Teams - Status and Perspectives",
+            "year": 2021,
+            "publisher": "SpringerLink",
+            "volume": "2",
+            "booktitle": "Proceedings of the 2021 Future of Information and Communication Conference (FICC)",
+            "keywords": [
+                "Agile methodologies",
+                "Interaction issues",
+                "Team management"
+            ],
+            "url": "https://www.dropbox.com/s/jy4fb9vi23iuknl/Succi.C324.RootCausesOfInteractionIssuesInAgile.pdf?dl=0",
+            "doi": "10.1007/978-3-030-73103-8_74",
+            "isbn": "978-3-030-73103-8",
+            "pages": "1017--1036"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Andrea Cuzzocrea",
+                "Paolo Ciancarini"
+            ],
+            "title": "SeDaSOMA: A Framework for Supporting Serendipitous, Data-As-A-Service-Oriented, Open Big Data Management and Analytics",
+            "year": 2021,
+            "publisher": "Association for Computing Machinery",
+            "booktitle": "ACM International Conference Proceeding Series",
+            "keywords": [
+                "Big Data",
+                "Big Data Analytics",
+                "Big Data As a Service",
+                "Big Data Management",
+                "Open Big Data",
+                "Serendipitous Big Data Methodologies"
+            ],
+            "doi": "10.1145/3481646.3481647",
+            "isbn": "9781450390408",
+            "pages": "1--7"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Enrico Daga",
+                "Luigi Asprino",
+                "Paul Mulholland",
+                "Aldo Gangemi"
+            ],
+            "title": "Facade-X: an opinionated approach to SPARQL anything",
+            "year": 2021,
+            "booktitle": "Further with Knowledge Graphs",
+            "keywords": [
+                "SPARQL"
+            ],
+            "doi": "10.3233/SSW210035",
+            "pages": "58--73"
+        },
+        {
+            "type": "conference",
+            "id": "11585/899029",
+            "author": [
+                "Bruno Sartini",
+                "Marieke Van Erp",
+                "Aldo Gangemi"
+            ],
+            "title": "Marriage is a Peach and a Chalice: Modelling Cultural Symbolism on the Semantic Web",
+            "year": 2021,
+            "publisher": "Association for Computing Machinery, Inc",
+            "address": "US",
+            "booktitle": "K-CAP 2021 - Proceedings of the 11th Knowledge Capture Conference",
+            "keywords": [
+                "knowledge graph",
+                "linked data",
+                "Ontologies",
+                "semantic web",
+                "symbolism"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3460210.3493552",
+            "doi": "10.1145/3460210.3493552",
+            "isbn": "9781450384575",
+            "pages": "201--208"
+        },
+        {
+            "type": "poster",
+            "id": "11585/925539",
+            "author": [
+                "Bruno Sartini",
+                "Aldo Gangemi"
+            ],
+            "title": "Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures",
+            "year": 2021,
+            "address": "Pisa",
+            "booktitle": "Book of extended abstracts of the 10th national AIUCD conference. AIUCD, Pisa",
+            "keywords": [
+                "Symbolism",
+                "Knowledge Graphs",
+                "Cultural Heritage",
+                "Semantic Web"
+            ],
+            "pages": "576--580"
+        },
+        {
+            "type": "article",
+            "id": "1585/834976",
+            "author": [
+                "Dario Brancato",
+                "Milena Corbellini",
+                "Paola Maria Carmela Italia",
+                "Valentina Pasqual",
+                "Roberta Priore"
+            ],
+            "title": "VaSto: un\u2019edizione digitale interdisciplinare",
+            "year": 2021,
+            "journal": "MAGAZ\u00c8N",
+            "volume": 2,
+            "keywords": [
+                "Digital scholarly editing",
+                "Authorial philology",
+                "Censorship",
+                "Benedetto Varchi",
+                "Renaissance history",
+                "Italian Renaissance literature"
+            ],
+            "url": "https://edizionicafoscari.unive.it/it/edizioni4/riviste/magazen/2021/1/vasto-unedizione-digitale-interdisciplinare/",
+            "doi": "10.30687/mag/2724-3923/2021/03/006",
+            "pages": "139--169"
+        },
+        {
+            "type": "article",
+            "id": "11585/818671",
+            "author": [
+                "Ilaria Bartolini",
+                "Andrea Di Luzio"
+            ],
+            "title": "CAT-CAD: A Computer-Aided Diagnosis Tool for Cataplexy",
+            "year": 2021,
+            "journal": "COMPUTERS",
+            "volume": 10,
+            "keywords": [
+                "Automatic Video Content Analysis",
+                "Motor Behavior Patterns",
+                "Mobile Multimedia Technologies",
+                "Arti\ufb01cial Intelligence for e-health"
+            ],
+            "url": "https://www.mdpi.com/2073-431X/10/4/51",
+            "doi": "10.3390/computers10040051",
+            "pages": "1--29"
+        },
+        {
+            "type": "conference",
+            "id": "11585/838593",
+            "author": [
+                "Ilaria Bartolini",
+                "Andrea Di Luzio"
+            ],
+            "title": "Cataplexy Detection: Neurologists, You Are Not Alone!",
+            "year": 2021,
+            "publisher": "CEUR-WS",
+            "address": "Pizzo Calabro (VV), Italy",
+            "volume": 2994,
+            "booktitle": "SEBD 2021 - Italian Symposium on Advanced Database Systems",
+            "keywords": [
+                "Video-based classification of cataplexy",
+                "automatic video content analysis",
+                "motor behavior patterns",
+                "data analysis for health"
+            ],
+            "url": "http://ceur-ws.org/Vol-2994/",
+            "pages": "315--322"
+        },
+        {
+            "type": "conference",
+            "id": "11585/838601",
+            "author": [
+                "Nora Reyes",
+                "Richard Connor",
+                "Nils M. Kriege",
+                "Daniyal Kazempour",
+                "Ilaria Bartolini",
+                "Erich Schubert",
+                "Jian-Jia Chen"
+            ],
+            "title": "Similarity Search and Applications - 14th International Conference, SISAP 2021, Dortmund, Germany, September 29 - October 1, 2021, Proceedings",
+            "year": 2021,
+            "publisher": [
+                "Springer",
+                "Cham"
+            ],
+            "address": "deu",
+            "keywords": [
+                "artificial intelligence",
+                "clustering algorithms",
+                "computer networks",
+                "computer science",
+                "computer systems",
+                "computer vision",
+                "data mining",
+                "databases education engineering",
+                "image analysis",
+                "image processing",
+                "internet learning",
+                "Machine Learning",
+                "mathematics",
+                "pattern recognition",
+                "query languages",
+                "search engines",
+                "World Wide Web"
+            ],
+            "url": "https://link.springer.com/book/10.1007/978-3-030-89657-7",
+            "doi": "10.1007/978-3-030-89657-7",
+            "isbn": "978-3-030-89656-0",
+            "pages": "1--215"
+        },
+        {
+            "type": "article",
+            "id": "11585/840899",
+            "author": [
+                "Ilaria Bartolini",
+                "Marco Patella"
+            ],
+            "title": "The Metamorphosis (of RAM3S)",
+            "year": 2021,
+            "journal": "APPLIED SCIENCES",
+            "volume": 11,
+            "keywords": [
+                "Stream Processing",
+                "Real-Time Analysis",
+                "Big Data",
+                "multimedia data streams"
+            ],
+            "url": "https://www.mdpi.com/2076-3417/11/24/11584",
+            "doi": "10.3390/app112411584",
+            "pages": "1--19"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/821917",
+            "author": [
+                "Marcella Gola",
+                "Daniele Donati",
+                "Claudia Tubertini"
+            ],
+            "title": "Diritto e amministrazione della sanit\u00e0 - Approfondimenti a.a. 2019-2020. Il SSN alla prova dell'emergenza COVID-19. Profili problematici e prime riflessioni sull'anno della pandemia",
+            "year": 2021,
+            "publisher": "SP.I.S.A. \u2013 C.RI.F.S.P - Amsacta Unibo",
+            "address": "Bologna",
+            "keywords": [
+                "sistema sanitario",
+                "pandemia",
+                "diritto",
+                "pubblica amministrazione"
+            ],
+            "url": "http://www.spisa.unibo.it/corsi-post-lauream/master-in-diritto-sanitario/pubblicazioni-del-master-di-i-livello-in-diritto-sanitario",
+            "doi": "10.6092/unibo/amsacta/6628",
+            "isbn": "9788854970465",
+            "pages": "1--248"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/816030",
+            "author": [
+                "Marcella Gola",
+                "Daniele Donati",
+                "Claudia Tubertini"
+            ],
+            "title": "MASTER IN DIRITTO SANITARIO. Approfondimenti 2019/2020. IL SSN ALLA PROVA DELL\u2019EMERGENZA COVID-19 Profili problematici e prime riflessioni sull'anno della pandemia",
+            "year": 2021,
+            "publisher": "SP.I.S.A. \u2013 C.RI.F.S.P - Amsacta Unibo",
+            "address": "Bologna",
+            "keywords": [
+                "Amministrazione sanitaria",
+                "Emergenza sanitaria",
+                "Covid - 19"
+            ],
+            "url": "http://amsacta.unibo.it/6628/",
+            "doi": "10.6092/unibo/amsacta/6628",
+            "isbn": "9788854970465",
+            "pages": "1--248"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/851706",
+            "author": [
+                "Simone Ferriani",
+                "Gino Cattani",
+                "Stoyan Sgourev",
+                "Frederic Clement Godart"
+            ],
+            "title": "Aesthetics and Style in Strategy",
+            "year": 2021,
+            "publisher": "EMERALD GROUP PUBLISHING LTD",
+            "address": "Bingley, UK",
+            "volume": "42",
+            "keywords": [
+                "strategy",
+                "aesthetics",
+                "style",
+                "beauty",
+                "design",
+                "organizational perfomance"
+            ],
+            "url": "https://books.emeraldinsight.com/page/detail/Aesthetics-and-Style-in-Strategy/?k=9781800432376",
+            "isbn": "9781800432376",
+            "pages": "1--304"
+        },
+        {
+            "type": "article",
+            "id": "11585/831034",
+            "author": [
+                "Simone Ferriani",
+                "Gino Cattani"
+            ],
+            "title": "How Outsiders Become Game Changers",
+            "year": 2021,
+            "volume": "online",
+            "keywords": [
+                "outsider",
+                "innovation",
+                "entrepreneurship",
+                "leadership",
+                "change"
+            ],
+            "url": "https://hbr.org/2021/08/how-outsiders-become-game-changers",
+            "pages": "1--15"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/782355",
+            "author": [
+                "David Deichmann",
+                "Simone Ferriani",
+                "Gino Cattani"
+            ],
+            "title": "The Generation, Recognition and Legitimation of Novelty",
+            "year": 2021,
+            "publisher": "Emerald",
+            "address": "Bingley, UK",
+            "keywords": [
+                "novelty",
+                "recognition",
+                "legitimacy",
+                "audiences",
+                "innovation",
+                "creativity"
+            ],
+            "url": "https://books.emeraldinsight.com/page/detail/The-Generation-Recognition-and-Legitimation-of-NoveltyThe-Generation,-Recognition-and-Legitimation-of-Novelty/?k=9781801179980",
+            "isbn": "9781801179980",
+            "pages": "1--360"
+        },
+        {
+            "type": "conference",
+            "id": "11585/830892",
+            "author": [
+                "Saverio Giallorenzo",
+                "Francesco Montesi",
+                "Matteo Peressotti",
+                "Florian Rademacher",
+                "Stefan Sachweh"
+            ],
+            "title": "Jolie and LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices",
+            "year": 2021,
+            "publisher": "Springer Science and Business Media Deutschland GmbH",
+            "address": "Valletta, Malta",
+            "booktitle": "Coordination Models and Languages. COORDINATION 2021",
+            "volume": 12717,
+            "keywords": [
+                "Microservices",
+                "Programming Languages",
+                "Model-Driven Engineering"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-78142-2_17",
+            "doi": "10.1007/978-3-030-78142-2_17",
+            "pages": "276--284"
+        },
+        {
+            "type": "conference",
+            "id": "11585/830890",
+            "author": [
+                "Luca Bacchiani",
+                "Marco Bravetti",
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Ilaria Talevi",
+                "Giuseppe Zavattaro"
+            ],
+            "title": "Microservice Dynamic Architecture-Level Deployment Orchestration",
+            "year": 2021,
+            "publisher": "Springer Science and Business Media Deutschland GmbH",
+            "address": "Valletta, Malta",
+            "booktitle": "Coordination Models and Languages. COORDINATION 2021",
+            "volume": 12717,
+            "keywords": [
+                "Microservices",
+                "Deployment",
+                "Orchestration",
+                "Adaptation"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-78142-2_16",
+            "doi": "10.1007/978-3-030-78142-2_16",
+            "pages": "257--275"
+        },
+        {
+            "type": "conference",
+            "id": "11585/830888",
+            "author": [
+                "Saverio Giallorenzo",
+                "Fabrizio Montesi",
+                "Marco Peressotti",
+                "David Richter",
+                "Guido Salvaneschi",
+                "Pascal Weisenburger"
+            ],
+            "title": "Multiparty Languages: The Choreographic and Multitier Cases",
+            "year": 2021,
+            "publisher": "Schloss Dagstuhl",
+            "address": "Virtual",
+            "booktitle": "35th European Conference on Object-Oriented Programming, ECOOP 2021, July 11-17, 2021, Aarhus, Denmark (Virtual Conference)",
+            "volume": 194,
+            "keywords": [
+                "Distributed Programming",
+                "Choreography Programming",
+                "Multitier Programming"
+            ],
+            "url": "https://drops.dagstuhl.de/opus/volltexte/2021/14065/",
+            "doi": "10.4230/lipics.ecoop.2021.22",
+            "pages": "1--27"
+        },
+        {
+            "type": "article",
+            "id": "11585/830894",
+            "author": [
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Martin Gyde Poulsen",
+                "Filip Siroky"
+            ],
+            "title": "Virtualization Costs: Benchmarking Containers and Virtual Machines Against Bare-Metal",
+            "year": 2021,
+            "journal": "SN COMPUTER SCIENCE",
+            "volume": 2,
+            "keywords": [
+                "Virtualization",
+                "Benchmarking",
+                "Cloud deployment"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s42979-021-00781-8",
+            "doi": "10.1007/s42979-021-00781-8",
+            "pages": "1--20"
+        },
+        {
+            "type": "article",
+            "id": "11585/882946",
+            "author": [
+                "Andrea Guizzardi",
+                "Flavio Pons",
+                "Giovanni Angelini",
+                "Ercolino Ranieri"
+            ],
+            "title": "Big data from dynamic pricing: A smart approach to tourism demand forecasting",
+            "year": 2021,
+            "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+            "volume": 37,
+            "keywords": [
+                "Regional forecasting",
+                "Daily forecasting",
+                "Leading indicator",
+                "Advance booking",
+                "Dynamic pricing",
+                "Hotelier\u2019s expectations about tourism demand"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0169207020301825",
+            "doi": "10.1016/j.ijforecast.2020.11.006",
+            "pages": "1049--1060"
+        },
+        {
+            "type": "article",
+            "id": "11585/846235",
+            "author": [
+                "Andrea Guizzardi",
+                "Marco Mariani"
+            ],
+            "title": "Introducing the Dynamic Destination Satisfaction Method: An Analytical Tool to Track Tourism Destination Satisfaction Trends with Repeated Cross-sectional Data",
+            "year": 2021,
+            "journal": "JOURNAL OF TRAVEL RESEARCH",
+            "volume": 60,
+            "keywords": [
+                "attribute entropy",
+                "dynamic method",
+                "entropy-trend accuracy matrix",
+                "tourism destination; tourist satisfaction"
+            ],
+            "url": "htps://journals.sagepub.com/doi/10.1177/0047287520958205",
+            "doi": "10.1177/0047287520958205",
+            "pages": "965--980"
+        },
+        {
+            "type": "essay",
+            "id": "11585/843761",
+            "author": [
+                "Giulio Iovine",
+                "Carlotta Capuccino"
+            ],
+            "title": "P.Oxy. 3655. Dialogo filosofico (?)",
+            "year": 2021,
+            "publisher": "Olschki",
+            "booktitle": "Corpus dei Papiri Filosofici Greci e Latini (CPF), Testi e lessico nei papiri di cultura greca e latina, Parte II.1**: Frammenti Adespoti",
+            "keywords": [
+                "Ancient Philosophy",
+                "Papirology",
+                "Socrates",
+                "Socratic dialogue",
+                "Minor Socratics",
+                "Megaric school",
+                "Stilpon",
+                "Metrocles",
+                "Aristotle",
+                "Ethics",
+                "Literary Criticism"
+            ],
+            "isbn": "978 88 222 6810 5",
+            "pages": "184--193"
+        },
+        {
+            "type": "conference",
+            "id": "11585/822500",
+            "author": [
+                "Michele Lombardi",
+                "Federico Baldo",
+                "Andrea Borghesi",
+                "Michela Milano"
+            ],
+            "title": "An Analysis of Regularized Approaches for Constrained Machine Learning",
+            "year": 2021,
+            "publisher": "Springer",
+            "address": "Online",
+            "booktitle": "Trustworthy AI - Integrating Learning, Optimization and Reasoning. TAILOR 2020",
+            "keywords": [
+                "Machine Learning",
+                "Constrained Machine Learning",
+                "Regularization Methods"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-73959-1_11",
+            "doi": "10.1007/978-3-030-73959-1_11",
+            "isbn": [
+                "978-3-030-73958-4",
+                "978-3-030-73959-1"
+            ],
+            "pages": "112--119"
+        },
+        {
+            "type": "essay",
+            "id": "11585/995053",
+            "author": [
+                "Holger Helmberg",
+                "Francesco Lacalandra",
+                "Matthias Schmidt",
+                "Claudia Henriques",
+                "Alessandro De Filippo",
+                "Michele Lombardi",
+                "Michela Milano",
+                "Pierre Ezran",
+                "Yassine Haddad",
+                "Matthias Diekerhof",
+                "Mojtaba Madani"
+            ],
+            "title": "Finance, Regulations, Politics and Market Design",
+            "year": 2021,
+            "publisher": "Springer Nature",
+            "booktitle": "AIRO Springer Series",
+            "volume": "4",
+            "keywords": [
+                "Optimization Energy Efficiency"
+            ],
+            "doi": "10.1007/978-3-030-57442-0_4",
+            "isbn": [
+                "9783030574413",
+                "9783030574420"
+            ],
+            "pages": "59--75"
+        },
+        {
+            "type": "conference",
+            "id": "11585/861097",
+            "author": [
+                "Marco Silvestri",
+                "Michele Lombardi",
+                "Michele Milano"
+            ],
+            "title": "Injecting Domain Knowledge in Neural Networks: A Controlled Experiment on a Constrained Problem",
+            "year": 2021,
+            "publisher": "Springer Science and Business Media Deutschland GmbH",
+            "address": "Vienna, Austria",
+            "booktitle": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
+            "keywords": [
+                "Machine Learning",
+                "Constraints",
+                "Controlled Experiments"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-78230-6_17",
+            "doi": "10.1007/978-3-030-78230-6_17",
+            "isbn": [
+                "978-3-030-78229-0",
+                "978-3-030-78230-6"
+            ],
+            "pages": "266--282"
+        },
+        {
+            "type": "article",
+            "id": "11585/802158",
+            "author": [
+                "Allegra De Filippo",
+                "Michele Lombardi",
+                "Michela Milano"
+            ],
+            "title": "Integrated Offline and Online Decision Making under Uncertainty",
+            "year": 2021,
+            "journal": "THE JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH",
+            "volume": 70,
+            "keywords": [
+                "Offline Stochastic Optimization",
+                "Online Stochastic Optimization",
+                "Decision Making",
+                "Optimization Under Uncertainty"
+            ],
+            "url": "https://jair.org/index.php/jair/article/view/12333",
+            "doi": "10.1613/jair.1.12333",
+            "pages": "77--117"
+        },
+        {
+            "type": "essay",
+            "id": "11585/995054",
+            "author": [
+                "Markus Diekerhof",
+                "Andrea Monti",
+                "Elena Lebedeva",
+                "Andrzej H. Tkaczyk",
+                "Irem Yuksel-Ergun",
+                "Jannik Zittel",
+                "Luis F. Escudero",
+                "Alireza Soroudi",
+                "Christian Helmberg",
+                "Zoran Kanovic",
+                "Milan Petkovic",
+                "Francesco Lacalandra",
+                "Alessandra Frangioni",
+                "John Lee",
+                "Alessandro De Filippo",
+                "Marco Lombardi",
+                "Michela Milano",
+                "Paul Ezran",
+                "Yasmine Haddad"
+            ],
+            "title": "Production and Demand Management",
+            "year": 2021,
+            "publisher": "Springer Nature",
+            "booktitle": "AIRO Springer Series",
+            "volume": 4,
+            "keywords": [
+                "Optimization",
+                "Energy",
+                "Efficiency"
+            ],
+            "doi": "10.1007/978-3-030-57442-0_1",
+            "isbn": [
+                "9783030574413",
+                "9783030574420"
+            ],
+            "pages": "3--25"
+        },
+        {
+            "type": "conference",
+            "id": "11585/861099",
+            "author": [
+                "Fabrizio Detassis",
+                "Michele Lombardi",
+                "Michela Milano"
+            ],
+            "title": "Teaching the Old Dog New Tricks: Supervised Learning with Constraints",
+            "year": 2021,
+            "publisher": "{AAAI} Press",
+            "address": "Virtual",
+            "booktitle": "Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}2021, Thirty-Third Conference on Innovative Applications of Artificial Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9, 2021",
+            "volume": 35,
+            "keywords": [
+                "Machine Learning",
+                "Constraints",
+                "Optimization",
+                "Decomposition"
+            ],
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16491",
+            "pages": "3742--3749"
+        },
+        {
+            "type": "article",
+            "id": "11585/809107",
+            "author": [
+                "Julien Hambuckers",
+                "Marco Bee",
+                "Luca Trapin"
+            ],
+            "title": "Estimating large losses in insurance analytics and operational risk using the g-and-h distribution",
+            "year": 2021,
+            "journal": "QUANTITATIVE FINANCE",
+            "volume": "21",
+            "keywords": [
+                "Actuarial science",
+                "Advanced econometrics",
+                "Computational finance",
+                "Extreme risk and insurance",
+                "Tail analysis"
+            ],
+            "doi": "10.1080/14697688.2020.1849778",
+            "pages": "1207--1221"
+        },
+        {
+            "type": "article",
+            "id": "11585/790533",
+            "author": [
+                "Giuseppe Buccheri",
+                "Davide Pirino",
+                "Luca Trapin"
+            ],
+            "title": "Managing liquidity with portfolio staleness",
+            "year": 2021,
+            "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+            "volume": 44,
+            "keywords": [
+                "Portfolio liquidity",
+                "Investments",
+                "Price staleness",
+                "HAR"
+            ],
+            "doi": "10.1007/s10203-020-00300-z",
+            "pages": "215--239"
+        },
+        {
+            "type": "article",
+            "id": "11585/809125",
+            "author": [
+                "J. Hambuckers",
+                "F. Santi",
+                "Marco Bee",
+                "Luca Trapin"
+            ],
+            "title": "Testing a parameter restriction on the boundary for the g-and-h distribution: a simulated approach",
+            "year": 2021,
+            "journal": "COMPUTATIONAL STATISTICS",
+            "volume": 36,
+            "keywords": [
+                "Kurtosis",
+                "Likelihood ratio",
+                "Skewness",
+                "Value-at-risk"
+            ],
+            "url": "http://marcobee.weebly.com",
+            "doi": "10.1007/s00180-021-01078-3",
+            "pages": "2177--2200"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "[recensione a] Gianluca Genovese, Un centro del Rinascimento meridionale. Il palazzo napoletano di Tommaso Cambi, Filologia e Critica, 2019, XLIV, pp. 236-251",
+            "year": 2021,
+            "journal": "LA RASSEGNA DELLA LETTERATURA ITALIANA",
+            "volume": 125,
+            "keywords": [
+                "Rinascimento",
+                "Napoli",
+                "Aretino"
+            ],
+            "url": "https://www.lelettere.it/libro/24010-21-2",
+            "pages": "507-508",
+            "number": 2
+        },
+        {
+            "type": "article",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "[recensione a] Un'arte che non langue non trema e non s'offusca. Studi per Simona Costa",
+            "year": 2021,
+            "journal": "LA RASSEGNA DELLA LETTERATURA ITALIANA",
+            "volume": "IX/1",
+            "keywords": [
+                "Letteratura italiana",
+                "Cinquecento"
+            ],
+            "pages": "182-184"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "A proposito dei criteri di edizione per gli epistolari del cinquecento",
+            "year": 2021,
+            "keywords": [
+                "Cinquecento",
+                "Lettere",
+                "Libri di Lettere",
+                "Criteri di edizione",
+                "Philology"
+            ],
+            "pages": "249-258"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "A proposito dei criteri di edizione per gli epistolari del Cinquecento",
+            "year": 2021,
+            "volume": 164,
+            "keywords": [
+                "Epistolari",
+                "Cinquecento",
+                "Criteri di edizione"
+            ],
+            "url": "https://www.bulzoni.it/it/catalogo/volti-e-voci-em-di-em-e-em-per-em-lucrezia.html",
+            "pages": "249-258"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Valentina Pasqual",
+                "Marilena Daquino",
+                "Francesca Tomasi"
+            ],
+            "id": "https://hdl.handle.net/11585/972233",
+            "title": "MIMA: a data model to represent multi-disciplinary analysis on manuscripts. Use case on Pellegrino Prisciani's Historiae Ferrariae",
+            "year": 2021,
+            "keywords": [
+                "semantic web",
+                "cultural heritage",
+                "manuscript",
+                "data modelling",
+                "interpretation",
+                "contestability"
+            ],
+            "pages": "560-566"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Francesca Tomasi",
+                "Valentina Pasqual"
+            ],
+            "title": "mythLOD",
+            "year": 2021,
+            "keywords": [
+                "Semantic Collection",
+                "Linked Open Data",
+                "Mythologiae",
+                "Canonical Citations",
+                "Digital Hermeneutics"
+            ],
+            "url": "https://dharc-org.github.io/mythlod/",
+            "doi": "10.5281/zenodo.4639821"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Dario Brancato",
+                "Milena Corbellini",
+                "Paola Maria Carmela Italia",
+                "Valentina Pasqual",
+                "Roberta Priore"
+            ],
+            "title": "VaSto: un'edizione digitale interdisciplinare",
+            "year": 2021,
+            "journal": "MAGAZ\u00c8N",
+            "volume": 2,
+            "keywords": [
+                "Digital scholarly editing, Authorial philology, Censorship, Benedetto Varchi, Renaissance history, Italian Renaissance literature"
+            ],
+            "url": "https://edizionicafoscari.unive.it/it/edizioni4/riviste/magazen/2021/1/vasto-unedizione-digitale-interdisciplinare/",
+            "doi": "10.30687/mag/2724-3923/2021/03/006",
+            "pages": "139-169",
+            "number": 1
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Beatrice Nava"
+            ],
+            "title": "Archilochus of Paros: Elegiac Fragments - XML Archive",
+            "year": 2021,
+            "keywords": [
+                "Archilochus",
+                "Elegy",
+                "Digital Philology",
+                "XML/TEI"
+            ],
+            "url": "http://hdl.handle.net/11381/2891638"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Beatrice Nava"
+            ],
+            "title": "Review of ITALIA, Paola, Giulia RABONI et al. 2021. What is Authorial philology?",
+            "year": 2021,
+            "journal": "TEXTUAL CULTURES",
+            "volume": 14,
+            "keywords": [
+                "Authorial Philology",
+                "Critical Editions",
+                "Digital Scholarly Editing",
+                "Review"
+            ],
+            "url": "http://textual-cultures.org/volume-14-no-2/",
+            "doi": "10.14434/tc.v14i2.33673",
+            "pages": "280-284",
+            "number": 2
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesca Giovannetti"
+            ],
+            "title": "The Critical Apparatus Ontology (CAO): Modelling the TEI Critical Apparatus as a Knowledge Graph",
+            "year": 2021,
+            "volume": 15,
+            "keywords": [
+                "Critical Apparatus",
+                "Digital Scholarly Edition",
+                "Knowledge Graph",
+                "Modelling",
+                "TEI"
+            ],
+            "url": "https://kups.ub.uni-koeln.de/55230/",
+            "pages": "125-139"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesca Tomasi",
+                "Francesca Giovannetti"
+            ],
+            "title": "The Linked Finding Aid as a Platform for Textual Research: The Case Study of the Giuseppe Raimondi Archive",
+            "year": 2021,
+            "volume": 3019,
+            "keywords": [
+                "Digital Finding Aid",
+                "Linked Open Data",
+                "Writers, Archives"
+            ],
+            "url": "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_3.pdf",
+            "pages": "104-113"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Roberta Priore",
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Leopardi: Wiki Leopardi, Leopardi Ecdosys, Leopardi 3D",
+            "year": 2021,
+            "journal": "GRISELDAONLINE",
+            "volume": 20,
+            "keywords": [
+                "Leopardi",
+                "Edizioni digitali",
+                "Idilli",
+                "Reflectance Transformation Imaging (RTI)"
+            ],
+            "url": "https://griseldaonline.unibo.it/article/view/12420",
+            "doi": "10.6092/issn.1721-4777/12420",
+            "pages": "65-75",
+            "number": 2
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Bruno Sartini",
+                "Marieke Van Erp",
+                "Aldo Gangemi"
+            ],
+            "title": "Marriage is a Peach and a Chalice: Modelling Cultural Symbolism on the Semantic Web",
+            "year": 2021,
+            "keywords": [
+                "knowledge graph",
+                "linked data",
+                "ontology",
+                "semantic web",
+                "symbolism"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3460210.3493552",
+            "doi": "10.1145/3460210.3493552",
+            "pages": "201-208"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Bruno Sartini",
+                "Aldo Gangemi"
+            ],
+            "title": "Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures",
+            "year": 2021,
+            "keywords": [
+                "Symbolism",
+                "Knowledge Graphs",
+                "Cultural Heritage",
+                "Semantic Web"
+            ],
+            "pages": "576-580"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Anna Sofia Lippolis",
+                "Davide Maria Apolloni",
+                "Milena Corbellini",
+                "Lucia Giagnolini",
+                "Francesca Mangialardo",
+                "Carlo Teo Pedretti",
+                "Eleonora Peruch",
+                "Giulia Renda",
+                "Mattia Spadoni"
+            ],
+            "title": "The Digital WHOmanities Project: Best Practices for Digital Pedagogy in the Pandemic Era",
+            "year": 2021,
+            "journal": "UMANISTICA DIGITALE",
+            "volume": 10,
+            "keywords": [
+                "digital pedagogy",
+                "digital humanities",
+                "distance learning",
+                "university of bologna",
+                "education"
+            ],
+            "url": "https://umanisticadigitale.unibo.it/article/view/11829",
+            "doi": "10.6092/issn.2532-8816/11829",
+            "pages": "451-460",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "AIUCD. Un portale concettuale per le Digital Humanities in Italia",
+            "year": 2021,
+            "journal": "GRISELDAONLINE",
+            "volume": 20,
+            "keywords": [
+                "Digital Humanities",
+                "Aiucd",
+                "Digital Scholarly Research",
+                "Project-oriented method"
+            ],
+            "url": "https://griseldaonline.unibo.it/article/view/12375",
+            "doi": "10.6092/issn.1721-4777/12375",
+            "pages": "205-212",
+            "number": 2
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesca Tomasi",
+                "Marilena Daquino",
+                "Lucia Giagnolini"
+            ],
+            "title": "ARTchives: a Linked Open Data Native Catalogue of Art Historians' Archives",
+            "year": 2021,
+            "keywords": [
+                "Linked Open Data \u00b7 Art History \u00b7 Archives"
+            ],
+            "url": "http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_10.pdf",
+            "pages": "14-21"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Francesca Tomasi",
+                "Alessandra Di Tella"
+            ],
+            "title": "Cronologia della letteratura italiana",
+            "year": 2021,
+            "keywords": [
+                "letteratura italiana",
+                "cronologia"
+            ],
+            "pages": "254-272"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Francesca Tomasi",
+                "Elena Spadini",
+                "Georg Voegler"
+            ],
+            "title": "Graph Data-Models and Semantic Web Technologies in Scholarly Digital Editing",
+            "year": 2021,
+            "volume": 15,
+            "keywords": [
+                "Digital edition",
+                "Semantic Web",
+                "Graph data model"
+            ],
+            "url": "https://www.i-d-e.de/publikationen/schriften/bd-15-graph-data-models/",
+            "pages": "1-214"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Francesca Tomasi",
+                "Gian Mario Anselmi"
+            ],
+            "title": "I passaggi e la cronologia ragionata della letteratura italiana",
+            "year": 2021,
+            "keywords": [
+                "Letteratura italiana",
+                "Cronologia ragionata",
+                "Autori",
+                "Generi",
+                "Opere"
+            ],
+            "url": "https://www.patroneditore.com/volumi/9788855535236/i-passaggi-e-la-cronologia-ragionata-della-letteratura-italiana",
+            "pages": "185-272"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Ivano Dionigi",
+                "Francesco Citti",
+                "Federico Condello",
+                "Elisa Dal Chiele",
+                "Lucia Floridi",
+                "Camillo Neri",
+                "Lucia Pasetti",
+                "Daniele Pellacani",
+                "Bruna Pieri",
+                "Ambra Russotti",
+                "Francesca Tomasi",
+                "Daniele Tripaldi",
+                "Antonio Ziosi"
+            ],
+            "title": "In principio",
+            "year": 2021,
+            "volume": 44,
+            "keywords": [
+                "Lucrezio",
+                "De rerum natura",
+                "Antico Testamento",
+                "Dante",
+                "Commedia",
+                "Omero",
+                "Iliade"
+            ],
+            "url": "https://centri.unibo.it/permanenza/it/iniziative-editoriali/libri-di-sala",
+            "pages": "1-184"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "L'edizione delle carte degli scrittori: l'archivio letterario incontra il (nativo) digitale",
+            "year": 2021,
+            "journal": "BIBLIOTECHE OGGI TRENDS",
+            "volume": 7,
+            "keywords": [
+                "Edizione digitale",
+                "digitale nativo",
+                "archivi di persona"
+            ],
+            "url": "http://www.bibliotecheoggi.it/trends/article/view/1285",
+            "doi": "10.3302/2421-3810-202101-081-1",
+            "pages": "81-91",
+            "number": 1
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Bruno Capaci",
+                "Loredana Chines",
+                "Patrizia Cremonini",
+                "Diane Ghirardo",
+                "Maddalena Modesti",
+                "Paolo Tinti",
+                "Francesca Tomasi",
+                "Paola Vecchi",
+                "Gabriella Zarri"
+            ],
+            "title": "Lucretia Estensis de Borgia. Tra biografia e narrazione nelle carte dell'Archivio di Stato di Modena",
+            "year": 2021,
+            "keywords": [
+                "Lucrezia Borgia- Rinascimento- Ferrara- Modena- epistolografia"
+            ],
+            "url": "https://www.asmo.beniculturali.it/mostre/lucretia-estensis-de-borgia-tra-biografia-e-narrazione-nelle-carte-dellarchivio-di-stato-di-modena"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Federico Condello",
+                "Francesco Citti",
+                "Elisa Dal Chiele",
+                "Lucia Floridi",
+                "Camillo Neri",
+                "Lucia Pasetti",
+                "Daniele Pellacani",
+                "Bruna Pieri",
+                "Luca Pirovano",
+                "Ambra Russotti",
+                "Francesca Tomasi",
+                "Daniele Tripaldi",
+                "Antonio Ziosi"
+            ],
+            "title": "Lucrezio, Seneca e noi. Studi per Ivano Dionigi",
+            "year": 2021,
+            "volume": 14,
+            "keywords": [
+                "Lucrezio",
+                "Seneca"
+            ],
+            "url": "https://patroneditore.com/volumi/9788855535472/lucrezio-seneca-e-noi",
+            "pages": "1-514"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Sofia Baroncini",
+                "Marilena Daquino",
+                "Francesca Tomasi"
+            ],
+            "title": "Modelling Art Interpretation and Meaning. A Data Model for Describing Iconology and Iconography",
+            "year": 2021,
+            "journal": "AIDA INFORMAZIONI",
+            "volume": "1-2",
+            "keywords": [
+                "Iconology",
+                "Art History",
+                "Semantic Web",
+                "Ontologies"
+            ],
+            "url": "https://www.aidainformazioni.it/index.php/aidainformazioni/article/view/10",
+            "doi": "10.4399/979-12599448493",
+            "pages": "39-62",
+            "number": 39
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Federico Condello",
+                "Francesco Citti",
+                "Elisa Dal Chiele",
+                "Lucia Floridi",
+                "Camillo Neri",
+                "Lucia Pasetti",
+                "Daniele Pellacani",
+                "Bruna Pieri",
+                "Luca Pirovano",
+                "Ambra Russotti",
+                "Francesca Tomasi",
+                "Daniele Tripaldi",
+                "Antonio Ziosi"
+            ],
+            "title": "Premessa",
+            "year": 2021,
+            "keywords": [
+                "Lucrezio",
+                "Seneca"
+            ],
+            "url": "http://patroneditore.it/volumi/9788855535472/lucrezio-seneca-e-noi",
+            "pages": "7-8"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesca Tomasi",
+                "Gioele Barabucci",
+                "Fabio Vitali"
+            ],
+            "title": "Supporting Complexity and Conjectures in Cultural Heritage Descriptions",
+            "year": 2021,
+            "volume": 2810,
+            "keywords": [
+                "multiple points of view",
+                "contrasting assertions",
+                "RDF serialization",
+                "scholarly conjectures"
+            ],
+            "url": "http://ceur-ws.org/Vol-2810/",
+            "pages": "104-115"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "Web semantico, Linked Data e archivi. Metodologie e strumenti per la rappresentazione della conoscenza",
+            "year": 2021,
+            "keywords": [
+                "EAD",
+                "DC",
+                "EDM",
+                "EAC-CPF",
+                "LOD workflow"
+            ],
+            "pages": "237-255"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Lamers, W. S.",
+                "Niels J. Van Eck",
+                "Giovanni Colavizza"
+            ],
+            "title": "An appraisal of publication embedding techniques in the context of conventional bibliometric relatedness measures",
+            "year": 2021,
+            "keywords": [
+                "Machine learning; Natural language processing; Bibliometrics"
+            ],
+            "url": "https://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2021/",
+            "pages": "633-638"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Giovanni Colavizza",
+                "Blanke Tobias",
+                "Jeurgens, C.",
+                "Noordegraaf, J"
+            ],
+            "title": "Archives and AI: An Overview of Current Debates and Future Perspectives",
+            "year": 2021,
+            "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
+            "volume": 15,
+            "keywords": [
+                "Archives; artificial intelligence; machine learning; recordkeeping"
+            ],
+            "url": "https://dl.acm.org/doi/full/10.1145/3479010",
+            "doi": "10.1145/3479010",
+            "pages": "1-15",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Massimiliano Franceschet",
+                "Giovanni Colavizza",
+                "Timothy Smith",
+                "Brendan Finucane",
+                "Micha Lukasz Ostachowski",
+                "Simone Scalet",
+                "John Perkins",
+                "James Morgan",
+                "Santiago Hernandez"
+            ],
+            "title": "Crypto art: A decentralized view",
+            "year": 2021,
+            "journal": "LEONARDO",
+            "volume": 54,
+            "keywords": [
+                "NFTs; Digital art; NFT art; Blockchains"
+            ],
+            "url": "https://direct.mit.edu/leon/article/54/4/402/97295/Crypto-Art-A-Decentralized-View",
+            "doi": "10.1162/leon_a_02003",
+            "pages": "402-405",
+            "number": 4
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Tullio Piccardi",
+                "Massimo Redi",
+                "Giovanni Colavizza",
+                "Rainer West"
+            ],
+            "title": "On the value of Wikipedia as a gateway to the web",
+            "year": 2021,
+            "keywords": [
+                "Wikipedia; Web science; Data analysis"
+            ],
+            "url": "https://dl.acm.org/doi/proceedings/10.1145/3442381",
+            "doi": "10.1145/3442381.3450136",
+            "pages": "249-260"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Harshdeep Singh",
+                "Robert West",
+                "Giovanni Colavizza"
+            ],
+            "title": "Wikipedia citations: A comprehensive data set of citations with identifiers extracted from english wikipedia",
+            "year": 2021,
+            "journal": "QUANTITATIVE SCIENCE STUDIES",
+            "volume": 2,
+            "keywords": [
+                "Citations; Data; Data set; Wikipedia"
+            ],
+            "url": "https://direct.mit.edu/qss/article/2/1/1/97565/Wikipedia-citations-A-comprehensive-data-set-of",
+            "doi": "10.1162/qss_a_00105",
+            "pages": "1-19",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Marilena Daquino"
+            ],
+            "title": "Catalogazione e descrizione archivistica nativa Linked Open Data",
+            "year": 2021,
+            "journal": "JLIS.IT",
+            "volume": 12,
+            "keywords": [
+                "Linked Open Data; Library Linked data; Semantic Web; Crowdsourcing"
+            ],
+            "url": "https://www.jlis.it/index.php/jlis/article/view/376",
+            "doi": "10.4403/jlis.it-12703",
+            "pages": "91-104",
+            "number": 3
+        },
+        {
+            "type": "article",
+            "author": [
+                "Marilena Daquino",
+                "Manuela De Vivo"
+            ],
+            "title": "L'edizione semantica delle opere di Vespasiano da Bisticci",
+            "year": 2021,
+            "journal": "GRISELDAONLINE",
+            "volume": 20,
+            "keywords": [
+                "Semantic Web; edizioni digitali; Rinascimento; Vespasiano da Bisticci"
+            ],
+            "url": "https://griseldaonline.unibo.it/article/view/12325",
+            "doi": "10.6092/issn.1721-4777/12325",
+            "pages": "37-43",
+            "number": 2
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Yassir Alizadeh-Q",
+                "Behzad Minaei-Bidgoli",
+                "Seyed-Ali Hossayni",
+                "Mohammad-Reza Akbarzadeh-T",
+                "Diego Reforgiato Recupero",
+                "Mohammad-Reza Rajati",
+                "Aldo Gangemi"
+            ],
+            "title": "Interval probabilistic fuzzy WordNet",
+            "year": 2021,
+            "keywords": [
+                "Fuzzy logic, Wordnet synsets"
+            ],
+            "url": "https://arxiv.org/pdf/2104.10660"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Andrea Poltronieri",
+                "Aldo Gangemi"
+            ],
+            "title": "The HaMSE Ontology: Using Semantic Technologies to support Music Representation Interoperability and Musicological Analysis",
+            "year": 2021,
+            "volume": 3064,
+            "keywords": [
+                "computational musicology",
+                "music information retrieval",
+                "semantic web",
+                "linked open data"
+            ],
+            "url": "http://ceur-ws.org/Vol-3064/mdk5.pdf",
+            "pages": "62-76"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Andrea Poltronieri",
+                "Aldo Gangemi"
+            ],
+            "title": "The HaMSE Ontology: Using Semantic Technologies to support Music Representation Interoperability and Musicological Analysis",
+            "year": 2021,
+            "volume": 3064,
+            "keywords": [
+                "Computational musicology; Music information retrieval; Ontology; OWL; RDF; Semantic web"
+            ],
+            "doi": "10.4230/OASIcs.MDK.2021.5",
+            "pages": "62-76"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Andrea Poltronieri",
+                "Aldo Gangemi"
+            ],
+            "title": "The Music Note Ontology",
+            "year": 2021,
+            "volume": 3011,
+            "keywords": [
+                "Ontology Design Patterns",
+                "Computational Musicology",
+                "Computer Music",
+                "Music Information Retrieval"
+            ],
+            "url": "http://ceur-ws.org/Vol-3011/pattern2.pdf",
+            "pages": "1-12"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Milena Giuffrida",
+                "Paola Maria Carmela Italia",
+                "Simone Nieddu",
+                "Desmond Schmidt"
+            ],
+            "title": "From print to digital: A web edition of Giacomo Leopardi's Idilli",
+            "year": 2021,
+            "journal": "DIGITAL SCHOLARSHIP IN THE HUMANITIES",
+            "volume": 36,
+            "keywords": [
+                "Giacomo Leopardi",
+                "Scholarly Digital Editions",
+                "Idilli",
+                "Edizioni Critiche Digitali",
+                "Authorial Philology"
+            ],
+            "url": "https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqaa022/5828480?redirectedFrom=fulltext",
+            "doi": "10.1093/llc/fqaa022",
+            "pages": "i23-i36",
+            "number": 1
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "L'open access nell'editoria scientifica",
+            "year": 2021,
+            "keywords": [
+                "Letteratura Italiana",
+                "Edizioni digitali",
+                "Scholarly Editing",
+                "Digital Text",
+                "Digital Archives"
+            ],
+            "url": "https://amsacta.unibo.it/id/eprint/6348/",
+            "pages": "107-112"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "La parola agli editori",
+            "year": 2021,
+            "keywords": [
+                "Letteratura Italiana",
+                "Editoria",
+                "Edizioni digitali",
+                "Scholarly Editing",
+                "Italian Philology",
+                "Textual Criticism",
+                "Digital Archives",
+                "Digital Library"
+            ],
+            "url": "http://amsacta.unibo.it/6348/",
+            "pages": "11-18"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Nel cantiere del \"Libro delle Furie\", \"Testo\", LXII, 2 (2021), pp. 41-56",
+            "year": 2021,
+            "journal": "TESTO",
+            "volume": 62,
+            "keywords": [
+                "Carlo Emilio Gadda",
+                "Eros e Priapo",
+                "Il Libro delle Furie",
+                "Authorial Philology",
+                "Critica delle varianti",
+                "Pier Paolo Pasolini",
+                "'Officina'",
+                "Fascismo"
+            ],
+            "url": "https://www.torrossa.com/en/resources/an/5158242",
+            "pages": "41-56",
+            "number": 2
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Prefazione in S. Vandi, Satura. Variet\u00e0 per verit\u00e0 in Dante e Gadda, Roma, Mimesis, 2021, pp. 9-16.",
+            "year": 2021,
+            "keywords": [
+                "Dante",
+                "Gadda",
+                "Prima guerra mondiale",
+                "Letteratura Italiana",
+                "Letteratura Moderna e Contemporanea"
+            ],
+            "url": "https://www.mimesisedizioni.it/libro/9788857575117",
+            "pages": "9-16"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Premessa a \"Italianistica digitale\"",
+            "year": 2021,
+            "journal": "GRISELDAONLINE",
+            "volume": 20,
+            "keywords": [
+                "Letteratura Italiana",
+                "Digital Humanities",
+                "Italian Philology"
+            ],
+            "url": "https://griseldaonline.unibo.it/issue/view/1020",
+            "doi": "10.6092/issn.1721-4777/14011",
+            "pages": "3-6",
+            "number": 2
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Rec. a E. Montale, Divinit\u00e0 in incognito. Lettere a Margherita Dalmati (1956-1974), a cura di Alessandra Cenni, Milano, Archinto, 2020, in \"Antologia Vieusseux\", n.s., x. XXVII, n. 81 (settembre-dicembre 2021), pp. 108-112 (in Open Access: https://www.vieusseux.it/uploads/antologia/N81/ANT81-09-PaolaItalia-Lett-Ital.pdf).",
+            "year": 2021,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": 81,
+            "keywords": [
+                "Letteratura italiana",
+                "Eugenio Montale",
+                "Letteratura Moderna e Contemporanea",
+                "Poesia del Novecento"
+            ],
+            "url": "https://www.vieusseux.it/books/antologia-vieusseux-n-81-settembre-dicembre-2021/105.html",
+            "pages": "108-112",
+            "number": "settembre-dicembre"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Rec. a Matteo Palumbo, Ei fu. Vita letteraria di Napoleone. Da Foscolo a Gadda, Roma, Salerno Editrice, 2021, in \"Antologia Vieusseux\", n.s., a. XXVII, n. 80 (maggio-agosto 2021), pp. 70-76 (in Open Access: https://www.vieusseux.it/uploads/antologia/N80/08-LettItal.pdf).",
+            "year": 2021,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": 80,
+            "keywords": [
+                "Letteratura Italiaa",
+                "Napoleone",
+                "Ugo Foscolo",
+                "Poesia italiana dell'ottocento"
+            ],
+            "url": "https://www.vieusseux.it/books/antologia-vieusseux-n-80-maggio-agosto-2021/105.html",
+            "pages": "70-76",
+            "number": "maggio-agosto"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Rec. a Sandra Bonsanti, Stanotte dormirai nel letto del re, Milano, Archinto, 2020, in \"Antologia Vieusseux\", n.s., a. XXVII, n. 79 (2021), pp. 95-102 (in Open Access: https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf).",
+            "year": 2021,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": 79,
+            "keywords": [
+                "Letteratura Italiana",
+                "Alessandro Bonsanti",
+                "Carlo Emilio Gadda",
+                "Archivi del novecento"
+            ],
+            "url": "https://www.vieusseux.it/uploads/antologia/N79/08-ANT79-LettIt.pdf",
+            "pages": "95-102",
+            "number": "gennaio-aprile"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Riscrittura, revisione, editing",
+            "year": 2021,
+            "keywords": [
+                "Autore",
+                "Scrittura",
+                "Italian Philology",
+                "Linguistica italiana",
+                "Authorial Philology",
+                "Editing"
+            ],
+            "url": "https://www.carocci.it/prodotto/storia-dellitaliano-scritto-vi-pratiche-di-scrittura",
+            "pages": "255-281"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "What is authorial philology?, Cambridge, Open Book Publisher, 2021",
+            "year": 2021,
+            "keywords": [
+                "Italian Philology",
+                "Authorial Philology",
+                "Textual criticism",
+                "Genetic Criticism"
+            ],
+            "url": "https://books.openbookpublishers.com/10.11647/obp.0224.pdf",
+            "doi": "10.11647/OBP.0224",
+            "pages": "1-216"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesco Sovrano",
+                "Monica Palmirani",
+                "Biagio Distefano",
+                "Salvatore Sapienza",
+                "Fabio Vitali"
+            ],
+            "title": "A dataset for evaluating legal question answering on private international law",
+            "year": 2021,
+            "keywords": [
+                "Legal Question Answering",
+                "Private International Law",
+                "Knowledge Graph Extraction"
+            ],
+            "url": "https://dl.acm.org/doi/abs/10.1145/3462757.3466094",
+            "doi": "10.1145/3462757.3466094",
+            "pages": "230-234"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesco Sovrano",
+                "Salvatore Sapienza",
+                "Monica Palmirani",
+                "Fabio Vitali"
+            ],
+            "title": "A Survey on Methods and Metrics for the Assessment of Explainability Under the Proposed AI Act",
+            "year": 2021,
+            "keywords": [
+                "Explainable Artificial Intelligence",
+                "Explainability",
+                "Metrics",
+                "Standardisation",
+                "Artificial Intelligence Act"
+            ],
+            "url": "https://ebooks.iospress.nl/doi/10.3233/FAIA210342",
+            "doi": "10.3233/FAIA210342",
+            "pages": "235-242"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Monica Palmirani",
+                "Salvatore Sapienza"
+            ],
+            "title": "Big Data, Explanations and Knowability",
+            "year": 2021,
+            "journal": "RAGION PRATICA",
+            "volume": 2,
+            "keywords": [
+                "Big Data",
+                "Artificial Intelligence",
+                "Explicability",
+                "Explanations",
+                "Knowability"
+            ],
+            "url": "https://www.rivisteweb.it/doi/10.1415/102318",
+            "doi": "10.1415/102318",
+            "pages": "349-364",
+            "number": "dicembre 2021"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Monica Palmirani",
+                "Francesco Sovrano",
+                "Davide Liga",
+                "Salvatore Sapienza",
+                "Fabio Vitali"
+            ],
+            "title": "Hybrid AI Framework for Legal Analysis of the EU Legislation Corrigenda",
+            "year": 2021,
+            "keywords": [
+                "Akoma Ntoso",
+                "Classification AI",
+                "Natural Language Processing",
+                "legal drafting techniques"
+            ],
+            "url": "https://ebooks.iospress.nl/doi/10.3233/FAIA210319",
+            "doi": "10.3233/FAIA210319",
+            "pages": "68-75"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Emanuela Podda",
+                "Monica Palmirani"
+            ],
+            "title": "Inferring the Meaning of Non-personal, Anonymized, and Anonymous Data",
+            "year": 2021,
+            "volume": 13048,
+            "keywords": [
+                "Non-personal data",
+                "Anonymization",
+                "Pseudonymization"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-89811-3_19",
+            "doi": "10.1007/978-3-030-89811-3_19",
+            "pages": "269-282"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Monica Palmirani"
+            ],
+            "title": "Interpretabilit\u00e0, conoscibilit\u00e0, spiegabilit\u00e0 dei processi decisionali automatizzati",
+            "year": 2021,
+            "keywords": [
+                "Artificial Intelligence",
+                "Big Data",
+                "Spiegabilit\u00e0 dell'Artificial Intelligence",
+                "Art. 22 del GDPR"
+            ],
+            "url": "https://www.giappichelli.it/xxvi-lezioni-di-diritto-dell-intelligenza-artificiale-9788892138957?srsltid=AfmBOoqR7xxi249zW1j-O7kuawcmgXWzhwH9XJoUPt6zpOUsYJ3ddvML",
+            "pages": "66-76"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Victor Rodriguez-Doncel",
+                "Monica Palmirani",
+                "Michae Araszkiewicz",
+                "Pompeu Casanovas",
+                "Ugo Pagallo",
+                "Giovanni Sartor"
+            ],
+            "title": "Introduction: A Hybrid Regulatory Framework and Technical Architecture for a Human-Centered and Explainable AI",
+            "year": 2021,
+            "volume": 13048,
+            "keywords": [
+                "Artificial intelligence and Law",
+                "Semantic web",
+                "LegalXML",
+                "Web of linked data",
+                "Internet of Things",
+                "Ethics",
+                "Human rights Privacy",
+                "Rule of law"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-89811-3_1",
+            "doi": "10.1007/978-3-030-89811-3_1",
+            "pages": "1-11"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Monica Palmirani"
+            ],
+            "title": "La mediazione digitale e nuove forme tecnologiche di discriminazione",
+            "year": 2021,
+            "keywords": [
+                "big data",
+                "Artificial Intelligence",
+                "discriminazione",
+                "trasparenza",
+                "spiegabilit\u00e0"
+            ],
+            "url": "https://buponline.com/prodotto/la-mediazione-interculturale/?v=c860970b6ab6",
+            "pages": "63-75"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Monica Palmirani",
+                "Salvatore Sapienza"
+            ],
+            "title": "La Mediazione Digitale e nuove forme tecnologiche di discriminazione",
+            "year": 2021,
+            "journal": "NOTIZIE DI POLITEIA",
+            "volume": 144,
+            "keywords": [
+                "Digital citizenship mediation",
+                "Vulnerability",
+                "Discrimination",
+                "Artificial intelligence",
+                "Data governance"
+            ],
+            "pages": "73-90",
+            "number": 144
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Monica Palmirani"
+            ],
+            "title": "Lexdatafication: Italian Legal Knowledge Modelling in Akoma Ntoso",
+            "year": 2021,
+            "volume": 13048,
+            "keywords": [
+                "Akoma Ntoso",
+                "eLegislation",
+                "eJustice",
+                "Legal data analytics",
+                "Visualization"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-89811-3_3",
+            "doi": "10.1007/978-3-030-89811-3_3",
+            "pages": "31-47"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Francesco Sovrano",
+                "Fabio Vitali",
+                "Monica Palmirani"
+            ],
+            "title": "Making Things Explainable vs Explaining: Requirements and Challenges Under the GDPR",
+            "year": 2021,
+            "volume": 13048,
+            "keywords": [
+                "Trustworthy AI",
+                "explanatory AI (XAI)",
+                "HCI"
+            ],
+            "url": "https://link.springer.com/book/10.1007/978-3-030-89811-3",
+            "doi": "10.1007/978-3-030-89811-3_12",
+            "pages": "169-182"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Zineb Boukhers",
+                "Peter Mayr",
+                "Silvio Peroni"
+            ],
+            "title": "BiblioDAP'21: The 1st Workshop on Bibliographic Data Analysis and Processing",
+            "year": 2021,
+            "keywords": [
+                "bibliographic data",
+                "data science",
+                "digital libraries",
+                "machine learning"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3447548.3469482",
+            "doi": "10.1145/3447548.3469482",
+            "pages": "4110-4111"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Erika Alves dos Santos",
+                "Silvio Peroni",
+                "Marcos Luiz Mucheroni"
+            ],
+            "title": "Citing and referencing habits in medicine and social sciences journals in 2019",
+            "year": 2021,
+            "journal": "JOURNAL OF DOCUMENTATION",
+            "volume": 77,
+            "keywords": [
+                "Bibliographic metadata",
+                "Bibliographic references",
+                "FRBR",
+                "In-text reference pointers",
+                "Information representation",
+                "Reference styles"
+            ],
+            "doi": "10.1108/JD-08-2020-0144",
+            "pages": "1321-1342",
+            "number": 6
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Ivan Heibi",
+                "Silvio Peroni",
+                "Luca Pareschi",
+                "Paolo Ferri"
+            ],
+            "title": "MITAO: a tool for enabling scholars in the Humanities to use Topic Modelling in their studies",
+            "year": 2021,
+            "keywords": [
+                "topic modelling",
+                "MITAO",
+                "tool"
+            ],
+            "url": "https://aiucd2021.labcd.unipi.it/en/home-english/",
+            "pages": "175-182"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Silvio Peroni"
+            ],
+            "title": "Wikipedia Citations in Wikidata",
+            "year": 2021,
+            "keywords": [
+                "WikiCite",
+                "open citations",
+                "OpenCitations Data Model",
+                "Wikipedia citations"
+            ],
+            "url": "https://meta.wikimedia.org/wiki/Wikicite/grant/Wikipedia_Citations_in_Wikidata"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Alessandro Dall'Acqua",
+                "Fabio Tamburini"
+            ],
+            "title": "Implementing a pragmatically adequate chatbot in DialogFlow CX",
+            "year": 2021,
+            "volume": 3033,
+            "keywords": [
+                "chatbots",
+                "dialogue design",
+                "pragmatics",
+                "dialogflow cx"
+            ],
+            "url": "http://ceur-ws.org/Vol-3033/",
+            "pages": "1-8"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Gloria Gagliardi",
+                "Fabio Tamburini"
+            ],
+            "title": "Linguistic biomarkers for the detection of Mild Cognitive Impairment",
+            "year": 2021,
+            "journal": "LINGUE E LINGUAGGIO",
+            "volume": 20,
+            "keywords": [
+                "Mild Cognitive Impairment",
+                "Dementia screening",
+                "Natural Language Processing",
+                "linguistic biomarkers"
+            ],
+            "url": "https://www.rivisteweb.it/doi/10.1418/101111",
+            "doi": "10.1418/101111",
+            "pages": "3-31",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Laura Calze",
+                "Gloria Gagliardi",
+                "Rema Rossini Favretti",
+                "Fabio Tamburini"
+            ],
+            "title": "Linguistic features and automatic classifiers for identifying mild cognitive impairment and dementia",
+            "year": 2021,
+            "journal": "COMPUTER SPEECH AND LANGUAGE",
+            "volume": 65,
+            "keywords": [
+                "Dementia; Language and speech analyses; Linguistic bio-marker; Mild Cognitive Impairment; Natural Language Processing Techniques"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0885230820300462",
+            "doi": "10.1016/j.csl.2020.101113",
+            "pages": "1-18",
+            "number": 101113
+        },
+        {
+            "type": "article",
+            "author": [
+                "Michele Corazza",
+                "Silvia Ferrara",
+                "Barbara Montecchi",
+                "Fabio Tamburini",
+                "Miguel Valerio"
+            ],
+            "title": "The mathematical values of fraction signs in the Linear A script: A computational, statistical and typological approach",
+            "year": 2021,
+            "journal": "JOURNAL OF ARCHAEOLOGICAL SCIENCE",
+            "volume": 125,
+            "keywords": [
+                "Linear A script",
+                "Minoan Crete",
+                "fraction signs",
+                "constraint programming",
+                "numerical notations"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0305440320301357",
+            "doi": "10.1016/j.jas.2020.105214",
+            "pages": "1-14"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Anna Dall'Acqua",
+                "Fabio Tamburini"
+            ],
+            "title": "Toward a linguistically grounded dialog model for chatbot design",
+            "year": 2021,
+            "journal": "IJCOL",
+            "volume": 7,
+            "keywords": [
+                "dialogue design",
+                "chatbots",
+                "pragmatics"
+            ],
+            "url": "https://www.aaccademia.it/ita/scheda-libro?aaref=1504",
+            "doi": "10.4000/ijcol.900",
+            "pages": "191-222",
+            "number": "1-2"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Sebastian Barzaghi",
+                "Francesco Paolucci",
+                "Francesca Tomasi",
+                "Fabio Vitali",
+                "Aldo Gangemi"
+            ],
+            "title": "Edizione nazionale delle opere di Aldo Moro",
+            "year": 2021,
+            "keywords": [
+                "Knowledge organization",
+                "Text encoding",
+                "Critical digital edition"
+            ],
+            "url": "https://aldomorodigitale.unibo.it/",
+            "doi": "10.6092/unibo/aldomoro"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesco Sovrano",
+                "Fabio Vitali"
+            ],
+            "title": "From Philosophy to Interfaces: an Explanatory Method and a Tool Inspired by Achinstein's Theory of Explanation",
+            "year": 2021,
+            "keywords": [
+                "Methods for explanations",
+                "Education and learning-related technologies",
+                "Explanatory Artificial Intelligence (YAI)"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3397481.3450655",
+            "doi": "10.1145/3397481.3450655",
+            "pages": "81-91"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Vincenzo Rubano",
+                "Fabio Vitali"
+            ],
+            "title": "Making accessibility accessible: strategy and tools",
+            "year": 2021,
+            "keywords": [],
+            "pages": "1-6"
+        }
+    ]
+}

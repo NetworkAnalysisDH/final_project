@@ -1,0 +1,2656 @@
+{
+    "publications": [
+        {
+            "type": "Conference Paper",
+            "author": [
+                "Anna Sofia Lippolis",
+                "Giorgia Lodi",
+                "Andrea Giovanni Nuzzolese"
+            ],
+            "title": "Pattern-based design for modelling an ontology network in the water and health domains",
+            "year": 2023,
+            "booktitle": "Proceedings of the 14th Workshop on Ontology Design and Patterns (WOP) 2023",
+            "keywords": [
+                "Clean Water",
+                "Environmental Data",
+                "Health",
+                "Modular Ontology Design",
+                "Ontology Design Patterns",
+                "Ontology Network",
+                "Pattern-based Design",
+                "Sanitation",
+                "Water Quality"
+            ],
+            "url": "https://ceur-ws.org/Vol-3636/",
+            "pages": "19--30"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Jacopo de Berardinis",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "ChoCo: a Chord Corpus and a Data Transformation Workflow for Musical Harmony Knowledge Graphs",
+            "year": 2023,
+            "journal": "SCIENTIFIC DATA",
+            "volume": 10,
+            "keywords": [
+                "music",
+                "knowledge graph",
+                "linked data",
+                "harmony",
+                "chord"
+            ],
+            "url": "https://www.nature.com/articles/s41597-023-02410-w",
+            "doi": "10.1038/s41597-023-02410-w",
+            "pages": "1--25",
+            "number": 1
+        },
+        {
+            "type": "inproceedings",
+            "author": [
+                "Nicolas Lazzari",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "Classifying Sequences by Combining Context-Free Grammars and OWL Ontologies",
+            "year": 2023,
+            "publisher": "Springer",
+            "address": "Cham",
+            "volume": "13870",
+            "booktitle": "The Semantic Web. ESWC 2023. Lecture Notes in Computer Science, vol 13870.",
+            "keywords": [
+                "sequence classification",
+                "context-free grammar",
+                "ontologies",
+                "music"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-33455-9_10",
+            "doi": "10.1007/978-3-031-33455-9_10",
+            "isbn": "978-3-031-33455-9",
+            "pages": "156--173"
+        },
+        {
+            "type": "inproceedings",
+            "author": [
+                "Allegra De Filippo",
+                "Michela Milano",
+                "Valentina Presutti",
+                "Alessandro Saffiotti"
+            ],
+            "title": "CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity",
+            "year": 2023,
+            "publisher": "CEUR-WS",
+            "volume": "3519",
+            "booktitle": "CEUR Workshop Proceedings",
+            "keywords": [
+                "Artificial Intelligence"
+            ],
+            "pages": "1--3"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Delfina Sol Martinez Pandiani",
+                "Nicolas Lazzari",
+                "Marieke Van Erp",
+                "Valentina Presutti"
+            ],
+            "title": "Hypericons for interpretability: decoding abstract concepts in visual data",
+            "year": 2023,
+            "journal": "INTERNATIONAL JOURNAL OF DIGITAL HUMANITIES",
+            "volume": "5",
+            "abstract": "In an era of information abundance and visual saturation, the need for resources to",
+            "keywords": [
+                "Computer vision",
+                "Explainability",
+                "Hermeneutics",
+                "Stable diffusion"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s42803-023-00077-8",
+            "doi": "10.1007/s42803-023-00077-8",
+            "pages": "451--490",
+            "number": "2-3"
+        },
+        {
+            "type": "conference paper",
+            "author": [
+                "Giulia Renda",
+                "Marilena Daquino",
+                "Valentina Presutti"
+            ],
+            "title": "Melody: A Platform for Linked Open Data Visualisation and Curated Storytelling",
+            "year": 2023,
+            "publisher": "Association for Computing Machinery",
+            "address": "New York",
+            "booktitle": "HT '23: Proceedings of the 34th ACM Conference on Hypertext and Social Media",
+            "keywords": [
+                "data visualization"
+            ],
+            "url": "https://dl.acm.org/doi/proceedings/10.1145/3603163",
+            "doi": "10.1145/3603163.3609035",
+            "isbn": "979-8-4007-0232-7",
+            "pages": "1--8"
+        },
+        {
+            "type": "journal article",
+            "author": [
+                "Luigi Asprino",
+                "Valentina Presutti"
+            ],
+            "title": "Observing LOD: Its Knowledge Domains and the Varying Behavior of Ontologies Across Them",
+            "year": 2023,
+            "journal": "IEEE ACCESS",
+            "volume": "11",
+            "keywords": [
+                "Intelligent web services",
+                "semantic web"
+            ],
+            "url": "https://ieeexplore.ieee.org/document/10054246",
+            "doi": "10.1109/ACCESS.2023.3250105",
+            "pages": "21127--21143"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Jacopo de Berardinis",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "The Harmonic Memory: a Knowledge Graph of harmonic patterns as a trustworthy framework for computational creativity",
+            "year": 2023,
+            "publisher": "Association for Computing Machinery",
+            "address": "New York, NY",
+            "booktitle": "Proceedings of the ACM Web Conference 2023 (WWW '23)",
+            "keywords": [
+                "knowledge graphs",
+                "computational creativity",
+                "music technology"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3543507.3587428",
+            "doi": "10.1145/3543507.3587428",
+            "isbn": "9781450394161",
+            "pages": "3873--3882"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Jacopo de Berardinis",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "The Music Annotation Pattern",
+            "year": 2023,
+            "publisher": "CEUR-WS",
+            "volume": "3352",
+            "booktitle": "CEUR Workshop Proceedings",
+            "keywords": [
+                "Computational Musicology",
+                "Music Information Retrieval",
+                "Ontology",
+                "Semantic Web"
+            ],
+            "url": "https://ceur-ws.org/Vol-3352/",
+            "pages": "1--12"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Valentina Anita Carriero",
+                "Jacopo de Berardinis",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata",
+            "year": 2023,
+            "booktitle": "Proceedings of the 24th International Society for Music Information Retrieval Conference",
+            "keywords": [
+                "music",
+                "knowledge graph",
+                "music information retrieval",
+                "ontology",
+                "knowledge engineering",
+                "linked data",
+                "ontology design pattern",
+                "ontology engineering",
+                "computational musicology"
+            ],
+            "pages": "859--867"
+        },
+        {
+            "type": "book chapter",
+            "author": [
+                "Jacopo de Berardinis",
+                "Valentina Anita Carriero",
+                "Nitisha Jain",
+                "Nicolas Lazzari",
+                "Albert Mero\u00f1o-Pe\u00f1uela",
+                "Andrea Poltronieri",
+                "Valentina Presutti"
+            ],
+            "title": "The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage",
+            "year": 2023,
+            "publisher": "Springer",
+            "address": "Cham",
+            "volume": "14266 LNCS",
+            "booktitle": "The Semantic Web , ISWC 2023. ISWC 2023",
+            "keywords": [
+                "Knowledge engineering",
+                "Ontology",
+                "Cultural heritage",
+                "Competency questions"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17",
+            "doi": "10.1007/978-3-031-47243-5_17",
+            "isbn": "978-3-031-47243-5",
+            "pages": "302--322"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Lucia Giagnolini",
+                "Marilena Daquino",
+                "Francesca Mambelli",
+                "Francesca Tomasi"
+            ],
+            "title": "Exploratory methods for relation discovery in archival data",
+            "year": 2023,
+            "journal": "DIGITAL SCHOLARSHIP IN THE HUMANITIES",
+            "volume": 38,
+            "abstract": "In this article, we propose a holistic approach to discover relations in art historical communities and enrich historians\u2019 biographies and archival descriptions with graph patterns relevant to art historiographic enquiry. We use exploratory data analysis to detect patterns, we select features, and we use them to evaluate classification models to predict new relations, to be recommended to archivists during the cataloguing phase. Results show that relations based on biographical information can be addressed with higher precision than relations based on research topics or institutional relations. Deterministic and a priori rules present better results than probabilistic methods.",
+            "keywords": [
+                "ARTchives",
+                "archival artistic data",
+                "Linked Open Data",
+                "Data Analysis",
+                "Deterministic rules"
+            ],
+            "url": "https://doi.org/10.1093/llc/fqac036",
+            "doi": "10.1093/llc/fqac036",
+            "pages": "111--126",
+            "number": 1
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Paolo Ciancarini",
+                "Massimo Farina",
+                "Alexey Kruglov",
+                "Giancarlo Succi",
+                "Amrit Thapaliya"
+            ],
+            "title": "A Reflection on the Use of Systemic Thinking in Software Development.",
+            "year": 2023,
+            "publisher": "Science and Technology Publications, Lda",
+            "booktitle": "Proceedings of the 18th International Conference on Evaluation of Novel Approaches to Software Engineering - ENASE.",
+            "keywords": [
+                "Systemic Thinking",
+                "Software Engineering",
+                "External Factors"
+            ],
+            "url": "https://www.scitepress.org/Link.aspx?doi=10.5220/0011963300003464",
+            "doi": "10.5220/0011963300003464",
+            "pages": "521--529"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Paolo Ciancarini",
+                "Shahnoza Ergasheva",
+                "Massimo Farina",
+                "Damir Mubarakshin",
+                "Giancarlo Succi"
+            ],
+            "title": "Agile methodologies between software development and music production: an empirical study",
+            "year": 2023,
+            "journal": "FRONTIERS IN COMPUTER SCIENCE",
+            "volume": "5",
+            "keywords": [
+                "software development",
+                "music",
+                "music production",
+                "agile methodologies",
+                "empirical investigation",
+                "agile methods"
+            ],
+            "url": "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1181041/full",
+            "doi": "10.3389/fcomp.2023.1181041",
+            "pages": "1--13"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Paolo Ciancarini",
+                "Marcello Missiroli"
+            ],
+            "title": "Education to Agile: Fostering Team Awareness with Essence",
+            "year": 2023,
+            "publisher": "Springer",
+            "volume": 14387,
+            "booktitle": "FISEE 2023 Frontiers in software engineering education",
+            "keywords": [
+                "Agile software development",
+                "Scrum",
+                "Essence",
+                "software engineering",
+                "education"
+            ],
+            "url": "https://rdcu.be/dyWuq",
+            "doi": "10.1007/978-3-031-48639-5_6",
+            "isbn": "978-3-031-48639-5",
+            "pages": "69--84"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Paolo Ciancarini",
+                "Aleksandr Kruglov",
+                "Anastasia Malikova",
+                "Witold Pedrycz",
+                "Giancarlo Succi"
+            ],
+            "title": "How social interactions can affect Modern Code Review",
+            "year": 2023,
+            "journal": "FRONTIERS IN COMPUTER SCIENCE",
+            "volume": "5",
+            "keywords": [
+                "Modern Code Review",
+                "social interactions",
+                "software quality",
+                "survey",
+                "qualitative"
+            ],
+            "url": "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1178040/full",
+            "doi": "10.3389/fcomp.2023.1178040",
+            "pages": "1--10"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Paolo Ciancarini",
+                "Marco Farina",
+                "Olesya Okonicha",
+                "Maria Smirnova",
+                "Giancarlo Succi"
+            ],
+            "title": "Software as storytelling: A systematic literature review",
+            "year": 2023,
+            "journal": "COMPUTER SCIENCE REVIEW",
+            "volume": "47",
+            "keywords": [
+                "Storytelling",
+                "Software development",
+                "Story-driven approach",
+                "Coding",
+                "Story-based techniques"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S157401372200051X",
+            "doi": "10.1016/j.cosrev.2022.100517",
+            "pages": "1--21"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Paolo Ciancarini",
+                "Andrea Loretti",
+                "Marcello Missiroli",
+                "Andrea Schinoppi"
+            ],
+            "title": "Training students to choose their agile practices and tools",
+            "year": 2023,
+            "publisher": "IEEE",
+            "booktitle": "35th International Conference on Software Engineering Education and Training (CSEE&T)",
+            "keywords": [
+                "Software engineering",
+                "agile",
+                "Essence",
+                "Scrum"
+            ],
+            "doi": "10.1109/CSEET58097.2023.00017",
+            "isbn": "979-8-3503-2202-6",
+            "pages": "59--68"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luigi Asprino",
+                "Miguel Ceriani"
+            ],
+            "title": "How is Your Knowledge Graph Used: Content-Centric Analysis of SPARQL Query Logs",
+            "year": 2023,
+            "publisher": "Springer",
+            "address": "Cham",
+            "volume": "14265",
+            "booktitle": "The Semantic Web - ISWC 2023",
+            "keywords": [
+                "SPARQL",
+                "Query log summarisation",
+                "Linked SPARQL queries"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-47240-4_11",
+            "doi": "10.1007/978-3-031-47240-4_11",
+            "isbn": "978-3-031-47240-4",
+            "pages": "197--215"
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Federica Bologna",
+                "Angelo Di Iorio",
+                "Silvio Peroni",
+                "Francesco Poggi"
+            ],
+            "title": "Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification",
+            "year": 2023,
+            "journal": "SCIENTOMETRICS",
+            "volume": 128,
+            "keywords": [
+                "Scientometrics",
+                "Open access",
+                "Bibliometrics",
+                "Citation-based metrics",
+                "Citation networks",
+                "Academic evaluation",
+                "Open science",
+                "Dimensions of proximity"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s11192-022-04581-6",
+            "doi": "10.1007/s11192-022-04581-6",
+            "pages": "19--53",
+            "number": 1
+        },
+        {
+            "type": "journal",
+            "author": [
+                "Giulia Lucifora",
+                "Sebastiano Schembri",
+                "Francesco Poggi",
+                "Giuseppe M. Grasso",
+                "Aldo Gangemi"
+            ],
+            "title": "Virtual reality supports perspective taking in cultural heritage interpretation",
+            "year": 2023,
+            "journal": "COMPUTERS IN HUMAN BEHAVIOR",
+            "volume": "148",
+            "keywords": [
+                "Embodied experience",
+                "Interpretation-reflection loop",
+                "Social cohesion",
+                "Virtual embodiment",
+                "Virtual reality"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0747563223002625?via=ihub",
+            "doi": "10.1016/j.chb.2023.107911",
+            "pages": "1--13"
+        },
+        {
+            "type": "conference",
+            "id": "11585/959618",
+            "author": [
+                "Bruno Sartini",
+                "Sofia Baroncini"
+            ],
+            "title": "A Comparative Study of Simple and Complex Art Interpretations in Linked Open Data Using ICON Ontology",
+            "year": 2023,
+            "publisher": "CEUR-WS.org",
+            "volume": "3540",
+            "booktitle": "Proceedings of the International Workshop on Semantic Web and Ontology Design for Cultural Heritage co-located with the International Semantic Web Conference 2023 (ISWC 2023)",
+            "keywords": [
+                "Iconographical and iconological interpretations",
+                "Artworks",
+                "Semantic Web",
+                "Ontologies"
+            ],
+            "url": "http://ceur-ws.org/Vol-3540/paper1.pdf",
+            "pages": "1--12"
+        },
+        {
+            "type": "monograph",
+            "id": "11585/970020",
+            "author": [
+                "Bruno Sartini"
+            ],
+            "title": "Connecting works of art within the semantic web of symbolic meanings",
+            "year": 2023,
+            "publisher": "Alma Mater Studiorum - Universit\u00e0 di Bologna",
+            "keywords": [
+                "Symbolism",
+                "Linked Open Data",
+                "Semantic Web",
+                "Cultural Heritage",
+                "Knowledge Graph",
+                "Ontology Engineering"
+            ],
+            "url": "http://amsdottorato.unibo.it/id/eprint/11020",
+            "doi": "10.48676/unibo/amsdottorato/11020",
+            "pages": "1--236"
+        },
+        {
+            "type": "article",
+            "id": "11585/925537",
+            "author": [
+                "Bruno Sartini",
+                "Sofia Baroncini",
+                "Marieke Van Erp",
+                "Francesca Tomasi",
+                "Aldo Gangemi"
+            ],
+            "title": "ICON: an Ontology for Comprehensive Artistic Interpretations",
+            "year": 2023,
+            "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
+            "volume": 16,
+            "keywords": [
+                "iconology",
+                "iconography",
+                "art interpretation",
+                "Ontologies",
+                "cultural heritage",
+                "semantic web"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/35947240",
+            "doi": "10.1145/3594724",
+            "pages": "1--38"
+        },
+        {
+            "type": "article",
+            "id": "11585/922641",
+            "author": [
+                "Bruno Sartini",
+                "Sofia Baroncini",
+                "Marieke Van Erp",
+                "Francesca Tomasi",
+                "Aldo Gangemi"
+            ],
+            "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in the semantic web",
+            "year": 2023,
+            "journal": "JOURNAL OF DOCUMENTATION",
+            "volume": 79,
+            "keywords": [
+                "Knowledge graph evaluation",
+                "Iconology",
+                "Iconography",
+                "Visual works"
+            ],
+            "url": "https://www.emerald.com/insight/content/doi/10.1108/JD-09-2022-0207/full/html",
+            "doi": "10.1108/JD-09-2022-0207",
+            "pages": "115--136"
+        },
+        {
+            "type": "poster",
+            "id": "11585/925544",
+            "author": [
+                "Bruno Sartini",
+                "Andrei Nesterov",
+                "Claudia Libbi",
+                "Ryan Brate",
+                "Shoilee Sarah Binta Alam",
+                "Daniil Savvina"
+            ],
+            "title": "Multivocal Exhibition: a user-centric application to explore symbolic interpretations of artefacts from different cultural perspectives",
+            "year": 2023,
+            "address": "Bologna",
+            "booktitle": "ExICE - Extended Intelligence for Cultural Engagement Conference",
+            "keywords": [
+                "Linked Open Data",
+                "Symbolism",
+                "Virtual Reality",
+                "Cultural Heritage"
+            ],
+            "url": "https://spice-h2020.eu/conference/papers/posters/ExICE23_paper_7072.pdf"
+        },
+        {
+            "type": "essay",
+            "id": "11585/947326",
+            "author": [
+                "Fiammetta Sabba",
+                "Francesca Tomasi",
+                "Silvia Tripodi",
+                "Laurent Antoine Fintoni"
+            ],
+            "title": "L\u2019Universit\u00e0 di Bologna a supporto dell\u2019ecosistema digitale della cultura presso il Ministero della Cultura",
+            "year": 2023,
+            "publisher": "Editrice Bibliografica",
+            "booktitle": "Convegno delle Stelline 2023. VISIONI FUTURE. Next Generation Library. Relazioni di gioved\u00ec 30 marzo",
+            "keywords": [
+                "Digital Library",
+                "Ministero della Cultura",
+                "Patrimonio digitale",
+                "Digitalizzazione",
+                "Infrastruttura digitale",
+                "Ecosistema digitale",
+                "Digital Library",
+                "Ministry of Culture",
+                "Digital heritage",
+                "Digitization",
+                "Digital infrastructure",
+                "Digital ecosystem"
+            ],
+            "url": "https://www.editricebibliografica.it/scheda-libro/autori-vari/visioni-future-next-generation-library-vol1-9788893575324-580728.html",
+            "doi": "10.53134/9788893575324-045",
+            "isbn": "978-88-9357-532-4",
+            "pages": "45--50"
+        },
+        {
+            "type": "article",
+            "id": "11585/954952",
+            "author": [
+                "Ilaria Bartolini",
+                "Marco Patella"
+            ],
+            "title": "A stream processing abstraction framework",
+            "year": 2023,
+            "journal": "FRONTIERS IN BIG DATA",
+            "volume": 6,
+            "keywords": [
+                "Stream Processing",
+                "Real-Time Analysis",
+                "Big Data",
+                "multimedia data streams",
+                "software framework"
+            ],
+            "url": "https://www.frontiersin.org/articles/10.3389/fdata.2023.1227156/full",
+            "doi": "10.3389/fdata.2023.1227156",
+            "pages": "1--15"
+        },
+        {
+            "type": "article",
+            "id": "11585/955111",
+            "author": [
+                "Ilaria Bartolini",
+                "Vincenzo Moscato",
+                "Van Engers, Tom",
+                "Marco Postiglione",
+                "Giancarlo Sperli",
+                "Andrea Vignali"
+            ],
+            "title": "Data augmentation via context similarity: An application to biomedical Named Entity Recognition",
+            "year": 2023,
+            "journal": "INFORMATION SYSTEMS",
+            "volume": 119,
+            "keywords": [
+                "Named Entity Recognition",
+                "Data Augmentation",
+                "Similarity learning",
+                "Few shot learning"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0306437923001278",
+            "doi": "10.1016/j.is.2023.102291",
+            "pages": "1--9"
+        },
+        {
+            "type": "conference",
+            "id": "11585/955103",
+            "author": [
+                "Ilaria Bartolini",
+                "Marco Patella"
+            ],
+            "title": "From RAM3S to SPAF: Towards a Stream Processing Abstracting Framework",
+            "year": 2023,
+            "publisher": "CEUR-WS",
+            "address": "Galzingano Terme, Italy",
+            "volume": "3478",
+            "booktitle": "SEBD 2023 - Italian Symposium on Advanced Database Systems",
+            "keywords": [
+                "Stream Processing",
+                "Real-Time Analysis",
+                "Big Data",
+                "multimedia data"
+            ],
+            "url": "https://ceur-ws.org/Vol-3478/paper26.pdf",
+            "pages": "32--40"
+        },
+        {
+            "type": "article",
+            "id": "11585/933453",
+            "author": [
+                "Giacomo Frisoni",
+                "Paolo Italiani",
+                "Gianluca Moro",
+                "Ilaria Bartolini",
+                "Marco Antonio Boschetti",
+                "Antonella Carbonaro"
+            ],
+            "title": "Graph-Enhanced Biomedical Abstractive Summarization Via Factual Evidence Extraction",
+            "year": 2023,
+            "journal": "SN COMPUTER SCIENCE",
+            "volume": 4,
+            "keywords": [
+                "Abstractive Document Summarization",
+                "Event Extraction",
+                "Semantic Parsing",
+                "Biomedical Text Mining",
+                "Knowledge-Driven Natural Language Processing",
+                "Natural Language Understanding"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s42979-023-01867-1",
+            "doi": "10.1007/s42979-023-01867-1",
+            "pages": "1--19"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/967613",
+            "author": [
+                "Marina Caporale",
+                "Daniele Donati",
+                "Mimma Gallina",
+                "Fabrizio Panozzo"
+            ],
+            "title": "Le politiche per lo spettacolo dal vivo fra Stato e Regioni",
+            "year": 2023,
+            "publisher": "FrancoAngeli",
+            "address": "Milano",
+            "keywords": [
+                "Stato",
+                "Regioni",
+                "Spettacolo",
+                "Competenza",
+                "Riforme"
+            ],
+            "isbn": "9788835145639",
+            "pages": "17--70"
+        },
+        {
+            "type": "poster",
+            "id": "11585/942853",
+            "author": [
+                "Stefano Barzaghi",
+                "Fabio Collina",
+                "Fabrizio Fabbri",
+                "Fabio Giacomini",
+                "Alberto Bordignon",
+                "Riccardo Balzani",
+                "Giovanni Bitelli",
+                "Francesco Bonifazi",
+                "Luca Cipriani",
+                "Simone Colitti",
+                "Michele Daquino",
+                "Bruno Fanini",
+                "Federico Fantini",
+                "Davide Ferdani",
+                "Gabriele Fiorini",
+                "Enrico Formia",
+                "Alessandro Forte",
+                "Vittorio Antonio Girelli",
+                "Bruno Gualandi",
+                "Ivan Heibi",
+                "Andrea Iannucci",
+                "Riccardo Manganelli del Fa",
+                "Andrea Massari",
+                "Andrea Moretti",
+                "Stefano Peroni",
+                "Sofia Pescarin",
+                "Giovanni Renda",
+                "Daniele Ronchi",
+                "Marco Sullini",
+                "Marco Antonio Tini",
+                "Francesca Tomasi",
+                "Luca Travaglini",
+                "Luca Vittuari"
+            ],
+            "title": "Digitisation of temporary exhibitions: the Aldrovandi case",
+            "year": 2023,
+            "address": "Lecce, Italy",
+            "booktitle": "GCH23 - Eurographics Workshop on Graphics and Cultural Heritage",
+            "keywords": [
+                "digital cultural heritage",
+                "digital twins",
+                "photogrammetry",
+                "preservation of temporary exhibitions",
+                "structured light scanning"
+            ]
+        },
+        {
+            "type": "article",
+            "id": "11585/851701",
+            "author": [
+                "Gino Cattani",
+                "Mariachiara Colucci",
+                "Simone Ferriani"
+            ],
+            "title": "From the Margins to the Core of Haute Couture: The Entrepreneurial Journey of Coco Chanel",
+            "year": 2023,
+            "journal": "ENTERPRISE & SOCIETY",
+            "volume": 24,
+            "keywords": [
+                "chanel",
+                "entrepreneurship",
+                "fashion",
+                "innovation",
+                "women in business",
+                "outsider"
+            ],
+            "url": "https://www.cambridge.org/core/journals/enterprise-and-society/article/from-the-margins-to-the-core-of-haute-couture-the-entrepreneurial-journey-of-coco-chanel/2EB663E94E9C67F6CB3B9CF962242FAD#article",
+            "doi": "10.1017/eso.2021.58",
+            "pages": "546--588"
+        },
+        {
+            "type": "conference",
+            "id": "11585/951134",
+            "author": [
+                "Giuseppe De Palma",
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Matteo Trentin",
+                "Gianluigi Zavattaro"
+            ],
+            "title": "Custom Serverless Function Scheduling Policies: An APP Tutorial",
+            "year": 2023,
+            "publisher": "Schloss Dagstuhl - Leibniz Center for Informatic",
+            "address": "Virtual",
+            "booktitle": "Joint Post-proceedings of the Third and Fourth International Conference on Microservices (Microservices 2020/2022)",
+            "volume": 111,
+            "keywords": [
+                "Serverless",
+                "Function Scheduling",
+                "Declarative Languages",
+                "Tutorial"
+            ],
+            "url": "https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.Microservices.2020-2022.5",
+            "doi": "10.4230/oasics.microservices.2020-2022.5",
+            "pages": "1--16"
+        },
+        {
+            "type": "article",
+            "id": "11585/933504",
+            "author": [
+                "Davide Berardi",
+                "Saverio Giallorenzo",
+                "Andrea Melis",
+                "Simone Melloni",
+                "Loris Onori",
+                "Marco Prandini"
+            ],
+            "title": "Data Flooding against Ransomware: Concepts and Implementations",
+            "year": 2023,
+            "journal": "COMPUTERS & SECURITY",
+            "volume": 131,
+            "keywords": [
+                "Ransomware",
+                "Detection",
+                "Mitigation",
+                "Restoration",
+                "Honeypot",
+                "Moving-target",
+                "Defence",
+                "Resource",
+                "Contention",
+                "Ranflood"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/pii/S0167404823002055",
+            "doi": "10.1016/j.cose.2023.103295",
+            "pages": "1--20"
+        },
+        {
+            "type": "article",
+            "id": "11585/955211",
+            "author": [
+                "Giuseppe De Palma",
+                "Saverio Giallorenzo",
+                "Jacopo Mauro",
+                "Matteo Trentin",
+                "Gianluigi Zavattaro"
+            ],
+            "title": "Formally Verifying Function Scheduling Properties in Serverless Applications",
+            "year": 2023,
+            "journal": "IEEE Computer Society",
+            "volume": 25,
+            "keywords": [
+                "Cloud computing",
+                "Functions-as-a-Service",
+                "Formal methods"
+            ],
+            "url": "https://ieeexplore.ieee.org/document/10411728",
+            "doi": "10.1109/MITP.2023.3333071",
+            "pages": "94--99"
+        },
+        {
+            "type": "article",
+            "id": "11585/950020",
+            "author": [
+                "Saverio Giallorenzo",
+                "Francesco Montesi",
+                "Matteo Peressotti",
+                "Florian Rademacher"
+            ],
+            "title": "LEMMA2Jolie: A tool to generate microservice APIs from domain models",
+            "year": 2023,
+            "journal": "SCIENCE OF COMPUTER PROGRAMMING",
+            "volume": 228,
+            "keywords": [
+                "Microservices",
+                "Model-driven engineering",
+                "Domain-driven design",
+                "LEMMA",
+                "Jolie"
+            ],
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167642323000382",
+            "doi": "10.1016/j.scico.2023.102956",
+            "pages": "1--11"
+        },
+        {
+            "type": "conference",
+            "id": "11585/951133",
+            "author": [
+                "Saverio Giallorenzo",
+                "Fabrizio Montesi",
+                "Marco Peressotti",
+                "Florian Rademacher"
+            ],
+            "title": "Model-Driven Code Generation for Microservices: Service Models",
+            "year": 2023,
+            "publisher": "Schloss Dagstuhl- Leibniz-Zentrum fur Informatik GmbH, Dagstuhl Publishing",
+            "address": "Virtual",
+            "booktitle": "Joint Post-proceedings of the Third and Fourth International Conference on Microservices (Microservices 2020/2022)",
+            "volume": 111,
+            "keywords": [
+                "Microservices",
+                "Model-driven Engineering",
+                "Code Generation",
+                "Jolie APIs"
+            ],
+            "url": "https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.Microservices.2020-2022.6",
+            "doi": "10.4230/oasics.microservices.2020-2022.6",
+            "pages": "1--17"
+        },
+        {
+            "type": "conference",
+            "id": "11585/950021",
+            "author": [
+                "Giuseppe De Palma",
+                "Saverio Giallorenzo",
+                "Cosimo Laneve",
+                "Jacopo Mauro",
+                "Matteo Trentin",
+                "Gianluigi Zavattaro"
+            ],
+            "title": "Serverless Scheduling Policies based on Cost Analysis",
+            "year": 2023,
+            "journal": "ELECTRONIC PROCEEDINGS IN THEORETICAL COMPUTER SCIENCE",
+            "volume": 392,
+            "keywords": [
+                "Serverless",
+                "Function Allocation",
+                "Cost Analysis"
+            ],
+            "url": "https://arxiv.org/html/2310.18720",
+            "doi": "10.4204/EPTCS.392.3",
+            "pages": "40--52"
+        },
+        {
+            "type": "article",
+            "id": "11585/956461",
+            "author": [
+                "Andrea Guizzardi",
+                "Michele Costa"
+            ],
+            "title": "Mapping the Tourism Industry: Insights and Implications",
+            "year": 2023,
+            "journal": "TURISTICA",
+            "volume": 32,
+            "keywords": [
+                "Tourism employment",
+                "Missing data imputation",
+                "Statistical archives\u2019 integration",
+                "Agritourism",
+                "Emilia-Romagna region"
+            ],
+            "url": "https://www.turistica.it/journal/index.php/turistica/article/view/36",
+            "pages": "61--78"
+        },
+        {
+            "type": "article",
+            "id": "11585/979074",
+            "author": [
+                "Ercolino Ranieri",
+                "Andrea Guizzardi"
+            ],
+            "title": "Sustainability in business practice: Price and value",
+            "year": 2023,
+            "journal": "STATISTICA APPLICATA",
+            "volume": 35,
+            "keywords": [
+                "Competitive advantage",
+                "Price Premium",
+                "Market value and finance",
+                "Social Commitment"
+            ],
+            "url": "https://www.sa-ijas.org/ojs/index.php/sa-ijas/issue/view/150",
+            "doi": "10.26398/asaproc.0059",
+            "pages": "359--364"
+        },
+        {
+            "type": "conference",
+            "id": "11585/732472",
+            "author": [
+                "Alessandro Maggio",
+                "Luca Giuliani",
+                "Roberto Calegari",
+                "Michele Lombardi",
+                "Michela Milano"
+            ],
+            "title": "A geometric framework for fairness",
+            "year": 2023,
+            "journal": "CEUR-WS",
+            "address": "pol",
+            "volume": 3523,
+            "keywords": [
+                "AI fairness",
+                "GEOFFair",
+                "geometric framework"
+            ],
+            "url": "https://ceur-ws.org/Vol-3523/paper9.pdf",
+            "doi": "10.1109/TNET.2007.896231",
+            "pages": "1073--1083"
+        },
+        {
+            "type": "conference",
+            "id": "11585/995051",
+            "author": [
+                "Alessandro De Filippo",
+                "Michela Milano",
+                "Valentina Presutti",
+                "Anastasios Saffiotti"
+            ],
+            "title": "CREAI 2023 - Preface to the Second Workshop on Artificial Intelligence and Creativity",
+            "year": 2023,
+            "publisher": "CEUR-WS",
+            "address": "Roma",
+            "volume": "3519",
+            "booktitle": "CEUR Workshop Proceedings",
+            "keywords": "Artificial Intelligence Creativity",
+            "pages": "1--3"
+        },
+        {
+            "type": "preface",
+            "id": "11585/962308",
+            "author": [
+                "Rocco Calegari",
+                "Alberto Aler",
+                "Tom\u00e1s Gabriel",
+                "Gonzalo Castane",
+                "Virginia Dignum",
+                "Michela Milano"
+            ],
+            "title": "Preface: Fairness and Bias in AI: Insights from AEQUITAS 2023",
+            "year": 2023,
+            "publisher": "Sun SITE Central Europe (CEUR), Technical University of Aachen (RWTH)",
+            "booktitle": "CEUR Workshop Proceedings",
+            "volume": "3523",
+            "keywords": [
+                "AI fairness",
+                "AI bias",
+                "AI equity",
+                "AI equality"
+            ],
+            "pages": "1--2"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/962621",
+            "author": [
+                "Roberta Calegari",
+                "Andrea Aler Tubella",
+                "Gabriel Gonz\u00e1lez Castane",
+                "Virginia Dignum",
+                "Michela Milano"
+            ],
+            "title": "Proceedings of the 1st Workshop on Fairness and Bias in AI, AEQUITAS 2023 co-located with 26th European Conference on Artificial Intelligence (ECAI 2023)",
+            "year": 2023,
+            "journal": "CEUR WORKSHOP PROCEEDINGS",
+            "keywords": [
+                "AI fairness",
+                "AI bias"
+            ],
+            "url": "https://ceur-ws.org/Vol-3523/",
+            "pages": "1-221"
+        },
+        {
+            "type": "conference",
+            "id": "11585/995839",
+            "author": [
+                "Allegra De Filippo",
+                "Michela Milano"
+            ],
+            "title": "Robotic Choreography Creation Through Symbolic AI Techniques",
+            "year": 2023,
+            "address": "Bologna, Italy",
+            "booktitle": "International Conference on Entertainment Computing",
+            "keywords": [
+                "Creativity",
+                "Artificial Intelligence",
+                "Robotic Dance"
+            ],
+            "doi": "10.1007/978-981-99-8248-6_30",
+            "isbn": [
+                "9789819982479",
+                "9789819982486"
+            ],
+            "pages": "346--351"
+        },
+        {
+            "type": "conference",
+            "id": "11585/988515",
+            "author": [
+                "Giulia Spillo",
+                "Alessandro De Filippo",
+                "Claudio Musto",
+                "Michela Milano",
+                "Giuseppe Semeraro"
+            ],
+            "title": "Towards Sustainability-aware Recommender Systems: Analyzing the Trade-off Between Algorithms Performance and Carbon Footprint",
+            "year": 2023,
+            "publisher": "Association for Computing Machinery, Inc",
+            "address": "Singapore",
+            "booktitle": "Proceedings of the 17th ACM Conference on Recommender Systems, RecSys 2023",
+            "keywords": [
+                "carbon footprint",
+                "evaluation",
+                "non-accuracy metrics",
+                "recommender systems",
+                "sustainability"
+            ],
+            "doi": "10.1145/3604915.3608840",
+            "isbn": "9798400702419",
+            "pages": "856--862"
+        },
+        {
+            "type": "conference",
+            "id": "11585/944313",
+            "author": [
+                "Allegra De Filippo",
+                "Luca Giuliani",
+                "Eleonora Mancini",
+                "Andrea Borghesi",
+                "Paola Mello",
+                "Michela Milano"
+            ],
+            "title": "Towards Symbiotic Creativity: A Methodological Approach to Compare Human and AI Robotic Dance Creations",
+            "year": 2023,
+            "publisher": "ijcai",
+            "address": "Macao",
+            "booktitle": "Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence",
+            "keywords": [
+                "Creativity",
+                "Artificial Intelligence",
+                "Planning",
+                "Aesthetic Evaluation"
+            ],
+            "url": "https://www.ijcai.org/proceedings/2023/644",
+            "doi": "10.24963/ijcai.2023/644",
+            "isbn": "978-1-956792-03-4",
+            "pages": "5806--5814"
+        },
+        {
+            "type": "ractabst",
+            "id": "11585/959095",
+            "author": [
+                "Vojtoch Malunek",
+                "Tomasz Umerle",
+                "Mikko Tolonen",
+                "Agnieszka Karlizska",
+                "Matteo Romanello",
+                "Giovanni Colavizza",
+                "Silvio Peroni",
+                "Dorota Siwecka",
+                "Jakub Maciej Nubocki",
+                "Nanette Riuler-Pipka",
+                "David Lindemann",
+                "Penny Labropoulou",
+                "Christiane Klaes"
+            ],
+            "title": "Fostering Collaboration to Enable Bibliodata-driven Research in the Humanities",
+            "year": 2023,
+            "address": "Graz, Austria",
+            "booktitle": "Digital Humanities 2023: Book of Abstracts",
+            "keywords": [
+                "bibliographic analysis",
+                "cultural analytics",
+                "citations"
+            ],
+            "doi": "10.5281/zenodo.8107517",
+            "pages": "445--448"
+        },
+        {
+            "type": "trusteeship",
+            "id": "11585/959644",
+            "author": [
+                "Marco Santoro",
+                "Chiara Tartarini"
+            ],
+            "title": "Pierre Bourdieu. Il mercato dei beni simbolici e altri scritti sull'arte",
+            "year": 2023,
+            "publisher": "Meltemi",
+            "keywords": [
+                "Bourdieu",
+                "Storia dell'arte",
+                "sociologia",
+                "Mercato de beni simbolici",
+                "Piet\u00e0 religiosa e devozione artistica",
+                "Chi ha creato i creatori",
+                "Istituzionalizzazione dell'anomia"
+            ],
+            "isbn": "978-88-5519-886-8",
+            "pages": "1--287"
+        },
+        {
+            "type": "article",
+            "id": "11585/925597",
+            "author": [
+                "Debbie J. Dupuis",
+                "Luca Trapin"
+            ],
+            "title": "Mixed-frequency extreme value regression: Estimating the effect of mesoscale convective systems on extreme rainfall intensity",
+            "year": 2023,
+            "journal": "THE ANNALS OF APPLIED STATISTICS",
+            "volume": 17,
+            "keywords": [
+                "Extreme value regression",
+                "mesoscale convective systems",
+                "mixed-frequency data",
+                "rainfall intensity"
+            ],
+            "doi": "10.1214/22-AOAS1675",
+            "pages": "1398--1418"
+        },
+        {
+            "type": "article",
+            "id": "11585/914684",
+            "author": [
+                "Debbie J. Dupuis",
+                "Sebastian Engelke",
+                "Luca Trapin"
+            ],
+            "title": "Modeling panels of extremes",
+            "year": 2023,
+            "journal": "THE ANNALS OF APPLIED STATISTICS",
+            "volume": 17,
+            "keywords": [
+                "Clustering",
+                "extreme value regression",
+                "panel data",
+                "risk assessment"
+            ],
+            "doi": "10.1214/22-AOAS1639",
+            "pages": "498--517"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "[recensione a] G. LEOPARDI, Canti, a cura di L. Blasucci, Milano-Parma, Fondazione Pietro Bembo-Guanda, 2021",
+            "year": 2023,
+            "journal": "FILOLOGIA E CRITICA",
+            "volume": 46,
+            "keywords": [
+                "Poesia",
+                "Leopardi",
+                "Canti"
+            ],
+            "url": "https://www.rivisteweb.it/issn/0391-2493/issues",
+            "pages": "455-460"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Ilaria Burattini"
+            ],
+            "title": "[Recensione a] Roberta Colombi, La verit\u00e0 della finzione. Il romanzo e la storia da Manzoni a Nievo di Ilaria Burattini, in Studium Ricerca, n.1/2023",
+            "year": 2023,
+            "journal": "STUDIUM",
+            "volume": 119,
+            "keywords": [
+                "Romanzo storico",
+                "Nievo",
+                "Manzoni"
+            ],
+            "url": "https://www.edizionistudium.it/riviste/studium-ricerca-n-1-2023",
+            "pages": "377-393",
+            "number": 1
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Valentina Pasqual",
+                "Francesca Tomasi"
+            ],
+            "title": "Data narratives with Linked Open Data, the case of mythLOD storytelling",
+            "year": 2023,
+            "keywords": [
+                "Semantic Collection",
+                "Linked Open Data",
+                "Mythologiae",
+                "Storytelling",
+                "Digital Hermeneutics"
+            ],
+            "doi": "10.5281/zenodo.8107673",
+            "pages": "283-284"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Valentina Pasqual",
+                "Carlo Teo Pedretti",
+                "Andrea Schimmenti",
+                "Francesca Tomasi",
+                "Fabio Vitali"
+            ],
+            "title": "Non-representational approaches to visualise complex information in the Cultural Heritage domain",
+            "year": 2023,
+            "keywords": [
+                "Data visualisation",
+                "RDF",
+                "Linked Data",
+                "Higraphs",
+                "Modeling and visualization",
+                "Critical Design"
+            ],
+            "doi": "10.5281/zenodo.7961821",
+            "pages": "376-378"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Enrica Bruno",
+                "Valentina Pasqual",
+                "Francesca Tomasi"
+            ],
+            "title": "ODI and BACODI: a study on Destini incrociati by Italo Calvino with Semantic Web Technologies",
+            "year": 2023,
+            "keywords": [
+                "Semantic Web",
+                "Italo Calvino",
+                "Narratology",
+                "Knowledge Graph",
+                "Digital Humanities"
+            ],
+            "url": "http://www.aiucd.it/wp-content/uploads/2023/06/2023_aiucd_la_memoria_digitale_v1.pdf",
+            "pages": "35-40"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Alessio Di Pasquale",
+                "Valentina Pasqual",
+                "Francesca Tomasi",
+                "Fabio Vitali"
+            ],
+            "title": "Representation of critical discourses in the humanities within Wikidata",
+            "year": 2023,
+            "keywords": [
+                "Wikidata",
+                "Reification",
+                "Knowledge Representation",
+                "Cultural Heritage"
+            ],
+            "doi": "10.5281/zenodo.8107887",
+            "pages": "393-395"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Roberta Priore",
+                "Beatrice Nava"
+            ],
+            "title": "Codificare (al)l\u00e2\u20ac\u2122Infinito",
+            "year": 2023,
+            "keywords": [
+                "Authorial Philology; DSE; Leopardi"
+            ],
+            "url": "https://www.aiucd.it/atti-convegno-aiucd-2023/",
+            "pages": "421-423"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Paolo Bonora",
+                "Martina Dello Buono",
+                "Francesca Giovannetti",
+                "Francesca Tomasi"
+            ],
+            "title": "Tell Me the Truth. Validating the Semantic Alignment between the Annotation User Interface and the Knowledge Base",
+            "year": 2023,
+            "keywords": [
+                "Semantic Alignment",
+                "Annotation User Interface"
+            ],
+            "url": "https://dh2023.adho.org/",
+            "doi": "10.5281/zenodo.7961822",
+            "pages": "202-204"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Martina Dello Buono",
+                "Francesca Tomasi"
+            ],
+            "title": "\u00c5\u0161ivadharma Database CMS. HTML and graph as a starting point for digital editions",
+            "year": 2023,
+            "keywords": [
+                "Digital Scholarly Editing; Text Encoding; HTML; Graph Database; CMS"
+            ],
+            "pages": "65-70"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Roberta Priore"
+            ],
+            "title": "Dai 'Pensieri di varia filosofia e bella letteratura' a 'Digitalzibaldone'. Con una nuova proposta di edizione digitale",
+            "year": 2023,
+            "keywords": [
+                "Leopardi; Zibaldone; edizioni"
+            ],
+            "url": "https://wydawnictwo.uksw.edu.pl/ksiegarnia/1190-leopardi-oltre-la-letteratura-lo-zibaldone-nella-cultura-contemporanea.html",
+            "pages": "179-193"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Bruno Sartini",
+                "Sofia Baroncini"
+            ],
+            "title": "A Comparative Study of Simple and Complex Art Interpretations in Linked Open Data Using ICON Ontology",
+            "year": 2023,
+            "volume": 3540,
+            "keywords": [
+                "Iconographical and iconological interpretations",
+                "Artworks",
+                "Semantic Web",
+                "Ontologies"
+            ],
+            "url": "https://ceur-ws.org/Vol-3540/",
+            "pages": "1-12"
+        },
+        {
+            "type": "book",
+            "author": [
+                "Bruno Sartini"
+            ],
+            "title": "Connecting works of art within the semantic web of symbolic meanings",
+            "year": 2023,
+            "keywords": [
+                "Symbolism; Linked Open Data; Semantic Web; Cultural Heritage; Knowledge Graph; Ontology Engineering"
+            ],
+            "url": "http://amsdottorato.unibo.it/id/eprint/11020",
+            "doi": "10.48676/unibo/amsdottorato/11020",
+            "pages": "1-236"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Bruno Sartini",
+                "Sofia Baroncini",
+                "Marieke Van Erp",
+                "Francesca Tomasi",
+                "Aldo Gangemi"
+            ],
+            "title": "ICON: an Ontology for Comprehensive Artistic Interpretations",
+            "year": 2023,
+            "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
+            "volume": 16,
+            "keywords": [
+                "iconology",
+                "iconography",
+                "art interpretation",
+                "Ontologies",
+                "cultural heritage",
+                "semantic web"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3594724",
+            "doi": "10.1145/3594724",
+            "pages": "1-38",
+            "number": 3
+        },
+        {
+            "type": "article",
+            "author": [
+                "Sofia Baroncini",
+                "Bruno Sartini",
+                "Marieke Van Erp",
+                "Francesca Tomasi",
+                "Aldo Gangemi"
+            ],
+            "title": "Is dc:subject enough? A landscape on iconography and iconology statements of knowledge graphs in the semantic web",
+            "year": 2023,
+            "journal": "JOURNAL OF DOCUMENTATION",
+            "volume": 79,
+            "keywords": [
+                "Knowledge graph evaluation",
+                "Iconology",
+                "Iconography",
+                "Visual works"
+            ],
+            "url": "https://www.emerald.com/insight/content/doi/10.1108/JD-09-2022-0207/full/html",
+            "doi": "10.1108/JD-09-2022-0207",
+            "pages": "115-136",
+            "number": 7
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Bruno Sartini",
+                "Andrei Nesterov",
+                "Claudia Libbi",
+                "Ryan Brate",
+                "Shoilee Sarah Binta Alam",
+                "Savvina Daniil"
+            ],
+            "title": "Multivocal Exhibition: a user-centric application to explore symbolic interpretations of artefacts from different cultural perspectives",
+            "year": 2023,
+            "keywords": [
+                "Linked Open Data",
+                "Symbolism",
+                "Virtual Reality",
+                "Cultural Heritage"
+            ],
+            "url": "https://spice-h2020.eu/conference/papers/posters/ExICE23_paper_7072.pdf"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Fabrizio Fabbri",
+                "Federico Collina",
+                "Simone Barzaghi"
+            ],
+            "title": "AI and chatbots as a storytelling tool to personalize the visitor experience. The case of National Museum of Ravenna.",
+            "year": 2023,
+            "keywords": [
+                "Artificial Intelligence",
+                "Machine learning",
+                "Chatbots",
+                "Museum"
+            ]
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Giulia Renda",
+                "Marco Grasso",
+                "Marilena Daquino"
+            ],
+            "title": "From ontology design to user-centred interfaces for music heritage",
+            "year": 2023,
+            "keywords": [
+                "Computer Science - Human-Computer Interaction",
+                "Computer Science - Human-Computer Interaction",
+                "Computer Science - Information Theory",
+                "Mathematics - Information Theory"
+            ],
+            "url": "http://arxiv.org/abs/2306.12973v1",
+            "doi": "10.48550/arXiv.2306.12973",
+            "pages": "168-172"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Marilena Daquino",
+                "Giulia Renda"
+            ],
+            "title": "MELODY",
+            "year": 2023,
+            "keywords": [
+                "data visualization",
+                "linked open data"
+            ],
+            "url": "https://github.com/polifonia-project/dashboard"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "Archival Finding Aids in Linked Open Data between description and interpretation",
+            "year": 2023,
+            "journal": "JLIS.IT",
+            "volume": 14,
+            "keywords": [
+                "Semantic Web",
+                "Digital Hermeneutics",
+                "Interpretation",
+                "Trustworthiness",
+                "Digital Humanities"
+            ],
+            "url": "https://www.jlis.it/index.php/jlis/article/view/557",
+            "doi": "10.36253/jlis.it-557",
+            "pages": "134-146",
+            "number": 3
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Sofia Baroncini",
+                "Marilena Daquino",
+                "Francesca Tomasi"
+            ],
+            "title": "Are domain-specific theoretical approaches valuable for the application of new computational methods? The case study of Erwin Panofsky's artworks interpretations and the semantic web",
+            "year": 2023,
+            "keywords": [
+                "iconology",
+                "iconography",
+                "semantic web",
+                "linked open data",
+                "Erwin Panofsky"
+            ],
+            "url": "https://zenodo.org/record/8321994",
+            "doi": "10.5281/zenodo.8321994",
+            "pages": "1-14"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Marilena Daquino",
+                "Mari Wigham",
+                "Enrico Daga",
+                "Lucia Giagnolini",
+                "Francesca Tomasi"
+            ],
+            "title": "CLEF. A Linked Open Data native system for Crowdsourcing",
+            "year": 2023,
+            "journal": "ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE",
+            "volume": 16,
+            "keywords": [
+                "Crowdsourcing",
+                "Linked Data",
+                "Cultural Heritage"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3594721",
+            "doi": "10.1145/3594721",
+            "pages": "1-17",
+            "number": 3
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paolo Bonora",
+                "Lucia Giagnolini",
+                "Alessandra Di Tella",
+                "Francesca Tomasi"
+            ],
+            "title": "Digital Library di dipartimento: da collettore di risorse digitali a strumento per la ricerca, la didattica e la terza missione",
+            "year": 2023,
+            "journal": "BIBLIOTHECAE.IT",
+            "volume": 12,
+            "keywords": [
+                "Digital library",
+                "biblioteche universitarie",
+                "digitalizzazione",
+                "digital curation",
+                "mostre virtuali",
+                "digital texts"
+            ],
+            "url": "https://bibliothecae.unibo.it/article/view/18712",
+            "doi": "10.6092/issn.2283-9364/18712",
+            "pages": "443-463",
+            "number": 2
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Sofia Baroncini",
+                "Marilena Daquino",
+                "Francesca Tomasi"
+            ],
+            "title": "Exploring iconographical and iconological content in semantic data through art historians' interpretations",
+            "year": 2023,
+            "keywords": [
+                "Data exploration",
+                "dynamic digital collections",
+                "iconography",
+                "iconology",
+                "art history",
+                "art interpretation",
+                "Linked Open Data"
+            ],
+            "url": "https://www.aiucd.it/atti-convegno-aiucd-2023/",
+            "doi": "10.6092/unibo/amsacta/7721",
+            "pages": "9-14"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Francesca Tomasi"
+            ],
+            "title": "Il digitale come strumento critico",
+            "year": 2023,
+            "keywords": [
+                "Digital Humanities",
+                "Organizzazione della conoscenza",
+                "Ontologie"
+            ],
+            "url": "https://www.editricebibliografica.it/scheda-libro/autori-vari/umanesimo-digitale-9788893574365-580975.html",
+            "doi": "10.53134/9788893574365-15",
+            "pages": "15-17"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Fiammetta Sabba",
+                "Francesca Tomasi",
+                "Silvia Tripodi",
+                "Laurent Antoine Fintoni"
+            ],
+            "title": "L'Universit\u00e0 di Bologna a supporto dell'ecosistema digitale della cultura presso il Ministero della Cultura",
+            "year": 2023,
+            "volume": 1,
+            "keywords": [
+                "Digital Library - Ministero della Cultura - Patrimonio digitale - Digitalizzazione - Infrastruttura digitale - Ecosistema digitale - Digital Library - Ministry of Culture - Digital heritage - Digitization - Digital infrastructure - Digital ecosystem"
+            ],
+            "url": "https://www.editricebibliografica.it/scheda-libro/autori-vari/visioni-future-next-generation-library-vol1-9788893575324-580728.html",
+            "doi": "10.53134/9788893575324-045",
+            "pages": "45-50"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Arcangelo Massari",
+                "Silvio Peroni",
+                "Francesca Tomasi",
+                "Ivan Heibi"
+            ],
+            "title": "Representing provenance and track changes of cultural heritage metadata in RDF: a survey of existing approaches",
+            "year": 2023,
+            "keywords": [
+                "provenance, change-tracking, RDF, Digital Humanities"
+            ],
+            "doi": "10.48550/arxiv.2305.08477",
+            "pages": "1-10"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Francesca Tomasi",
+                "Fabio Vitali"
+            ],
+            "title": "Semantic Web, Linked Data e beni culturali",
+            "year": 2023,
+            "keywords": [
+                "Semantic Web",
+                "Linked Open Data",
+                "Beni culturali",
+                "Zeri & LODe",
+                "Standard"
+            ],
+            "url": "https://www.carocci.it/prodotto/digital-humanities",
+            "pages": "137-159"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Martina Dello Buono",
+                "Francesca Tomasi"
+            ],
+            "title": "\u015aivadharma Database CMS. HTML and graph as a starting point for digital editions",
+            "year": 2023,
+            "keywords": [
+                "Digital Scholarly Editing; Text Encoding; HTML; Graph Database; CMS"
+            ],
+            "pages": "65-70"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Blanke Tobias",
+                "Giovanni Colavizza",
+                "Zarah van Hout"
+            ],
+            "title": "An open educational resource to introduce data analysis in Python for the Humanities",
+            "year": 2023,
+            "journal": "EDUCATION FOR INFORMATION",
+            "volume": 39,
+            "keywords": [
+                "Digital humanities; open education; data analysis; Python"
+            ],
+            "url": "https://content.iospress.com/articles/education-for-information/efi230020",
+            "doi": "10.3233/EFI-230020",
+            "pages": "105-119",
+            "number": 2
+        },
+        {
+            "type": "article",
+            "author": [
+                "Henk Alkemade",
+                "Steven Claeyssens",
+                "Giovanni Colavizza",
+                "Nuno Freire",
+                "Jurg Lehmann",
+                "Clemens Neudeker",
+                "Giulia Osti",
+                "Daniel van Strien"
+            ],
+            "title": "Datasheets for Digital Cultural Heritage Datasets",
+            "year": 2023,
+            "journal": "JOURNAL OF OPEN HUMANITIES DATA",
+            "volume": 9,
+            "keywords": [
+                "datasheets; datasets; digital cultural heritage; model cards; machine learning; GLAM institutions"
+            ],
+            "url": "https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124",
+            "doi": "10.5334/johd.124",
+            "pages": "1-11",
+            "number": 17
+        },
+        {
+            "type": "article",
+            "author": [
+                "Natallia Kokash",
+                "Matteo Romanello",
+                "Ernest Suyver",
+                "Giovanni Colavizza"
+            ],
+            "title": "From Books to Knowledge Graphs",
+            "year": 2023,
+            "journal": "JOURNAL OF DATA MINING AND DIGITAL HUMANITIES",
+            "volume": 2023,
+            "keywords": [
+                "Citation mining; Reference mining; Bibliometrics; Knowledge graphs"
+            ],
+            "url": "https://jdmdh.episciences.org/11062",
+            "doi": "10.46298/jdmdh.9380",
+            "pages": "1-23"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Lukas G. S. Jeub",
+                "Giovanni Colavizza",
+                "Xiaoyong Dong",
+                "Michele Bazzi",
+                "Miklos Cucuringu"
+            ],
+            "title": "Local2Global: a distributed approach for scaling representation learning on graphs",
+            "year": 2023,
+            "journal": "MACHINE LEARNING",
+            "volume": 112,
+            "keywords": [
+                "Distributed training; Group synchronization; Scalable graph embedding"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s10994-022-06285-7",
+            "doi": "10.1007/s10994-022-06285-7",
+            "pages": "1663-1692",
+            "number": 5
+        },
+        {
+            "type": "article",
+            "author": [
+                "Giovanni Colavizza"
+            ],
+            "title": "Seller-buyer networks in NFT art are driven by preferential ties",
+            "year": 2023,
+            "journal": "FRONTIERS IN BLOCKCHAIN",
+            "volume": 5,
+            "keywords": [
+                "art; NFT art; network analysis; NFTs; social networks (online)"
+            ],
+            "url": "https://www.frontiersin.org/articles/10.3389/fbloc.2022.1073499/full",
+            "doi": "10.3389/fbloc.2022.1073499",
+            "pages": "1-12"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Marilena Daquino"
+            ],
+            "title": "Polifonia",
+            "year": 2023,
+            "keywords": [
+                "music heritage",
+                "semantic web",
+                "data visualization"
+            ],
+            "url": "https://polifonia-project.eu"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Giuseppe Carrino",
+                "Angelo Di Iorio",
+                "Gioele Barabucci"
+            ],
+            "title": "Comparison of news commonality and churn in international news outlets with TARO",
+            "year": 2023,
+            "keywords": [
+                "Computational journalism; churnalism; news churn; news analysis; news diffusion; online news publication"
+            ],
+            "url": "https://dl.acm.org/doi/10.1145/3603163.3609062",
+            "doi": "10.1145/3603163.3609062",
+            "pages": "1-10"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Martina Benvenuti",
+                "Claudia Scorolli",
+                "Angelo Di Iorio",
+                "Matthew Pelowski",
+                "Alice Chirico"
+            ],
+            "title": "Computers in Human Behavior",
+            "year": 2023,
+            "journal": "COMPUTERS IN HUMAN BEHAVIOR",
+            "keywords": [
+                "psychology",
+                "human-computer interaction",
+                "psychiatry"
+            ],
+            "url": "https://www.sciencedirect.com/journal/computers-in-human-behavior"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luana Bulla",
+                "Stefano De Giorgis",
+                "Aldo Gangemi",
+                "Chiara Lucifora",
+                "Misael Mongiovi"
+            ],
+            "title": "Comparing User Perspectives in a Virtual Reality Cultural Heritage Environment",
+            "year": 2023,
+            "keywords": [
+                "Virtual Reality; Cultural Heritage; User Perspectives"
+            ],
+            "pages": "3-15"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luana Bulla",
+                "Stefano De Giorgis",
+                "Aldo Gangemi",
+                "Chiara Lucifora",
+                "Misael Mongiovi"
+            ],
+            "title": "Comparing User Perspectives in a Virtual Reality Cultural Heritage Environment",
+            "year": 2023,
+            "volume": "13901 LNCS",
+            "keywords": [
+                "Virtual Reality",
+                "Cultural Heritage",
+                "Social Inclusion",
+                "Knowledge Graphs"
+            ],
+            "doi": "10.1007/978-3-031-34560-9_1",
+            "pages": "3-15"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Chiara Lucifora",
+                "Claudia Scorolli",
+                "Aldo Gangemi"
+            ],
+            "title": "CREON: A Creative Ontology based on Psychological and Neuroscientific Studies",
+            "year": 2023,
+            "keywords": [
+                "Ontology; Creativity; Psychological theories; Neural Patterns"
+            ],
+            "url": "https://dblp.org/db/conf/creai/creai2023.html",
+            "pages": "1-11"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luana Bulla",
+                "Stefano De Giorgis",
+                "Aldo Gangemi",
+                "Lucia Marinucci",
+                "Misael Mongiovi"
+            ],
+            "title": "Detection of Morality in Tweets Based on the Moral Foundation Theory",
+            "year": 2023,
+            "volume": 13810,
+            "keywords": [
+                "Moral foundation theory; Text classification; Transformers"
+            ],
+            "doi": "10.1007/978-3-031-25599-1_1",
+            "pages": "1-13"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Sara Coppini",
+                "Chiara Lucifora",
+                "Carmelo M. Vicario",
+                "Aldo Gangemi"
+            ],
+            "title": "Experiments on real-life emotions challenge Ekman's model",
+            "year": 2023,
+            "journal": "SCIENTIFIC REPORTS",
+            "volume": 13,
+            "keywords": [
+                "human behaviour",
+                "psychology",
+                "emotions"
+            ],
+            "url": "https://www.nature.com/articles/s41598-023-36201-5",
+            "doi": "10.1038/s41598-023-36201-5",
+            "pages": "1-12",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Luigi Marinucci",
+                "Caterina Mazzuca",
+                "Aldo Gangemi"
+            ],
+            "title": "Exposing implicit biases and stereotypes in human and artificial intelligence: state of the art and challenges with a focus on gender",
+            "year": 2023,
+            "journal": "AI & SOCIETY",
+            "volume": 38,
+            "keywords": [
+                "Knowledge graph; Word embeddings; Implicit biases; Gender; Cognitive semantics"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s00146-022-01474-3",
+            "doi": "10.1007/s00146-022-01474-3",
+            "pages": "747-761",
+            "number": 2
+        },
+        {
+            "type": "article",
+            "author": [
+                "Gianluca Gambarelli",
+                "Aldo Gangemi",
+                "Roberto Tripodi"
+            ],
+            "title": "Is Your Model Sensitive? SPeDaC: A New Resource and Benchmark for Training Sensitive Personal Data Classifiers",
+            "year": 2023,
+            "journal": "IEEE ACCESS",
+            "volume": 11,
+            "keywords": [
+                "Foundations of Trustworthy AI, Automated Reasoning, Machine Learning, Combinatorial Optimization"
+            ],
+            "url": "https://ieeexplore.ieee.org/document/10031607",
+            "doi": "10.1109/ACCESS.2023.3240089",
+            "pages": "10864-10880"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Luana Bulla",
+                "Aldo Gangemi",
+                "Misael Mongiovi"
+            ],
+            "title": "Towards Distribution-shift Robust Text Classification of Emotional Content",
+            "year": 2023,
+            "keywords": [
+                "Emotion Detection",
+                "Transformers",
+                "Out-of-distribution"
+            ],
+            "url": "https://aclanthology.org/volumes/2023.findings-acl/",
+            "doi": "10.18653/v1/2023.findings-acl.524",
+            "pages": "8256-8268"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela italia,"
+            ],
+            "title": "Diciotto tonnellate di bronzo, ovvero Manzoni 150 anni dopo",
+            "year": 2023,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": 87,
+            "keywords": [
+                "Alessandro Manzoni",
+                "Epistolario",
+                "Biografia",
+                "Letteratura italiana",
+                "Romanticismo"
+            ],
+            "url": "https://www.vieusseux.it/books/antologia-vieusseux-n-87-settembre-dicembre-2023/",
+            "pages": "109-117",
+            "number": 1
+        },
+        {
+            "type": "book",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Giornale di guerra e di prigionia",
+            "year": 2023,
+            "keywords": [
+                "Carlo Emilio Gadda",
+                "Grande Guerra",
+                "Diari",
+                "Edizione Critica",
+                "Caporetto",
+                "Memorialistica"
+            ],
+            "url": "https://www.adelphi.it/libro/9788845937316",
+            "pages": "545-626"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Il ragno e la tela. Leopardi e Manzoni, strategie di rete a confronto",
+            "year": 2023,
+            "keywords": [
+                "Alessandro Manzoni",
+                "Giacomo Leopardi",
+                "Letteratura italiana",
+                "Canti",
+                "Promessi sposi",
+                "Storia della colonna infame",
+                "Silvio Pellico",
+                "Pietro Maroncelli",
+                "Erich Auerbach",
+                "Mimesis"
+            ],
+            "url": "https://www.mimesisedizioni.it/libro/9791222303956",
+            "pages": "29-50"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Volont\u00e0 di archivio. L'autore, le carte, l'opera, a cura di Paola Italia e Monica Zanardo, Roma, Viella, 2024.",
+            "year": 2023,
+            "volume": 469,
+            "keywords": [
+                "Letteratura Italiana",
+                "Italian Philology",
+                "Archives",
+                "Authorial Philology",
+                "Francesco Petrarca",
+                "Giovanni Boccaccio",
+                "Umanesimo",
+                "Sannazzaro",
+                "Niccol\u00f2 Machiavelli",
+                "Lodovico Ariosto",
+                "Francesco Guicciardini",
+                "Baldassar Castiglione",
+                "Pietro Bembo",
+                "Giovan Giorgio Trissino",
+                "Pietro Aretino",
+                "Giovanni Della Casa",
+                "Annibale Rucellai",
+                "Benedetto Varchi",
+                "Vincenzio Borghini",
+                "Torquato Tasso",
+                "Alessandro Tassoni",
+                "Galileo Galilei",
+                "Giovan Battista Vico",
+                "Pietro Metastasio",
+                "Pietro Verri",
+                "Giuseppe Pelli Bencivenni",
+                "Vittorio Alfieri",
+                "Vincenzo Monti",
+                "Giacomo Leopardi",
+                "Alessandro Manzoni"
+            ],
+            "url": "https://volontadarchivio.disll.unipd.it/il-volume/",
+            "pages": "1-516"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "La mano (e la mente) dell'autore. Nuove prospettive per la Authorial Philology",
+            "year": 2023,
+            "journal": "ANUARIO LOPE DE VEGA",
+            "volume": 29,
+            "keywords": [
+                "Filologia d'autore",
+                "Ecdotica",
+                "Critica delle varianti",
+                "Critica genetica",
+                "Alberto Blecua",
+                "Dante Isella",
+                "Lope de Vega",
+                "Giacomo Leopardi",
+                "Alessandro Manzoni",
+                "Carlo Emilio Gadda"
+            ],
+            "url": "https://revistes.uab.cat/anuariolopedevega/article/view/v29-italia",
+            "doi": "10.5565/rev/anuariolopedevega.488",
+            "pages": "324-350"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "La \u201cfunzione Dante\u201d nell'Ottocento: Foscolo, Manzoni, Leopardi",
+            "year": 2023,
+            "keywords": [
+                "Dante",
+                "Foscolo",
+                "Leopardi",
+                "Manzoni",
+                "Commedia",
+                "Fauriel"
+            ],
+            "url": "https://www.bardiedizioni.it/product/la-ricezione-della-commedia-dai-manoscritti-ai-media/",
+            "pages": "237-252"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Lettere dalla Germania durante la prigionia di guerra (17 novembre 1917-5 gennaio 1918)",
+            "year": 2023,
+            "journal": "IL GADDUS",
+            "volume": 1,
+            "keywords": [
+                "Carlo Emilio Gadda",
+                "Prima Guerra Mondiale",
+                "Caporetto",
+                "Giornale di guerra e di prigionia",
+                "Bonaventura Tecchi",
+                "Ugo Betti",
+                "Adele Gadda Lehr"
+            ],
+            "url": "https://www.mondadoristore.it/Il-gaddus-2023-1-na/eai978888593881/",
+            "pages": "25-38",
+            "number": 1
+        },
+        {
+            "type": "article",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Paola Italia, Gadda e \u201cLa passeggiata autunnale\u201d: letture critiche nella baracca 15c, con una nota di Sandra Bonsanti",
+            "year": 2023,
+            "journal": "ANTOLOGIA VIEUSSEUX",
+            "volume": 85,
+            "keywords": [
+                "Carlo Emilio Gadda",
+                "La passeggiata autunnale",
+                "Alessandro Bonsanti",
+                "Letteratura italiana",
+                "Letteratura italiana contemporanea",
+                "Prima guerra mondiale",
+                "Giornale di guerra e di prigionia"
+            ],
+            "url": "https://www.vieusseux.it/books/antologia-vieusseux-n-85-gennaio-aprile-2023/",
+            "pages": "73-90"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Per una critica delle varianti digitale",
+            "year": 2023,
+            "keywords": [
+                "Philology",
+                "Gianfranco Contini",
+                "Critica delle varianti",
+                "Critica genetica",
+                "Authorial Philology",
+                "Alessandro Manzoni",
+                "Digital Philology"
+            ],
+            "url": "http://www.fedoabooks.unina.it/index.php/fedoapress/catalog/view/527/553/2669",
+            "pages": "41-57"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Rec. a Viola Ottino, Alberto Carocci e \u201cNuovi Argomenti\u201d. La nascita di una rivista attraverso carteggi inediti, Roma, Carocci, 2023 (\u201cLingue e Letterature\u201d)",
+            "year": 2023,
+            "keywords": [
+                "Letteratura Italiana",
+                "Letteratura Italiana Moderna e Contemporanea",
+                "Alessandro Bonsanti",
+                "Nuovi Argomenti",
+                "Alberto Carocci",
+                "Alberto Moravia"
+            ],
+            "url": "https://www.vieusseux.it/uploads/antologia/N85/ANT-85-10-LettIt.pdf",
+            "pages": "117-125"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Paola Maria Carmela Italia"
+            ],
+            "title": "Un'ulteriore voce di \u201cNuova Enciclopedia\u201d: \u201cAntropocrazia\u201d",
+            "year": 2023,
+            "keywords": [
+                "Alberto Savinio",
+                "Nuova Enciclopedia",
+                "Letteratura Italiana moderna e Contemporanea",
+                "Authorial Philology",
+                "Italian Philology"
+            ],
+            "url": "https://mucchieditore.it/prodotto/la-vita-e-segno-gino-ruozzi/",
+            "pages": "375-386"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Monica Palmirani",
+                "Chantal Bomprezzi"
+            ],
+            "title": "Blockchain e smart contract",
+            "year": 2023,
+            "keywords": [
+                "Blockchain",
+                "smart contract",
+                "smart city"
+            ],
+            "pages": "275-298"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Maximilian Gartner",
+                "Dino Girardi",
+                "Monica Palmirani"
+            ],
+            "title": "Clustering commercial obstacles in the European Data Legislation",
+            "year": 2023,
+            "journal": "JUSLETTER IT",
+            "keywords": [
+                "Digital Governance Act",
+                "General Data Protection Regulation",
+                "Digital Service Act",
+                "Data Act"
+            ],
+            "doi": "10.38023/f17f1598-a9ca-47ef-be7d-e79e2afae036",
+            "pages": "257-268",
+            "number": "30-maerz-2023"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Monica Palmirani",
+                "Chiara Catizone",
+                "Giulia Venditti",
+                "Salvatore Sapienza"
+            ],
+            "title": "Multilevel Hate Speech Classification Based on Multilingual Case-Law",
+            "year": 2023,
+            "keywords": [
+                "Hate Speech",
+                "Classification AI",
+                "Natural Language Processing",
+                "hate speech",
+                "legal concepts"
+            ],
+            "url": "https://ebooks.iospress.nl/doi/10.3233/FAIA230981",
+            "doi": "10.3233/FAIA230981",
+            "pages": "317-322"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Monica Palmirani",
+                "Michela Rossi",
+                "Salvatore Sapienza"
+            ],
+            "title": "Profili privacy tra archiviazione nel pubblico interesse e ricerca storica: il progetto DARE",
+            "year": 2023,
+            "keywords": [
+                "Dati Personali",
+                "Ricerca Storica",
+                "Archiviazione",
+                "Pubblico Interesse"
+            ],
+            "url": "https://www.civita.net/prodotto/personal-digital-memories-i-fondi-di-persona-dallanalogico-al-digitale/",
+            "pages": "155-172"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Mirko Zichichi",
+                "Chantal Bomprezzi",
+                "Giovanni Sorrentino",
+                "Monica Palmirani"
+            ],
+            "title": "Protecting digital identity in the Metaverse: the case of access to a cinema in Decentraland",
+            "year": 2023,
+            "volume": 3460,
+            "keywords": [
+                "Blockchain",
+                "Metaverse",
+                "Digital identity"
+            ],
+            "url": "https://ceur-ws.org/Vol-3460/",
+            "pages": "1-12"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Erika Alves dos Santos",
+                "Silvio Peroni",
+                "Marcos Luiz Mucheroni"
+            ],
+            "title": "An analysis of citing and referencing habits across all scholarly disciplines: approaches and trends in bibliographic referencing and citing practices",
+            "year": 2023,
+            "journal": "JOURNAL OF DOCUMENTATION",
+            "volume": 79,
+            "keywords": [
+                "Bibliographic references",
+                "In-text reference pointers",
+                "Information representation",
+                "Bibliographic metadata",
+                "FRBR",
+                "Reference styles"
+            ],
+            "url": "https://www.emerald.com/insight/content/doi/10.1108/JD-10-2022-0234/full/html",
+            "doi": "10.1108/JD-10-2022-0234",
+            "pages": "196-224",
+            "number": 7
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Maribel Acosta",
+                "Silvio Peroni",
+                "Sahar Vahdati",
+                "Anna Lisa Gentile",
+                "Tassilo Pellegrini",
+                "Jan-Christoph Kalo"
+            ],
+            "title": "Knowledge Graphs: Semantics, Machine Learning, and Languages",
+            "year": 2023,
+            "volume": 56,
+            "keywords": [
+                "semantics",
+                "knowledge graphs",
+                "large language models"
+            ],
+            "url": "https://www.iospress.com/catalog/books/knowledge-graphs-semantics-machine-learning-and-languages",
+            "doi": "10.3233/SSW56",
+            "pages": "1-262"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Ivan Heibi",
+                "Arianna Moretti",
+                "Silvio Peroni"
+            ],
+            "title": "OpenCitations Index",
+            "year": 2023,
+            "keywords": [
+                "open citations",
+                "open bibliographic metadata",
+                "cc0",
+                "linked open data"
+            ],
+            "url": "https://opencitations.net/index"
+        },
+        {
+            "type": "misc",
+            "author": [
+                "Arcangelo Massari",
+                "Silvio Peroni"
+            ],
+            "title": "OpenCitations Meta",
+            "year": 2023,
+            "keywords": [
+                "open citations",
+                "open bibliographic metadata",
+                "cc0",
+                "linked open data"
+            ],
+            "url": "https://opencitations.net/meta"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Bianca Gualandi",
+                "Silvio Peroni"
+            ],
+            "title": "Producing FAIR research data within a NRRP project: PE5 Changes - Spoke 4",
+            "year": 2023,
+            "keywords": [
+                "research data management",
+                "cultural heritage data",
+                "museums",
+                "art collections",
+                "data management plan"
+            ],
+            "url": "https://doi.org/10.5281/zenodo.7974540",
+            "doi": "10.5281/zenodo.7974540"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Erika Alves dos Santos",
+                "Silvio Peroni",
+                "Marcos Luiz Mucheroni"
+            ],
+            "title": "Referencing behaviours across disciplines: publication types and common metadata for defining bibliographic references",
+            "year": 2023,
+            "journal": "INTERNATIONAL JOURNAL ON DIGITAL LIBRARIES",
+            "volume": "27 March 2023",
+            "keywords": [
+                "Bibliographic references",
+                "Citations",
+                "Publication metadata",
+                "Publication types",
+                "Citation behaviours"
+            ],
+            "url": "https://link.springer.com/article/10.1007/s00799-023-00351-8",
+            "doi": "10.1007/s00799-023-00351-8",
+            "pages": "1-13",
+            "number": 3
+        },
+        {
+            "type": "article",
+            "author": [
+                "Gloria Gagliardi",
+                "Fabio Tamburini",
+                "Milvia Innocenti"
+            ],
+            "title": "Can speech-based measures support Developmental Language Disorder identification? An explorative study.",
+            "year": 2023,
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "volume": "anno LII",
+            "keywords": [
+                "Developmental Language Disorder",
+                "Italian preschoolers",
+                "speech analysis",
+                "Natural Language Processing techniques",
+                "digital linguistic biomarker"
+            ],
+            "pages": "383-401",
+            "number": 2
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Fabio Tamburini"
+            ],
+            "title": "Decipherment of Lost Ancient Scripts as Combinatorial Optimisation using Coupled Simulated Annealing",
+            "year": 2023,
+            "keywords": [
+                "ancient script decipherment",
+                "k-permutation",
+                "coupled simulated annealing"
+            ],
+            "url": "https://aclanthology.org/2023.cawl-1.10/",
+            "doi": "10.18653/v1/2023.cawl-1.10",
+            "pages": "82-91"
+        },
+        {
+            "type": "inbook",
+            "author": [
+                "Fabio Tamburini"
+            ],
+            "title": "Il ruolo del linguista nel trattamento automatico delle lingue.",
+            "year": 2023,
+            "keywords": [
+                "Computational Linguistics",
+                "machine learning",
+                "corpora",
+                "linguista"
+            ],
+            "pages": "73-91"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Remo Grillo",
+                "Caterina Morelli",
+                "Vincenzo Rubano",
+                "Fabio Vitali"
+            ],
+            "title": "A methodology for enhancing the accessibility of scientific museum's collections",
+            "year": 2023,
+            "keywords": [
+                "Citizen Curation Artificial",
+                "Intelligence for Cultural Engagement",
+                "Augmented Reality for Cultural Engagement",
+                "Virtual Reality for Cultural Engagement",
+                "Data Infrastructures and curation for Cultural Engagement",
+                "Digital Technologies and inclusion in cultural heritage"
+            ],
+            "url": "https://spice-h2020.eu/conference/",
+            "doi": "10.5281/zenodo.7973646",
+            "pages": "1-4"
+        },
+        {
+            "type": "article",
+            "author": [
+                "Francesco Sovrano",
+                "Fabio Vitali"
+            ],
+            "title": "An objective metric for Explainable AI: How and why to estimate the degree of explainability",
+            "year": 2023,
+            "journal": "KNOWLEDGE-BASED SYSTEMS",
+            "volume": 278,
+            "keywords": [
+                "Degree of explainability; Objective explainability metric; Explainable AI; Theory of explanations"
+            ],
+            "doi": "10.1016/j.knosys.2023.110866",
+            "pages": "1-23"
+        },
+        {
+            "type": "conference",
+            "author": [
+                "Francesco Sovrano",
+                "Fabio Vitali"
+            ],
+            "title": "Perlocution vs Illocution: How Different Interpretations of the Act of Explaining Impact on the Evaluation of Explanations and XAI",
+            "year": 2023,
+            "volume": 1901,
+            "keywords": [
+                "Theories of explanation",
+                "Speech act theory",
+                "Evaluation of explanations",
+                "Explanations in law"
+            ],
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-44064-9_2",
+            "doi": "10.1007/978-3-031-44064-9_2",
+            "pages": "25-47"
+        }
+    ]
+}
