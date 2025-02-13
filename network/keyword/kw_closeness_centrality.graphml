@@ -1,132 +1,132 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="centrality" attr.type="double"/>
-<graph edgedefault="undirected"><node id="Frame Semantics">
-  <data key="d0">0.3925233644859813</data>
+<graph edgedefault="undirected"><node id="Rdf">
+  <data key="d0">0.39622641509433965</data>
 </node>
-<node id="Cultural Heritage">
-  <data key="d0">0.42857142857142855</data>
-</node>
-<node id="Bibliometrics">
-  <data key="d0">0.3620689655172414</data>
-</node>
-<node id="Machine Learning">
-  <data key="d0">0.5185185185185185</data>
-</node>
-<node id="Ontologies">
-  <data key="d0">0.5526315789473685</data>
-</node>
-<node id="Alessandro Manzoni">
-  <data key="d0">0.42424242424242425</data>
-</node>
-<node id="Computer Networks And Communications">
-  <data key="d0">0.40384615384615385</data>
-</node>
-<node id="Visualization">
-  <data key="d0">0.34146341463414637</data>
-</node>
-<node id="Semantics">
-  <data key="d0">0.4</data>
-</node>
-<node id="Information Systems">
-  <data key="d0">0.3181818181818182</data>
-</node>
-<node id="Carlo Emilio Gadda">
-  <data key="d0">0.31343283582089554</data>
-</node>
-<node id="Giacomo Leopardi">
-  <data key="d0">0.42</data>
-</node>
-<node id="Gdpr">
-  <data key="d0">0.4</data>
-</node>
-<node id="Ontology Design Patterns">
-  <data key="d0">0.3783783783783784</data>
-</node>
-<node id="Akoma Ntoso">
+<node id="Vittorio Alfieri">
   <data key="d0">0.4158415841584158</data>
-</node>
-<node id="Italian Philology">
-  <data key="d0">0.42</data>
-</node>
-<node id="Semantic Web">
-  <data key="d0">0.5833333333333334</data>
 </node>
 <node id="Computer Science Applications">
   <data key="d0">0.4077669902912621</data>
 </node>
-<node id="Knowledge Graph">
-  <data key="d0">0.4329896907216495</data>
-</node>
-<node id="Big Data">
-  <data key="d0">0.35</data>
-</node>
-<node id="Dante">
-  <data key="d0">0.2485207100591716</data>
-</node>
-<node id="Philology">
-  <data key="d0">0.42857142857142855</data>
-</node>
-<node id="Linked Open Data">
-  <data key="d0">0.525</data>
-</node>
-<node id="Microservices">
-  <data key="d0">0.2937062937062937</data>
-</node>
-<node id="Critica Delle Varianti">
-  <data key="d0">0.3442622950819672</data>
-</node>
-<node id="Manzoni">
-  <data key="d0">0.328125</data>
-</node>
-<node id="Artificial Intelligence">
-  <data key="d0">0.5185185185185185</data>
-</node>
-<node id="Legal Design">
-  <data key="d0">0.4117647058823529</data>
-</node>
 <node id="Archives">
   <data key="d0">0.5753424657534246</data>
 </node>
-<node id="Open Citations">
-  <data key="d0">0.40384615384615385</data>
-</node>
-<node id="Semantic Publishing">
-  <data key="d0">0.4158415841584158</data>
-</node>
-<node id="Linked Data">
-  <data key="d0">0.4117647058823529</data>
-</node>
-<node id="Benedetto Varchi">
-  <data key="d0">0.4117647058823529</data>
-</node>
-<node id="Software Engineering">
-  <data key="d0">0.4117647058823529</data>
-</node>
-<node id="Deep Learning">
-  <data key="d0">0.3652173913043478</data>
-</node>
-<node id="Rdf">
-  <data key="d0">0.39622641509433965</data>
-</node>
-<node id="Natural Language Processing">
-  <data key="d0">0.44680851063829785</data>
-</node>
-<node id="Authorial Philology">
-  <data key="d0">0.4329896907216495</data>
-</node>
-<node id="Vincenzo Monti">
-  <data key="d0">0.4158415841584158</data>
-</node>
-<node id="Francesco Petrarca">
-  <data key="d0">0.4158415841584158</data>
-</node>
-<node id="Pietro Verri">
-  <data key="d0">0.4158415841584158</data>
+<node id="Ontologies">
+  <data key="d0">0.5526315789473685</data>
 </node>
 <node id="Computer Vision And Pattern Recognition">
   <data key="d0">0.4077669902912621</data>
 </node>
-<node id="Vittorio Alfieri">
+<node id="Giacomo Leopardi">
+  <data key="d0">0.42</data>
+</node>
+<node id="Linked Open Data">
+  <data key="d0">0.525</data>
+</node>
+<node id="Information Systems">
+  <data key="d0">0.3181818181818182</data>
+</node>
+<node id="Vincenzo Monti">
   <data key="d0">0.4158415841584158</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">0.3652173913043478</data>
+</node>
+<node id="Computer Networks And Communications">
+  <data key="d0">0.40384615384615385</data>
+</node>
+<node id="Legal Design">
+  <data key="d0">0.4117647058823529</data>
+</node>
+<node id="Knowledge Graph">
+  <data key="d0">0.4329896907216495</data>
+</node>
+<node id="Critica Delle Varianti">
+  <data key="d0">0.3442622950819672</data>
+</node>
+<node id="Visualization">
+  <data key="d0">0.34146341463414637</data>
+</node>
+<node id="Alessandro Manzoni">
+  <data key="d0">0.42424242424242425</data>
+</node>
+<node id="Gdpr">
+  <data key="d0">0.4</data>
+</node>
+<node id="Big Data">
+  <data key="d0">0.35</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">0.5185185185185185</data>
+</node>
+<node id="Ontology Design Patterns">
+  <data key="d0">0.3783783783783784</data>
+</node>
+<node id="Frame Semantics">
+  <data key="d0">0.3925233644859813</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">0.5185185185185185</data>
+</node>
+<node id="Manzoni">
+  <data key="d0">0.328125</data>
+</node>
+<node id="Dante">
+  <data key="d0">0.2485207100591716</data>
+</node>
+<node id="Semantic Web">
+  <data key="d0">0.5833333333333334</data>
+</node>
+<node id="Benedetto Varchi">
+  <data key="d0">0.4117647058823529</data>
+</node>
+<node id="Microservices">
+  <data key="d0">0.2937062937062937</data>
+</node>
+<node id="Francesco Petrarca">
+  <data key="d0">0.4158415841584158</data>
+</node>
+<node id="Cultural Heritage">
+  <data key="d0">0.42857142857142855</data>
+</node>
+<node id="Semantics">
+  <data key="d0">0.4</data>
+</node>
+<node id="Authorial Philology">
+  <data key="d0">0.4329896907216495</data>
+</node>
+<node id="Philology">
+  <data key="d0">0.42857142857142855</data>
+</node>
+<node id="Akoma Ntoso">
+  <data key="d0">0.4158415841584158</data>
+</node>
+<node id="Semantic Publishing">
+  <data key="d0">0.4158415841584158</data>
+</node>
+<node id="Software Engineering">
+  <data key="d0">0.4117647058823529</data>
+</node>
+<node id="Linked Data">
+  <data key="d0">0.4117647058823529</data>
+</node>
+<node id="Pietro Verri">
+  <data key="d0">0.4158415841584158</data>
+</node>
+<node id="Bibliometrics">
+  <data key="d0">0.3620689655172414</data>
+</node>
+<node id="Open Citations">
+  <data key="d0">0.40384615384615385</data>
+</node>
+<node id="Natural Language Processing">
+  <data key="d0">0.44680851063829785</data>
+</node>
+<node id="Italian Philology">
+  <data key="d0">0.42</data>
+</node>
+<node id="Carlo Emilio Gadda">
+  <data key="d0">0.31343283582089554</data>
 </node>
 </graph></graphml>
