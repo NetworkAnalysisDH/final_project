@@ -78,8 +78,11 @@ def create_cooccurrence_network(data):
         # Add nodes for each keyword (nodes are unique keywords)
         for keyword in keywords:
             if keyword not in graph:
-                graph.add_node(keyword)
-                #print(f"Added node: {keyword}")  # Debug: print when a new node is added
+                graph.add_node(keyword, type="keyword")  # Adding 'type' as "keyword"
+        
+        # Add the article as a node with 'type' as "article"
+        if article_id not in graph:
+            graph.add_node(article_id, type="article")  # Adding 'type' as "article"
         
         # Add edges between keywords based on the article they appear in
         for keyword1 in keywords:
@@ -121,17 +124,6 @@ def export_adjacency_matrix(G, output_path):
     adjacency_matrix.to_csv(output_path, index=True)
     print(f"Adjacency matrix exported to: {output_path}")
 
-# Function to visualize the graph with NetworkX and Matplotlib
-def visualize_network(G):
-    plt.figure(figsize=(12, 12))  # Set the figure size
-    pos = nx.spring_layout(G, seed=42)  # Graph layout (spring layout)
-    nx.draw_networkx_nodes(G, pos, node_size=500, node_color='skyblue')  # Nodes
-    nx.draw_networkx_edges(G, pos, width=1.0, alpha=0.7, edge_color='gray')  # Edges
-    nx.draw_networkx_labels(G, pos, font_size=10, font_color='black')  # Labels
-    plt.title("Keyword Co-occurrence Network Visualization")
-    plt.axis('off')  # Hide axes
-    plt.show()
-
 # Network analysis metrics calculation
 def analyze_network(G):
     print("Average degree:", sum(dict(G.degree()).values()) / G.number_of_nodes())
@@ -154,12 +146,6 @@ def analyze_network(G):
     closeness_centrality = nx.closeness_centrality(G)
     print("\nTop 10 nodes by closeness centrality:")
     for node, centrality_score in sorted(closeness_centrality.items(), key=lambda x: -x[1])[:10]:
-        print(f"{node}: {centrality_score:.4f}")
-
-    # Eigenvector centrality
-    eigenvector_centrality = nx.eigenvector_centrality(G)
-    print("\nTop 10 nodes by eigenvector centrality:")
-    for node, centrality_score in sorted(eigenvector_centrality.items(), key=lambda x: -x[1])[:10]:
         print(f"{node}: {centrality_score:.4f}")
 
     # Modularity
@@ -198,15 +184,6 @@ def analyze_network(G):
     clustering_coefficient = nx.average_clustering(G)
     print(f"Average clustering coefficient: {clustering_coefficient:.4f}")
 
-    # Assortativity
-    assortativity = nx.degree_assortativity_coefficient(G)
-    print(f"Assortativity: {assortativity:.4f}")
-
-# Export the graph to GraphML format for Gephi
-def export_to_gephi(G, output_path):
-    nx.write_graphml(G, output_path)
-    #print(f"Graph exported to: {output_path}")
-
 # Function to create a DataFrame with network metrics
 def export_analysis_to_pandas(G):
     # Check if the graph is connected
@@ -218,7 +195,6 @@ def export_analysis_to_pandas(G):
     degree_centrality = nx.degree_centrality(G)
     betweenness_centrality = nx.betweenness_centrality(G)
     closeness_centrality = nx.closeness_centrality(G)
-    eigenvector_centrality = nx.eigenvector_centrality(G)
     clustering_coefficients = nx.clustering(G)
 
     # Community detection and modularity
@@ -240,7 +216,6 @@ def export_analysis_to_pandas(G):
         "Degree Centrality": [degree_centrality[node] for node in nodes],
         "Betweenness Centrality": [betweenness_centrality[node] for node in nodes],
         "Closeness Centrality": [closeness_centrality[node] for node in nodes],
-        "Eigenvector Centrality": [eigenvector_centrality[node] for node in nodes],
         "Clustering Coefficient": [clustering_coefficients[node] for node in nodes],
     }
 
@@ -255,7 +230,6 @@ def export_analysis_to_pandas(G):
         "Average Clustering Coefficient": nx.average_clustering(G),
         "Number of Connected Components": len(list(nx.connected_components(G))),
         "Is Connected": is_connected,
-        "Assortativity": nx.degree_assortativity_coefficient(G),
         "Modularity": modularity,
         "Total Number of Communities": num_communities,
     }
@@ -284,13 +258,10 @@ if __name__ == "__main__":
 
     # Create the graph
     graph = create_cooccurrence_network(data)
+    partition = community_louvain.best_partition(graph)
 
     # Analyze the graph
     analyze_network(graph)
-
-    # Export for Gephi
-    output_file = os.path.abspath("network/keyword/keyword_cooccurrence_general.graphml")
-    export_to_gephi(graph, output_file)
 
     # Export network analysis results as DataFrames
     node_df, global_metrics_df = export_analysis_to_pandas(graph)
@@ -314,11 +285,10 @@ if __name__ == "__main__":
     # Export the adjacency matrix
     adjacency_matrix_output_path = os.path.join(output_dir, '..', 'report', 'keyword', "kw_adjacency_matrix_general.csv")
     adjacency_matrix.to_csv(adjacency_matrix_output_path, index=True)
+    # save the adjacency matrix to a CSV file
+    adjacency_matrix_output_path = os.path.join(output_dir, '..', 'report', 'keyword', "kw_adjacency_matrix_general.csv")
+    export_adjacency_matrix(graph, adjacency_matrix_output_path)
 
     # Export for GML format
     output_file_gml = os.path.abspath("network/keyword/keyword_cooccurrence_general.gml")
     export_to_gml(graph, output_file_gml)
-
-    # save the adjacency matrix to a CSV file
-    adjacency_matrix_output_path = os.path.join(output_dir, '..', 'report', 'keyword', "kw_adjacency_matrix_general.csv")
-    export_adjacency_matrix(graph, adjacency_matrix_output_path)

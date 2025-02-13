@@ -1,2 +1,2 @@
-Network Density,Number of Nodes,Number of Edges,Average Clustering Coefficient,Number of Connected Components,Is Connected,Assortativity,Modularity,Total Number of Communities
-0.0019204769034471074,2946,8331,0.5522993240146791,117,False,0.008368158494662782,0.8481735143805877,142
+Network Density,Number of Nodes,Number of Edges,Average Clustering Coefficient,Number of Connected Components,Is Connected,Modularity,Total Number of Communities
+0.0019113812878731565,2953,8331,0.5509901146451895,124,False,0.84960070777172,150

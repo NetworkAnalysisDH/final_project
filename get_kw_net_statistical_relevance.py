@@ -9,6 +9,7 @@ from community import community_louvain
 
 # Relative path to the JSON file
 base_path = os.path.dirname(os.path.abspath(__file__)) 
+print(f"Output folder: {base_path}")
 file_path = os.path.join(base_path, "data", "publications.json")
 
 def load_publications(file_path):
@@ -107,19 +108,35 @@ def analyze_network(G):
     print("\nTop 10 nodes by closeness centrality:")
     for node, centrality_score in sorted(closeness_centrality.items(), key=lambda x: -x[1])[:10]:
         print(f"{node}: {centrality_score:.4f}")
-    eigenvector_centrality = nx.eigenvector_centrality(G)
-    print("\nTop 10 nodes by eigenvector centrality:")
-    for node, centrality_score in sorted(eigenvector_centrality.items(), key=lambda x: -x[1])[:10]:
-        print(f"{node}: {centrality_score:.4f}")
     print("\n--- Community Detection ---")
     partition = community_louvain.best_partition(G)
     modularity = community_louvain.modularity(partition, G)
     print(f"Modularity: {modularity:.4f}")
     clusters = defaultdict(list)
+
     for node, cluster_id in partition.items():
         clusters[cluster_id].append(node)
+        print("Partition:", partition)
+        print("Clusters:", clusters)
     num_communities = len(clusters)
     print(f"Total number of communities: {num_communities}")
+
+    # Create subgraphs for each community
+    output_folder = os.path.abspath(os.path.join(base_path, 'network', 'keyword', 'community_graphs'))
+    print(f"Output folder: {output_folder}")
+    os.makedirs(output_folder, exist_ok=True)
+
+    for community_id, nodes in clusters.items():
+        subgraph = G.subgraph(nodes).copy()  # Create a subgraph for each community
+        print(f"\nSubgraph for Community {community_id} - Number of nodes: {len(subgraph.nodes)}")
+        
+        try:
+            nx.write_gml(subgraph, os.path.join(output_folder, f"community_{community_id}.gml"))
+            print(f"GML file saved for community {community_id}")
+        except Exception as e:
+            print(f"Error saving GML for community {community_id}: {e}")
+        
+
     print("\n--- Cohesion and Structure ---")
     if nx.is_connected(G):
         diameter = nx.diameter(G)
@@ -132,11 +149,9 @@ def analyze_network(G):
     print(f"Number of connected components: {len(connected_components)}")
     clustering_coefficient = nx.average_clustering(G)
     print(f"Average clustering coefficient: {clustering_coefficient:.4f}")
-    assortativity = nx.degree_assortativity_coefficient(G)
-    print(f"Assortativity: {assortativity:.4f}")
 
 def export_to_gephi(G, output_path):
-    nx.write_graphml(G, output_path)
+    nx.write_gml(G, output_path)
 
 def export_analysis_to_pandas(G):
     is_connected = nx.is_connected(G)
@@ -145,7 +160,6 @@ def export_analysis_to_pandas(G):
     degree_centrality = nx.degree_centrality(G)
     betweenness_centrality = nx.betweenness_centrality(G)
     closeness_centrality = nx.closeness_centrality(G)
-    eigenvector_centrality = nx.eigenvector_centrality(G)
     clustering_coefficients = nx.clustering(G)
     partition = community_louvain.best_partition(G)
     modularity = community_louvain.modularity(partition, G)
@@ -159,7 +173,6 @@ def export_analysis_to_pandas(G):
         "Degree Centrality": [degree_centrality[node] for node in nodes],
         "Betweenness Centrality": [betweenness_centrality[node] for node in nodes],
         "Closeness Centrality": [closeness_centrality[node] for node in nodes],
-        "Eigenvector Centrality": [eigenvector_centrality[node] for node in nodes],
         "Clustering Coefficient": [clustering_coefficients[node] for node in nodes],
     }
     node_df = pd.DataFrame(data)
@@ -170,7 +183,6 @@ def export_analysis_to_pandas(G):
         "Average Clustering Coefficient": nx.average_clustering(G),
         "Number of Connected Components": len(list(nx.connected_components(G))),
         "Is Connected": is_connected,
-        "Assortativity": nx.degree_assortativity_coefficient(G),
         "Modularity": modularity,
         "Total Number of Communities": num_communities,
     }
@@ -194,7 +206,7 @@ if __name__ == "__main__":
     filtered_graph = filter_graph_by_degree_centrality(graph)
     analyze_network(filtered_graph)
     
-    # Creating separate graphs for each measure and exporting to .graphml
+    # Creating separate graphs for each measure and exporting
     output_folder = os.path.join(base_path, "network", "keyword")
     os.makedirs(output_folder, exist_ok=True)
     
@@ -203,28 +215,21 @@ if __name__ == "__main__":
     degree_centrality = nx.degree_centrality(filtered_graph)
     for node, centrality in degree_centrality.items():
         degree_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(degree_centrality_graph, os.path.join(output_folder, "kw_degree_centrality.graphml"))
+    nx.write_gml(degree_centrality_graph, os.path.join(output_folder, "kw_degree_centrality.gml"))
     
     # Betweenness Centrality Graph
     betweenness_centrality_graph = nx.Graph()
     betweenness_centrality = nx.betweenness_centrality(filtered_graph)
     for node, centrality in betweenness_centrality.items():
         betweenness_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(betweenness_centrality_graph, os.path.join(output_folder, "kw_betweenness_centrality.graphml"))
+    nx.write_gml(betweenness_centrality_graph, os.path.join(output_folder, "kw_betweenness_centrality.gml"))
     
     # Closeness Centrality Graph
     closeness_centrality_graph = nx.Graph()
     closeness_centrality = nx.closeness_centrality(filtered_graph)
     for node, centrality in closeness_centrality.items():
         closeness_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(closeness_centrality_graph, os.path.join(output_folder, "kw_closeness_centrality.graphml"))
-    
-    # Eigenvector Centrality Graph
-    eigenvector_centrality_graph = nx.Graph()
-    eigenvector_centrality = nx.eigenvector_centrality(filtered_graph)
-    for node, centrality in eigenvector_centrality.items():
-        eigenvector_centrality_graph.add_node(node, centrality=centrality)
-    nx.write_graphml(eigenvector_centrality_graph, os.path.join(output_folder, "kw_eigenvector_centrality.graphml"))
+    nx.write_gml(closeness_centrality_graph, os.path.join(output_folder, "kw_closeness_centrality.gml"))
     
     # Exporting CSV reports to the 'report/keyword' folder
     report_folder = os.path.join(base_path, "report", "keyword")
