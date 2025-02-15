@@ -7,12 +7,11 @@ import pandas as pd
 import community as community_louvain
 from collections import defaultdict
 
-# Absolute path to the JSON file
 base_path = os.path.abspath("data")
 file_path = os.path.join(base_path, "publications.json")
+output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 def load_publications(file_path):
-    # Load the JSON file
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     
@@ -33,7 +32,7 @@ def create_cooccurrence_network(data):
     # Create the graph
     graph = nx.Graph()
     excluded_keywords = {"digital humanities", "computer science", "computer science (all)", 
-                         "theoretical computer science", "italian literature", "software"}
+                         "theoretical computer science", "software"}
 
     for index, entry in enumerate(data):
         # Extract the available identifier: DOI, URL, or ISBN
@@ -66,8 +65,6 @@ def create_cooccurrence_network(data):
 
         keywords = ['Italian Literature' if kw.lower() == 'letteratura italiana' else kw for kw in keywords]
         keywords = ['Ontologies' if kw.lower() == 'ontology' else kw for kw in keywords]
-
-
 
         # Exclude unwanted keywords
         keywords = [kw for kw in keywords if kw.lower() not in excluded_keywords]
@@ -126,7 +123,8 @@ def export_adjacency_matrix(G, output_path):
 
 # Network analysis metrics calculation
 def analyze_network(G):
-    print("Average degree:", sum(dict(G.degree()).values()) / G.number_of_nodes())
+    print("\n--- Network Analysis ---")
+    print("\nAverage degree:", sum(dict(G.degree()).values()) / G.number_of_nodes())
 
     # Calculate advanced metrics
     print("\n--- Centrality ---")
@@ -152,7 +150,7 @@ def analyze_network(G):
     print("\n--- Community Detection ---")
     partition = community_louvain.best_partition(G)  # Community detection
     modularity = community_louvain.modularity(partition, G)  # Modularity score
-    print(f"Modularity: {modularity:.4f}")
+    print(f"\nLouvain algorithm detected {len(set(partition.values()))} communities with modularity: {community_louvain.modularity(partition, G):.4f}")
 
     # Group nodes by community
     clusters = defaultdict(list)
@@ -161,7 +159,7 @@ def analyze_network(G):
 
     # Print the total number of communities
     num_communities = len(clusters)
-    print(f"Total number of communities: {num_communities}")
+    print(f"Total number of communities (clusters): {num_communities}")
 
     # Other metrics
     print("\n--- Cohesion and Structure ---")
@@ -231,7 +229,7 @@ def export_analysis_to_pandas(G):
         "Number of Connected Components": len(list(nx.connected_components(G))),
         "Is Connected": is_connected,
         "Modularity": modularity,
-        "Total Number of Communities": num_communities,
+        "Total Number of clusters": num_communities,
     }
 
     # Create a DataFrame for global metrics and append it
@@ -267,28 +265,23 @@ if __name__ == "__main__":
     node_df, global_metrics_df = export_analysis_to_pandas(graph)
 
     # Ensure the 'report' directory exists
-    output_dir = "report"
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    output_path = os.path.join(output_dir, 'report', 'keyword')
+    os.makedirs(output_path, exist_ok=True)
 
     # Save node-level analysis and global metrics to CSV files
-    node_df.to_csv(os.path.join(output_dir, '..', 'report', 'keyword', "kw_node_level_analysis_general.csv"), index=False)
-    global_metrics_df.to_csv(os.path.join(output_dir, '..', 'report', 'keyword', "kw_global_metrics_general.csv"), index=False)
+    node_df.to_csv(os.path.join(output_path, "kw_node_level_analysis_general.csv"), index=False)
+    global_metrics_df.to_csv(os.path.join(output_path, "kw_global_metrics_general.csv"), index=False)
 
     # Convert the graph to an adjacency matrix
-    adjacency_matrix = nx.to_pandas_adjacency(graph)
-
-    # Ensure the 'report' directory exists before saving the adjacency matrix
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    #adjacency_matrix = nx.to_pandas_adjacency(graph)
 
     # Export the adjacency matrix
-    adjacency_matrix_output_path = os.path.join(output_dir, '..', 'report', 'keyword', "kw_adjacency_matrix_general.csv")
-    adjacency_matrix.to_csv(adjacency_matrix_output_path, index=True)
+    #adjacency_matrix_output_path = os.path.join(output_path, "kw_adjacency_matrix_general.csv")
+    #adjacency_matrix.to_csv(adjacency_matrix_output_path, index=True)
     # save the adjacency matrix to a CSV file
-    adjacency_matrix_output_path = os.path.join(output_dir, '..', 'report', 'keyword', "kw_adjacency_matrix_general.csv")
-    export_adjacency_matrix(graph, adjacency_matrix_output_path)
+    #adjacency_matrix_output_path = os.path.join(output_path, "kw_adjacency_matrix_general.csv")
+    #export_adjacency_matrix(graph, adjacency_matrix_output_path)
 
     # Export for GML format
-    output_file_gml = os.path.abspath("network/keyword/keyword_cooccurrence_general.gml")
+    output_file_gml = os.path.abspath(os.path.join(output_dir, "network", "keyword", "keyword_cooccurrence_general.gml"))
     export_to_gml(graph, output_file_gml)
